@@ -86,8 +86,8 @@
   width: 20px;
   height: 23px;
   background-color: #F7D249; /* color dinámico */
-  -webkit-mask: url('public/assets/vim_icon.png') center / contain no-repeat;
-  mask: url('public/assets/vim_icon.png') center / contain no-repeat;
+  -webkit-mask: url('../../assets/images/vim_icon.png') center / contain no-repeat;
+  mask: url('../../assets/images/vim_icon.png') center / contain no-repeat;
   background-size: contain;
   background-repeat: no-repeat;
   display: inline-block;
