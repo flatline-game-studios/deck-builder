@@ -1,0 +1,7 @@
+<div *ngIf="data.Items.length" class="itg-container">
+    <div class="card-grid">
+        <div *ngFor="let card of showCards" class="card-box">
+            <app-card [card]="card"></app-card>
+        </div>
+    </div>
+</div>

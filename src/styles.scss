@@ -1,0 +1,37 @@
+/* You can add global styles to this file, and also import other style files */
+//@import "/node_modules/bootstrap/scss/bootstrap-grid.scss";
+@import 'bootstrap/dist/css/bootstrap-grid.min.css';
+
+@font-face {
+  font-family: 'BlenderPro-Medium';
+  src: url('/public/assets/fonts/BlenderPro-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BlenderPro-BoldItalic';
+  src: url('/public/assets/fonts/BlenderPro-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BlenderPro-Bold';
+  src: url('/public/assets/fonts/BlenderPro-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+    display: block;
+    margin: 0;
+    background: black;
+
+}
+
+
+

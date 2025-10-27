@@ -1,0 +1,18 @@
+.itg-container {
+    display: flex;
+    justify-content: center; // Centra todo el bloque de cartas
+    width: 100%;
+
+    .card-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); // ajustá el tamaño
+        gap: 1rem;
+        justify-content: center; // Centra las columnas en el grid
+        max-width: 100%; // opcional, para limitar el ancho total
+    }
+
+    .card-box {
+        display: flex;
+        justify-content: center;
+    }
+}
