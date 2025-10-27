@@ -1,0 +1,9 @@
+<div class="driver-box d-flex flex-row" *ngIf="driver" >
+    <div>
+        <img [src]=" imageSrc" alt="{{ driver.DriverName }}" class="driver-image"/>
+    </div>
+    <div class="d-flex flex-column driver-info">
+        <div class="driver-name">{{ driver.DriverName }}</div>
+        <div class="driver-description" [innerHTML]="sanitizedDescription"></div>
+    </div>
+</div>

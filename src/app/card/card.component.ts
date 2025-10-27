@@ -6,7 +6,6 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 @Component({
   selector: 'app-card',
   imports: [
-    NgOptimizedImage,
     NgForOf,
     NgIf
   ],

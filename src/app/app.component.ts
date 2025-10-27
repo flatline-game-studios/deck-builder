@@ -5,6 +5,7 @@ import {HttpClient} from '@angular/common/http';
 import {CommonModule} from '@angular/common';
 import * as LZString from 'lz-string';
 import {firstValueFrom} from 'rxjs';
+import {DriverComponent} from './driver/driver.component';
 
 
 export class CardData {
@@ -21,6 +22,15 @@ export class CardData {
   Vim: number = 0;
 }
 
+export class DriverData {
+    DriverName: string = '';
+    Description: string = '';
+    ImagePath: string = '';
+    Code: string = '';
+    Color: string = "";
+}
+
+
 
 class Response<T> {
   Items: Array<T> = [] ;
@@ -34,65 +44,43 @@ class Item {
 
 class Query<T> {
     i: Array<T> = [] ;
+    d: Array<string> = [];
 }
 
 
 @Component({
   selector: 'app-root',
-  imports: [CardComponent, CommonModule],
+    imports: [CardComponent, CommonModule, DriverComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
   title = 'deck-builder';
-  data: Response<CardData> = new Response<CardData>();
+  cards: Response<CardData> = new Response<CardData>();
+  drivers: Response<DriverData> = new Response<DriverData>();
   showCards : Array<CardData> = [];
+  showDrivers : Array<DriverData> = [];
   constructor(private http: HttpClient, private route: ActivatedRoute, private router: Router) {
 
   }
 
   public async ngOnInit() {
 
-      // this.setDataInQuery({
-      //     "i": [
-      //         {
-      //             "c": "AFTERSHOCK_UPGRADED",
-      //             "a": 3
-      //         },
-      //
-      //         {
-      //             "c": "CODESLASH",
-      //             "a": 3
-      //         }
-      //     ]
-      // });
 
-      await this.loadData();
+      await Promise.all([this.LoadCards(), this.LoadDrivers()]);
 
       this.route.queryParams.subscribe(params => {
-          console.log('query params (subscribe):', params);
-           const myParam = params['d'];
-           console.log(myParam);
-          const a = this.decodeFromQuery(myParam);
-
-            console.log('decoded from query (subscribe):', a);
-
-          this.ParseCards(a)
-
+          const myParam = params['d'];
+          const query = this.decodeFromQuery(myParam);
+          this.ParseData(query)
       });
 
-      // const q = this.route.snapshot.queryParamMap.get('d');
-      // const data = this.decodeFromQuery(q);
-      // console.log('decoded from query:', data);
-
-
-      // console.log("llego", this.data);
   }
 
-    public ParseCards(elements: Query<Item>): void {
-        this.showCards = [];
+    public ParseData(elements: Query<Item>): void {
+
         elements.i.forEach( (item) => {
-            const card = this.data.Items.find( c => c.Code === item.c);
+            const card = this.cards.Items.find(c => c.Code === item.c);
 
             for (let i = 0; i < item.a; i++) {
                 if (card) {
@@ -100,13 +88,35 @@ export class AppComponent {
                 }
             }
         });
+
+        elements.d.forEach( (item) => {
+            console.log('Driver code', item);
+            const driver = this.drivers.Items.find(c => c.Code === item);
+
+                if (driver) {
+                    this.showDrivers.push(driver);
+                }
+
+        });
+
+        console.log(this.showDrivers)
     }
 
 
-    public async loadData(): Promise<void> {
+    public async LoadCards(): Promise<void> {
         try {
-            this.data = await firstValueFrom(
+            this.cards = await firstValueFrom(
                 this.http.get<Response<CardData>>('public/assets/output/cards_metadata.json')
+            );
+        } catch (err) {
+            console.error('HTTP error', err);
+        }
+    }
+
+    private async LoadDrivers() {
+        try {
+            this.drivers = await firstValueFrom(
+                this.http.get<Response<DriverData>>('public/assets/output/drivers_metadata.json')
             );
         } catch (err) {
             console.error('HTTP error', err);
@@ -122,7 +132,7 @@ export class AppComponent {
     // Convierte la cadena de query -> objeto (o null si no se puede)
     public decodeFromQuery(q?: string | null): Query<Item> {
         if (!q) {
-            return { i: [] };
+            return { i: [], d: [] };
         }
         const decompressed = LZString.decompressFromEncodedURIComponent(q);
         return decompressed ? JSON.parse(decompressed) : null;
@@ -135,4 +145,6 @@ export class AppComponent {
             queryParamsHandling: 'merge'
         });
     }
+
+
 }
