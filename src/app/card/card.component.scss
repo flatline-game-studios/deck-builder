@@ -1,142 +1,169 @@
 /* src/app/card/card.component.scss */
 
 .itg-card {
-  height: 480px;
-  width: 320px;
-  background-color: #171319;
-  //margin: 15px;
-  border-radius: 10px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  font-family: 'BlenderPro-Medium', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    height: 480px;
+    width: 320px;
+    background-color: #171319;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'BlenderPro-Medium', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    transition: transform 1000ms cubic-bezier(0.22, 1, 0.36, 1), box-shadow 260ms cubic-bezier(0.22, 1, 0.36, 1);
+    will-change: transform, box-shadow;
+    transform-origin: center;
+    transform: translateZ(0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+
+    &:hover {
+        box-shadow: 0 0 15px var(--itg-accent, #ff0000);
+        transform: scale(1.02);
+        cursor: pointer;
+    }
 }
 
 .itg-card-border {
-  height: 96%;
-  width: 92%;
-  border: 5px solid var(--itg-accent, #ff0000);
-  border-radius: 10px;
+    height: 96%;
+    width: 94%;
+    border: 5px solid var(--itg-accent, #ff0000);
+    border-radius: 10px;
 }
 
 .itg-card-image {
-  height: 240px;
-  width: 100%;
-  background-color: #2a2136;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  overflow: hidden;
-  display: block;
+    height: 240px;
+    width: 100%;
+    background-color: #2a2136;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    display: block;
 }
 
 
 .itg-card-middle {
-  height: 40px;
-  width: 100%;
+    height: 40px;
+    width: 100%;
 }
 
 .itg-card-cost-icon {
-  width: 20px;
-  height: 20px;
+    width: 20px;
+    height: 20px;
 }
 
 .itg-card-cost {
-  width: 75px;
-  background-color: #171319;
-  height: 100%;
-  margin-left: -3px;
-  border:  3px solid var(--itg-accent, #ff0000);
-  border-top-right-radius: 5px;
-  border-bottom-right-radius: 5px;
-  font-family: 'BlenderPro-BoldItalic', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 25px;
+    width: 75px;
+    background-color: #171319;
+    height: 100%;
+    margin-left: -3px;
+    border:  3px solid var(--itg-accent, #ff0000);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-family: 'BlenderPro-BoldItalic', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 25px;
 }
 
 .itg-card-title{
-  background-color: var(--itg-accent, #ff0000);
-  margin-top: -5px;
-  margin-left: -2px;
-  height: 36px;
-  width: 100%;
-  padding-left: 10px;
-  font-family: 'BlenderPro-BoldItalic', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 18px;
+    background-color: var(--itg-accent, #ff0000);
+    margin-top: -5px;
+    margin-left: -2px;
+    height: 36px;
+    width: 100%;
+    padding-left: 10px;
+    font-family: 'BlenderPro-BoldItalic', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 18px;
 
 }
 
 .itg-card-type {
-  margin-left: 68px ;
-  color: var(--itg-accent, #ff0000);
+    margin-left: 68px ;
+    color: var(--itg-accent, #ff0000);
 
-  font-weight: bold;
+    font-weight: bold;
 }
 
 .itg-card-vim-container {
-  width: 30px;
-  height: 130px;
-  margin: -3px;
-  border: 3px solid var(--itg-accent, #ff0000);
-  border-radius: 5px;
+    width: 30px;
+    height: 130px;
+    margin: -3px;
+    border: 3px solid var(--itg-accent, #ff0000);
+    border-radius: 5px;
+}
+
+.itg-card-vim-plus {
+    font-size: 25px;
+    font-family: 'BlenderPro-BoldItalic', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 .itg-card-vim-icon {
-  margin-top: 2px;
-  width: 20px;
-  height: 23px;
-  background-color: #F7D249; /* color dinámico */
-  -webkit-mask: url('../../assets/images/vim_icon.png') center / contain no-repeat;
-  mask: url('../../assets/images/vim_icon.png') center / contain no-repeat;
-  background-size: contain;
-  background-repeat: no-repeat;
-  display: inline-block;
+    margin-top: 2px;
+    width: 20px;
+    height: 23px;
+    background-color: #F7D249; /* color dinámico */
+    -webkit-mask: url('../../assets/images/vim_icon.png') center / contain no-repeat;
+    mask: url('../../assets/images/vim_icon.png') center / contain no-repeat;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+    font-family: 'BlenderPro-Bold', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #17141B;
+
+    span {
+        position: relative;
+        top: -1px;
+    }
 }
 
 
 .itg-card-description-container {
-  padding: 15px 5px 5px 10px;
-  width: 100%;
+    padding: 15px 5px 5px 10px;
+    width: 100%;
 }
 
 .itg-card-description-bullet {
-  width: 10px;
-  height: 10px;
+    width: 10px;
+    height: 10px;
 }
 
 .itg-card-description-item {
-  padding-left: 5px;
+    padding-left: 5px;
 }
 
 .itg-card-description-validation {
-  position: relative; /* necesario para posicionar los pseudo-elementos */
-  width: 100%;
-  background-color: #17EBCA;
-  color: #17141B;
+    position: relative; /* necesario para posicionar los pseudo-elementos */
+    width: 100%;
+    background-color: #17EBCA;
+    color: #17141B;
+    font-family: 'BlenderPro-BoldItalic', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 15px;
 
-  .inner {
-    margin: 5px;
-  }
+    .inner {
+        margin: 5px;
+    }
 
-  &::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 0;
-    height: 0;
-    border-top: 10px solid black;
-    border-right: 10px solid transparent;
-  }
+    &::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 0;
+        height: 0;
+        border-top: 10px solid black;
+        border-right: 10px solid transparent;
+    }
 
-  &::after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    width: 0;
-    height: 0;
-    border-bottom: 10px solid black;
-    border-left: 10px solid transparent;
-  }
+    &::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 0;
+        height: 0;
+        border-bottom: 10px solid black;
+        border-left: 10px solid transparent;
+    }
 }
