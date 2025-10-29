@@ -6,6 +6,7 @@ import {CommonModule} from '@angular/common';
 import * as LZString from 'lz-string';
 import {firstValueFrom} from 'rxjs';
 import {DriverComponent} from './driver/driver.component';
+import {CommandComponent} from './command/command.component';
 
 
 export class CardData {
@@ -20,6 +21,7 @@ export class CardData {
   Clock: number = 0;
   Type: string = '';
   Vim: number = 0;
+  IsUpgrade: boolean = false;
 }
 
 export class DriverData {
@@ -28,6 +30,14 @@ export class DriverData {
     ImagePath: string = '';
     Code: string = '';
     Color: string = "";
+}
+
+export class CommandData {
+    CommandName: string = '';
+    Description: string = '';
+    Code: string = '';
+    Cost: number = 0;
+    Tier: string = "";
 }
 
 
@@ -45,37 +55,40 @@ class Item {
 class Query<T> {
     i: Array<T> = [] ;
     d: Array<string> = [];
+    c: Array<string> = [];
 }
 
 
 @Component({
-  selector: 'app-root',
-    imports: [CardComponent, CommonModule, DriverComponent],
-  templateUrl: './app.component.html',
-  styleUrl: './app.component.scss'
+    selector: 'app-root',
+    imports: [CardComponent, CommonModule, DriverComponent, CommandComponent],
+    templateUrl: './app.component.html',
+    styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'deck-builder';
-  cards: Response<CardData> = new Response<CardData>();
-  drivers: Response<DriverData> = new Response<DriverData>();
-  showCards : Array<CardData> = [];
-  showDrivers : Array<DriverData> = [];
-  constructor(private http: HttpClient, private route: ActivatedRoute, private router: Router) {
+    title = 'deck-builder';
+    cards: Response<CardData> = new Response<CardData>();
+    drivers: Response<DriverData> = new Response<DriverData>();
+    commands: Response<CommandData> = new Response<CommandData>();
+    showCards : Array<CardData> = [];
+    showDrivers : Array<DriverData> = [];
+    showCommands: Array<CommandData> = [];
+    constructor(private http: HttpClient, private route: ActivatedRoute, private router: Router) {
 
-  }
+    }
 
-  public async ngOnInit() {
+    public async ngOnInit() {
 
 
-      await Promise.all([this.LoadCards(), this.LoadDrivers()]);
+        await Promise.all([this.LoadCards(), this.LoadDrivers(), this.LoadCommands()]);
 
-      this.route.queryParams.subscribe(params => {
-          const myParam = params['d'];
-          const query = this.decodeFromQuery(myParam);
-          this.ParseData(query)
-      });
+        this.route.queryParams.subscribe(params => {
+            const myParam = params['d'];
+            const query = this.decodeFromQuery(myParam);
+            this.ParseData(query)
+        });
 
-  }
+    }
 
     public ParseData(elements: Query<Item>): void {
 
@@ -90,16 +103,23 @@ export class AppComponent {
         });
 
         elements.d.forEach( (item) => {
-            console.log('Driver code', item);
             const driver = this.drivers.Items.find(c => c.Code === item);
 
-                if (driver) {
-                    this.showDrivers.push(driver);
-                }
+            if (driver) {
+                this.showDrivers.push(driver);
+            }
 
         });
 
-        console.log(this.showDrivers)
+        elements.c.forEach( (item) => {
+            const command = this.commands.Items.find(c => c.Code === item);
+
+            if (command) {
+                this.showCommands.push(command);
+            }
+
+        });
+
     }
 
 
@@ -123,6 +143,16 @@ export class AppComponent {
         }
     }
 
+    private async LoadCommands() {
+        try {
+            this.commands = await firstValueFrom(
+                this.http.get<Response<CommandData>>('public/assets/output/commands_metadata.json')
+            );
+        } catch (err) {
+            console.error('HTTP error', err);
+        }
+    }
+
     // Convierte objeto -> string compacto y comprimido, seguro para query params
     public encodeForQuery(obj: any): string {
         const json = JSON.stringify(obj); // ya viene minificado sin espacios innecesarios
@@ -130,9 +160,10 @@ export class AppComponent {
     }
 
     // Convierte la cadena de query -> objeto (o null si no se puede)
+
     public decodeFromQuery(q?: string | null): Query<Item> {
         if (!q) {
-            return { i: [], d: [] };
+            return { i: [], d: [], c: []  };
         }
         const decompressed = LZString.decompressFromEncodedURIComponent(q);
         return decompressed ? JSON.parse(decompressed) : null;

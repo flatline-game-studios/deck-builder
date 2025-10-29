@@ -1,0 +1,94 @@
+
+.itg-command-container {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0px 10px 0;
+
+
+}
+
+.itg-command {
+    height: 70px;
+    width: 300px;
+    color: #FFD555;
+    //display: flex;
+    //justify-content: flex-end;
+    background-image: url('../../assets/images/command_bg.png');
+    //background-size: contain;
+    background-repeat: repeat;
+    border: 1px solid #FFD555;
+
+    &:hover {
+        cursor: pointer;
+        border: 1px solid #ffc900;
+        box-shadow: 0 0 15px #F7D249;
+        transform: scale(1.02);
+        .itg-command-r {
+            background: #FFC900;
+        }
+    }
+
+}
+
+.inner-command {
+    border: 3px solid transparent; /* necesario para border-image */
+    border-image: linear-gradient(to left, rgba(247,210,73,1), rgba(247,210,73,0)) 1;
+    display: flex;
+    justify-content: flex-end;
+    height: 68px;
+
+
+    &:hover {
+        cursor: pointer;
+        border-image: linear-gradient(to left, rgb(255, 201, 0), rgba(247,210,73,0)) 1;
+    }
+}
+
+//.itg-command-r {
+//    position: relative;
+//    height: 35px;
+//    width: 10px;
+//    top: 10px;
+//    background: #FFD555;
+//}
+//
+//.itg-command-rr {
+//    top: 4px;
+//    position: relative;
+//    height: 49px;
+//    width: 15px;
+//    box-sizing: border-box;
+//    border: 4px solid transparent; /* necesario para border-image */
+//    border-image: linear-gradient(to right, rgba(247,210,73,1), rgba(247,210,73,0)) 1;
+//    transition: border-image 180ms ease;
+//    pointer-events: none;
+//}
+
+
+.command-name {
+    font-family: 'BlenderPro-Bold', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 20px;
+}
+
+.command-tier {
+    font-family: 'BlenderPro-Bold', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #8FA1A4;
+    font-size: 15px;
+}
+
+.command-description {
+    font-family: 'BlenderPro-Bold', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.command-cost {
+    font-family: 'BlenderPro-Bold', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 25px;
+}
+
+.command-vim {
+    font-family: 'BlenderPro-Bold', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 15px;
+}
+

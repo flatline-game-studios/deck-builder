@@ -1,14 +1,53 @@
-<div  class="itg-container">
-    <div class="d-flex flex-grow-1 flex-row card-container flex-wrap" *ngIf="showCards.length">
-        <!--       <div class="card-grid">-->
-        <div *ngFor="let card of showCards" class="card-box">
-            <app-card [card]="card"></app-card>
-        </div>
-        <!--       </div>-->
-    </div>
-    <div class="d-flex flex-column  justify-content-start"  *ngIf="showDrivers.length">
-        <div *ngFor="let driver of showDrivers" class="driver-box">
-            <app-driver [driver]="driver"></app-driver>
+<!-- archivo: src/app/app.component.html -->
+<div class="d-flex flex-column flex-md-row scrollable">
+
+    <!-- izquierda -->
+    <div class="d-flex flex-row card-container flex-grow-1 w-100-below-md">
+        <div class="d-flex flex-grow-1 flex-row flex-wrap justify-content-center" *ngIf="showCards.length">
+            <div *ngFor="let card of showCards" class="card-box">
+                <app-card [card]="card"></app-card>
+            </div>
         </div>
     </div>
+
+    <!-- derecha -->
+    <div class="d-flex flex-column ms-md-3 w-100-below-md" *ngIf="showCommands.length">
+        <div class="d-flex flex-column">
+            <app-command *ngFor="let command of showCommands"   [command]="command"></app-command>
+<!--            <app-command></app-command>-->
+<!--            <app-command></app-command>-->
+        </div>
+
+        <div class="d-flex flex-wrap justify-content-center" *ngIf="showDrivers.length">
+            <div *ngFor="let driver of showDrivers" class="driver-box ">
+                <app-driver [driver]="driver"></app-driver>
+            </div>
+        </div>
+    </div>
+
 </div>
+
+<style lang="scss">
+    /* archivo: src/app/app.component.scss */
+    /* helper: ancho 100% solo por debajo de md */
+    .w-100-below-md {
+        width: 100%;
+    }
+    @media (min-width: 768px) {
+        .w-100-below-md {
+            width: auto;
+        }
+    }
+
+    /* asegurar que el card-container haga overflow correctamente dentro del flex */
+    .card-container {
+        min-height: 0;
+        overflow-y: auto;
+        box-sizing: border-box;
+    }
+
+    /* evita que la columna derecha expanda verticalmente en layout column */
+    .driver-box {
+        margin: 4px;
+    }
+</style>

@@ -26,12 +26,40 @@
   font-display: swap;
 }
 
+/* Firefox */
+html,
 body {
-    display: block;
-    margin: 0;
-    background: black;
-
+    scrollbar-width: thin; /* 'auto' | 'thin' | 'none' */
+    scrollbar-color: #ffd400 transparent; /* thumb color | track color */
+    background-color: #121212;
+    background-image: url('assets/images/Texture_Grid04.png');
+    background-repeat: repeat;
+    background-position: top left;
+    background-size: 20px 20px;
 }
 
+/* WebKit (Chrome, Edge, Safari) */
+*::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
 
+*::-webkit-scrollbar-track {
+    background: transparent; /* minimalista: pista transparente */
+}
 
+*::-webkit-scrollbar-thumb {
+    background-color: #ffd400; /* amarillo */
+    border-radius: 999px; /* forma redondeada */
+    border: 2px solid transparent; /* espacio limpio alrededor */
+    background-clip: padding-box; /* evita que el borde opaque el color */
+    box-shadow: none; /* sin sombras para mantener minimalista */
+}
+
+*::-webkit-scrollbar-thumb:hover {
+    background-color: #ffcc00; /* ligera variación al pasar el ratón */
+}
+
+*::-webkit-scrollbar-corner {
+    background: transparent;
+}

@@ -18,7 +18,6 @@ export class DriverComponent {
     public constructor(private sanitizer: DomSanitizer) {}
 
     ngOnInit() {
-        console.log('DriverComponent initialized with driver:', this.driver);
         this.imageSrc = `public/assets/output/${this.driver.ImagePath}`;
     }
     public ngOnChanges(changes: SimpleChanges) {
