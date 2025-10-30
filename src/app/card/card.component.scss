@@ -1,7 +1,7 @@
 /* src/app/card/card.component.scss */
 
 .itg-card {
-    height: 460px;
+    height: 480px;
     width: 300px;
     background-color: #171319;
     border-radius: 10px;
@@ -67,13 +67,17 @@
 
 .itg-card-title{
     background-color: var(--itg-accent, #ff0000);
+    color: var(--itg-card-name, #ffffff);
     margin-top: -5px;
     margin-left: -2px;
     height: 36px;
     width: 100%;
     padding-left: 10px;
     font-family: 'BlenderPro-BoldItalic', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    font-size: 18px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 18px; /* tamaño por defecto */
 
 }
 
@@ -85,7 +89,7 @@
 }
 
 .itg-card-vim-container {
-    width: 30px;
+    width: 40px;
     height: 130px;
     margin: -3px;
     border: 3px solid var(--itg-accent, #ff0000);
@@ -101,9 +105,9 @@
     margin-top: 2px;
     width: 20px;
     height: 23px;
-    background-color: #F7D249; /* color dinámico */
-    -webkit-mask: url('../../assets/images/vim_icon.png') center / contain no-repeat;
-    mask: url('../../assets/images/vim_icon.png') center / contain no-repeat;
+    //background-color: #F7D249; /* color dinámico */
+    //-webkit-mask: url('../../assets/images/vim_icon.png') center / contain no-repeat;
+    //mask: url('../../assets/images/vim_icon.png') center / contain no-repeat;
     background-size: contain;
     background-repeat: no-repeat;
     display: inline-block;

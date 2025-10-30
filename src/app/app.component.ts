@@ -7,6 +7,7 @@ import * as LZString from 'lz-string';
 import {firstValueFrom} from 'rxjs';
 import {DriverComponent} from './driver/driver.component';
 import {CommandComponent} from './command/command.component';
+import {FormsModule} from '@angular/forms';
 
 
 export class CardData {
@@ -61,12 +62,12 @@ class Query<T> {
 
 @Component({
     selector: 'app-root',
-    imports: [CardComponent, CommonModule, DriverComponent, CommandComponent],
+    imports: [CardComponent, CommonModule, DriverComponent, CommandComponent, FormsModule],
     templateUrl: './app.component.html',
     styleUrl: './app.component.scss'
 })
 export class AppComponent {
-    title = 'deck-builder';
+    searchTerm: string = '';
     cards: Response<CardData> = new Response<CardData>();
     drivers: Response<DriverData> = new Response<DriverData>();
     commands: Response<CommandData> = new Response<CommandData>();
@@ -84,16 +85,41 @@ export class AppComponent {
 
         this.route.queryParams.subscribe(params => {
             const myParam = params['d'];
+
+            if(!myParam) {
+                this.showCards =  this.GetCards();
+                this.showDrivers = this.drivers.Items;
+                this.showCommands = this.commands.Items;
+            }
+
             const query = this.decodeFromQuery(myParam);
             this.ParseData(query)
         });
 
     }
 
+    public onSearch(): void {
+        const filteredCards = this.GetCards().filter(card =>
+            card.CardName.toLowerCase().includes(this.searchTerm.toLowerCase())
+        );
+
+        // const filteredDrivers = this.drivers.Items.filter(driver =>
+        //     driver.DriverName.toLowerCase().includes(this.searchTerm.toLowerCase())
+        // );
+        //
+        // const filteredCommands = this.commands.Items.filter(command =>
+        //     command.CommandName.toLowerCase().includes(this.searchTerm.toLowerCase())
+        // );
+
+        this.showCards = filteredCards;
+        // this.showDrivers = filteredDrivers;
+        // this.showCommands = filteredCommands;
+    }
+
     public ParseData(elements: Query<Item>): void {
 
         elements.i.forEach( (item) => {
-            const card = this.cards.Items.find(c => c.Code === item.c);
+            const card = this.GetCards().find(c => c.Code === item.c);
 
             for (let i = 0; i < item.a; i++) {
                 if (card) {
@@ -122,6 +148,19 @@ export class AppComponent {
 
     }
 
+    public  GetCards() : Array<CardData> {
+        if (!this.cards || !this.cards.Items) {
+            return [];
+        }
+
+        return this.cards.Items.filter(item => {
+            const name = (item.CardName || '').toLowerCase().trim();
+            const imageLen = (item.ImagePath || '').length;
+            const codeLen = (item.Code || '').length;
+
+            return name !== 'null' && imageLen > 0 && codeLen > 0;
+        });
+    }
 
     public async LoadCards(): Promise<void> {
         try {
@@ -160,6 +199,7 @@ export class AppComponent {
     }
 
     // Convierte la cadena de query -> objeto (o null si no se puede)
+
 
     public decodeFromQuery(q?: string | null): Query<Item> {
         if (!q) {

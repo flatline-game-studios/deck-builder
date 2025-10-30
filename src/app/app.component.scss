@@ -5,31 +5,19 @@
 .card-box {
     display: flex;
     justify-content: center;
-    margin: 10px;
     align-items: center;
+    margin: 4px;
 }
 
 
 
-/* archivo: src/app/app.component.scss */
-.card-container {
-    //flex: 1 1 auto;    /* ocupar espacio restante */
-    //min-height: 0;     /* necesario para que overflow funcione dentro de un flex column */
-    //overflow-y: auto;  /* scroll vertical independiente */
-    //box-sizing: border-box;
-    //padding: 10px;
 
-    /* conserva tus estilos de scrollbar si los quieres */
-    //scrollbar-width: thin;
-    //scrollbar-color: #f7d249 transparent;
-    //
-    //&::-webkit-scrollbar { width: 10px; }
-    //&::-webkit-scrollbar-track { background: transparent; }
-    //&::-webkit-scrollbar-thumb {
-    //    background-color: #f7d249;
-    //    border-radius: 8px;
-    //    border: 2px solid transparent;
-    //    background-clip: padding-box;
-    //}
-    //&::-webkit-scrollbar-button { display: none; height: 0; width: 0; }
+.w-100-below-md {
+    width: 100%;
 }
+@media (min-width: 768px) {
+    .w-100-below-md {
+        width: auto;
+    }
+}
+

@@ -1,5 +1,5 @@
 <!-- src/app/card/card.component.html -->
-<div class="itg-card" [style.--itg-accent]="card.Color || '#ff0000'">
+<div id="{{card.Code}}" (click)="saveAsImage()" class="itg-card" [style.--itg-accent]="card.Color || '#ff0000'" [style.--itg-card-name]="getColor() || '#ffffff'">
 
     <div class="itg-card-border">
         <div class="itg-card-image"
@@ -13,8 +13,8 @@
 
                 <div>  <h2>{{ card.Clock }}</h2></div>
             </div>
-            <div class="itg-card-title d-flex flex-column  justify-content-center">
-                <h3>{{ card.CardName }}</h3>
+            <div class="itg-card-title d-flex flex-column  justify-content-center" >
+                <h3   autoFitText [minFont]="18">{{ card.CardName }} {{card.IsUpgrade ? "+": ""}}</h3>
             </div>
         </div>
 
@@ -27,15 +27,14 @@
                <ng-content *ngIf="card.Vim < 6">
                    <div *ngFor="let _ of vimArray; let i = index" class="d-flex flex-row justify-content-center align-items-center">
                        <!-- contenido por cada iteración -->
-                       <div class="itg-card-vim-icon"> </div>
+<!--                       <div class="itg-card-vim-icon"> </div>-->
+                       <img  src="assets/images/vim_icon.png"  class="itg-card-vim-icon"/>
                    </div>
                </ng-content>
                 <ng-content *ngIf="card.Vim > 5">
                     <div  class="d-flex flex-column justify-content-center align-items-center">
                         <div class="itg-card-vim-plus">{{card.Vim}}</div>
-                        <div class="itg-card-vim-icon d-flex justify-content-center align-content-center">
-                            <span>+</span>
-                        </div>
+                        <img  src="assets/images/vim_icon_plus.png"  class="itg-card-vim-icon"/>
                     </div>
                 </ng-content>
 
