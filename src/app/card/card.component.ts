@@ -1,6 +1,6 @@
 import {Component, Input, SimpleChanges} from '@angular/core';
 import {CardData} from '../app.component';
-import {NgForOf, NgIf} from '@angular/common';
+import {NgForOf, NgIf, NgOptimizedImage} from '@angular/common';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import html2canvas from 'html2canvas';
 import { AutoFitTextDirective } from '../directives/auto-fit-text.directive';
@@ -11,7 +11,8 @@ import { AutoFitTextDirective } from '../directives/auto-fit-text.directive';
     imports: [
         NgForOf,
         NgIf,
-        AutoFitTextDirective
+        AutoFitTextDirective,
+        NgOptimizedImage
     ],
     templateUrl: './card.component.html',
     styleUrl: './card.component.scss'
