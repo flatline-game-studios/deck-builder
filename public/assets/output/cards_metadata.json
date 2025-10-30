@@ -2862,7 +2862,7 @@
         },
         {
             "CardName": "AMPED CODESLASH",
-            "ImagePath": "AMPED CODESLASH.jpg",
+            "ImagePath": "AMPED_CODESLASH.jpg",
             "Code": "AMPED_CODESLASH_UPGRADED",
             "IsUpgrade": true,
             "Descriptions": [
@@ -5357,7 +5357,7 @@
         },
         {
             "CardName": "NULL",
-            "ImagePath": "AMPED CODESLASH.jpg",
+            "ImagePath": "AMPED_CODESLASH.jpg",
             "Code": "HACK_TEST",
             "Descriptions": [],
             "Conditional": "",
