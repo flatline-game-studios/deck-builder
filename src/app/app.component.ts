@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {ActivatedRoute, Router} from '@angular/router';
+import {ActivatedRoute, NavigationEnd, Router} from '@angular/router';
 import {CardComponent} from './card/card.component';
 import {HttpClient} from '@angular/common/http';
 import {CommonModule} from '@angular/common';
@@ -8,7 +8,7 @@ import {firstValueFrom} from 'rxjs';
 import {DriverComponent} from './driver/driver.component';
 import {CommandComponent} from './command/command.component';
 import {FormsModule} from '@angular/forms';
-
+import { map, distinctUntilChanged, switchMap, filter, take } from 'rxjs/operators';
 
 export class CardData {
   CardName: string = '';
@@ -83,20 +83,28 @@ export class AppComponent {
 
 
 
-
-        this.route.queryParams.subscribe(async (params) => {
-            const myParam = params['d'];
-            const language: string = params['language'];
-            await Promise.all([this.LoadCards(language), this.LoadDrivers(language), this.LoadCommands(language)]);
-            if(!myParam) {
-                this.showCards =  this.GetCards();
-                this.showDrivers = this.drivers.Items;
-                this.showCommands = this.commands.Items;
-            }
-
-            const query = this.decodeFromQuery(myParam);
-            this.ParseData(query)
-        });
+        this.router.events
+            .pipe(
+                filter(e => e instanceof NavigationEnd),
+                take(1),
+                switchMap(() =>
+                    this.route.queryParams.pipe(
+                        map(params => ({ d: params['d'], language: params['language'] })),
+                        distinctUntilChanged((a, b) => a.d === b.d && a.language === b.language),
+                        switchMap(async ({ d, language }) => {
+                            await Promise.all([this.LoadCards(language), this.LoadDrivers(language), this.LoadCommands(language)]);
+                            if (!d) {
+                                this.showCards = this.GetCards();
+                                this.showDrivers = this.drivers.Items;
+                                this.showCommands = this.commands.Items;
+                            }
+                            const query = this.decodeFromQuery(d);
+                            this.ParseData(query);
+                        })
+                    )
+                )
+            )
+            .subscribe();
 
     }
 
