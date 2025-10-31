@@ -1,0 +1,5550 @@
+{
+    "Items": [
+        {
+            "CardName": "餘震",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "AFTERSHOCK",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。",
+                "<b>棄置後：</b>對ICE造成20點<b>傷害</b>，並生成一張這張牌的<b>臨時</b>副本。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "餘震",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "AFTERSHOCK_UPGRADED",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。",
+                "<b>棄置後：</b>對ICE造成35點<b>傷害</b>，並生成一張這張牌的<b>臨時</b>副本。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "至高蜘蛛",
+            "ImagePath": "APEX_ARACHNID.jpg",
+            "Code": "APEX_ARACHNID",
+            "Descriptions": [
+                "造成70點<b>傷害</b>。",
+                "生成2張<b>噬咬腳本</b>。",
+                "<b>協助3：</b>生成2張<b>噬咬腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "至高蜘蛛",
+            "ImagePath": "APEX_ARACHNID.jpg",
+            "Code": "APEX_ARACHNID_UPGRADED",
+            "Descriptions": [
+                "造成80點<b>傷害</b>。",
+                "生成4張<b>噬咬腳本</b>。",
+                "<b>協助3：</b>生成3張<b>噬咬腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "校準",
+            "ImagePath": "CALIBRATE.jpg",
+            "Code": "CALIBRATE",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。",
+                "<b>增強</b>小型指令。",
+                "<b>增強</b>大型指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "校準",
+            "ImagePath": "CALIBRATE.jpg",
+            "Code": "CALIBRATE_UPGRADED",
+            "Descriptions": [
+                "造成40點<b>傷害</b>。",
+                "<b>增強</b>小型指令。",
+                "<b>增強</b>大型指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "狗狗密令",
+            "ImagePath": "CAPTAIN_COMMANDOGS.jpg",
+            "Code": "CAPTAIN_COMMANDOGS",
+            "Descriptions": [
+                "造成25點<b>傷害</b>。",
+                "<b>協助2：</b>隨機<b>增強</b>一條指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "狗狗密令",
+            "ImagePath": "CAPTAIN_COMMANDOGS.jpg",
+            "Code": "CAPTAIN_COMMANDOGS_UPGRADED",
+            "Descriptions": [
+                "造成30點<b>傷害</b>。",
+                "<b>協助3：</b>隨機<b>增強</b>一條指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "代碼粉碎",
+            "ImagePath": "CODECRUNCH.jpg",
+            "Code": "CODECRUNCH",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "代碼粉碎",
+            "ImagePath": "CODECRUNCH.jpg",
+            "Code": "CODECRUNCH_UPGRADED",
+            "Descriptions": [
+                "造成30點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "代碼穿刺",
+            "ImagePath": "CODESMASH.jpg",
+            "Code": "CODESMASH",
+            "Descriptions": [
+                "造成50點<b>傷害</b>。",
+                "<b>命中後：</b>獲得1層<b>超頻</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "代碼穿刺",
+            "ImagePath": "CODESMASH.jpg",
+            "Code": "CODESMASH_UPGRADED",
+            "Descriptions": [
+                "造成60點<b>傷害</b>。",
+                "<b>命中後：</b>獲得2層<b>超頻</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "致命穿行",
+            "ImagePath": "DEADLY_THREADING.jpg",
+            "Code": "DEADLY_THREADING",
+            "Descriptions": [
+                "造成60點<b>傷害</b>。",
+                "<b>增強</b>關鍵指令。",
+                "隨機生成1張<b>腳本</b>牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "致命穿行",
+            "ImagePath": "DEADLY_THREADING.jpg",
+            "Code": "DEADLY_THREADING_UPGRADED",
+            "Descriptions": [
+                "造成90點<b>傷害</b>。",
+                "<b>增強</b>關鍵指令。",
+                "隨機生成2張<b>腳本</b>牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "編織不穩定",
+            "ImagePath": "ERRATIC_WEAVING.jpg",
+            "Code": "ERRATIC_WEAVING",
+            "Descriptions": [
+                "造成25點<b>傷害</b>。",
+                "施加1層<b>暴露</b>。",
+                "隨機生成1張<b>腳本</b>牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "編織不穩定",
+            "ImagePath": "ERRATIC_WEAVING.jpg",
+            "Code": "ERRATIC_WEAVING_UPGRADED",
+            "Descriptions": [
+                "造成25點<b>傷害</b>。",
+                "施加2層<b>暴露</b>。",
+                "隨機生成2張<b>腳本</b>牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "外推",
+            "ImagePath": "EXTRAPOLATE.jpg",
+            "Code": "EXTRAPOLATE",
+            "Descriptions": [
+                "造成40點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你已有至少2條<b>已增強</b>指令，則：",
+            "ConditionalDescriptions": [
+                "造成80 點<b>傷害</b>。"
+            ],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "外推",
+            "ImagePath": "EXTRAPOLATE.jpg",
+            "Code": "EXTRAPOLATE_UPGRADED",
+            "Descriptions": [
+                "造成40點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你已有至少2條<b>已增強</b>指令，則：",
+            "ConditionalDescriptions": [
+                "造成120 點<b>傷害</b>。"
+            ],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "暴食盛宴",
+            "ImagePath": "FEEDING_FRENZY.jpg",
+            "Code": "FEEDING_FRENZY",
+            "Descriptions": [
+                "造成30點<b>傷害</b>。",
+                "將你的手牌中所有<b>腳本</b>牌轉化為<b>噬咬腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "暴食盛宴",
+            "ImagePath": "FEEDING_FRENZY.jpg",
+            "Code": "FEEDING_FRENZY_UPGRADED",
+            "Descriptions": [
+                "造成40點<b>傷害</b>。",
+                "將你的手牌中所有<b>腳本</b>牌轉化為<b>噬咬腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "分形獠牙",
+            "ImagePath": "FRACTAL_FANG.jpg",
+            "Code": "FRACTAL_FANG",
+            "Descriptions": [
+                "對所有目標造成40點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "分形獠牙",
+            "ImagePath": "FRACTAL_FANG.jpg",
+            "Code": "FRACTAL_FANG_UPGRADED",
+            "Descriptions": [
+                "對所有目標造成60點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "玻璃大炮",
+            "ImagePath": "GLASS_CANNON.jpg",
+            "Code": "GLASS_CANNON",
+            "Descriptions": [
+                "造成0點<b>傷害</b>。",
+                "<b>反編譯</b>。",
+                "<b>棄置後：</b>生成 4點<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "玻璃大炮",
+            "ImagePath": "GLASS_CANNON.jpg",
+            "Code": "GLASS_CANNON_UPGRADED",
+            "Descriptions": [
+                "造成150點<b>傷害</b>。",
+                "<b>反編譯</b>。",
+                "<b>棄置後：</b>生成 6點<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "熱修復",
+            "ImagePath": "HOTFIX.jpg",
+            "Code": "HOTFIX",
+            "Descriptions": [
+                "造成30點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你擁有一條<b>已增強</b>指令，則追加：",
+            "ConditionalDescriptions": [
+                "施加1層<b>虛弱</b>。"
+            ],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "熱修復",
+            "ImagePath": "HOTFIX.jpg",
+            "Code": "HOTFIX_UPGRADED",
+            "Descriptions": [
+                "造成40點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你擁有一條<b>已增強</b>指令，則追加：",
+            "ConditionalDescriptions": [
+                "施加2層<b>虛弱</b>。"
+            ],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "全力啟動",
+            "ImagePath": "JUMPSTART.jpg",
+            "Code": "JUMPSTART",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。",
+                "抽1張牌。",
+                "<b>增強</b>大型指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "全力啟動",
+            "ImagePath": "JUMPSTART.jpg",
+            "Code": "JUMPSTART_UPGRADED",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。",
+                "抽2張牌。",
+                "<b>增強</b>大型指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "液化",
+            "ImagePath": "LIQUEFACTION.jpg",
+            "Code": "LIQUEFACTION",
+            "Descriptions": [
+                "造成10點<b>傷害</b>。",
+                "<b>命中後：</b>生成3張<b>噬咬腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "液化",
+            "ImagePath": "LIQUEFACTION.jpg",
+            "Code": "LIQUEFACTION_UPGRADED",
+            "Descriptions": [
+                "造成10點<b>傷害</b>。",
+                "<b>命中後：</b>生成4張<b>噬咬腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "喜鵲瑪吉",
+            "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
+            "Code": "MAGGIE_THE_MAGPIE",
+            "Descriptions": [
+                "對所有目標造成15點<b>傷害</b>。",
+                "<b>協助2：</b> 抽1張牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "喜鵲瑪吉",
+            "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
+            "Code": "MAGGIE_THE_MAGPIE_UPGRADED",
+            "Descriptions": [
+                "對所有目標造成25點<b>傷害</b>。",
+                "<b>協助3：</b> 抽1張牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "蚊形偽裝",
+            "ImagePath": "MOSQUITO_INCOGNITO.jpg",
+            "Code": "MOSQUITO_INCOGNITO",
+            "Descriptions": [
+                "造成5點<b>傷害</b>。",
+                "<b>協助20：</b>對ICE造成5點<b>傷害</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "蚊形偽裝",
+            "ImagePath": "MOSQUITO_INCOGNITO.jpg",
+            "Code": "MOSQUITO_INCOGNITO_UPGRADED",
+            "Descriptions": [
+                "造成5點<b>傷害</b>。",
+                "<b>協助25：</b>對ICE造成5點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "神經毒刺",
+            "ImagePath": "NEUROTOXIC_HARPOON.jpg",
+            "Code": "NEUROTOXIC_HARPOON",
+            "Descriptions": [
+                "造成50點<b>傷害</b>。",
+                "<b>命中後：</b>將<b>噬咬腳本</b>的基礎傷害提升5點，直到戰鬥結束。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "神經毒刺",
+            "ImagePath": "NEUROTOXIC_HARPOON.jpg",
+            "Code": "NEUROTOXIC_HARPOON_UPGRADED",
+            "Descriptions": [
+                "造成60點<b>傷害</b>。",
+                "<b>命中後：</b>將<b>噬咬腳本</b>的基礎傷害提升8點，直到戰鬥結束。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "一次性單元",
+            "ImagePath": "DISPOSABLE_UNITS.jpg",
+            "Code": "NITRO_DAGGER",
+            "Descriptions": [
+                "造成10點<b>傷害</b>。",
+                "獲得1層<b>超頻</b>。",
+                "<b>棄置後：</b>獲得1<b>時鐘</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "一次性單元",
+            "ImagePath": "DISPOSABLE_UNITS.jpg",
+            "Code": "NITRO_DAGGER_UPGRADED",
+            "Descriptions": [
+                "造成15點<b>傷害</b>。",
+                "獲得1層<b>超頻</b>。",
+                "<b>棄置後：</b>獲得2<b>時鐘</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "全面檢修",
+            "ImagePath": "OVERHAUL.jpg",
+            "Code": "OVERHAUL",
+            "Descriptions": [
+                "造成45點<b>傷害</b>。",
+                "施加2層<b>暴露</b>。",
+                "<b>增強</b>小型指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "全面檢修",
+            "ImagePath": "OVERHAUL.jpg",
+            "Code": "OVERHAUL_UPGRADED",
+            "Descriptions": [
+                "造成70點<b>傷害</b>。",
+                "施加3層<b>暴露</b>。",
+                "<b>增強</b>小型指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "蠻牛騙局",
+            "ImagePath": "OX_HOAX.jpg",
+            "Code": "OX_HOAX",
+            "Descriptions": [
+                "造成1點<b>傷害</b>。",
+                "<b>協助1：對ICE</b>造成60點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "蠻牛騙局",
+            "ImagePath": "OX_HOAX.jpg",
+            "Code": "OX_HOAX_UPGRADED",
+            "Descriptions": [
+                "造成1點<b>傷害</b>。",
+                "<b>協助1：對ICE</b>造成100點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "糖果炸彈",
+            "ImagePath": "PINATA_BOMB.jpg",
+            "Code": "PINATA_BOMB",
+            "Descriptions": [
+                "造成10點<b>傷害</b>。",
+                "<b>棄置後：</b>對所有目標造成30點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "糖果炸彈",
+            "ImagePath": "PINATA_BOMB.jpg",
+            "Code": "PINATA_BOMB_UPGRADED",
+            "Descriptions": [
+                "造成10點<b>傷害</b>。",
+                "<b>棄置後：</b>對所有目標造成45點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "貪婪尖叫",
+            "ImagePath": "RAVENOUS_SCREECH.jpg",
+            "Code": "RAVENOUS_SCREECH",
+            "Descriptions": [
+                "造成10點<b>傷害</b>。",
+                "施加1層<b>虛弱</b>。",
+                "<b>增強</b>大型指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻擊",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "貪婪尖叫",
+            "ImagePath": "RAVENOUS_SCREECH.jpg",
+            "Code": "RAVENOUS_SCREECH_UPGRADED",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。",
+                "施加1層<b>虛弱</b>。",
+                "<b>增強</b>大型指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻擊",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "再適應",
+            "ImagePath": "READJUST.jpg",
+            "Code": "READJUST",
+            "Descriptions": [
+                "對所有目標造成25點<b>傷害</b>。",
+                "<b>增強</b>小型指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "再適應",
+            "ImagePath": "READJUST.jpg",
+            "Code": "READJUST_UPGRADED",
+            "Descriptions": [
+                "對所有目標造成40點<b>傷害</b>。",
+                "<b>增強</b>小型指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "奇點",
+            "ImagePath": "SINGULARITY.jpg",
+            "Code": "SINGULARITY",
+            "Descriptions": [
+                "造成100點<b>傷害</b>。",
+                "你每擁有1條<b>增強</b>指令，這張牌的費用減少1<b>時鐘</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "奇點",
+            "ImagePath": "SINGULARITY.jpg",
+            "Code": "SINGULARITY_UPGRADED",
+            "Descriptions": [
+                "造成150點<b>傷害</b>。",
+                "你每擁有1條<b>增強</b>指令，這張牌的費用減少1<b>時鐘</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "輕巧襲擊",
+            "ImagePath": "SKITTERING_STRIKE.jpg",
+            "Code": "SKITTERING_STRIKE",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你擁有一條<b>已增強</b>指令，則追加：",
+            "ConditionalDescriptions": [
+                "獲得1<b>時鐘</b>。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "輕巧襲擊",
+            "ImagePath": "SKITTERING_STRIKE.jpg",
+            "Code": "SKITTERING_STRIKE_UPGRADED",
+            "Descriptions": [
+                "造成40點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你擁有一條<b>已增強</b>指令，則追加：",
+            "ConditionalDescriptions": [
+                "獲得1<b>時鐘</b>。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "突變",
+            "ImagePath": "MUTATE.jpg",
+            "Code": "SPAWN_SPIDERLINGS",
+            "Descriptions": [
+                "造成10點<b>傷害</b>。",
+                "生成6張<b>噬咬腳本</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "突變",
+            "ImagePath": "MUTATE.jpg",
+            "Code": "SPAWN_SPIDERLINGS_UPGRADED",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。",
+                "生成6張<b>噬咬腳本</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "生成器",
+            "ImagePath": "SPAWNER.jpg",
+            "Code": "SPAWNER",
+            "Descriptions": [
+                "造成10點<b>傷害</b>。",
+                "生成1張<b>噬咬腳本</b>。",
+                "<b>棄置後：</b>生成3張<b>噬咬腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "生成器",
+            "ImagePath": "SPAWNER.jpg",
+            "Code": "SPAWNER_UPGRADED",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。",
+                "生成2張<b>噬咬腳本</b>。",
+                "<b>棄置後：</b>生成4張<b>噬咬腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "蛛王",
+            "ImagePath": "SPIDER_KING.jpg",
+            "Code": "SPIDER_KING",
+            "Descriptions": [
+                "造成60點<b>傷害</b>。",
+                "<b>協助4：</b>隨機生成2張<b>腳本</b>牌。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "蛛王",
+            "ImagePath": "SPIDER_KING.jpg",
+            "Code": "SPIDER_KING_UPGRADED",
+            "Descriptions": [
+                "造成70點<b>傷害</b>。",
+                "<b>協助4：</b>隨機生成3張<b>腳本</b>牌。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "科技獾",
+            "ImagePath": "TECHNO_BADGER.jpg",
+            "Code": "TECHNO_BADGER",
+            "Descriptions": [
+                "造成10點<b>傷害</b>。",
+                "<b>協助5:</b>對所有目標造成10點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "科技獾",
+            "ImagePath": "TECHNO_BADGER.jpg",
+            "Code": "TECHNO_BADGER_UPGRADED",
+            "Descriptions": [
+                "造成10點<b>傷害</b>。",
+                "<b>協助5:</b>對所有目標造成20點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "臨時餘震",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "TEMP_AFTERSHOCK",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。",
+                "<b>棄置後：</b>對ICE造成20點<b>傷害</b>，並生成一張這張牌的<b>臨時</b>副本。",
+                "<b>臨時</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "臨時餘震",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "TEMP_AFTERSHOCK_UPGRADED",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。",
+                "<b>棄置後：</b>對ICE造成35點<b>傷害</b>，並生成一張這張牌的<b>臨時</b>副本。",
+                "<b>臨時</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "三維毀滅",
+            "ImagePath": "THREEDRA.jpg",
+            "Code": "THREEDRA",
+            "Descriptions": [
+                "對所有目標造成20點<b>傷害</b>。",
+                "對所有目標施加2層<b>暴露</b>。",
+                "<b>協助3:</b>對所有目標造成20點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "三維毀滅",
+            "ImagePath": "THREEDRA.jpg",
+            "Code": "THREEDRA_UPGRADED",
+            "Descriptions": [
+                "對所有目標造成30點<b>傷害</b>。",
+                "對所有目標施加3層<b>暴露</b>。",
+                "<b>協助3:</b>對所有目標造成30點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "毒液打擊",
+            "ImagePath": "VENOM_STRIKE.jpg",
+            "Code": "VENOM_STRIKE",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。",
+                "本回合<b>噬咬腳本</b>傷害提高10點。",
+                "<b>命中后：</b>施加2层<b>暴露</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "毒液打擊",
+            "ImagePath": "VENOM_STRIKE.jpg",
+            "Code": "VENOM_STRIKE_UPGRADED",
+            "Descriptions": [
+                "造成45點<b>傷害</b>。",
+                "本回合<b>噬咬腳本</b>傷害提高10點。",
+                "<b>命中后：</b>施加2层<b>暴露</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "鏈槍",
+            "ImagePath": "ZIP_GUN.jpg",
+            "Code": "ZIP_GUN",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。",
+                "棄置1張牌。",
+                "<b>棄置後：</b>對ICE造成20點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "鏈槍",
+            "ImagePath": "ZIP_GUN.jpg",
+            "Code": "ZIP_GUN_UPGRADED",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。",
+                "棄置1張牌。",
+                "<b>棄置後：</b>造成40點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "重裝喪屍",
+            "ImagePath": "ZOMBIE_HOPLITE.jpg",
+            "Code": "ZOMBIE_HOPLITE",
+            "Descriptions": [
+                "在本回合中每棄置一張牌，對所有目標造成20點<b>傷害</b>。\n（0點<b>傷害</b>）。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "重裝喪屍",
+            "ImagePath": "ZOMBIE_HOPLITE.jpg",
+            "Code": "ZOMBIE_HOPLITE_UPGRADED",
+            "Descriptions": [
+                "在本回合中每棄置一張牌，對所有目標造成30點<b>傷害</b>。\n（0點<b>傷害</b>）。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "殘影",
+            "ImagePath": "AFTERIMAGE.jpg",
+            "Code": "AFTERIMAGE",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你擁有一條<b>已增強</b>指令，則追加：",
+            "ConditionalDescriptions": [
+                "隨機延長一個<b>協助</b>效果 1點。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "殘影",
+            "ImagePath": "AFTERIMAGE.jpg",
+            "Code": "AFTERIMAGE_UPGRADED",
+            "Descriptions": [
+                "獲得50點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你擁有一條<b>已增強</b>指令，則追加：",
+            "ConditionalDescriptions": [
+                "隨機延長一個<b>協助</b>效果 1點。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "巴瑞屏障",
+            "ImagePath": "BARRY_CADE.jpg",
+            "Code": "BARRY_CADE",
+            "Descriptions": [
+                "獲得60點<b>屏障</b>。",
+                "獲得2層<b>快取</b>。",
+                "<b>協助3：</b>獲得40點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 3,
+            "Type": "防禦",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "巴瑞屏障",
+            "ImagePath": "BARRY_CADE.jpg",
+            "Code": "BARRY_CADE_UPGRADED",
+            "Descriptions": [
+                "獲得60點<b>屏障</b>。",
+                "獲得2層<b>快取</b>。",
+                "<b>協助3：</b>獲得40點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防禦",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "大老爹",
+            "ImagePath": "BIG_PAPPA.jpg",
+            "Code": "BIG_PAPPA",
+            "Descriptions": [
+                "獲得80點<b>屏障</b>。",
+                "延長所有<b>協助</b>效果 2點。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防禦",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "大老爹",
+            "ImagePath": "BIG_PAPPA.jpg",
+            "Code": "BIG_PAPPA_UPGRADED",
+            "Descriptions": [
+                "獲得120點<b>屏障</b>。",
+                "延長所有<b>協助</b>效果 3點。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防禦",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "回聲室",
+            "ImagePath": "ECHO_CHAMBER.jpg",
+            "Code": "ECHO_CHAMBER",
+            "Descriptions": [
+                "獲得20點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你擁有一條<b>已增強</b>指令，則：",
+            "ConditionalDescriptions": [
+                "獲得50層<b>屏障</b>。"
+            ],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "回聲室",
+            "ImagePath": "ECHO_CHAMBER.jpg",
+            "Code": "ECHO_CHAMBER_UPGRADED",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你擁有一條<b>已增強</b>指令，則：",
+            "ConditionalDescriptions": [
+                "獲得70層<b>屏障</b>。"
+            ],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "力場",
+            "ImagePath": "FORCEFIELD.jpg",
+            "Code": "FORCEFIELD",
+            "Descriptions": [
+                "獲得20點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "力場",
+            "ImagePath": "FORCEFIELD.jpg",
+            "Code": "FORCEFIELD_UPGRADED",
+            "Descriptions": [
+                "獲得40點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "神聖吐司機",
+            "ImagePath": "HOLY_TOASTER.jpg",
+            "Code": "HOLY_TOASTER",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。",
+                "<b>協助2：</b> 抽1張牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "神聖吐司機",
+            "ImagePath": "HOLY_TOASTER.jpg",
+            "Code": "HOLY_TOASTER_UPGRADED",
+            "Descriptions": [
+                "獲得50點<b>屏障</b>。",
+                "<b>協助3：</b> 抽1張牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "鬆散齒輪",
+            "ImagePath": "LOOSE_GEARS.jpg",
+            "Code": "LOOSE_GEARS",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。",
+                "棄置1張牌。",
+                "<b>棄置後：</b>獲得30點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "鬆散齒輪",
+            "ImagePath": "LOOSE_GEARS.jpg",
+            "Code": "LOOSE_GEARS_UPGRADED",
+            "Descriptions": [
+                "獲得45點<b>屏障</b>。",
+                "棄置1張牌。",
+                "<b>棄置後：</b>獲得45點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "脫殼",
+            "ImagePath": "MOLT.jpg",
+            "Code": "MOLT",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你在本回合中已打出2張<b>腳本</b>牌，則追加：",
+            "ConditionalDescriptions": [
+                "生成你上次打出的2張<b>腳本</b>牌的副本。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "脫殼",
+            "ImagePath": "MOLT.jpg",
+            "Code": "MOLT_UPGRADED",
+            "Descriptions": [
+                "獲得45點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你在本回合中已打出2張<b>腳本</b>牌，則追加：",
+            "ConditionalDescriptions": [
+                "生成你上次打出的3張<b>腳本</b>牌的副本。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "木乃伊化",
+            "ImagePath": "MUMMIFY.jpg",
+            "Code": "MUMMIFY",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。",
+                "每當你在本回合中生成任意數量的<b>結繭腳本</b>，額外生成一張。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "木乃伊化",
+            "ImagePath": "MUMMIFY.jpg",
+            "Code": "MUMMIFY_UPGRADED",
+            "Descriptions": [
+                "獲得40點<b>屏障</b>。",
+                "每當你在本回合中生成任意數量的<b>結繭腳本</b>，額外生成一張。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "紙鶴",
+            "ImagePath": "PAPER_CRANE.jpg",
+            "Code": "PAPER_CRANE",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。",
+                "棄置1張牌。",
+                "抽1張牌。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "紙鶴",
+            "ImagePath": "PAPER_CRANE.jpg",
+            "Code": "PAPER_CRANE_UPGRADED",
+            "Descriptions": [
+                "獲得50點<b>屏障</b>。",
+                "棄置1張牌。",
+                "抽2張牌。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "拼拼湊湊",
+            "ImagePath": "PATCHWORK.jpg",
+            "Code": "PATCHWORK",
+            "Descriptions": [
+                "棄置你的手牌。",
+                "每棄掉一張牌，獲得20點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "拼拼湊湊",
+            "ImagePath": "PATCHWORK.jpg",
+            "Code": "PATCHWORK_UPGRADED",
+            "Descriptions": [
+                "棄置任意數量卡牌。",
+                "每棄掉一張牌，獲得25點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "快速編織",
+            "ImagePath": "QUICK_THREADING.jpg",
+            "Code": "QUICK_THREADING",
+            "Descriptions": [
+                "生成2張<b>結繭腳本</b>。",
+                "對所有目標施加1層<b>虛弱</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "快速編織",
+            "ImagePath": "QUICK_THREADING.jpg",
+            "Code": "QUICK_THREADING_UPGRADED",
+            "Descriptions": [
+                "生成4張<b>結繭腳本</b>。",
+                "對所有目標施加1層<b>虛弱</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "重連",
+            "ImagePath": "REWIRE.jpg",
+            "Code": "REWIRE",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。",
+                "獲得1層<b>快取</b>。",
+                "<b>增強</b>小型指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "重連",
+            "ImagePath": "REWIRE.jpg",
+            "Code": "REWIRE_UPGRADED",
+            "Descriptions": [
+                "獲得40點<b>屏障</b>。",
+                "獲得2層<b>快取</b>。",
+                "<b>增強</b>小型指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "廢料場",
+            "ImagePath": "SCRAP_FIELD.jpg",
+            "Code": "SCRAP_FIELD",
+            "Descriptions": [
+                "獲得10點<b>屏障</b>。",
+                "<b>棄置後：</b>增加20點這張牌獲得的<b>屏障</b>，直到戰鬥結束。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "廢料場",
+            "ImagePath": "SCRAP_FIELD.jpg",
+            "Code": "SCRAP_FIELD_UPGRADED",
+            "Descriptions": [
+                "獲得10點<b>屏障</b>。",
+                "<b>棄置後：</b>增加30點這張牌獲得的<b>屏障</b>，直到戰鬥結束。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "絲之殼",
+            "ImagePath": "SILK_SHELL.jpg",
+            "Code": "SILK_SHELL",
+            "Descriptions": [
+                "獲得35點<b>屏障</b>。",
+                "生成3張<b>結繭腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "絲之殼",
+            "ImagePath": "SILK_SHELL.jpg",
+            "Code": "SILK_SHELL_UPGRADED",
+            "Descriptions": [
+                "獲得35點<b>屏障</b>。",
+                "生成5張<b>結繭腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防禦",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "絲滑後撤",
+            "ImagePath": "SILKEN_RETREAT.jpg",
+            "Code": "SILKEN_RETREAT",
+            "Descriptions": [
+                "獲得50點<b>屏障</b>。",
+                "<b>增強</b>關鍵指令。",
+                "生成2張<b>結繭腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防禦",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "絲滑後撤",
+            "ImagePath": "SILKEN_RETREAT.jpg",
+            "Code": "SILKEN_RETREAT_UPGRADED",
+            "Descriptions": [
+                "獲得60點<b>屏障</b>。",
+                "<b>增強</b>關鍵指令。",
+                "生成4張<b>結繭腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防禦",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "謹防曬傷",
+            "ImagePath": "SUNSCREEN_SAVER.jpg",
+            "Code": "SUNSCREEN_SAVER",
+            "Descriptions": [
+                "獲得10點<b>屏障</b>。",
+                "<b>協助2：</b>獲得20點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "謹防曬傷",
+            "ImagePath": "SUNSCREEN_SAVER.jpg",
+            "Code": "SUNSCREEN_SAVER_UPGRADED",
+            "Descriptions": [
+                "獲得20點<b>屏障</b>。",
+                "<b>協助2：</b>獲得30點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "鈦絲網",
+            "ImagePath": "TITANIUM_WEB.jpg",
+            "Code": "TITANIUM_WEB",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。",
+                "本回合中你生成的所有腳本牌均為<b>結繭腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "鈦絲網",
+            "ImagePath": "TITANIUM_WEB.jpg",
+            "Code": "TITANIUM_WEB_UPGRADED",
+            "Descriptions": [
+                "獲得40點<b>屏障</b>。",
+                "本回合中你生成的所有腳本牌均為<b>結繭腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "渦輪水壺",
+            "ImagePath": "TURBO_KETTLE.jpg",
+            "Code": "TURBO_KETTLE",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。",
+                "<b>協助1：</b>獲得1<b>時鐘</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "渦輪水壺",
+            "ImagePath": "TURBO_KETTLE.jpg",
+            "Code": "TURBO_KETTLE_UPGRADED",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。",
+                "<b>協助2：</b>獲得1<b>時鐘</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "危險庇護",
+            "ImagePath": "UNSTABLE_SHELTER.jpg",
+            "Code": "UNSTABLE_SHELTER",
+            "Descriptions": [
+                "獲得60點<b>屏障</b>。",
+                "隨機棄置1張卡牌。",
+                "如果它是一張<b>防禦</b>牌，額外獲得40點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "危險庇護",
+            "ImagePath": "UNSTABLE_SHELTER.jpg",
+            "Code": "UNSTABLE_SHELTER_UPGRADED",
+            "Descriptions": [
+                "獲得60點<b>屏障</b>。",
+                "隨機棄置1張卡牌。",
+                "如果它是一張<b>防禦</b>牌，額外獲得40點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "蠟翼",
+            "ImagePath": "WAX_WINGS.jpg",
+            "Code": "WAX_WINGS",
+            "Descriptions": [
+                "獲得80點<b>屏障</b>。",
+                "<b>棄置後：</b>這張卡牌的費用減1，直到戰鬥結束。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 4,
+            "Type": "防禦",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "蠟翼",
+            "ImagePath": "WAX_WINGS.jpg",
+            "Code": "WAX_WINGS_UPGRADED",
+            "Descriptions": [
+                "獲得120點<b>屏障</b>。",
+                "<b>棄置後：</b>這張卡牌的費用減1，直到戰鬥結束。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 3,
+            "Type": "防禦",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "空中優勢",
+            "ImagePath": "AIR_SUPERIORITY.jpg",
+            "Code": "3_STEPS_AHEAD",
+            "Descriptions": [
+                "抽1張牌，你每持有一條<b>增強</b>指令，獲得1<b>時鐘</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "空中優勢",
+            "ImagePath": "AIR_SUPERIORITY.jpg",
+            "Code": "3_STEPS_AHEAD_UPGRADED",
+            "Descriptions": [
+                "抽2張牌，你每持有一條<b>增強</b>指令，獲得1<b>時鐘</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "代碼重構",
+            "ImagePath": "CODE_REFACTOR.jpg",
+            "Code": "CODE_REFACTOR",
+            "Descriptions": [
+                "<b>升級</b>所有手牌，直到戰鬥結束。",
+                "<b>增強</b>所有指令。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9B705FF",
+            "Clock": 3,
+            "Type": "生成器",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "代碼重構",
+            "ImagePath": "CODE_REFACTOR.jpg",
+            "Code": "CODE_REFACTOR_UPGRADED",
+            "Descriptions": [
+                "<b>升級</b>所有手牌，直到戰鬥結束。",
+                "<b>增強</b>所有指令。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成器",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "蠕動",
+            "ImagePath": "CREEP.jpg",
+            "Code": "CREEP",
+            "Descriptions": [
+                "<b>增強</b>小型指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "蠕動",
+            "ImagePath": "CREEP.jpg",
+            "Code": "CREEP_UPGRADED",
+            "Descriptions": [
+                "<b>增強</b>小型指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "啟蒙",
+            "ImagePath": "ENLIGHTEN.jpg",
+            "Code": "ENLIGHTEN",
+            "Descriptions": [
+                "<b>增強</b>大型指令。",
+                "<b>增強</b>關鍵指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "啟蒙",
+            "ImagePath": "ENLIGHTEN.jpg",
+            "Code": "ENLIGHTEN_UPGRADED",
+            "Descriptions": [
+                "<b>增強</b>小型指令。",
+                "<b>增強</b>大型指令。",
+                "<b>增強</b>關鍵指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "進化論",
+            "ImagePath": "EVOLUTION_THEORY.jpg",
+            "Code": "EVOLUTION_THEORY",
+            "Descriptions": [],
+            "Conditional": "如果你在這場戰鬥中打出了至少20張<b>腳本</b>牌，則追加：",
+            "ConditionalDescriptions": [
+                "抽5張牌。",
+                "獲得3<b>時鐘</b>。",
+                "<b>反編譯</b>。",
+                "<i>（已打腳本牌：0張）</i>。"
+            ],
+            "Rarity": "超凡",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "進化論",
+            "ImagePath": "EVOLUTION_THEORY.jpg",
+            "Code": "EVOLUTION_THEORY_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "如果你在這場戰鬥中打出了至少20張<b>腳本</b>牌，則追加：",
+            "ConditionalDescriptions": [
+                "抽7張牌。",
+                "獲得4<b>時鐘</b>。",
+                "<b>反編譯</b>。",
+                "<i>（已打腳本牌：0張）</i>。"
+            ],
+            "Rarity": "超凡",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "幸運餅乾",
+            "ImagePath": "FORTUNE_COOKIE.jpg",
+            "Code": "FORTUNE_COOKIE",
+            "Descriptions": [
+                "<b>棄置後：</b>抽1張牌，並隨機生成1張<b>腳本</b>牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "幸運餅乾",
+            "ImagePath": "FORTUNE_COOKIE.jpg",
+            "Code": "FORTUNE_COOKIE_UPGRADED",
+            "Descriptions": [
+                "<b>棄置後：</b>抽2張牌，並隨機生成1張<b>腳本</b>牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "迷你蜘蛛",
+            "ImagePath": "ITSY_BITSY.jpg",
+            "Code": "ITSY_BITSY",
+            "Descriptions": [
+                "對所有目標施加1層<b>虛弱</b>。",
+                "<b>協助3：</b>生成1張<b>噬咬腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "迷你蜘蛛",
+            "ImagePath": "ITSY_BITSY.jpg",
+            "Code": "ITSY_BITSY_UPGRADED",
+            "Descriptions": [
+                "對所有目標施加1層<b>虛弱</b>。",
+                "<b>協助3：</b>生成2張<b>噬咬腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "動能記憶",
+            "ImagePath": "KINETIC_MEMORY.jpg",
+            "Code": "KINETIC_MEMORY",
+            "Descriptions": [
+                "棄置1張牌。",
+                "抽2張牌。",
+                "<b>棄置後：</b>生成2點<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "動能記憶",
+            "ImagePath": "KINETIC_MEMORY.jpg",
+            "Code": "KINETIC_MEMORY_UPGRADED",
+            "Descriptions": [
+                "棄置2張牌。",
+                "抽3張牌。",
+                "<b>棄置後：</b>生成4點<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "最後呼叫",
+            "ImagePath": "LAST_CALL.jpg",
+            "Code": "LAST_CALL",
+            "Descriptions": [
+                "釋放你剩餘的所有<b>協助</b>效果。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成器",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "最後呼叫",
+            "ImagePath": "LAST_CALL.jpg",
+            "Code": "LAST_CALL_UPGRADED",
+            "Descriptions": [
+                "釋放你剩餘的所有<b>協助</b>效果。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "氮氣鰻",
+            "ImagePath": "NITRO_EEL.jpg",
+            "Code": "NITRO_EEL",
+            "Descriptions": [
+                "獲得2<b>時鐘</b>。",
+                "<b>協助1：</b>獲得1<b>時鐘</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "氮氣鰻",
+            "ImagePath": "NITRO_EEL.jpg",
+            "Code": "NITRO_EEL_UPGRADED",
+            "Descriptions": [
+                "獲得2<b>時鐘</b>。",
+                "<b>協助1：</b>獲得1<b>時鐘</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "巔峰表演",
+            "ImagePath": "PEAK_PERFORMANCE.jpg",
+            "Code": "PEAK_PERFORMANCE",
+            "Descriptions": [
+                "生成<b>VIM</b>至<b>VIM</b>上限。",
+                "<b>反編譯</b>。",
+                "<b>棄置後：</b>獲得1層<b>強電</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 3,
+            "Type": "生成器",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "巔峰表演",
+            "ImagePath": "PEAK_PERFORMANCE.jpg",
+            "Code": "PEAK_PERFORMANCE_UPGRADED",
+            "Descriptions": [
+                "生成<b>VIM</b>至<b>VIM</b>上限。",
+                "<b>反編譯</b>。",
+                "<b>棄置後：</b>獲得1層<b>強電</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成器",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "極速偵查",
+            "ImagePath": "SCOUTING_SCUTTLE.jpg",
+            "Code": "SCOUTING_SCUTTLE",
+            "Descriptions": [
+                "你在本回合每打出一張腳本牌，抽1張牌（0張牌）。",
+                "隨機生成1張<b>腳本</b>牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "極速偵查",
+            "ImagePath": "SCOUTING_SCUTTLE.jpg",
+            "Code": "SCOUTING_SCUTTLE_UPGRADED",
+            "Descriptions": [
+                "你在本回合每打出一張腳本牌，抽2張牌（0張牌）。",
+                "隨機生成1張<b>腳本</b>牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "空洞菜單",
+            "ImagePath": "KARAGUCHI_MENU.jpg",
+            "Code": "SCRIBE_TERMINAL",
+            "Descriptions": [
+                "隨機生成2張<b>腳本</b>牌。",
+                "<b>反編譯</b>。",
+                "<b>棄置後：</b>隨機生成1張<b>腳本</b>牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "空洞菜單",
+            "ImagePath": "KARAGUCHI_MENU.jpg",
+            "Code": "SCRIBE_TERMINAL_UPGRADED",
+            "Descriptions": [
+                "隨機生成3張<b>腳本</b>牌。",
+                "<b>反編譯</b>。",
+                "<b>棄置後：</b>隨機生成2張<b>腳本</b>牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "自生成代碼",
+            "ImagePath": "SELF_GENERATING_CODE.jpg",
+            "Code": "SELF_GENERATING_CODE",
+            "Descriptions": [
+                "隨機生成1張<b>腳本</b>牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "自生成代碼",
+            "ImagePath": "SELF_GENERATING_CODE.jpg",
+            "Code": "SELF_GENERATING_CODE_UPGRADED",
+            "Descriptions": [
+                "隨機生成2張<b>腳本</b>牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "小老爹",
+            "ImagePath": "SMALL_PAPPA.jpg",
+            "Code": "SMALL_PAPPA",
+            "Descriptions": [
+                "延長2點你所有的<b>協助</b>效果。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "小老爹",
+            "ImagePath": "SMALL_PAPPA.jpg",
+            "Code": "SMALL_PAPPA_UPGRADED",
+            "Descriptions": [
+                "延長3點你所有的<b>協助</b>效果。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "唐突旋轉",
+            "ImagePath": "SUDDEN_SPIN.jpg",
+            "Code": "SUDDEN_SPIN",
+            "Descriptions": [
+                "棄置1張牌。",
+                "生成1張<b>噬咬腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "唐突旋轉",
+            "ImagePath": "SUDDEN_SPIN.jpg",
+            "Code": "SUDDEN_SPIN_UPGRADED",
+            "Descriptions": [
+                "棄置1張牌。",
+                "生成2張<b>噬咬腳本</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "適者生存",
+            "ImagePath": "SURVIVAL_OF_THE_FITTEST.jpg",
+            "Code": "SURVIVAL_OF_THE_FITTEST",
+            "Descriptions": [
+                "<b>棄置</b>你的手牌。",
+                "為每張被棄置的隨機生成2張<b>腳本</b>牌。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成器",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "適者生存",
+            "ImagePath": "SURVIVAL_OF_THE_FITTEST.jpg",
+            "Code": "SURVIVAL_OF_THE_FITTEST_UPGRADED",
+            "Descriptions": [
+                "<b>棄置</b>你的手牌。",
+                "為每張被棄置的隨機生成2張<b>腳本</b>牌。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "溫度代碼",
+            "ImagePath": "TEMPER_CODE.jpg",
+            "Code": "TEMPER_CODE",
+            "Descriptions": [
+                "<b>棄置</b> 一卡牌並<b>升級</b>卡牌，直到戰鬥結束。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "溫度代碼",
+            "ImagePath": "TEMPER_CODE.jpg",
+            "Code": "TEMPER_CODE_UPGRADED",
+            "Descriptions": [
+                "<b>棄置</b> 一卡牌並<b>升級</b>卡牌，直到戰鬥結束。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "雷電飛蛾",
+            "ImagePath": "THUNDERFLY.jpg",
+            "Code": "THUNDERFLY",
+            "Descriptions": [
+                "抽2張牌。",
+                "<b>協助2：</b>獲得4點<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成器",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "雷電飛蛾",
+            "ImagePath": "THUNDERFLY.jpg",
+            "Code": "THUNDERFLY_UPGRADED",
+            "Descriptions": [
+                "抽3張牌。",
+                "<b>協助2：</b>獲得6點<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成器",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "適應協議",
+            "ImagePath": "ADAPTATION_PROTOCOL.jpg",
+            "Code": "ADAPTATION_PROTOCOL",
+            "Descriptions": [
+                "在你的回合開始時，隨機<b>增強</b>一條指令。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "協議",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "提升協議",
+            "ImagePath": "BOOST_PROTOCOL.jpg",
+            "Code": "BOOST_PROTOCOL",
+            "Descriptions": [
+                "每回合第一次<b>增強</b>一條指令時，獲得1<b>時鐘</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "協議",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "消化協議",
+            "ImagePath": "DIGEST_PROTOCOL.jpg",
+            "Code": "DIGEST_PROTOCOL",
+            "Descriptions": [
+                "每當你打出一張<b>腳本</b>牌時，生成1點<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "協議",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "過期協議",
+            "ImagePath": "EXPIRATION_PROTOCOL.jpg",
+            "Code": "EXPIRATION_PROTOCOL",
+            "Descriptions": [
+                "每當<b>協助</b>效果過期時，獲得1<b>時鐘</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "協議",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "孵化協議",
+            "ImagePath": "HATCH_PROTOCOL.jpg",
+            "Code": "HATCH_PROTOCOL",
+            "Descriptions": [
+                "在你回合開始時，隨機生成2張<b>腳本</b>牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "協議",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "垃圾協議",
+            "ImagePath": "JUNK_PROTOCOL.jpg",
+            "Code": "JUNK_PROTOCOL",
+            "Descriptions": [
+                "每當你在你的回合內棄置一張卡牌時，對所有目標造成10點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "協議",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "循環協議",
+            "ImagePath": "LOOP_PROTOCOL.jpg",
+            "Code": "LOOP_PROTOCOL",
+            "Descriptions": [
+                "在你回合結束時，隨機延長一個<b>協助</b>效果1點。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "協議",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "補丁協議",
+            "ImagePath": "PATCH_PROTOCOL.jpg",
+            "Code": "PATCH_PROTOCOL",
+            "Descriptions": [
+                "每回合第一次<b>棄置</b>一張卡牌時，為它<b>升級</b>，直到戰鬥結束。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "協議",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "噬咬腳本",
+            "ImagePath": "BITE_SCRIPT.jpg",
+            "Code": "BITE",
+            "Descriptions": [
+                "造成10點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "腳本",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "結繭腳本",
+            "ImagePath": "COCOON_SCRIPT.jpg",
+            "Code": "COCOON",
+            "Descriptions": [
+                "獲得10點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "腳本",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "編織腳本",
+            "ImagePath": "WEAVE_SCRIPT.jpg",
+            "Code": "WEAVE",
+            "Descriptions": [
+                "抽一張牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "腳本",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "損壞數據",
+            "ImagePath": "CORRUPTED_DATA.jpg",
+            "Code": "CORRUPTED_DATA",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#515151FF",
+            "Clock": 9,
+            "Type": "數據損壞",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "碎片化數據",
+            "ImagePath": "FRAGMENTED_DATA.jpg",
+            "Code": "FRAGMENTED_DATA",
+            "Descriptions": [
+                "這張牌被棄掉時將其<b>反編譯</b>，回合中和回合結束時均可觸發。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#515151FF",
+            "Clock": 9,
+            "Type": "數據損壞",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "感染數據",
+            "ImagePath": "INFECTED_DATA.jpg",
+            "Code": "INFECTED_DATA",
+            "Descriptions": [
+                "承受10點傷害。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#515151FF",
+            "Clock": 0,
+            "Type": "數據損壞",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "律法官的凝視",
+            "ImagePath": "JUDICATORS_GAZE.jpg",
+            "Code": "JUDICATORS_GAZE",
+            "Descriptions": [
+                "受到15點<b>傷害</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#515151FF",
+            "Clock": 0,
+            "Type": "數據損壞",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "核心穿刺",
+            "ImagePath": "PIERCE_CORE.jpg",
+            "Code": "PIERCE_CORE",
+            "Descriptions": [
+                "對核心外圍設備造成150點傷害。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#FFFFFFFF",
+            "Clock": 2,
+            "Type": "特殊",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "THANKS_GUYS",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#981BD3FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "THANKS_GUYS_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "腳本",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "阿爾法代碼斬",
+            "ImagePath": "ALPHA_CODESLASH.jpg",
+            "Code": "ALPHA_CODESLASH",
+            "Descriptions": [
+                "造成0點<b>傷害</b>。\n你每有另一張名字中包括“代碼斬”的牌，此卡牌造成15點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "阿爾法代碼斬",
+            "ImagePath": "ALPHA_CODESLASH.jpg",
+            "Code": "ALPHA_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "造成0點<b>傷害</b>。\n你每有另一張名字中包括“代碼斬”的牌，這張牌造成20點<b>傷害</b>（0點<b>傷害</b>)。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "聚能代碼斬",
+            "ImagePath": "AMPED_CODESLASH.jpg",
+            "Code": "AMPED_CODESLASH",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你有至少10點<b>VIM</b>，則改為：",
+            "ConditionalDescriptions": [
+                "對所有目標造成40點<b>傷害</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Rarity": "初始",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "聚能代碼斬",
+            "ImagePath": "AMPED_CODESLASH.jpg",
+            "Code": "AMPED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你有至少10點<b>VIM</b>，則改為：",
+            "ConditionalDescriptions": [
+                "對所有目標造成60點<b>傷害</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Rarity": "初始",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "化身為獸",
+            "ImagePath": "BECOME_THE_BEAST.jpg",
+            "Code": "BECOME_THE_BEAST",
+            "Descriptions": [
+                "將你的<b>野性</b>層數翻倍。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "化身為獸",
+            "ImagePath": "BECOME_THE_BEAST.jpg",
+            "Code": "BECOME_THE_BEAST_UPGRADED",
+            "Descriptions": [
+                "將你的<b>野性</b>層數翻倍。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "兇殘撕扯",
+            "ImagePath": "BRUTAL_MAULING.jpg",
+            "Code": "BRUTAL_MAULING",
+            "Descriptions": [
+                "對所有目標造成35點<b>傷害</b>。",
+                "獲得4層<b>野性</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "兇殘撕扯",
+            "ImagePath": "BRUTAL_MAULING.jpg",
+            "Code": "BRUTAL_MAULING_UPGRADED",
+            "Descriptions": [
+                "對所有目標造成45點<b>傷害</b>。",
+                "獲得6層<b>野性</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "蓄力代碼斬",
+            "ImagePath": "CHARGED_CODESLASH.jpg",
+            "Code": "CHARGED_CODESLASH",
+            "Descriptions": [
+                "造成35點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "蓄力代碼斬",
+            "ImagePath": "CHARGED_CODESLASH.jpg",
+            "Code": "CHARGED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "造成50點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 6,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "代碼斬",
+            "ImagePath": "CODESLASH.jpg",
+            "Code": "CODESLASH",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "代碼斬",
+            "ImagePath": "CODESLASH.jpg",
+            "Code": "CODESLASH_UPGRADED",
+            "Descriptions": [
+                "造成30點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "控制台天才",
+            "ImagePath": "CONSOLE_PRODIGY.jpg",
+            "Code": "CONSOLE_PRODIGY",
+            "Descriptions": [
+                "造成60點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你在本回合使用過<br>至少2次<b>指令</b>，則改為：",
+            "ConditionalDescriptions": [
+                "造成120點<b>傷害</b>。"
+            ],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "控制台天才",
+            "ImagePath": "CONSOLE_PRODIGY.jpg",
+            "Code": "CONSOLE_PRODIGY_UPGRADED",
+            "Descriptions": [
+                "造成60點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你在本回合使用過<br>至少2次<b>指令</b>，則改為：",
+            "ConditionalDescriptions": [
+                "造成120點<b>傷害</b>。"
+            ],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "深紅突擊",
+            "ImagePath": "CRIMSON_ASSAULT.jpg",
+            "Code": "CRIMSON_ASSAULT",
+            "Descriptions": [
+                "造成40點<b>傷害</b>。",
+                "本回合中每進行一次攻擊，增加該卡牌20點<b>傷害</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "深紅突擊",
+            "ImagePath": "CRIMSON_ASSAULT.jpg",
+            "Code": "CRIMSON_ASSAULT_UPGRADED",
+            "Descriptions": [
+                "造成50點<b>傷害</b>。",
+                "本回合中每進行一次攻擊，增加該卡牌30點<b>傷害</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "數據汲取",
+            "ImagePath": "DATA_DRAIN.jpg",
+            "Code": "DATA_DRAIN",
+            "Descriptions": [
+                "造成60點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你處於<b>最大VIM</b>，則追加：",
+            "ConditionalDescriptions": [
+                "獲得等於造成<b>傷害</b>量層數的<b>屏障</b>。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "數據汲取",
+            "ImagePath": "DATA_DRAIN.jpg",
+            "Code": "DATA_DRAIN_UPGRADED",
+            "Descriptions": [
+                "造成70點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你有至少12點<b>VIM</b>，則追加：",
+            "ConditionalDescriptions": [
+                "獲得等於造成<b>傷害</b>量層數的<b>屏障</b>。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "瞬息優勢",
+            "ImagePath": "EPHEMERAL_EDGE.jpg",
+            "Code": "EPHEMERAL_EDGE",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。",
+                "<b>命中後：</b>生成 3點<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻擊",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "瞬息優勢",
+            "ImagePath": "EPHEMERAL_EDGE.jpg",
+            "Code": "EPHEMERAL_EDGE_UPGRADED",
+            "Descriptions": [
+                "造成30點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "利齒攻擊",
+            "ImagePath": "FANG_STRIKE.jpg",
+            "Code": "FANG_STRIKE",
+            "Descriptions": [
+                "造成35點<b>傷害</b>。",
+                "獲得2層<b>野性</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "利齒攻擊",
+            "ImagePath": "FANG_STRIKE.jpg",
+            "Code": "FANG_STRIKE_UPGRADED",
+            "Descriptions": [
+                "造成55點<b>傷害</b>。",
+                "獲得3層<b>野性</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "碎裂代碼斬",
+            "ImagePath": "FRAGMENTED_CODESLASH.jpg",
+            "Code": "FRAGMENTED_CODESLASH",
+            "Descriptions": [
+                "對所有目標造成20點<b>傷害</b>。",
+                "將1張<b>碎片化數據</b>添加至你的代碼庫中。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻擊",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "碎裂代碼斬",
+            "ImagePath": "FRAGMENTED_CODESLASH.jpg",
+            "Code": "FRAGMENTED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "對所有目標造成25點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "重裝步兵",
+            "ImagePath": "HOPLITE.jpg",
+            "Code": "HOPLITE",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。",
+                "獲得20點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "重裝步兵",
+            "ImagePath": "HOPLITE.jpg",
+            "Code": "HOPLITE_UPGRADED",
+            "Descriptions": [
+                "造成30點<b>傷害</b>。",
+                "獲得30點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "記憶體匕首",
+            "ImagePath": "MEMORY_DAGGER.jpg",
+            "Code": "MEM_DAGGER",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你有至少12點<b>VIM</b>，則追加：",
+            "ConditionalDescriptions": [
+                "抽1張牌。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻擊",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "記憶體匕首",
+            "ImagePath": "MEMORY_DAGGER.jpg",
+            "Code": "MEM_DAGGER_UPGRADED",
+            "Descriptions": [
+                "造成30點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你有至少12點<b>VIM</b>，則追加：",
+            "ConditionalDescriptions": [
+                "抽1張牌。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "記憶體跳躍",
+            "ImagePath": "MEMORY_LEAP.jpg",
+            "Code": "MEM_LEAP",
+            "Descriptions": [
+                "造成30點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你有至少12點<b>VIM</b>，則追加：",
+            "ConditionalDescriptions": [
+                "獲得1<b>時鐘</b>。"
+            ],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "記憶體跳躍",
+            "ImagePath": "MEMORY_LEAP.jpg",
+            "Code": "MEM_LEAP_UPGRADED",
+            "Descriptions": [
+                "造成50點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你有至少12點<b>VIM</b>，則追加：",
+            "ConditionalDescriptions": [
+                "獲得1<b>時鐘</b>。"
+            ],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "記憶體彎刀",
+            "ImagePath": "MEM_SABER.jpg",
+            "Code": "MEM_SABER",
+            "Descriptions": [
+                "造成40點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你有至少12點<b>VIM</b>，則追加：",
+            "ConditionalDescriptions": [
+                "施加2層<b>虛弱</b>。",
+                "施加2層<b>暴露</b>。"
+            ],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "記憶體彎刀",
+            "ImagePath": "MEM_SABER.jpg",
+            "Code": "MEM_SABER_UPGRADED",
+            "Descriptions": [
+                "造成40點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你有至少12點<b>VIM</b>，則追加：",
+            "ConditionalDescriptions": [
+                "施加2層<b>虛弱</b>。",
+                "施加2層<b>暴露</b>。"
+            ],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "記憶體鐮刀",
+            "ImagePath": "MEMORY_SCYTHE.jpg",
+            "Code": "MEM_SCYTHE",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你處於<b>最大VIM</b>，則改為：",
+            "ConditionalDescriptions": [
+                "造成90點<b>傷害</b>。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "記憶體鐮刀",
+            "ImagePath": "MEMORY_SCYTHE.jpg",
+            "Code": "MEM_SCYTHE_UPGRADED",
+            "Descriptions": [
+                "獲得1層<b>強電</b>。",
+                "造成30點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你處於<b>最大VIM</b>，則改為：",
+            "ConditionalDescriptions": [
+                "造成90點<b>傷害</b>。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "過度殺戮",
+            "ImagePath": "OVERKILL.jpg",
+            "Code": "OVERKILL",
+            "Descriptions": [
+                "造成40點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你處於<b>最大VIM</b>，則改為：",
+            "ConditionalDescriptions": [
+                "對所有目標造成200點<b>傷害</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "過度殺戮",
+            "ImagePath": "OVERKILL.jpg",
+            "Code": "OVERKILL_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "如果你處於<b>最大VIM</b>，則改為：",
+            "ConditionalDescriptions": [
+                "對所有目標造成350點<b>傷害</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "集群狩獵",
+            "ImagePath": "PACK_HUNT.jpg",
+            "Code": "PACK_HUNT",
+            "Descriptions": [
+                "造成50點<b>傷害</b>。",
+                "<b>野性</b>對這張牌有3倍影響。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "集群狩獵",
+            "ImagePath": "PACK_HUNT.jpg",
+            "Code": "PACK_HUNT_UPGRADED",
+            "Descriptions": [
+                "造成50點<b>傷害</b>。",
+                "<b>野性</b>對這張牌有3倍影響。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "原始嚎叫",
+            "ImagePath": "PRIMAL_HOWL.jpg",
+            "Code": "PRIMAL_HOWL",
+            "Descriptions": [
+                "造成100點<b>傷害</b>。",
+                "每擁有3層<b>野性</b>，這張卡的費用就會減少1 <b>時鐘</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 9,
+            "Type": "攻擊",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "原始嚎叫",
+            "ImagePath": "PRIMAL_HOWL.jpg",
+            "Code": "PRIMAL_HOWL_UPGRADED",
+            "Descriptions": [
+                "造成120點<b>傷害</b>。",
+                "每擁有2層<b>野性</b>，這張卡的費用就會減少1 <b>時鐘</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 9,
+            "Type": "攻擊",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "遞迴噩夢",
+            "ImagePath": "RECURSIVE_NIGHTMARE.jpg",
+            "Code": "RECURSIVE_NIGHTMARE",
+            "Descriptions": [
+                "造成30點<b>傷害</b>。",
+                "將這張牌的<b>傷害</b>增加10點，直到戰鬥結束。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "遞迴噩夢",
+            "ImagePath": "RECURSIVE_NIGHTMARE.jpg",
+            "Code": "RECURSIVE_NIGHTMARE_UPGRADED",
+            "Descriptions": [
+                "造成30點<b>傷害</b>。",
+                "將這張牌的<b>傷害</b>增加10點，直到戰鬥結束。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "撕裂代碼斬",
+            "ImagePath": "RENDING_CODESLASH.jpg",
+            "Code": "RENDING_CODESLASH",
+            "Descriptions": [
+                "造成35點<b>傷害</b>。",
+                "<b>命中後：</b>施加1層<b>虛弱</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "撕裂代碼斬",
+            "ImagePath": "RENDING_CODESLASH.jpg",
+            "Code": "RENDING_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "造成45點<b>傷害</b>。",
+                "<b>命中後：</b>施加2層<b>虛弱</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "太陽爆發X",
+            "ImagePath": "SUN_BURST_X.jpg",
+            "Code": "SUN_BURST_X",
+            "Descriptions": [
+                "造成30點<b>傷害</b>。",
+                "你在本回合打出的下一章<b>攻擊</b>牌會生成雙倍<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "太陽爆發X",
+            "ImagePath": "SUN_BURST_X.jpg",
+            "Code": "SUN_BURST_X_UPGRADED",
+            "Descriptions": [
+                "造成50點<b>傷害</b>。",
+                "你在本回合打出的下一章<b>攻擊</b>牌會生成雙倍<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "密文會的詭計",
+            "ImagePath": "THE_CYPHERS_GAMBIT.jpg",
+            "Code": "THE_CYPHERS_GAMBIT",
+            "Descriptions": [
+                "造成30點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你在本回合使用過<br>至少1次<b>指令</b>，則追加：",
+            "ConditionalDescriptions": [
+                "獲得1<b>時鐘</b>。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "密文會的詭計",
+            "ImagePath": "THE_CYPHERS_GAMBIT.jpg",
+            "Code": "THE_CYPHERS_GAMBIT_UPGRADED",
+            "Descriptions": [
+                "造成40點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你在本回合使用過<br>至少1次<b>指令</b>，則追加：",
+            "ConditionalDescriptions": [
+                "獲得1<b>時鐘</b>。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "聯合會的盜竊",
+            "ImagePath": "THE_GUILDS_HEIST.jpg",
+            "Code": "THE_GUILDS_HEIST",
+            "Descriptions": [
+                "造成40點<b>傷害</b>。",
+                "<b>命中後：</b>抽1張牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "聯合會的盜竊",
+            "ImagePath": "THE_GUILDS_HEIST.jpg",
+            "Code": "THE_GUILDS_HEIST_UPGRADED",
+            "Descriptions": [
+                "造成55點<b>傷害</b>。",
+                "<b>命中後：</b>抽2張牌，然後棄置1張牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "造物者的觸碰",
+            "ImagePath": "THE_MAKERS_TOUCH.jpg",
+            "Code": "THE_MAKERS_TOUCH",
+            "Descriptions": [
+                "造成30點<b>傷害</b>。",
+                "隨機棄置1張你的手牌。",
+                "如果是<b>攻擊</b>牌，則額外造成30點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "造物者的觸碰",
+            "ImagePath": "THE_MAKERS_TOUCH.jpg",
+            "Code": "THE_MAKERS_TOUCH_UPGRADED",
+            "Descriptions": [
+                "造成30點<b>傷害</b>。",
+                "隨機棄置2張你的手牌。",
+                "如果你棄置2張牌，則造成額外60點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "朋克黨的饋贈",
+            "ImagePath": "THE_PUNKS_GIFT.jpg",
+            "Code": "THE_PUNKS_GIFT",
+            "Descriptions": [
+                "<b>反編譯</b>一張手牌。",
+                "對所有目標造成相當於其<b>VIM</b>值20倍的<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "朋克黨的饋贈",
+            "ImagePath": "THE_PUNKS_GIFT.jpg",
+            "Code": "THE_PUNKS_GIFT_UPGRADED",
+            "Descriptions": [
+                "<b>反編譯</b>一張手牌。",
+                "對所有目標造成相當於其<b>VIM</b>值30倍的<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "野犬幫的伏擊",
+            "ImagePath": "THE_STRAY_AMBUSH.jpg",
+            "Code": "THE_STRAYS_AMBUSH",
+            "Descriptions": [
+                "造成30點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你擁有至少<br>6層<b>野性</b>，則追加：",
+            "ConditionalDescriptions": [
+                "獲得1<b>時鐘</b>。"
+            ],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "野犬幫的伏擊",
+            "ImagePath": "THE_STRAY_AMBUSH.jpg",
+            "Code": "THE_STRAYS_AMBUSH_UPGRADED",
+            "Descriptions": [
+                "造成30點<b>傷害</b>。"
+            ],
+            "Conditional": "如果你擁有至少<br>8層<b>野性</b>，則追加：",
+            "ConditionalDescriptions": [
+                "獲得2<b>時鐘</b>。"
+            ],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "食物鏈頂層",
+            "ImagePath": "TOP_OF_THE_FOOD_CHAIN.jpg",
+            "Code": "TOP_OF_THE_FOOD_CHAIN",
+            "Descriptions": [
+                "造成等於12乘以你<b>堅毅</b>層數的<b>傷害</b>（0點<b>傷害</b>）。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "食物鏈頂層",
+            "ImagePath": "TOP_OF_THE_FOOD_CHAIN.jpg",
+            "Code": "TOP_OF_THE_FOOD_CHAIN_UPGRADED",
+            "Descriptions": [
+                "造成等於12乘以你<b>堅毅</b>層數的<b>傷害</b>（0點<b>傷害</b>）。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "尤利西斯的玩具",
+            "ImagePath": "ULYSSES_TOY.jpg",
+            "Code": "ULYSSES_TOY",
+            "Descriptions": [
+                "造成等於你在本場戰鬥中花費過的<b>VIM</b>值2倍的<b>傷害</b>（0點<b>傷害</b>）。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "尤利西斯的玩具",
+            "ImagePath": "ULYSSES_TOY.jpg",
+            "Code": "ULYSSES_TOY_UPGRADED",
+            "Descriptions": [
+                "造成等於你在本場戰鬥中花費過的<b>VIM</b>值3倍的<b>傷害</b>（0點<b>傷害</b>）。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "空類代碼斬",
+            "ImagePath": "VOID_CODESLASH.jpg",
+            "Code": "VOID_CODESLASH",
+            "Descriptions": [
+                "對所有目標造成40點<b>傷害</b>。",
+                "對所有目標施加2層<b>暴露</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "空類代碼斬",
+            "ImagePath": "VOID_CODESLASH.jpg",
+            "Code": "VOID_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "對所有目標造成50點<b>傷害</b>。",
+                "對所有目標施加3層<b>暴露</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "守護軍主之吻",
+            "ImagePath": "WARDLORD_KISS.jpg",
+            "Code": "WARDLORD_KISS",
+            "Descriptions": [
+                "造成120點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "守護軍主之吻",
+            "ImagePath": "WARDLORD_KISS.jpg",
+            "Code": "WARDLORD_KISS_UPGRADED",
+            "Descriptions": [
+                "造成120點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻擊",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "阿多尼斯廣告攔截器",
+            "ImagePath": "ADONIS_AD_BLOCKER.jpg",
+            "Code": "ADONIS_AD_BLOCKER",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。",
+                "抽1張牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "阿多尼斯廣告攔截器",
+            "ImagePath": "ADONIS_AD_BLOCKER.jpg",
+            "Code": "ADONIS_AD_BLOCKER_UPGRADED",
+            "Descriptions": [
+                "獲得45點<b>屏障</b>。",
+                "抽1張牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "聚能賽博殼",
+            "ImagePath": "AMPED_CYBERSHELL.jpg",
+            "Code": "AMPED_CYBERSHELL",
+            "Descriptions": [
+                "獲得20點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你有至少10點<b>VIM</b>，則改為：",
+            "ConditionalDescriptions": [
+                "獲得40點<b>屏障</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Rarity": "初始",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "聚能賽博殼",
+            "ImagePath": "AMPED_CYBERSHELL.jpg",
+            "Code": "AMPED_CYBERSHELL_UPGRADED",
+            "Descriptions": [
+                "獲得20點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你有至少10點<b>VIM</b>，則改為：",
+            "ConditionalDescriptions": [
+                "獲得60點<b>屏障</b>。"
+            ],
+            "Rarity": "初始",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "動物本能",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "ANIMAL_INSTINCT",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你在這一回合已經發起過攻擊，則改為：",
+            "ConditionalDescriptions": [
+                "獲得60點<b>屏障</b>。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "動物本能",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "ANIMAL_INSTINCT_UPGRADED",
+            "Descriptions": [
+                "獲得40點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你在這一回合已經發起過攻擊，則改為：",
+            "ConditionalDescriptions": [
+                "獲得80點<b>屏障</b>。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "扭曲現實",
+            "ImagePath": "BEND_REALITY.jpg",
+            "Code": "BEND_REALITY",
+            "Descriptions": [
+                "獲得160點<b>屏障</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "扭曲現實",
+            "ImagePath": "BEND_REALITY.jpg",
+            "Code": "BEND_REALITY_UPGRADED",
+            "Descriptions": [
+                "獲得200點<b>屏障</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "冰冷凝視",
+            "ImagePath": "COLD_STARE.jpg",
+            "Code": "COLD_STARE",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你有至少6層<b>堅毅</b>，則追加：",
+            "ConditionalDescriptions": [
+                "對所有目標施加1層<b>虛弱</b>。"
+            ],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "冰冷凝視",
+            "ImagePath": "COLD_STARE.jpg",
+            "Code": "COLD_STARE_UPGRADED",
+            "Descriptions": [
+                "獲得40點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你有至少6層<b>堅毅</b>，則追加：",
+            "ConditionalDescriptions": [
+                "對所有目標施加2層<b>虛弱</b>。"
+            ],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "控制台備份",
+            "ImagePath": "CONSOLE_BACKUP.jpg",
+            "Code": "CONSOLE_BACKUP",
+            "Descriptions": [
+                "獲得60點<b>屏障</b>。",
+                "本回合你每使用一次<b>指令</b>，獲得30點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防禦",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "控制台備份",
+            "ImagePath": "CONSOLE_BACKUP.jpg",
+            "Code": "CONSOLE_BACKUP_UPGRADED",
+            "Descriptions": [
+                "獲得70點<b>屏障</b>。",
+                "本回合你每使用一次<b>指令</b>，獲得45點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防禦",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "賽博外皮",
+            "ImagePath": "CYBERHIDE.jpg",
+            "Code": "CYBERHIDE",
+            "Descriptions": [
+                "獲得20點<b>屏障</b>。",
+                "如果你在本回合打出的最後一張牌是<b>防禦</b>牌，這張牌將會被打出兩次。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "賽博外皮",
+            "ImagePath": "CYBERHIDE.jpg",
+            "Code": "CYBERHIDE_UPGRADED",
+            "Descriptions": [
+                "獲得35點<b>屏障</b>。",
+                "如果你在本回合打出的最後一張牌是<b>防禦</b>牌，這張牌將會被打出兩次。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "賽博殼",
+            "ImagePath": "CYBERSHELL.jpg",
+            "Code": "CYBERSHELL",
+            "Descriptions": [
+                "獲得20點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "賽博殼",
+            "ImagePath": "CYBERSHELL.jpg",
+            "Code": "CYBERSHELL_UPGRADED",
+            "Descriptions": [
+                "獲得40點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "能量外衣",
+            "ImagePath": "ENERGY_COAT.jpg",
+            "Code": "ENERGY_COAT",
+            "Descriptions": [
+                "獲得40點<b>屏障</b>。",
+                "本回合你每打出一張<b>防禦</b>牌，獲得7點<b>屏障</b>並生成1點<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "能量外衣",
+            "ImagePath": "ENERGY_COAT.jpg",
+            "Code": "ENERGY_COAT_UPGRADED",
+            "Descriptions": [
+                "獲得45點<b>屏障</b>。",
+                "本回合你每打出一張<b>防禦</b>牌，獲得10點<b>屏障</b>並生成2點<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "瞬息圍牆",
+            "ImagePath": "EPHEMERAL_WALL.jpg",
+            "Code": "EPHEMERAL_WALL",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。",
+                "刷新你的<b>小型指令</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "瞬息圍牆",
+            "ImagePath": "EPHEMERAL_WALL.jpg",
+            "Code": "EPHEMERAL_WALL_UPGRADED",
+            "Descriptions": [
+                "獲得40點<b>屏障</b>。",
+                "刷新你的<b>小型指令</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 6,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "碎裂封鎖",
+            "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
+            "Code": "FRAGMENTED_BLOCKADE",
+            "Descriptions": [
+                "獲得50點<b>屏障</b>。",
+                "將1張<b>碎片化數據</b>添加至你的代碼庫中。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "碎裂封鎖",
+            "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
+            "Code": "FRAGMENTED_BLOCKADE_UPGRADED",
+            "Descriptions": [
+                "獲得50點<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "輸入助手",
+            "ImagePath": "INPUT_ASSISTANT.jpg",
+            "Code": "INPUT_ASSISTANT",
+            "Descriptions": [
+                "獲得20點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你在本回合使用過至少<br>1次<b>指令</b>，則追加：",
+            "ConditionalDescriptions": [
+                "獲得1層<b>快取</b>。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "防禦",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "輸入助手",
+            "ImagePath": "INPUT_ASSISTANT.jpg",
+            "Code": "INPUT_ASSISTANT_UPGRADED",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你在本回合使用過至少<br>1次<b>指令</b>，則追加：",
+            "ConditionalDescriptions": [
+                "抽1張牌。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "防禦",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "犬舍律法",
+            "ImagePath": "KENNEL_LAW.jpg",
+            "Code": "KENNEL_LAW",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你有至少6層<b>堅毅</b>，則追加：",
+            "ConditionalDescriptions": [
+                "獲得1<b>時鐘</b>。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "犬舍律法",
+            "ImagePath": "KENNEL_LAW.jpg",
+            "Code": "KENNEL_LAW_UPGRADED",
+            "Descriptions": [
+                "獲得45點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你有至少6層<b>堅毅</b>，則追加：",
+            "ConditionalDescriptions": [
+                "獲得1<b>時鐘</b>。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "記憶體斗篷",
+            "ImagePath": "MEMORY_CLOAK.jpg",
+            "Code": "MEM_CLOAK",
+            "Descriptions": [
+                "獲得20點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你有至少12點<b>VIM</b>，則追加：",
+            "ConditionalDescriptions": [
+                "抽1張牌。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "防禦",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "記憶體斗篷",
+            "ImagePath": "MEMORY_CLOAK.jpg",
+            "Code": "MEM_CLOAK_UPGRADED",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你有至少12點<b>VIM</b>，則追加：",
+            "ConditionalDescriptions": [
+                "抽1張牌。"
+            ],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "橫行街頭",
+            "ImagePath": "OWN_THE_STREETS.jpg",
+            "Code": "OWN_THE_STREETS",
+            "Descriptions": [
+                "獲得60點<b>屏障</b>。",
+                "<b>堅毅</b>對這張牌有3倍影響。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "橫行街頭",
+            "ImagePath": "OWN_THE_STREETS.jpg",
+            "Code": "OWN_THE_STREETS_UPGRADED",
+            "Descriptions": [
+                "獲得90點<b>屏障</b>。",
+                "<b>堅毅</b>對這張牌有3倍影響。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防禦",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "寵物Z機器人",
+            "ImagePath": "PET_Z_BOT.jpg",
+            "Code": "PET_Z_BOT",
+            "Descriptions": [
+                "獲得20點<b>屏障</b>。",
+                "從你的代碼庫中選擇1張牌放入你的手牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "寵物Z機器人",
+            "ImagePath": "PET_Z_BOT.jpg",
+            "Code": "PET_Z_BOT_UPGRADED",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。",
+                "從你的代碼庫中選擇1張牌放入你的手牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "能量裝甲",
+            "ImagePath": "POWER_ARMOR.jpg",
+            "Code": "POWER_ARMOR",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你處於<b>最大VIM</b>，則改為：",
+            "ConditionalDescriptions": [
+                "獲得100點<b>屏障</b>。"
+            ],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "能量裝甲",
+            "ImagePath": "POWER_ARMOR.jpg",
+            "Code": "POWER_ARMOR_UPGRADED",
+            "Descriptions": [
+                "獲得40點<b>屏障</b>。"
+            ],
+            "Conditional": "如果你處於<b>最大VIM</b>，則改為：",
+            "ConditionalDescriptions": [
+                "獲得150點<b>屏障</b>。"
+            ],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "街頭意志",
+            "ImagePath": "STREET_RESOLVE.jpg",
+            "Code": "STREET_RESOLVE",
+            "Descriptions": [
+                "獲得60點<b>屏障</b>。",
+                "獲得4層<b>堅毅</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "街頭意志",
+            "ImagePath": "STREET_RESOLVE.jpg",
+            "Code": "STREET_RESOLVE_UPGRADED",
+            "Descriptions": [
+                "獲得80點<b>屏障</b>。",
+                "獲得6層<b>堅毅</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防禦",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "斯林克斯的祝福",
+            "ImagePath": "SYRINX_BLESSING.jpg",
+            "Code": "SYRINX_BLESSING",
+            "Descriptions": [
+                "獲得20點<b>屏障</b>。",
+                "你在本回合打出的下一張牌將會提供雙倍<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "斯林克斯的祝福",
+            "ImagePath": "SYRINX_BLESSING.jpg",
+            "Code": "SYRINX_BLESSING_UPGRADED",
+            "Descriptions": [
+                "獲得40點<b>屏障</b>。",
+                "你在本回合打出的下一張牌將會提供雙倍<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "野犬幫的狡詐",
+            "ImagePath": "THE_STRAYS_GUILE.jpg",
+            "Code": "THE_STRAYS_GUILE",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。",
+                "獲得2層<b>堅毅</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "野犬幫的狡詐",
+            "ImagePath": "THE_STRAYS_GUILE.jpg",
+            "Code": "THE_STRAYS_GUILE_UPGRADED",
+            "Descriptions": [
+                "獲得50點<b>屏障</b>。",
+                "獲得3層<b>堅毅</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "狼窟",
+            "ImagePath": "THE_WOLVES_DEN.jpg",
+            "Code": "THE_WOLVES_DEN",
+            "Descriptions": [
+                "將你的<b>堅毅</b>層數加倍。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "狼窟",
+            "ImagePath": "THE_WOLVES_DEN.jpg",
+            "Code": "THE_WOLVES_DEN_UPGRADED",
+            "Descriptions": [
+                "將你的<b>堅毅</b>層數加倍。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "雷電Z機器人",
+            "ImagePath": "THUNDER_Z_BOT.jpg",
+            "Code": "THUNDER_Z_BOT",
+            "Descriptions": [
+                "獲得30點<b>屏障</b>。",
+                "獲得1層<b>強電</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "雷電Z機器人",
+            "ImagePath": "THUNDER_Z_BOT.jpg",
+            "Code": "THUNDER_Z_BOT_UPGRADED",
+            "Descriptions": [
+                "獲得40點<b>屏障</b>。",
+                "獲得2層<b>強電</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "代碼斬",
+            "ImagePath": "CODESLASH.jpg",
+            "Code": "DEMO_CARD",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻擊",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "阿多尼斯廣告攔截器",
+            "ImagePath": "Baribal_angry.jpg",
+            "Code": "DEV_CARD_2",
+            "Descriptions": [
+                "造成20點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防禦",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "戰鬥最佳化器",
+            "ImagePath": "BATTLE_OPTIMIZER.jpg",
+            "Code": "BATTLE_OPTIMIZER",
+            "Descriptions": [
+                "對所有目標施加3層<b>暴露</b>。",
+                "對所有目標施加3層<b>虛弱</b>。",
+                "獲得2層<b>快取</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9B705FF",
+            "Clock": 3,
+            "Type": "生成器",
+            "Vim": 5,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "戰鬥最佳化器",
+            "ImagePath": "BATTLE_OPTIMIZER.jpg",
+            "Code": "BATTLE_OPTIMIZER_UPGRADED",
+            "Descriptions": [
+                "對所有目標施加3層<b>暴露</b>。",
+                "對所有目標施加3層<b>虛弱</b>。",
+                "獲得3層<b>快取</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成器",
+            "Vim": 5,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "燒毀",
+            "ImagePath": "BURNER.jpg",
+            "Code": "BURNER",
+            "Descriptions": [
+                "<b>反編譯</b>一張手牌。",
+                "生成其3倍的<b>VIM</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "燒毀",
+            "ImagePath": "BURNER.jpg",
+            "Code": "BURNER_UPGRADED",
+            "Descriptions": [
+                "<b>反編譯</b>一張手牌。",
+                "生成其3倍的<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "催化貓",
+            "ImagePath": "CAT_ALYST.jpg",
+            "Code": "CAT_ALYST",
+            "Descriptions": [
+                "本回合你每抽到一張牌生成1點<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "催化貓",
+            "ImagePath": "CAT_ALYST.jpg",
+            "Code": "CAT_ALYST_UPGRADED",
+            "Descriptions": [
+                "獲得1層<b>快取</b>。",
+                "本回合你每抽到一張牌生成1點<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "控制台重啟器",
+            "ImagePath": "CONSOLE_REBOOTER.jpg",
+            "Code": "CONSOLE_REBOOTER",
+            "Descriptions": [
+                "本回合刷新所有<b>指令</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 8,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "控制台重啟器",
+            "ImagePath": "CONSOLE_REBOOTER.jpg",
+            "Code": "CONSOLE_REBOOTER_UPGRADED",
+            "Descriptions": [
+                "本回合刷新所有<b>指令</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 10,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "顱骨興奮",
+            "ImagePath": "CRANIUM_RUSH.jpg",
+            "Code": "CRANIUM_RUSH",
+            "Descriptions": [
+                "獲得1層<b>超頻</b>。"
+            ],
+            "Conditional": "如果你處於<b>最大VIM</b>，則改為：",
+            "ConditionalDescriptions": [
+                "獲得2層<b>超頻</b>。",
+                "獲得1<b>時鐘</b>。"
+            ],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "顱骨興奮",
+            "ImagePath": "CRANIUM_RUSH.jpg",
+            "Code": "CRANIUM_RUSH_UPGRADED",
+            "Descriptions": [
+                "獲得1層<b>超頻</b>。"
+            ],
+            "Conditional": "如果你處於<b>最大VIM</b>，則改為：",
+            "ConditionalDescriptions": [
+                "獲得2層<b>超頻</b>。",
+                "獲得2<b>時鐘</b>。"
+            ],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "樂子菌",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "FUN_GUYS",
+            "Descriptions": [
+                "抽1張牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "樂子菌",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "FUN_GUYS_UPGRADED",
+            "Descriptions": [
+                "抽1張牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "魔法手指",
+            "ImagePath": "MAGIC_FINGERS.jpg",
+            "Code": "MAGIC_FINGERS",
+            "Descriptions": [
+                "本回合你每打出一張<b>攻擊</b>牌，生成1點<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "魔法手指",
+            "ImagePath": "MAGIC_FINGERS.jpg",
+            "Code": "MAGIC_FINGERS_UPGRADED",
+            "Descriptions": [
+                "本回合你每打出一張<b>攻擊</b>牌，生成2點<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "記憶體信標",
+            "ImagePath": "MEMORY_BEACON.jpg",
+            "Code": "MEM_BEACON",
+            "Descriptions": [
+                "獲得2<b>時鐘</b>。"
+            ],
+            "Conditional": "如果你處於<b>最大VIM</b>，則改為：",
+            "ConditionalDescriptions": [
+                "獲得3<b>時鐘</b>。",
+                "抽2張牌。"
+            ],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成器",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "記憶體信標",
+            "ImagePath": "MEMORY_BEACON.jpg",
+            "Code": "MEM_BEACON_UPGRADED",
+            "Descriptions": [
+                "獲得2<b>時鐘</b>。"
+            ],
+            "Conditional": "如果你有至少12點<b>VIM</b>，則改為：",
+            "ConditionalDescriptions": [
+                "獲得3<b>時鐘</b>。",
+                "抽2張牌。"
+            ],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成器",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "月光",
+            "ImagePath": "MOONLIGHT.jpg",
+            "Code": "MOONLIGHT",
+            "Descriptions": [
+                "獲得5層<b>野性</b>。",
+                "在你的回合結束時，失去5層<b>野性</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "月光",
+            "ImagePath": "MOONLIGHT.jpg",
+            "Code": "MOONLIGHT_UPGRADED",
+            "Descriptions": [
+                "獲得5層<b>野性</b>。",
+                "在你的回合結束時，失去5層<b>野性</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "獵物驅動",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "PREY_DRIVE",
+            "Descriptions": [
+                "獲得2層<b>堅毅</b>。",
+                "獲得2層<b>野性</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "獵物驅動",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "PREY_DRIVE_UPGRADED",
+            "Descriptions": [
+                "獲得3層<b>堅毅</b>。",
+                "獲得3層<b>野性</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "記憶體下載器",
+            "ImagePath": "RAM_DOWNLOADER.jpg",
+            "Code": "RAM_DOWNLOADER",
+            "Descriptions": [
+                "棄掉最多3張牌。",
+                "每棄掉一張牌生成3點<b>VIM</b>。",
+                "如果你棄掉三張牌，獲得1層<b>快取</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "記憶體下載器",
+            "ImagePath": "RAM_DOWNLOADER.jpg",
+            "Code": "RAM_DOWNLOADER_UPGRADED",
+            "Descriptions": [
+                "棄掉最多4張牌。",
+                "每棄掉一張牌生成4點<b>VIM</b>。",
+                "如果你棄掉至少三張牌，獲得2層<b>快取</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "遞迴夢",
+            "ImagePath": "RECURSIVE_DREAM.jpg",
+            "Code": "RECURSIVE_DREAM",
+            "Descriptions": [
+                "在本場戰鬥中將這張牌生成的<b>VIM</b>增加1點。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "遞迴夢",
+            "ImagePath": "RECURSIVE_DREAM.jpg",
+            "Code": "RECURSIVE_DREAM_UPGRADED",
+            "Descriptions": [
+                "在本場戰鬥中將這張牌生成的<b>VIM</b>增加1點。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 6,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "舍費爾血液樣本",
+            "ImagePath": "SCHAFER_BLOOD_SAMPLE.jpg",
+            "Code": "SCHAFER_BLOOD_SAMPLE",
+            "Descriptions": [
+                "將你的<b>VIM</b>值翻倍。",
+                "抽1張牌。",
+                "獲得1層<b>快取</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "舍費爾血液樣本",
+            "ImagePath": "SCHAFER_BLOOD_SAMPLE.jpg",
+            "Code": "SCHAFER_BLOOD_SAMPLE_UPGRADED",
+            "Descriptions": [
+                "將你的<b>VIM</b>值翻倍。",
+                "抽1張牌。",
+                "獲得2層<b>快取</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "不可控生長",
+            "ImagePath": "UNRESTRAINED_GROWTH.jpg",
+            "Code": "UNRESTRAINED_GROWTH",
+            "Descriptions": [
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 5,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "不可控生長",
+            "ImagePath": "UNRESTRAINED_GROWTH.jpg",
+            "Code": "UNRESTRAINED_GROWTH_UPGRADED",
+            "Descriptions": [
+                "獲得1層<b>強電</b>。",
+                "<b>反編譯</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 5,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "不穩定放電",
+            "ImagePath": "UNSTABLE_CHARGE.jpg",
+            "Code": "UNSTABLE_CHARGE",
+            "Descriptions": [],
+            "Conditional": "如果你在本回合中使用過<br>至少1次<b>指令</b>，則追加：",
+            "ConditionalDescriptions": [
+                "額外生成1點<b>VIM</b>。"
+            ],
+            "Rarity": "初始",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "不穩定放電",
+            "ImagePath": "UNSTABLE_CHARGE.jpg",
+            "Code": "UNSTABLE_CHARGE_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "如果你在本回合中使用過<br>至少1次<b>指令</b>，則追加：",
+            "ConditionalDescriptions": [
+                "刷新你的<b>小型指令</b>。",
+                "額外生成1點<b>VIM</b>。"
+            ],
+            "Rarity": "初始",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "豐饒之角協議",
+            "ImagePath": "CORNUCOPIA_PROTOCOL.jpg",
+            "Code": "CORNUCOPIA_PROTOCOL",
+            "Descriptions": [
+                "在你的回合開始時生成3點<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "協議",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "精通協議",
+            "ImagePath": "CUNNING_PROTOCOL.jpg",
+            "Code": "CUNNING_PROTOCOL",
+            "Descriptions": [
+                "在你的回合開始時，獲得3層<b>堅毅</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "協議",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "貪婪協議",
+            "ImagePath": "GREED_PROTOCOL.jpg",
+            "Code": "GREED_PROTOCOL",
+            "Descriptions": [
+                "你在每回合打出的第一張牌會生成雙倍<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "協議",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "點火協議",
+            "ImagePath": "IGNITION_PROTOCOL.jpg",
+            "Code": "IGNITION_PROTOCOL",
+            "Descriptions": [
+                "你每次啟用<b>指令</b>時，對所有目標造成20點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "協議",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "動量協議",
+            "ImagePath": "MOMENTUM_PROTOCOL.jpg",
+            "Code": "MOMENTUM_PROTOCOL",
+            "Descriptions": [
+                "每回合你第一次啟用<b>指令</b>時，獲得1<b>時鐘</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "協議",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "月光協議",
+            "ImagePath": "MOON_PROTOCOL.jpg",
+            "Code": "MOON_PROTOCOL",
+            "Descriptions": [
+                "在你的回合開始時，獲得3層<b>野性</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "協議",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "涅槃協議",
+            "ImagePath": "NIRVANA_PROTOCOL.jpg",
+            "Code": "NIRVANA_PROTOCOL",
+            "Descriptions": [
+                "在你的回合開始時，如果你處於<b>最大VIM</b>，獲得1<b>時鐘</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "協議",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "溢出協議",
+            "ImagePath": "OVERFLOW_PROTOCOL.jpg",
+            "Code": "OVERFLOW_PROTOCOL",
+            "Descriptions": [
+                "你每在<b>最大VIM</b>下生成<b>VIM</b>時，每生成1點<b>VIM</b>，對所有目標造成5點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "協議",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PING-U協議",
+            "ImagePath": "PINGU_PROTOCOL.jpg",
+            "Code": "PING_U_PROTOCOL",
+            "Descriptions": [
+                "你每在<b>最大VIM</b>時打出一張牌，對所有目標造成8點<b>傷害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "協議",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "量子協議",
+            "ImagePath": "QUANTUM_PROTOCOL.jpg",
+            "Code": "QUANTUM_PROTOCOL",
+            "Descriptions": [
+                "你每次使用<b>指令</b>時，生成2點<b>VIM</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "超凡",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "協議",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "偵查協議",
+            "ImagePath": "RECON_PROTOCOL.jpg",
+            "Code": "RECON_PROTOCOL",
+            "Descriptions": [
+                "每回合多抽1張牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "罕見",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "協議",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "NULL",
+            "ImagePath": ".jpg",
+            "Code": "DECOMPILE_TEST",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "NULL",
+            "ImagePath": ".jpg",
+            "Code": "FACTORY_TEST",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成器",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "NULL",
+            "ImagePath": "AMPED_CODESLASH.jpg",
+            "Code": "HACK_TEST",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻擊",
+            "Vim": 0,
+            "IsUpgrade": false
+        }
+    ]
+}

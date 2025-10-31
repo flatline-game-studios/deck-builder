@@ -1,0 +1,270 @@
+{
+    "Items": [
+        {
+            "CommandName": "牟利",
+            "Cost": 6,
+            "Description": "本回合你每次打出一張牌時，生成1點<b>VIM</b>。",
+            "Tier": "Minor",
+            "Code": "AUGMENTED"
+        },
+        {
+            "CommandName": "複製",
+            "Cost": 10,
+            "Description": "選擇一張手牌中的<b>非協議牌</b>，在下個回合生成一張副本到你的手牌。",
+            "Tier": "Major",
+            "Code": "CloneCommand_NotImplemented"
+        },
+        {
+            "CommandName": "勇毅",
+            "Cost": 6,
+            "Description": "獲得2層<b>堅毅</b>。",
+            "Tier": "Minor",
+            "Code": "DareCommand"
+        },
+        {
+            "CommandName": "構建",
+            "Cost": 5,
+            "Description": "生成1張你在本回合最後打出的<b>腳本</b> 牌副本。",
+            "Tier": "Minor",
+            "Code": "CONSTRUCT_COMMAND"
+        },
+        {
+            "CommandName": "增強·構建",
+            "Cost": 5,
+            "Description": "生成2張你在本回合最後打出的<b>腳本</b> 牌副本。",
+            "Tier": "Minor",
+            "Code": "CONSTRUCT_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "潛入",
+            "Cost": 16,
+            "Description": "抽4張牌。",
+            "Tier": "Critical",
+            "Code": "DIVE_COMMAND"
+        },
+        {
+            "CommandName": "增強·潛入",
+            "Cost": 16,
+            "Description": "抽5張牌。",
+            "Tier": "Critical",
+            "Code": "DIVE_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "維持",
+            "Cost": 5,
+            "Description": "選擇1張手牌，在本回合<b>保留</b>。",
+            "Tier": "Minor",
+            "Code": "MANTAIN_COMMAND"
+        },
+        {
+            "CommandName": "增強·維持",
+            "Cost": 5,
+            "Description": "選擇至多2張手牌，在本回合<b>保留</b>。",
+            "Tier": "Minor",
+            "Code": "MANTAIN_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "準備",
+            "Cost": 12,
+            "Description": "在下一回合開始時，獲得 1<b>時鐘</b>。",
+            "Tier": "Major",
+            "Code": "PREPARE_COMMAND"
+        },
+        {
+            "CommandName": "增強·準備",
+            "Cost": 12,
+            "Description": "在下一回合開始時，獲得 2<b>時鐘</b>。",
+            "Tier": "Major",
+            "Code": "PREPARE_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "集結",
+            "Cost": 12,
+            "Description": "延長1點你所有的<b>協助</b>效果 。",
+            "Tier": "Major",
+            "Code": "RALLY_COMMAND"
+        },
+        {
+            "CommandName": "增強·集結",
+            "Cost": 12,
+            "Description": "延長2點你所有的<b>協助</b>效果 。",
+            "Tier": "Major",
+            "Code": "RALLY_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "反彈",
+            "Cost": 10,
+            "Description": "將本回合最後棄掉的卡牌返回至你的手牌中。",
+            "Tier": "Major",
+            "Code": "REBOUND_COMMAND"
+        },
+        {
+            "CommandName": "增強·反彈",
+            "Cost": 10,
+            "Description": "將本回合最後棄掉的卡牌返回至你的手牌後，再抽1張牌。",
+            "Tier": "Major",
+            "Code": "REBOUND_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "複製",
+            "Cost": 20,
+            "Description": "為你的手牌中每張<b>腳本</b>牌生成1張副本。",
+            "Tier": "Critical",
+            "Code": "REPLICATE_COMMAND"
+        },
+        {
+            "CommandName": "增強·複製",
+            "Cost": 15,
+            "Description": "為你的手牌中每張<b>腳本</b>牌生成1張副本。",
+            "Tier": "Critical",
+            "Code": "REPLICATE_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "重新利用",
+            "Cost": 6,
+            "Description": "隨機棄掉1張卡牌後抽取1張卡牌。",
+            "Tier": "Minor",
+            "Code": "REPURPOSE_COMMAND"
+        },
+        {
+            "CommandName": "增強·重新利用",
+            "Cost": 6,
+            "Description": "隨機棄掉1張卡牌後抽取2張卡牌。",
+            "Tier": "Minor",
+            "Code": "REPURPOSE_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "衝刺",
+            "Cost": 15,
+            "Description": "隨機釋放1次你的<b>協助</b>效果。",
+            "Tier": "Critical",
+            "Code": "RUSH_COMMAND"
+        },
+        {
+            "CommandName": "增強·衝刺",
+            "Cost": 15,
+            "Description": "隨機釋放2次你的<b>協助</b>效果。",
+            "Tier": "Critical",
+            "Code": "RUSH_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "策劃",
+            "Cost": 10,
+            "Description": "<b>保留</b>本回合所有<b>腳本</b>牌。",
+            "Tier": "Major",
+            "Code": "STRATEGIZE_COMMAND"
+        },
+        {
+            "CommandName": "增強·策劃",
+            "Cost": 10,
+            "Description": "隨機生成1張隨機<b>腳本</b>牌。<b>保留</b>本回合所有<b>腳本</b>牌。",
+            "Tier": "Major",
+            "Code": "STRATEGIZE_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "接觸",
+            "Cost": 6,
+            "Description": "隨機觸發1次你的<b>協助</b>效果。",
+            "Tier": "Minor",
+            "Code": "TOUCH_COMMAND"
+        },
+        {
+            "CommandName": "增強·接觸",
+            "Cost": 6,
+            "Description": "隨機觸發2次你的<b>協助</b>效果。",
+            "Tier": "Minor",
+            "Code": "TOUCH_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "超越",
+            "Cost": 17,
+            "Description": "棄置3張牌，獲得 2<b>時鐘</b>。",
+            "Tier": "Critical",
+            "Code": "TRANSCEND_COMMAND"
+        },
+        {
+            "CommandName": "增強·超越",
+            "Cost": 17,
+            "Description": "棄置3張牌，獲得 3<b>時鐘</b>。",
+            "Tier": "Critical",
+            "Code": "TRANSCEND_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "挖掘",
+            "Cost": 10,
+            "Description": "抽3張牌，然後選擇1張牌棄置。",
+            "Tier": "Major",
+            "Code": "DIG"
+        },
+        {
+            "CommandName": "迴響",
+            "Cost": 15,
+            "Description": "你在本回合中打出的下一張<b>非協議牌</b>將會被打出兩次。",
+            "Tier": "Critical",
+            "Code": "EchoCommand"
+        },
+        {
+            "CommandName": "充能",
+            "Cost": 18,
+            "Description": "抽1張牌並獲得2<b>時鐘</b>。",
+            "Tier": "Critical",
+            "Code": "Energize"
+        },
+        {
+            "CommandName": "執行",
+            "Cost": 17,
+            "Description": "從你的代碼庫中選擇一張牌並免費打出。",
+            "Tier": "Critical",
+            "Code": "ExecuteCommand"
+        },
+        {
+            "CommandName": "牟利",
+            "Cost": 5,
+            "Description": "本回合你每次打出一張牌時，生成1點<b>VIM</b>。",
+            "Tier": "Minor",
+            "Code": "FarmCommand"
+        },
+        {
+            "CommandName": "最佳化",
+            "Cost": 16,
+            "Description": "從你的手牌中棄置一張牌並為它降低1<b>時鐘費用</b>，直到戰鬥結束。",
+            "Tier": "Critical",
+            "Code": "OPTIMIZE"
+        },
+        {
+            "CommandName": "回憶",
+            "Cost": 12,
+            "Description": "從你的回收站中選擇最多2張牌放入你的手牌。",
+            "Tier": "Major",
+            "Code": "RecollectCommand"
+        },
+        {
+            "CommandName": "遞迴",
+            "Cost": 10,
+            "Description": "本回合你打出的下一張<b>非協議</b>且未被反編程的牌會返回你的手牌。",
+            "Tier": "Major",
+            "Code": "RecurCommand"
+        },
+        {
+            "CommandName": "怒吼",
+            "Cost": 6,
+            "Description": "獲得2層<b>野性</b>。",
+            "Tier": "Minor",
+            "Code": "RoarCommand"
+        },
+        {
+            "CommandName": "偵測",
+            "Cost": 5,
+            "Description": "抽1張牌。",
+            "Tier": "Minor",
+            "Code": "ScoutCommand"
+        },
+        {
+            "CommandName": "自選",
+            "Cost": 9,
+            "Description": "從你的代碼庫中選擇1張牌放入你的手牌。",
+            "Tier": "Major",
+            "Code": "TutorCommand"
+        }
+    ]
+}

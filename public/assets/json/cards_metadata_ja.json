@@ -1,0 +1,5550 @@
+{
+    "Items": [
+        {
+            "CardName": "アフターショック",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "AFTERSHOCK",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "<b>破棄した後</b>、ICEに20<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "アフターショック",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "AFTERSHOCK_UPGRADED",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "<b>破棄した後</b>、ICEに35<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "トップスパイダー",
+            "ImagePath": "APEX_ARACHNID.jpg",
+            "Code": "APEX_ARACHNID",
+            "Descriptions": [
+                "70<b>ダメージ</b>を与える",
+                "<b>バイトスクリプト</b>を2枚得る",
+                "<b>アシスト3:</b> <b>バイトスクリプト</b>を2枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "トップスパイダー",
+            "ImagePath": "APEX_ARACHNID.jpg",
+            "Code": "APEX_ARACHNID_UPGRADED",
+            "Descriptions": [
+                "80<b>ダメージ</b>を与える",
+                "<b>バイトスクリプト</b>を4枚得る",
+                "<b>アシスト3:</b> <b>バイトスクリプト</b>を3枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "較正",
+            "ImagePath": "CALIBRATE.jpg",
+            "Code": "CALIBRATE",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "サブ命令を<b>オーグメント</b>する",
+                "メイン命令を<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "較正",
+            "ImagePath": "CALIBRATE.jpg",
+            "Code": "CALIBRATE_UPGRADED",
+            "Descriptions": [
+                "40<b>ダメージ</b>を与える",
+                "サブ命令を<b>オーグメント</b>する",
+                "メイン命令を<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ドッグキャプテン",
+            "ImagePath": "CAPTAIN_COMMANDOGS.jpg",
+            "Code": "CAPTAIN_COMMANDOGS",
+            "Descriptions": [
+                "25<b>ダメージ</b>を与える",
+                "<b>アシスト2:</b> ランダムな命令を1つ<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ドッグキャプテン",
+            "ImagePath": "CAPTAIN_COMMANDOGS.jpg",
+            "Code": "CAPTAIN_COMMANDOGS_UPGRADED",
+            "Descriptions": [
+                "30<b>ダメージ</b>を与える",
+                "<b>アシスト3:</b> ランダムな命令を1つ<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "コードクラッシュ",
+            "ImagePath": "CODECRUNCH.jpg",
+            "Code": "CODECRUNCH",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "コードクラッシュ",
+            "ImagePath": "CODECRUNCH.jpg",
+            "Code": "CODECRUNCH_UPGRADED",
+            "Descriptions": [
+                "30<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "コードスマッシュ",
+            "ImagePath": "CODESMASH.jpg",
+            "Code": "CODESMASH",
+            "Descriptions": [
+                "50<b>ダメージ</b>を与える",
+                "<b>命中した後</b>、1<b>オーバークロック</b>を得る",
+                "<b>デコンパイルする</b>"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "コードスマッシュ",
+            "ImagePath": "CODESMASH.jpg",
+            "Code": "CODESMASH_UPGRADED",
+            "Descriptions": [
+                "60<b>ダメージ</b>を与える",
+                "<b>命中した後</b>、2<b>オーバークロック</b>を得る",
+                "<b>デコンパイルする</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "リーサルスレッド",
+            "ImagePath": "DEADLY_THREADING.jpg",
+            "Code": "DEADLY_THREADING",
+            "Descriptions": [
+                "60<b>ダメージ</b>を与える",
+                "クリティカル命令を<b>オーグメント</b>する",
+                "ランダムな<b>スクリプト</b>カードを1枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "リーサルスレッド",
+            "ImagePath": "DEADLY_THREADING.jpg",
+            "Code": "DEADLY_THREADING_UPGRADED",
+            "Descriptions": [
+                "90<b>ダメージ</b>を与える",
+                "クリティカル命令を<b>オーグメント</b>する",
+                "ランダムな<b>スクリプト</b>カードを2枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "不安定なウェーブ",
+            "ImagePath": "ERRATIC_WEAVING.jpg",
+            "Code": "ERRATIC_WEAVING",
+            "Descriptions": [
+                "25<b>ダメージ</b>を与える",
+                "1<b>暴露</b>を付与する",
+                "ランダムな<b>スクリプト</b>カードを1枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "不安定なウェーブ",
+            "ImagePath": "ERRATIC_WEAVING.jpg",
+            "Code": "ERRATIC_WEAVING_UPGRADED",
+            "Descriptions": [
+                "25<b>ダメージ</b>を与える",
+                "2<b>暴露</b>を付与する",
+                "ランダムな<b>スクリプト</b>カードを2枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "外挿法",
+            "ImagePath": "EXTRAPOLATE.jpg",
+            "Code": "EXTRAPOLATE",
+            "Descriptions": [
+                "40<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>オーグメントされた</b>命令を2以上持った場合、代わりに：",
+            "ConditionalDescriptions": [
+                "80<b>ダメージ</b>を与える"
+            ],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "外挿法",
+            "ImagePath": "EXTRAPOLATE.jpg",
+            "Code": "EXTRAPOLATE_UPGRADED",
+            "Descriptions": [
+                "40<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>オーグメントされた</b>命令を2以上持った場合、代わりに：",
+            "ConditionalDescriptions": [
+                "120<b>ダメージ</b>を与える"
+            ],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "狂乱索餌",
+            "ImagePath": "FEEDING_FRENZY.jpg",
+            "Code": "FEEDING_FRENZY",
+            "Descriptions": [
+                "30<b>ダメージ</b>を与える",
+                "手札にある<b>スクリプト</b>をすべて<b>バイトスクリプト</b>に変える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "狂乱索餌",
+            "ImagePath": "FEEDING_FRENZY.jpg",
+            "Code": "FEEDING_FRENZY_UPGRADED",
+            "Descriptions": [
+                "40<b>ダメージ</b>を与える",
+                "手札にある<b>スクリプト</b>をすべて<b>バイトスクリプト</b>に変える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "フラクタルファング",
+            "ImagePath": "FRACTAL_FANG.jpg",
+            "Code": "FRACTAL_FANG",
+            "Descriptions": [
+                "敵全体に40<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "フラクタルファング",
+            "ImagePath": "FRACTAL_FANG.jpg",
+            "Code": "FRACTAL_FANG_UPGRADED",
+            "Descriptions": [
+                "敵全体に60<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "グラスキャノン",
+            "ImagePath": "GLASS_CANNON.jpg",
+            "Code": "GLASS_CANNON",
+            "Descriptions": [
+                "0<b>ダメージ</b>を与える",
+                "<b>デコンパイル</b>する",
+                "<b>破棄した後</b>、4<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "グラスキャノン",
+            "ImagePath": "GLASS_CANNON.jpg",
+            "Code": "GLASS_CANNON_UPGRADED",
+            "Descriptions": [
+                "150<b>ダメージ</b>を与える",
+                "<b>デコンパイル</b>する",
+                "<b>破棄した後</b>、6<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ホットフィックス",
+            "ImagePath": "HOTFIX.jpg",
+            "Code": "HOTFIX",
+            "Descriptions": [
+                "30<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>オーグメントされた</b>命令を持った場合、さらに：",
+            "ConditionalDescriptions": [
+                "1<b>弱体化</b>を付与する"
+            ],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ホットフィックス",
+            "ImagePath": "HOTFIX.jpg",
+            "Code": "HOTFIX_UPGRADED",
+            "Descriptions": [
+                "40<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>オーグメントされた</b>命令を持った場合、さらに：",
+            "ConditionalDescriptions": [
+                "2<b>弱体化</b>を付与する"
+            ],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ジャンプスタート",
+            "ImagePath": "JUMPSTART.jpg",
+            "Code": "JUMPSTART",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "カードを1枚引く",
+                "メイン命令を<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ジャンプスタート",
+            "ImagePath": "JUMPSTART.jpg",
+            "Code": "JUMPSTART_UPGRADED",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "カードを2枚引く",
+                "メイン命令を<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "液状化",
+            "ImagePath": "LIQUEFACTION.jpg",
+            "Code": "LIQUEFACTION",
+            "Descriptions": [
+                "10<b>ダメージ</b>を与える",
+                "<b>命中した後</b>、<b>バイトスクリプト</b>を3枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "液状化",
+            "ImagePath": "LIQUEFACTION.jpg",
+            "Code": "LIQUEFACTION_UPGRADED",
+            "Descriptions": [
+                "10<b>ダメージ</b>を与える",
+                "<b>命中した後</b>、<b>バイトスクリプト</b>を4枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "カササギマギー",
+            "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
+            "Code": "MAGGIE_THE_MAGPIE",
+            "Descriptions": [
+                "敵全体に15<b>ダメージ</b>を与える",
+                "<b>アシスト2:</b> カードを1枚引く"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "カササギマギー",
+            "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
+            "Code": "MAGGIE_THE_MAGPIE_UPGRADED",
+            "Descriptions": [
+                "敵全体に25<b>ダメージ</b>を与える",
+                "<b>アシスト3:</b> カードを1枚引く"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ステルスモスキート",
+            "ImagePath": "MOSQUITO_INCOGNITO.jpg",
+            "Code": "MOSQUITO_INCOGNITO",
+            "Descriptions": [
+                "5<b>ダメージ</b>を与える",
+                "<b>アシスト20:</b>ICEに5<b>ダメージ</b>を与える",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ステルスモスキート",
+            "ImagePath": "MOSQUITO_INCOGNITO.jpg",
+            "Code": "MOSQUITO_INCOGNITO_UPGRADED",
+            "Descriptions": [
+                "5<b>ダメージ</b>を与える",
+                "<b>アシスト25:</b>ICEに5<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "神経毒ハープーン",
+            "ImagePath": "NEUROTOXIC_HARPOON.jpg",
+            "Code": "NEUROTOXIC_HARPOON",
+            "Descriptions": [
+                "50<b>ダメージ</b>を与える",
+                "<b>命中した後</b>、戦闘終了まで<b>バイトスクリプト</b>の基礎ダメージを5上げる",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "神経毒ハープーン",
+            "ImagePath": "NEUROTOXIC_HARPOON.jpg",
+            "Code": "NEUROTOXIC_HARPOON_UPGRADED",
+            "Descriptions": [
+                "60<b>ダメージ</b>を与える",
+                "<b>命中した後</b>、戦闘終了まで<b>バイトスクリプト</b>の基礎ダメージを8上げる",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "使い捨てユニット",
+            "ImagePath": "DISPOSABLE_UNITS.jpg",
+            "Code": "NITRO_DAGGER",
+            "Descriptions": [
+                "10<b>ダメージ</b>を与える",
+                "1<b>オーバークロック</b>を得る",
+                "<b>破棄した後</b>、1の<b>クロック</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "使い捨てユニット",
+            "ImagePath": "DISPOSABLE_UNITS.jpg",
+            "Code": "NITRO_DAGGER_UPGRADED",
+            "Descriptions": [
+                "15<b>ダメージ</b>を与える",
+                "1<b>オーバークロック</b>を得る",
+                "<b>破棄した後</b>、2の<b>クロック</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "オーバーホール",
+            "ImagePath": "OVERHAUL.jpg",
+            "Code": "OVERHAUL",
+            "Descriptions": [
+                "45<b>ダメージ</b>を与える",
+                "2<b>暴露</b>を付与する",
+                "サブ命令を<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "オーバーホール",
+            "ImagePath": "OVERHAUL.jpg",
+            "Code": "OVERHAUL_UPGRADED",
+            "Descriptions": [
+                "70<b>ダメージ</b>を与える",
+                "3<b>暴露</b>を付与する",
+                "サブ命令を<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ブル・フェイク",
+            "ImagePath": "OX_HOAX.jpg",
+            "Code": "OX_HOAX",
+            "Descriptions": [
+                "1<b>ダメージ</b>を与える",
+                "<b>アシスト1:</b>ICEに60<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ブル・フェイク",
+            "ImagePath": "OX_HOAX.jpg",
+            "Code": "OX_HOAX_UPGRADED",
+            "Descriptions": [
+                "1<b>ダメージ</b>を与える",
+                "<b>アシスト1:</b>ICEに100<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ピニャータ・ボム",
+            "ImagePath": "PINATA_BOMB.jpg",
+            "Code": "PINATA_BOMB",
+            "Descriptions": [
+                "10<b>ダメージ</b>を与える",
+                "<b>破棄した後</b>、敵全体に30<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ピニャータ・ボム",
+            "ImagePath": "PINATA_BOMB.jpg",
+            "Code": "PINATA_BOMB_UPGRADED",
+            "Descriptions": [
+                "10<b>ダメージ</b>を与える",
+                "<b>破棄した後</b>、敵全体に45<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "貪欲な叫び声",
+            "ImagePath": "RAVENOUS_SCREECH.jpg",
+            "Code": "RAVENOUS_SCREECH",
+            "Descriptions": [
+                "10<b>ダメージ</b>を与える",
+                "1<b>弱体化</b>を付与する",
+                "メイン命令を<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻撃",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "貪欲な叫び声",
+            "ImagePath": "RAVENOUS_SCREECH.jpg",
+            "Code": "RAVENOUS_SCREECH_UPGRADED",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "1<b>弱体化</b>を付与する",
+                "メイン命令を<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻撃",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "再調整",
+            "ImagePath": "READJUST.jpg",
+            "Code": "READJUST",
+            "Descriptions": [
+                "敵全体に25<b>ダメージ</b>を与える",
+                "サブ命令を<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "再調整",
+            "ImagePath": "READJUST.jpg",
+            "Code": "READJUST_UPGRADED",
+            "Descriptions": [
+                "敵全体に40<b>ダメージ</b>を与える",
+                "サブ命令を<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "シンギュラリティ",
+            "ImagePath": "SINGULARITY.jpg",
+            "Code": "SINGULARITY",
+            "Descriptions": [
+                "100<b>ダメージ</b>を与える",
+                "<b>オーグメント</b>命令を1つ持つごとに、このカードの<b>クロック</b>コストが1下がる"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "シンギュラリティ",
+            "ImagePath": "SINGULARITY.jpg",
+            "Code": "SINGULARITY_UPGRADED",
+            "Descriptions": [
+                "150<b>ダメージ</b>を与える",
+                "<b>オーグメント</b>命令を1つ持つごとに、このカードの<b>クロック</b>コストが1下がる"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "クリーンストライク",
+            "ImagePath": "SKITTERING_STRIKE.jpg",
+            "Code": "SKITTERING_STRIKE",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>オーグメントされた</b>命令を持った場合、さらに：",
+            "ConditionalDescriptions": [
+                "1の<b>クロック</b>を得る"
+            ],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "クリーンストライク",
+            "ImagePath": "SKITTERING_STRIKE.jpg",
+            "Code": "SKITTERING_STRIKE_UPGRADED",
+            "Descriptions": [
+                "40<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>オーグメントされた</b>命令を持った場合、さらに：",
+            "ConditionalDescriptions": [
+                "1の<b>クロック</b>を得る"
+            ],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ミューテーション",
+            "ImagePath": "MUTATE.jpg",
+            "Code": "SPAWN_SPIDERLINGS",
+            "Descriptions": [
+                "10<b>ダメージ</b>を与える",
+                "<b>バイトスクリプト</b>を6枚得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ミューテーション",
+            "ImagePath": "MUTATE.jpg",
+            "Code": "SPAWN_SPIDERLINGS_UPGRADED",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "<b>バイトスクリプト</b>を6枚得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "スポーナー",
+            "ImagePath": "SPAWNER.jpg",
+            "Code": "SPAWNER",
+            "Descriptions": [
+                "10<b>ダメージ</b>を与える",
+                "<b>バイトスクリプト</b>カードを1枚得る",
+                "<b>破棄した後</b>、<b>バイトスクリプト</b>を3枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "スポーナー",
+            "ImagePath": "SPAWNER.jpg",
+            "Code": "SPAWNER_UPGRADED",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "<b>バイトスクリプト</b>カードを2枚得る",
+                "<b>破棄した後</b>、<b>バイトスクリプト</b>を4枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "スパイダー・キング",
+            "ImagePath": "SPIDER_KING.jpg",
+            "Code": "SPIDER_KING",
+            "Descriptions": [
+                "60<b>ダメージ</b>を与える",
+                "<b>アシスト4:</b>ランダムな<b>スクリプト</b>カードを2枚得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "スパイダー・キング",
+            "ImagePath": "SPIDER_KING.jpg",
+            "Code": "SPIDER_KING_UPGRADED",
+            "Descriptions": [
+                "70<b>ダメージ</b>を与える",
+                "<b>アシスト4:</b>ランダムな<b>スクリプト</b>カードを3枚得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "テクノバジャー",
+            "ImagePath": "TECHNO_BADGER.jpg",
+            "Code": "TECHNO_BADGER",
+            "Descriptions": [
+                "10<b>ダメージ</b>を与える",
+                "<b>アシスト5:</b>敵全体に10<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "テクノバジャー",
+            "ImagePath": "TECHNO_BADGER.jpg",
+            "Code": "TECHNO_BADGER_UPGRADED",
+            "Descriptions": [
+                "10<b>ダメージ</b>を与える",
+                "<b>アシスト5:</b>敵全体に20<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "仮アフターショック",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "TEMP_AFTERSHOCK",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "<b>破棄した後</b>、ICEに20<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る",
+                "<b>仮のコピー</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "仮アフターショック",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "TEMP_AFTERSHOCK_UPGRADED",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "<b>破棄した後</b>、ICEに35<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る",
+                "<b>仮のコピー</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "オールクラッシュ",
+            "ImagePath": "THREEDRA.jpg",
+            "Code": "THREEDRA",
+            "Descriptions": [
+                "敵全体に20<b>ダメージ</b>を与える",
+                "敵全体に2<b>暴露</b>を付与する",
+                "<b>アシスト3:</b>敵全体に20<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "オールクラッシュ",
+            "ImagePath": "THREEDRA.jpg",
+            "Code": "THREEDRA_UPGRADED",
+            "Descriptions": [
+                "敵全体に30<b>ダメージ</b>を与える",
+                "敵全体に3<b>暴露</b>を付与する",
+                "<b>アシスト3:</b>敵全体に30<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ヴェノムストライク",
+            "ImagePath": "VENOM_STRIKE.jpg",
+            "Code": "VENOM_STRIKE",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "このターン中、<b>バイトスクリプト</b>の与ダメージが10上がる",
+                "<b>命中した後</b>、2<b>暴露</b>を付与する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ヴェノムストライク",
+            "ImagePath": "VENOM_STRIKE.jpg",
+            "Code": "VENOM_STRIKE_UPGRADED",
+            "Descriptions": [
+                "45<b>ダメージ</b>を与える",
+                "このターン中、<b>バイトスクリプト</b>の与ダメージが10上がる",
+                "<b>命中した後</b>、2<b>暴露</b>を付与する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ジップガン",
+            "ImagePath": "ZIP_GUN.jpg",
+            "Code": "ZIP_GUN",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "カードを1枚破棄する",
+                "<b>破棄した後</b>、ICEに20<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ジップガン",
+            "ImagePath": "ZIP_GUN.jpg",
+            "Code": "ZIP_GUN_UPGRADED",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "カードを1枚破棄する",
+                "<b>破棄した後</b>、ICEに40<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "重武装ゾンビ",
+            "ImagePath": "ZOMBIE_HOPLITE.jpg",
+            "Code": "ZOMBIE_HOPLITE",
+            "Descriptions": [
+                "このターンに破棄したカード1枚につき、敵全体に20<b>ダメージ</b>を与える（合計0<b>ダメージ</b>）"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "重武装ゾンビ",
+            "ImagePath": "ZOMBIE_HOPLITE.jpg",
+            "Code": "ZOMBIE_HOPLITE_UPGRADED",
+            "Descriptions": [
+                "このターンに破棄したカード1枚につき、敵全体に30<b>ダメージ</b>を与える（合計0<b>ダメージ</b>）"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "残像",
+            "ImagePath": "AFTERIMAGE.jpg",
+            "Code": "AFTERIMAGE",
+            "Descriptions": [
+                "30<b>バリア</b>を得る"
+            ],
+            "Conditional": "<b>オーグメントされた</b>命令を持った場合、さらに：",
+            "ConditionalDescriptions": [
+                "ランダムな<b>アシスト</b>効果を1延長する"
+            ],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "残像",
+            "ImagePath": "AFTERIMAGE.jpg",
+            "Code": "AFTERIMAGE_UPGRADED",
+            "Descriptions": [
+                "50<b>バリア</b>を得る"
+            ],
+            "Conditional": "<b>オーグメントされた</b>命令を持った場合、さらに：",
+            "ConditionalDescriptions": [
+                "ランダムな<b>アシスト</b>効果を1延長する"
+            ],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "バリ・ケイド",
+            "ImagePath": "BARRY_CADE.jpg",
+            "Code": "BARRY_CADE",
+            "Descriptions": [
+                "60<b>バリア</b>を得る",
+                "2<b>キャッシュ</b>を得る",
+                "<b>アシスト3:</b>40<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 3,
+            "Type": "防御",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "バリ・ケイド",
+            "ImagePath": "BARRY_CADE.jpg",
+            "Code": "BARRY_CADE_UPGRADED",
+            "Descriptions": [
+                "60<b>バリア</b>を得る",
+                "2<b>キャッシュ</b>を得る",
+                "<b>アシスト3:</b>40<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防御",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ビッグパパ",
+            "ImagePath": "BIG_PAPPA.jpg",
+            "Code": "BIG_PAPPA",
+            "Descriptions": [
+                "80<b>バリア</b>を得る",
+                "すべての<b>アシスト</b>効果を2延長する",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防御",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ビッグパパ",
+            "ImagePath": "BIG_PAPPA.jpg",
+            "Code": "BIG_PAPPA_UPGRADED",
+            "Descriptions": [
+                "120<b>バリア</b>を得る",
+                "すべての<b>アシスト</b>効果を3延長する",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防御",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "エコーチェンバー",
+            "ImagePath": "ECHO_CHAMBER.jpg",
+            "Code": "ECHO_CHAMBER",
+            "Descriptions": [
+                "20<b>バリア</b>を得る"
+            ],
+            "Conditional": "<b>オーグメントされた</b>命令を持った場合、代わりに：",
+            "ConditionalDescriptions": [
+                "50<b>バリア</b>を得る"
+            ],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "エコーチェンバー",
+            "ImagePath": "ECHO_CHAMBER.jpg",
+            "Code": "ECHO_CHAMBER_UPGRADED",
+            "Descriptions": [
+                "30<b>バリア</b>を得る"
+            ],
+            "Conditional": "<b>オーグメントされた</b>命令を持った場合、代わりに：",
+            "ConditionalDescriptions": [
+                "70<b>バリア</b>を得る"
+            ],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "力場",
+            "ImagePath": "FORCEFIELD.jpg",
+            "Code": "FORCEFIELD",
+            "Descriptions": [
+                "20<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "力場",
+            "ImagePath": "FORCEFIELD.jpg",
+            "Code": "FORCEFIELD_UPGRADED",
+            "Descriptions": [
+                "40<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ホリー・トースター",
+            "ImagePath": "HOLY_TOASTER.jpg",
+            "Code": "HOLY_TOASTER",
+            "Descriptions": [
+                "30<b>バリア</b>を得る",
+                "<b>アシスト2:</b> カードを1枚引く"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ホリー・トースター",
+            "ImagePath": "HOLY_TOASTER.jpg",
+            "Code": "HOLY_TOASTER_UPGRADED",
+            "Descriptions": [
+                "50<b>バリア</b>を得る",
+                "<b>アシスト3:</b> カードを1枚引く"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ガタガタギア",
+            "ImagePath": "LOOSE_GEARS.jpg",
+            "Code": "LOOSE_GEARS",
+            "Descriptions": [
+                "30<b>バリア</b>を得る",
+                "カードを1枚破棄する",
+                "<b>破棄した後</b>、30<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ガタガタギア",
+            "ImagePath": "LOOSE_GEARS.jpg",
+            "Code": "LOOSE_GEARS_UPGRADED",
+            "Descriptions": [
+                "45<b>バリア</b>を得る",
+                "カードを1枚破棄する",
+                "<b>破棄した後</b>、45<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "脱皮",
+            "ImagePath": "MOLT.jpg",
+            "Code": "MOLT",
+            "Descriptions": [
+                "30<b>バリア</b>を得る"
+            ],
+            "Conditional": "このターンにプレイした<b>スクリプト</b>が2枚以上の場合：",
+            "ConditionalDescriptions": [
+                "直前にプレイした<b>スクリプト</b>のコピーを2枚得る"
+            ],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "脱皮",
+            "ImagePath": "MOLT.jpg",
+            "Code": "MOLT_UPGRADED",
+            "Descriptions": [
+                "45<b>バリア</b>を得る"
+            ],
+            "Conditional": "このターンにプレイした<b>スクリプト</b>が2枚以上の場合：",
+            "ConditionalDescriptions": [
+                "直前にプレイした<b>スクリプト</b>のコピーを3枚得る"
+            ],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ミイラ化",
+            "ImagePath": "MUMMIFY.jpg",
+            "Code": "MUMMIFY",
+            "Descriptions": [
+                "30<b>バリア</b>を得る",
+                "このターン中、<b>コクーンスクリプト</b>を得るたび、さらに1枚追加で得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ミイラ化",
+            "ImagePath": "MUMMIFY.jpg",
+            "Code": "MUMMIFY_UPGRADED",
+            "Descriptions": [
+                "40<b>バリア</b>を得る",
+                "このターン中、<b>コクーンスクリプト</b>を得るたび、さらに1枚追加で得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "折り鶴",
+            "ImagePath": "PAPER_CRANE.jpg",
+            "Code": "PAPER_CRANE",
+            "Descriptions": [
+                "30<b>バリア</b>を得る",
+                "カードを1枚破棄する",
+                "カードを1枚引く",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "折り鶴",
+            "ImagePath": "PAPER_CRANE.jpg",
+            "Code": "PAPER_CRANE_UPGRADED",
+            "Descriptions": [
+                "50<b>バリア</b>を得る",
+                "カードを1枚破棄する",
+                "カードを2枚引く",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "パッチワーク",
+            "ImagePath": "PATCHWORK.jpg",
+            "Code": "PATCHWORK",
+            "Descriptions": [
+                "カードを破棄する",
+                "破棄したカード1枚につき、20<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "パッチワーク",
+            "ImagePath": "PATCHWORK.jpg",
+            "Code": "PATCHWORK_UPGRADED",
+            "Descriptions": [
+                "任意の枚数のカードを破棄する",
+                "破棄したカード1枚につき、25<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "高速スレッド",
+            "ImagePath": "QUICK_THREADING.jpg",
+            "Code": "QUICK_THREADING",
+            "Descriptions": [
+                "<b>コクーンスクリプト</b>を2枚得る",
+                "敵全体に1<b>弱体化</b>を付与する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "高速スレッド",
+            "ImagePath": "QUICK_THREADING.jpg",
+            "Code": "QUICK_THREADING_UPGRADED",
+            "Descriptions": [
+                "<b>コクーンスクリプト</b>を4枚得る",
+                "敵全体に1<b>弱体化</b>を付与する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "メンテナンス",
+            "ImagePath": "REWIRE.jpg",
+            "Code": "REWIRE",
+            "Descriptions": [
+                "30<b>バリア</b>を得る",
+                "1<b>キャッシュ</b>を得る",
+                "サブ命令を<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "メンテナンス",
+            "ImagePath": "REWIRE.jpg",
+            "Code": "REWIRE_UPGRADED",
+            "Descriptions": [
+                "40<b>バリア</b>を得る",
+                "2<b>キャッシュ</b>を得る",
+                "サブ命令を<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ごみ処理センター",
+            "ImagePath": "SCRAP_FIELD.jpg",
+            "Code": "SCRAP_FIELD",
+            "Descriptions": [
+                "10<b>バリア</b>を得る",
+                "<b>破棄した後</b>、このカードの<b>バリア</b>獲得量を戦闘終了まで20増加させる"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ごみ処理センター",
+            "ImagePath": "SCRAP_FIELD.jpg",
+            "Code": "SCRAP_FIELD_UPGRADED",
+            "Descriptions": [
+                "10<b>バリア</b>を得る",
+                "<b>破棄した後</b>、このカードの<b>バリア</b>獲得量を戦闘終了まで30増加させる"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "シルクシェル",
+            "ImagePath": "SILK_SHELL.jpg",
+            "Code": "SILK_SHELL",
+            "Descriptions": [
+                "35<b>バリア</b>を得る",
+                "<b>コクーンスクリプト</b>を3枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "シルクシェル",
+            "ImagePath": "SILK_SHELL.jpg",
+            "Code": "SILK_SHELL_UPGRADED",
+            "Descriptions": [
+                "35<b>バリア</b>を得る",
+                "<b>コクーンスクリプト</b>を5枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防御",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "スパイダーストラテジー",
+            "ImagePath": "SILKEN_RETREAT.jpg",
+            "Code": "SILKEN_RETREAT",
+            "Descriptions": [
+                "50<b>バリア</b>を得る",
+                "クリティカル命令を<b>オーグメント</b>する",
+                "<b>コクーンスクリプト</b>を2枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防御",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "スパイダーストラテジー",
+            "ImagePath": "SILKEN_RETREAT.jpg",
+            "Code": "SILKEN_RETREAT_UPGRADED",
+            "Descriptions": [
+                "60<b>バリア</b>を得る",
+                "クリティカル命令を<b>オーグメント</b>する",
+                "<b>コクーンスクリプト</b>を4枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防御",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "日焼け対策",
+            "ImagePath": "SUNSCREEN_SAVER.jpg",
+            "Code": "SUNSCREEN_SAVER",
+            "Descriptions": [
+                "10<b>バリア</b>を得る",
+                "<b>アシスト2:</b>20<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "日焼け対策",
+            "ImagePath": "SUNSCREEN_SAVER.jpg",
+            "Code": "SUNSCREEN_SAVER_UPGRADED",
+            "Descriptions": [
+                "20<b>バリア</b>を得る",
+                "<b>アシスト2:</b>30<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "チタンウェブ",
+            "ImagePath": "TITANIUM_WEB.jpg",
+            "Code": "TITANIUM_WEB",
+            "Descriptions": [
+                "30<b>バリア</b>を得る",
+                "このターンに生成したスクリプトカードはすべて<b>コクーンスクリプト</b>になる"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "チタンウェブ",
+            "ImagePath": "TITANIUM_WEB.jpg",
+            "Code": "TITANIUM_WEB_UPGRADED",
+            "Descriptions": [
+                "40<b>バリア</b>を得る",
+                "このターンに生成したスクリプトカードはすべて<b>コクーンスクリプト</b>になる"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ターボケトル",
+            "ImagePath": "TURBO_KETTLE.jpg",
+            "Code": "TURBO_KETTLE",
+            "Descriptions": [
+                "30<b>バリア</b>を得る",
+                "<b>アシスト1:</b>1の<b>クロック</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ターボケトル",
+            "ImagePath": "TURBO_KETTLE.jpg",
+            "Code": "TURBO_KETTLE_UPGRADED",
+            "Descriptions": [
+                "30<b>バリア</b>を得る",
+                "<b>アシスト2:</b>1の<b>クロック</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "危ういシェルター",
+            "ImagePath": "UNSTABLE_SHELTER.jpg",
+            "Code": "UNSTABLE_SHELTER",
+            "Descriptions": [
+                "60<b>バリア</b>を得る",
+                "ランダムなカードを1枚を破棄する",
+                "<b>防御</b>カードを破棄した場合、追加で40<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "危ういシェルター",
+            "ImagePath": "UNSTABLE_SHELTER.jpg",
+            "Code": "UNSTABLE_SHELTER_UPGRADED",
+            "Descriptions": [
+                "60<b>バリア</b>を得る",
+                "ランダムなカードを1枚を破棄する",
+                "<b>防御</b>カードを破棄した場合、追加で40<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ワックスウィング",
+            "ImagePath": "WAX_WINGS.jpg",
+            "Code": "WAX_WINGS",
+            "Descriptions": [
+                "80<b>バリア</b>を得る",
+                "<b>破棄した後</b>、戦闘終了までコストが1減少する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 4,
+            "Type": "防御",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ワックスウィング",
+            "ImagePath": "WAX_WINGS.jpg",
+            "Code": "WAX_WINGS_UPGRADED",
+            "Descriptions": [
+                "120<b>バリア</b>を得る",
+                "<b>破棄した後</b>、戦闘終了までコストが1減少する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 3,
+            "Type": "防御",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "制空権",
+            "ImagePath": "AIR_SUPERIORITY.jpg",
+            "Code": "3_STEPS_AHEAD",
+            "Descriptions": [
+                "1枚を引く。<b>オーグメント</b>命令1つにつき、1の<b>クロック</b>を得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "制空権",
+            "ImagePath": "AIR_SUPERIORITY.jpg",
+            "Code": "3_STEPS_AHEAD_UPGRADED",
+            "Descriptions": [
+                "2枚を引く。<b>オーグメント</b>命令1つにつき、1の<b>クロック</b>を得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "リファクタリング",
+            "ImagePath": "CODE_REFACTOR.jpg",
+            "Code": "CODE_REFACTOR",
+            "Descriptions": [
+                "手札のカードを<b>アップグレード</b>するアップグレードは戦闘終了まで続く",
+                "すべての命令を<b>オーグメント</b>する",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9B705FF",
+            "Clock": 3,
+            "Type": "生成元",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "リファクタリング",
+            "ImagePath": "CODE_REFACTOR.jpg",
+            "Code": "CODE_REFACTOR_UPGRADED",
+            "Descriptions": [
+                "手札のカードを<b>アップグレード</b>するアップグレードは戦闘終了まで続く",
+                "すべての命令を<b>オーグメント</b>する",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成元",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "クリープ",
+            "ImagePath": "CREEP.jpg",
+            "Code": "CREEP",
+            "Descriptions": [
+                "サブ命令を<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "クリープ",
+            "ImagePath": "CREEP.jpg",
+            "Code": "CREEP_UPGRADED",
+            "Descriptions": [
+                "サブ命令を<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "インスピレーション",
+            "ImagePath": "ENLIGHTEN.jpg",
+            "Code": "ENLIGHTEN",
+            "Descriptions": [
+                "メイン命令を<b>オーグメント</b>する",
+                "クリティカル命令を<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "インスピレーション",
+            "ImagePath": "ENLIGHTEN.jpg",
+            "Code": "ENLIGHTEN_UPGRADED",
+            "Descriptions": [
+                "サブ命令を<b>オーグメント</b>する",
+                "メイン命令を<b>オーグメント</b>する",
+                "クリティカル命令を<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "進化論",
+            "ImagePath": "EVOLUTION_THEORY.jpg",
+            "Code": "EVOLUTION_THEORY",
+            "Descriptions": [],
+            "Conditional": "このターンにプレイした<b>スクリプト</b>が20枚以上の場合：",
+            "ConditionalDescriptions": [
+                "カードを5枚引く",
+                "3の<b>クロック</b>を得る",
+                "<b>デコンパイル</b>する",
+                "<i>（プレイしたスクリプトカード：0）</i>"
+            ],
+            "Rarity": "SR級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "進化論",
+            "ImagePath": "EVOLUTION_THEORY.jpg",
+            "Code": "EVOLUTION_THEORY_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "このバトルに<b>スクリプト</b>を20枚以上プレイした場合：",
+            "ConditionalDescriptions": [
+                "カードを7枚引く",
+                "4の<b>クロック</b>を得る",
+                "<b>デコンパイル</b>する",
+                "<i>（プレイしたスクリプトカード：0）</i>"
+            ],
+            "Rarity": "SR級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ラッキークッキー",
+            "ImagePath": "FORTUNE_COOKIE.jpg",
+            "Code": "FORTUNE_COOKIE",
+            "Descriptions": [
+                "<b>破棄した後</b>、1枚引く。ランダムな<b>スクリプト</b>カードを1枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ラッキークッキー",
+            "ImagePath": "FORTUNE_COOKIE.jpg",
+            "Code": "FORTUNE_COOKIE_UPGRADED",
+            "Descriptions": [
+                "<b>破棄した後</b>、2枚引く。ランダムな<b>スクリプト</b>カードを1枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ミニスパイダー",
+            "ImagePath": "ITSY_BITSY.jpg",
+            "Code": "ITSY_BITSY",
+            "Descriptions": [
+                "敵全体に1<b>弱体化</b>を付与する",
+                "<b>アシスト3:</b> <b>バイトスクリプト</b>を1枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ミニスパイダー",
+            "ImagePath": "ITSY_BITSY.jpg",
+            "Code": "ITSY_BITSY_UPGRADED",
+            "Descriptions": [
+                "敵全体に1<b>弱体化</b>を付与する",
+                "<b>アシスト3:</b> <b>バイトスクリプト</b>を2枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ダイナミックメモリー",
+            "ImagePath": "KINETIC_MEMORY.jpg",
+            "Code": "KINETIC_MEMORY",
+            "Descriptions": [
+                "カードを1枚破棄する",
+                "カードを2枚引く",
+                "<b>破棄した後</b>、2<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ダイナミックメモリー",
+            "ImagePath": "KINETIC_MEMORY.jpg",
+            "Code": "KINETIC_MEMORY_UPGRADED",
+            "Descriptions": [
+                "カードを2枚破棄する",
+                "カードを3枚引く",
+                "<b>破棄した後</b>、4<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ラストコール",
+            "ImagePath": "LAST_CALL.jpg",
+            "Code": "LAST_CALL",
+            "Descriptions": [
+                "残る<b>アシスト</b>効果をすべて発動する",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成元",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ラストコール",
+            "ImagePath": "LAST_CALL.jpg",
+            "Code": "LAST_CALL_UPGRADED",
+            "Descriptions": [
+                "残る<b>アシスト</b>効果をすべて発動する",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ニトロウナギ",
+            "ImagePath": "NITRO_EEL.jpg",
+            "Code": "NITRO_EEL",
+            "Descriptions": [
+                "2の<b>クロック</b>を得る",
+                "<b>アシスト1:</b> 1の<b>クロック</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ニトロウナギ",
+            "ImagePath": "NITRO_EEL.jpg",
+            "Code": "NITRO_EEL_UPGRADED",
+            "Descriptions": [
+                "2の<b>クロック</b>を得る",
+                "<b>アシスト1:</b> 1の<b>クロック</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "パーフェクトショー",
+            "ImagePath": "PEAK_PERFORMANCE.jpg",
+            "Code": "PEAK_PERFORMANCE",
+            "Descriptions": [
+                "最大<b>VIM</b>まで<b>VIM</b>を得る",
+                "<b>デコンパイル</b>する",
+                "<b>破棄した後</b>、1<b>増幅</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 3,
+            "Type": "生成元",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "パーフェクトショー",
+            "ImagePath": "PEAK_PERFORMANCE.jpg",
+            "Code": "PEAK_PERFORMANCE_UPGRADED",
+            "Descriptions": [
+                "最大<b>VIM</b>まで<b>VIM</b>を得る",
+                "<b>デコンパイル</b>する",
+                "<b>破棄した後</b>、1<b>増幅</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成元",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "クイックスカウト",
+            "ImagePath": "SCOUTING_SCUTTLE.jpg",
+            "Code": "SCOUTING_SCUTTLE",
+            "Descriptions": [
+                "このターンにプレイした<b>スクリプト</b>カード1枚に付き、カードを1枚引く。(合計0枚)",
+                "ランダムな<b>スクリプト</b>カードを1枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "クイックスカウト",
+            "ImagePath": "SCOUTING_SCUTTLE.jpg",
+            "Code": "SCOUTING_SCUTTLE_UPGRADED",
+            "Descriptions": [
+                "このターンにプレイした<b>スクリプト</b>カード1枚に付き、カードを2枚引く。(合計0枚)",
+                "ランダムな<b>スクリプト</b>カードを1枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "辛口献立",
+            "ImagePath": "KARAGUCHI_MENU.jpg",
+            "Code": "SCRIBE_TERMINAL",
+            "Descriptions": [
+                "ランダムな<b>スクリプト</b>カードを2枚得る",
+                "<b>デコンパイル</b>する",
+                "<b>破棄した後</b>、ランダムな<b>スクリプト</b>カードを1枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "辛口献立",
+            "ImagePath": "KARAGUCHI_MENU.jpg",
+            "Code": "SCRIBE_TERMINAL_UPGRADED",
+            "Descriptions": [
+                "ランダムな<b>スクリプト</b>カードを3枚得る",
+                "<b>デコンパイル</b>する",
+                "<b>破棄した後</b>、ランダムな<b>スクリプト</b>カードを2枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "自動生成コード",
+            "ImagePath": "SELF_GENERATING_CODE.jpg",
+            "Code": "SELF_GENERATING_CODE",
+            "Descriptions": [
+                "ランダムな<b>スクリプト</b>カードを1枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "自動生成コード",
+            "ImagePath": "SELF_GENERATING_CODE.jpg",
+            "Code": "SELF_GENERATING_CODE_UPGRADED",
+            "Descriptions": [
+                "ランダムな<b>スクリプト</b>カードを2枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "スモールパパ",
+            "ImagePath": "SMALL_PAPPA.jpg",
+            "Code": "SMALL_PAPPA",
+            "Descriptions": [
+                "すべての<b>アシスト</b>効果を2延長する",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "スモールパパ",
+            "ImagePath": "SMALL_PAPPA.jpg",
+            "Code": "SMALL_PAPPA_UPGRADED",
+            "Descriptions": [
+                "すべての<b>アシスト</b>効果を3延長する",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "スピン",
+            "ImagePath": "SUDDEN_SPIN.jpg",
+            "Code": "SUDDEN_SPIN",
+            "Descriptions": [
+                "カードを1枚破棄する",
+                "<b>コクーンスクリプト</b>を1枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "スピン",
+            "ImagePath": "SUDDEN_SPIN.jpg",
+            "Code": "SUDDEN_SPIN_UPGRADED",
+            "Descriptions": [
+                "カードを1枚破棄する",
+                "<b>コクーンスクリプト</b>を2枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "自然選択説",
+            "ImagePath": "SURVIVAL_OF_THE_FITTEST.jpg",
+            "Code": "SURVIVAL_OF_THE_FITTEST",
+            "Descriptions": [
+                "手札のカードを<b>破棄する<b>",
+                "破棄したカード1枚につき、ランダムな<b>スクリプト</b>カードを2枚得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成元",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "自然選択説",
+            "ImagePath": "SURVIVAL_OF_THE_FITTEST.jpg",
+            "Code": "SURVIVAL_OF_THE_FITTEST_UPGRADED",
+            "Descriptions": [
+                "手札のカードを<b>破棄する<b>",
+                "破棄したカード1枚につき、ランダムな<b>スクリプト</b>カードを2枚得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "テンパーコード",
+            "ImagePath": "TEMPER_CODE.jpg",
+            "Code": "TEMPER_CODE",
+            "Descriptions": [
+                "カードを1枚<b>アップグレード</b>して<b>破棄</b>するアップグレード効果は戦闘終了まで続く"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "テンパーコード",
+            "ImagePath": "TEMPER_CODE.jpg",
+            "Code": "TEMPER_CODE_UPGRADED",
+            "Descriptions": [
+                "カードを1枚<b>アップグレード</b>して<b>破棄</b>するアップグレード効果は戦闘終了まで続く"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "サンダーフライ",
+            "ImagePath": "THUNDERFLY.jpg",
+            "Code": "THUNDERFLY",
+            "Descriptions": [
+                "カードを2枚引く",
+                "<b>アシスト2:</b> 4<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成元",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "サンダーフライ",
+            "ImagePath": "THUNDERFLY.jpg",
+            "Code": "THUNDERFLY_UPGRADED",
+            "Descriptions": [
+                "カードを3枚引く",
+                "<b>アシスト2:</b> 6<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成元",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "適応プロトコル",
+            "ImagePath": "ADAPTATION_PROTOCOL.jpg",
+            "Code": "ADAPTATION_PROTOCOL",
+            "Descriptions": [
+                "自ターン開始時、ランダムな命令を<b>オーグメント</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "プロトコル",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ブーストプロトコル",
+            "ImagePath": "BOOST_PROTOCOL.jpg",
+            "Code": "BOOST_PROTOCOL",
+            "Descriptions": [
+                "各ターンで最初に<b>命令</b>を<b>オーグメント</b>したとき、1の<b>クロック</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "プロトコル",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ダイジェストプロトコル",
+            "ImagePath": "DIGEST_PROTOCOL.jpg",
+            "Code": "DIGEST_PROTOCOL",
+            "Descriptions": [
+                "<b>スクリプト</b>カードをプレイするたび、1<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "プロトコル",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "期限切れプロトコル",
+            "ImagePath": "EXPIRATION_PROTOCOL.jpg",
+            "Code": "EXPIRATION_PROTOCOL",
+            "Descriptions": [
+                "<b>アシスト</b>効果が切れるたび、1の<b>クロック</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "プロトコル",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ハッチプロトコル",
+            "ImagePath": "HATCH_PROTOCOL.jpg",
+            "Code": "HATCH_PROTOCOL",
+            "Descriptions": [
+                "自ターン開始時、ランダムな<b>スクリプト</b>を2枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "プロトコル",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ジャンクプロトコル",
+            "ImagePath": "JUNK_PROTOCOL.jpg",
+            "Code": "JUNK_PROTOCOL",
+            "Descriptions": [
+                "自ターン中にカードを破棄するたび、敵全体に10<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "プロトコル",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ルッププロトコル",
+            "ImagePath": "LOOP_PROTOCOL.jpg",
+            "Code": "LOOP_PROTOCOL",
+            "Descriptions": [
+                "自ターン終了時、ランダムな<b>アシスト</b>効果を1延長する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "プロトコル",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "パッチプロトコル",
+            "ImagePath": "PATCH_PROTOCOL.jpg",
+            "Code": "PATCH_PROTOCOL",
+            "Descriptions": [
+                "各ターンで最初にカードを<b>破棄</b>したとき、そのカードを戦闘終了まで<b>アップグレード</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "プロトコル",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "バイトスクリプト",
+            "ImagePath": "BITE_SCRIPT.jpg",
+            "Code": "BITE",
+            "Descriptions": [
+                "10<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "スクリプト",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "コクーンスクリプト",
+            "ImagePath": "COCOON_SCRIPT.jpg",
+            "Code": "COCOON",
+            "Descriptions": [
+                "10<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "スクリプト",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ウェーブスクリプト",
+            "ImagePath": "WEAVE_SCRIPT.jpg",
+            "Code": "WEAVE",
+            "Descriptions": [
+                "カードを引く"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "スクリプト",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "データ破損",
+            "ImagePath": "CORRUPTED_DATA.jpg",
+            "Code": "CORRUPTED_DATA",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#515151FF",
+            "Clock": 9,
+            "Type": "破損",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "フラグメントデータ",
+            "ImagePath": "FRAGMENTED_DATA.jpg",
+            "Code": "FRAGMENTED_DATA",
+            "Descriptions": [
+                "ターン中またはターン終了時に破棄したら、このカードは<b>デコンパイル</b>される"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#515151FF",
+            "Clock": 9,
+            "Type": "破損",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "感染データ",
+            "ImagePath": "INFECTED_DATA.jpg",
+            "Code": "INFECTED_DATA",
+            "Descriptions": [
+                "10ダメージを受ける",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#515151FF",
+            "Clock": 0,
+            "Type": "破損",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "裁判官の視線",
+            "ImagePath": "JUDICATORS_GAZE.jpg",
+            "Code": "JUDICATORS_GAZE",
+            "Descriptions": [
+                "15<b>ダメージ</b>を受ける",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#515151FF",
+            "Clock": 0,
+            "Type": "破損",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "コア貫通",
+            "ImagePath": "PIERCE_CORE.jpg",
+            "Code": "PIERCE_CORE",
+            "Descriptions": [
+                "コアの周辺機器に150ダメージを与える",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#FFFFFFFF",
+            "Clock": 2,
+            "Type": "スペシャル",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "THANKS_GUYS",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#981BD3FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "THANKS_GUYS_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "スクリプト",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "アルファコード斬り",
+            "ImagePath": "ALPHA_CODESLASH.jpg",
+            "Code": "ALPHA_CODESLASH",
+            "Descriptions": [
+                "0<b>ダメージ</b>を与える\n「コード斬り」という名前のカード1枚ごとに、15<b>ダメージ</b>を与える（合計0<b>ダメージ</b>）"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "アルファコード斬り",
+            "ImagePath": "ALPHA_CODESLASH.jpg",
+            "Code": "ALPHA_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "0<b>ダメージ</b>を与える\n「コード斬り」を名前に含む他のカード1枚ごとに、20<b>ダメージ</b>を与える（合計0<b>ダメージ</b>）"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "増幅コード斬り",
+            "ImagePath": "AMPED_CODESLASH.jpg",
+            "Code": "AMPED_CODESLASH",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>VIM</b>が10点以上の場合、代わりに：",
+            "ConditionalDescriptions": [
+                "敵全体に40<b>ダメージ</b>を与える",
+                "<b>デコンパイル</b>する"
+            ],
+            "Rarity": "B級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "増幅コード斬り",
+            "ImagePath": "AMPED_CODESLASH.jpg",
+            "Code": "AMPED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>VIM</b>が10点以上の場合、代わりに：",
+            "ConditionalDescriptions": [
+                "敵全体に60<b>ダメージ</b>を与える",
+                "<b>デコンパイル</b>する"
+            ],
+            "Rarity": "B級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "獣の化身",
+            "ImagePath": "BECOME_THE_BEAST.jpg",
+            "Code": "BECOME_THE_BEAST",
+            "Descriptions": [
+                "<b>野性</b>が2倍になる",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "獣の化身",
+            "ImagePath": "BECOME_THE_BEAST.jpg",
+            "Code": "BECOME_THE_BEAST_UPGRADED",
+            "Descriptions": [
+                "<b>野性</b>が2倍になる",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "引き裂き攻撃",
+            "ImagePath": "BRUTAL_MAULING.jpg",
+            "Code": "BRUTAL_MAULING",
+            "Descriptions": [
+                "敵全体に35<b>ダメージ</b>を与える",
+                "4<b>野性</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "引き裂き攻撃",
+            "ImagePath": "BRUTAL_MAULING.jpg",
+            "Code": "BRUTAL_MAULING_UPGRADED",
+            "Descriptions": [
+                "敵全体に45<b>ダメージ</b>を与える",
+                "6<b>野性</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "溜めコード斬り",
+            "ImagePath": "CHARGED_CODESLASH.jpg",
+            "Code": "CHARGED_CODESLASH",
+            "Descriptions": [
+                "35<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "溜めコード斬り",
+            "ImagePath": "CHARGED_CODESLASH.jpg",
+            "Code": "CHARGED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "50<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 6,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "コード斬り",
+            "ImagePath": "CODESLASH.jpg",
+            "Code": "CODESLASH",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "コード斬り",
+            "ImagePath": "CODESLASH.jpg",
+            "Code": "CODESLASH_UPGRADED",
+            "Descriptions": [
+                "30<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "コンソールの天才",
+            "ImagePath": "CONSOLE_PRODIGY.jpg",
+            "Code": "CONSOLE_PRODIGY",
+            "Descriptions": [
+                "60<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "このターンで、2回以上<b>命令</b>を実行していた場合、代わりに：",
+            "ConditionalDescriptions": [
+                "120<b>ダメージ</b>を与える"
+            ],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "コンソールの天才",
+            "ImagePath": "CONSOLE_PRODIGY.jpg",
+            "Code": "CONSOLE_PRODIGY_UPGRADED",
+            "Descriptions": [
+                "60<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "このターンで、2回以上<b>命令</b>を実行していた場合、代わりに：",
+            "ConditionalDescriptions": [
+                "120<b>ダメージ</b>を与える"
+            ],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "クリムゾンアサルト",
+            "ImagePath": "CRIMSON_ASSAULT.jpg",
+            "Code": "CRIMSON_ASSAULT",
+            "Descriptions": [
+                "40<b>ダメージ</b>を与える",
+                "このターンで、攻撃するたびに、このカードの<b>ダメージ</b>が+20になる",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "クリムゾンアサルト",
+            "ImagePath": "CRIMSON_ASSAULT.jpg",
+            "Code": "CRIMSON_ASSAULT_UPGRADED",
+            "Descriptions": [
+                "50<b>ダメージ</b>を与える",
+                "このターンで、攻撃するたびに、このカードの<b>ダメージ</b>が+30になる",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "データドレイン",
+            "ImagePath": "DATA_DRAIN.jpg",
+            "Code": "DATA_DRAIN",
+            "Descriptions": [
+                "60<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>最大VIM</b>を所持している場合：",
+            "ConditionalDescriptions": [
+                "追加で与<b>ダメージ</b>量と同じ<b>バリア</b>を得る"
+            ],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "データドレイン",
+            "ImagePath": "DATA_DRAIN.jpg",
+            "Code": "DATA_DRAIN_UPGRADED",
+            "Descriptions": [
+                "70<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>VIM</b>が12点以上の場合、追加で",
+            "ConditionalDescriptions": [
+                "与<b>ダメージ</b>量と同じ<b>バリア</b>を得る"
+            ],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "儚い刃",
+            "ImagePath": "EPHEMERAL_EDGE.jpg",
+            "Code": "EPHEMERAL_EDGE",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "<b>ヒット時：</b> <b>VIM</b>を3点生成する。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻撃",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "儚い刃",
+            "ImagePath": "EPHEMERAL_EDGE.jpg",
+            "Code": "EPHEMERAL_EDGE_UPGRADED",
+            "Descriptions": [
+                "30<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "牙の一撃",
+            "ImagePath": "FANG_STRIKE.jpg",
+            "Code": "FANG_STRIKE",
+            "Descriptions": [
+                "35<b>ダメージ</b>を与える",
+                "2<b>野性</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "牙の一撃",
+            "ImagePath": "FANG_STRIKE.jpg",
+            "Code": "FANG_STRIKE_UPGRADED",
+            "Descriptions": [
+                "55<b>ダメージ</b>を与える",
+                "3<b>野性</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "破損コード斬り",
+            "ImagePath": "FRAGMENTED_CODESLASH.jpg",
+            "Code": "FRAGMENTED_CODESLASH",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "1枚の<b>フラグメントデータ</b>をコードデッキに加える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻撃",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "破損コード斬り",
+            "ImagePath": "FRAGMENTED_CODESLASH.jpg",
+            "Code": "FRAGMENTED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "敵全体に25<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "重装歩兵",
+            "ImagePath": "HOPLITE.jpg",
+            "Code": "HOPLITE",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "20<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "重装歩兵",
+            "ImagePath": "HOPLITE.jpg",
+            "Code": "HOPLITE_UPGRADED",
+            "Descriptions": [
+                "30<b>ダメージ</b>を与える",
+                "30<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "メモリナイフ",
+            "ImagePath": "MEMORY_DAGGER.jpg",
+            "Code": "MEM_DAGGER",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>VIM</b>が12点以上の場合、追加で",
+            "ConditionalDescriptions": [
+                "カードを1枚引く"
+            ],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻撃",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "メモリナイフ",
+            "ImagePath": "MEMORY_DAGGER.jpg",
+            "Code": "MEM_DAGGER_UPGRADED",
+            "Descriptions": [
+                "30<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>VIM</b>が12点以上の場合、追加で",
+            "ConditionalDescriptions": [
+                "カードを1枚引く"
+            ],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "メモリジャンプ",
+            "ImagePath": "MEMORY_LEAP.jpg",
+            "Code": "MEM_LEAP",
+            "Descriptions": [
+                "30<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>VIM</b>が12点以上の場合、追加で",
+            "ConditionalDescriptions": [
+                "1の<b>クロック</b>を得る"
+            ],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "メモリジャンプ",
+            "ImagePath": "MEMORY_LEAP.jpg",
+            "Code": "MEM_LEAP_UPGRADED",
+            "Descriptions": [
+                "50<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>VIM</b>が12点以上の場合、追加で",
+            "ConditionalDescriptions": [
+                "1の<b>クロック</b>を得る"
+            ],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "メモリサーベル",
+            "ImagePath": "MEM_SABER.jpg",
+            "Code": "MEM_SABER",
+            "Descriptions": [
+                "40<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>VIM</b>が12点以上の場合、追加で",
+            "ConditionalDescriptions": [
+                "2<b>弱体化</b>を付与する",
+                "2<b>暴露</b>を付与する"
+            ],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "メモリサーベル",
+            "ImagePath": "MEM_SABER.jpg",
+            "Code": "MEM_SABER_UPGRADED",
+            "Descriptions": [
+                "40<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>VIM</b>が12点以上の場合、追加で",
+            "ConditionalDescriptions": [
+                "2<b>弱体化</b>を付与する",
+                "2<b>暴露</b>を付与する"
+            ],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "メモリサイス",
+            "ImagePath": "MEMORY_SCYTHE.jpg",
+            "Code": "MEM_SCYTHE",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>最大VIM</b>を所持している場合、代わりに：",
+            "ConditionalDescriptions": [
+                "90<b>ダメージ</b>を与える"
+            ],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "メモリサイス",
+            "ImagePath": "MEMORY_SCYTHE.jpg",
+            "Code": "MEM_SCYTHE_UPGRADED",
+            "Descriptions": [
+                "1<b>増幅</b>を得る",
+                "30<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>最大VIM</b>を所持している場合、代わりに：",
+            "ConditionalDescriptions": [
+                "90<b>ダメージ</b>を与える"
+            ],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "オーバーキル",
+            "ImagePath": "OVERKILL.jpg",
+            "Code": "OVERKILL",
+            "Descriptions": [
+                "40<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>最大VIM</b>を所持している場合、代わりに：",
+            "ConditionalDescriptions": [
+                "敵全体に200<b>ダメージ</b>を与える",
+                "<b>デコンパイル</b>する"
+            ],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "オーバーキル",
+            "ImagePath": "OVERKILL.jpg",
+            "Code": "OVERKILL_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "<b>最大VIM</b>を所持している場合、代わりに：",
+            "ConditionalDescriptions": [
+                "敵全体に350<b>ダメージ</b>を与える",
+                "<b>デコンパイル</b>する"
+            ],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "群れ狩り",
+            "ImagePath": "PACK_HUNT.jpg",
+            "Code": "PACK_HUNT",
+            "Descriptions": [
+                "50<b>ダメージ</b>を与える",
+                "<b>野性</b>がこのカードに3倍の効果を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "群れ狩り",
+            "ImagePath": "PACK_HUNT.jpg",
+            "Code": "PACK_HUNT_UPGRADED",
+            "Descriptions": [
+                "50<b>ダメージ</b>を与える",
+                "<b>野性</b>がこのカードに3倍の効果を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "原初の咆哮",
+            "ImagePath": "PRIMAL_HOWL.jpg",
+            "Code": "PRIMAL_HOWL",
+            "Descriptions": [
+                "100<b>ダメージ</b>を与える",
+                "3<b>野性</b>ごとに、コストが1<b>クロック</b>減る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 9,
+            "Type": "攻撃",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "原初の咆哮",
+            "ImagePath": "PRIMAL_HOWL.jpg",
+            "Code": "PRIMAL_HOWL_UPGRADED",
+            "Descriptions": [
+                "120<b>ダメージ</b>を与える",
+                "2<b>野性</b>ごとに、コストが1 <b>クロック</b>減る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 9,
+            "Type": "攻撃",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "繰り返す悪夢",
+            "ImagePath": "RECURSIVE_NIGHTMARE.jpg",
+            "Code": "RECURSIVE_NIGHTMARE",
+            "Descriptions": [
+                "30<b>ダメージ</b>を与える",
+                "バトル終了まで、このカードの<b>ダメージ</b>が+10になる"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "繰り返す悪夢",
+            "ImagePath": "RECURSIVE_NIGHTMARE.jpg",
+            "Code": "RECURSIVE_NIGHTMARE_UPGRADED",
+            "Descriptions": [
+                "30<b>ダメージ</b>を与える",
+                "バトル終了まで、このカードの<b>ダメージ</b>が+10になる"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "引き裂くコード斬り",
+            "ImagePath": "RENDING_CODESLASH.jpg",
+            "Code": "RENDING_CODESLASH",
+            "Descriptions": [
+                "35<b>ダメージ</b>を与える",
+                "<b>命中した後</b> 、1<b>弱体化</b>を付与する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "引き裂くコード斬り",
+            "ImagePath": "RENDING_CODESLASH.jpg",
+            "Code": "RENDING_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "45<b>ダメージ</b>を与える",
+                "<b>命中した後</b> 、2<b>弱体化</b>を付与する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "太陽フレアX",
+            "ImagePath": "SUN_BURST_X.jpg",
+            "Code": "SUN_BURST_X",
+            "Descriptions": [
+                "30<b>ダメージ</b>を与える",
+                "このターンでプレイする次の<b>攻撃</b>カードは2倍の<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "太陽フレアX",
+            "ImagePath": "SUN_BURST_X.jpg",
+            "Code": "SUN_BURST_X_UPGRADED",
+            "Descriptions": [
+                "50<b>ダメージ</b>を与える",
+                "このターンでプレイする次の<b>攻撃</b>カードは2倍の<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "暗号結社の捨て駒",
+            "ImagePath": "THE_CYPHERS_GAMBIT.jpg",
+            "Code": "THE_CYPHERS_GAMBIT",
+            "Descriptions": [
+                "30<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "このターンで<b>命令</b>を<br>1回以上実行していた場合、追加で",
+            "ConditionalDescriptions": [
+                "1の<b>クロック</b>を得る"
+            ],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "暗号結社の捨て駒",
+            "ImagePath": "THE_CYPHERS_GAMBIT.jpg",
+            "Code": "THE_CYPHERS_GAMBIT_UPGRADED",
+            "Descriptions": [
+                "40<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "このターンで<b>命令</b>を<br>1回以上実行していた場合、追加で",
+            "ConditionalDescriptions": [
+                "1の<b>クロック</b>を得る"
+            ],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ギルドの窃盗",
+            "ImagePath": "THE_GUILDS_HEIST.jpg",
+            "Code": "THE_GUILDS_HEIST",
+            "Descriptions": [
+                "40<b>ダメージ</b>を与える",
+                "<b>命中した後</b> 、カードを1枚引く"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ギルドの窃盗",
+            "ImagePath": "THE_GUILDS_HEIST.jpg",
+            "Code": "THE_GUILDS_HEIST_UPGRADED",
+            "Descriptions": [
+                "55<b>ダメージ</b>を与える",
+                "<b>命中した後</b> 、2枚のカードを引き、1枚のカードを破棄する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "メーカーのタッチ",
+            "ImagePath": "THE_MAKERS_TOUCH.jpg",
+            "Code": "THE_MAKERS_TOUCH",
+            "Descriptions": [
+                "30<b>ダメージ</b>を与える",
+                "ランダムで1枚のカードを破棄する",
+                "それが<b>攻撃</b>カードの場合、追加で30<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "メーカーのタッチ",
+            "ImagePath": "THE_MAKERS_TOUCH.jpg",
+            "Code": "THE_MAKERS_TOUCH_UPGRADED",
+            "Descriptions": [
+                "30<b>ダメージ</b>を与える",
+                "ランダムで2枚のカードを破棄する。",
+                "2枚のカードを破棄した場合、追加で60<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "パンクのギフト",
+            "ImagePath": "THE_PUNKS_GIFT.jpg",
+            "Code": "THE_PUNKS_GIFT",
+            "Descriptions": [
+                "1枚のカードを<b>デコンパイル</b>する",
+                "敵全体にその<b>VIM</b>値の20倍の<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "パンクのギフト",
+            "ImagePath": "THE_PUNKS_GIFT.jpg",
+            "Code": "THE_PUNKS_GIFT_UPGRADED",
+            "Descriptions": [
+                "1枚のカードを<b>デコンパイル</b>する",
+                "敵全体にその<b>VIM</b>値の30倍の<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ストレイの待ち伏せ",
+            "ImagePath": "THE_STRAY_AMBUSH.jpg",
+            "Code": "THE_STRAYS_AMBUSH",
+            "Descriptions": [
+                "30<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>野性</b>が<br>6スタック以上の場合：",
+            "ConditionalDescriptions": [
+                "さらに1<b>クロック</b>を得る"
+            ],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ストレイの待ち伏せ",
+            "ImagePath": "THE_STRAY_AMBUSH.jpg",
+            "Code": "THE_STRAYS_AMBUSH_UPGRADED",
+            "Descriptions": [
+                "30<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "<b>野性</b>が<br>8スタック以上の場合：",
+            "ConditionalDescriptions": [
+                "さらに2<b>クロック</b>を得る"
+            ],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "頂点捕食者",
+            "ImagePath": "TOP_OF_THE_FOOD_CHAIN.jpg",
+            "Code": "TOP_OF_THE_FOOD_CHAIN",
+            "Descriptions": [
+                "12×<b>剛毅</b>のスタック数の<b>ダメージ</b>与える（0<b>ダメージ</b>）",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "頂点捕食者",
+            "ImagePath": "TOP_OF_THE_FOOD_CHAIN.jpg",
+            "Code": "TOP_OF_THE_FOOD_CHAIN_UPGRADED",
+            "Descriptions": [
+                "12×<b>剛毅</b>のスタック数の<b>ダメージ</b>与える（0<b>ダメージ</b>）"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ユリシーズのおもちゃ",
+            "ImagePath": "ULYSSES_TOY.jpg",
+            "Code": "ULYSSES_TOY",
+            "Descriptions": [
+                "このバトルで消費した<b>VIM</b>の2倍の<b>ダメージ</b>を与える（0<b>ダメージ</b>）",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ユリシーズのおもちゃ",
+            "ImagePath": "ULYSSES_TOY.jpg",
+            "Code": "ULYSSES_TOY_UPGRADED",
+            "Descriptions": [
+                "このバトルで消費した<b>VIM</b>の3倍の<b>ダメージ</b>を与える（0<b>ダメージ</b>）",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ボイドコード斬り",
+            "ImagePath": "VOID_CODESLASH.jpg",
+            "Code": "VOID_CODESLASH",
+            "Descriptions": [
+                "敵全体に40<b>ダメージ</b>を与える",
+                "敵全体に2<b>暴露</b>を付与する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ボイドコード斬り",
+            "ImagePath": "VOID_CODESLASH.jpg",
+            "Code": "VOID_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "敵全体に50<b>ダメージ</b>を与える",
+                "敵全体に3<b>暴露</b>を付与する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ウォーロードのキス",
+            "ImagePath": "WARDLORD_KISS.jpg",
+            "Code": "WARDLORD_KISS",
+            "Descriptions": [
+                "120<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ウォーロードのキス",
+            "ImagePath": "WARDLORD_KISS.jpg",
+            "Code": "WARDLORD_KISS_UPGRADED",
+            "Descriptions": [
+                "120<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "アドーニス広告ブロッカー",
+            "ImagePath": "ADONIS_AD_BLOCKER.jpg",
+            "Code": "ADONIS_AD_BLOCKER",
+            "Descriptions": [
+                "30<b>バリア</b>を得る",
+                "カードを1枚引く"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "アドーニス広告ブロッカー",
+            "ImagePath": "ADONIS_AD_BLOCKER.jpg",
+            "Code": "ADONIS_AD_BLOCKER_UPGRADED",
+            "Descriptions": [
+                "45<b>バリア</b>を得る",
+                "カードを1枚引く"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "アンプドサイバーシェル",
+            "ImagePath": "AMPED_CYBERSHELL.jpg",
+            "Code": "AMPED_CYBERSHELL",
+            "Descriptions": [
+                "20<b>バリア</b>を得る"
+            ],
+            "Conditional": "<b>VIM</b>が10点以上の場合、代わりに：",
+            "ConditionalDescriptions": [
+                "40<b>バリア</b>を得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Rarity": "B級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "アンプドサイバーシェル",
+            "ImagePath": "AMPED_CYBERSHELL.jpg",
+            "Code": "AMPED_CYBERSHELL_UPGRADED",
+            "Descriptions": [
+                "20<b>バリア</b>を得る"
+            ],
+            "Conditional": "<b>VIM</b>が10点以上の場合、代わりに：",
+            "ConditionalDescriptions": [
+                "60<b>バリア</b>を得る"
+            ],
+            "Rarity": "B級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "獣の本能",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "ANIMAL_INSTINCT",
+            "Descriptions": [
+                "30<b>バリア</b>を得る"
+            ],
+            "Conditional": "このターンでヒットした場合、代わりに：",
+            "ConditionalDescriptions": [
+                "60<b>バリア</b>を得る"
+            ],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "獣の本能",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "ANIMAL_INSTINCT_UPGRADED",
+            "Descriptions": [
+                "40<b>バリア</b>を得る"
+            ],
+            "Conditional": "このターンでヒットした場合、代わりに：",
+            "ConditionalDescriptions": [
+                "80<b>バリア</b>を得る"
+            ],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "現実の歪み",
+            "ImagePath": "BEND_REALITY.jpg",
+            "Code": "BEND_REALITY",
+            "Descriptions": [
+                "160<b>バリア</b>を得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "現実の歪み",
+            "ImagePath": "BEND_REALITY.jpg",
+            "Code": "BEND_REALITY_UPGRADED",
+            "Descriptions": [
+                "200<b>バリア</b>を得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "冷たい視線",
+            "ImagePath": "COLD_STARE.jpg",
+            "Code": "COLD_STARE",
+            "Descriptions": [
+                "30<b>バリア</b>を得る"
+            ],
+            "Conditional": "<b>剛毅</b>が6スタック以上の場合：",
+            "ConditionalDescriptions": [
+                "敵全体に1<b>弱体化</b>を付与する"
+            ],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "冷たい視線",
+            "ImagePath": "COLD_STARE.jpg",
+            "Code": "COLD_STARE_UPGRADED",
+            "Descriptions": [
+                "40<b>バリア</b>を得る"
+            ],
+            "Conditional": "<b>剛毅</b>が6スタック以上の場合：",
+            "ConditionalDescriptions": [
+                "敵全体に2<b>弱体化</b>を付与する"
+            ],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "コンソールバックアップ",
+            "ImagePath": "CONSOLE_BACKUP.jpg",
+            "Code": "CONSOLE_BACKUP",
+            "Descriptions": [
+                "60<b>バリア</b>を得る",
+                "このターンで<b>命令</b>を実行するたびに、30<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防御",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "コンソールバックアップ",
+            "ImagePath": "CONSOLE_BACKUP.jpg",
+            "Code": "CONSOLE_BACKUP_UPGRADED",
+            "Descriptions": [
+                "70<b>バリア</b>を得る",
+                "このターンで<b>命令</b>を実行するたびに、45<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防御",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "サイバーカバー",
+            "ImagePath": "CYBERHIDE.jpg",
+            "Code": "CYBERHIDE",
+            "Descriptions": [
+                "20<b>バリア</b>を得る",
+                "もし前に<b>防御</b>カードをプレイしたら、そのカードが再びプレイされる"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "サイバーカバー",
+            "ImagePath": "CYBERHIDE.jpg",
+            "Code": "CYBERHIDE_UPGRADED",
+            "Descriptions": [
+                "35<b>バリア</b>を得る",
+                "もし前に<b>防御</b>カードをプレイしたら、そのカードが再びプレイされる"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "サイバーシェル",
+            "ImagePath": "CYBERSHELL.jpg",
+            "Code": "CYBERSHELL",
+            "Descriptions": [
+                "20<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "サイバーシェル",
+            "ImagePath": "CYBERSHELL.jpg",
+            "Code": "CYBERSHELL_UPGRADED",
+            "Descriptions": [
+                "40<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "エネルギーコート",
+            "ImagePath": "ENERGY_COAT.jpg",
+            "Code": "ENERGY_COAT",
+            "Descriptions": [
+                "40<b>バリア</b>を得る",
+                "このターンで<b>防御</b>カードをプレイするたび、7<b>バリア</b>を獲得し、1<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "エネルギーコート",
+            "ImagePath": "ENERGY_COAT.jpg",
+            "Code": "ENERGY_COAT_UPGRADED",
+            "Descriptions": [
+                "45<b>バリア</b>を得る",
+                "このターンで<b>防御</b>カードをプレイするたび、10<b>バリア</b>を獲得し、2<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "エフェメラルバリア",
+            "ImagePath": "EPHEMERAL_WALL.jpg",
+            "Code": "EPHEMERAL_WALL",
+            "Descriptions": [
+                "30<b>バリア</b>を得る",
+                "<b>マイナー命令</b>をリフレッシュする",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "エフェメラルバリア",
+            "ImagePath": "EPHEMERAL_WALL.jpg",
+            "Code": "EPHEMERAL_WALL_UPGRADED",
+            "Descriptions": [
+                "40<b>バリア</b>を得る",
+                "<b>マイナー命令</b>をリフレッシュする。",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 6,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "破損バリア",
+            "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
+            "Code": "FRAGMENTED_BLOCKADE",
+            "Descriptions": [
+                "50<b>バリア</b>を得る",
+                "1枚の<b>フラグメントデータ</b>をコードデッキに加える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "破損バリア",
+            "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
+            "Code": "FRAGMENTED_BLOCKADE_UPGRADED",
+            "Descriptions": [
+                "50<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "入力アシスタンス",
+            "ImagePath": "INPUT_ASSISTANT.jpg",
+            "Code": "INPUT_ASSISTANT",
+            "Descriptions": [
+                "20<b>バリア</b>を得る"
+            ],
+            "Conditional": "このターンで<br>1回以上<b>命令</b>を実行していた場合：",
+            "ConditionalDescriptions": [
+                "追加で1<b>キャッシュ</b>を得る"
+            ],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "防御",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "入力アシスタンス",
+            "ImagePath": "INPUT_ASSISTANT.jpg",
+            "Code": "INPUT_ASSISTANT_UPGRADED",
+            "Descriptions": [
+                "30<b>バリア</b>を得る"
+            ],
+            "Conditional": "このターンで<br>1回以上<b>命令</b>を実行していた場合：",
+            "ConditionalDescriptions": [
+                "さらにカードを1枚引く"
+            ],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "防御",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ケンネル法",
+            "ImagePath": "KENNEL_LAW.jpg",
+            "Code": "KENNEL_LAW",
+            "Descriptions": [
+                "30<b>バリア</b>を得る"
+            ],
+            "Conditional": "<b>剛毅</b>が6以上の場合：",
+            "ConditionalDescriptions": [
+                "1の<b>クロック</b>を得る"
+            ],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ケンネル法",
+            "ImagePath": "KENNEL_LAW.jpg",
+            "Code": "KENNEL_LAW_UPGRADED",
+            "Descriptions": [
+                "45<b>バリア</b>を得る"
+            ],
+            "Conditional": "<b>剛毅</b>が6以上の場合：",
+            "ConditionalDescriptions": [
+                "1の<b>クロック</b>を得る"
+            ],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "メモリクローク",
+            "ImagePath": "MEMORY_CLOAK.jpg",
+            "Code": "MEM_CLOAK",
+            "Descriptions": [
+                "20<b>バリア</b>を得る"
+            ],
+            "Conditional": "<b>VIM</b>が12点以上の場合：",
+            "ConditionalDescriptions": [
+                "さらにカードを1枚引く"
+            ],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "防御",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "メモリクローク",
+            "ImagePath": "MEMORY_CLOAK.jpg",
+            "Code": "MEM_CLOAK_UPGRADED",
+            "Descriptions": [
+                "30<b>バリア</b>を得る"
+            ],
+            "Conditional": "<b>VIM</b>が12点以上の場合：",
+            "ConditionalDescriptions": [
+                "さらにカードを1枚引く"
+            ],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "街の支配者",
+            "ImagePath": "OWN_THE_STREETS.jpg",
+            "Code": "OWN_THE_STREETS",
+            "Descriptions": [
+                "60<b>バリア</b>を得る",
+                "<b>剛毅</b>がこのカードに3倍の効果を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "街の支配者",
+            "ImagePath": "OWN_THE_STREETS.jpg",
+            "Code": "OWN_THE_STREETS_UPGRADED",
+            "Descriptions": [
+                "90<b>バリア</b>を得る",
+                "<b>剛毅</b>がこのカードに3倍の効果を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防御",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ペットZロボット",
+            "ImagePath": "PET_Z_BOT.jpg",
+            "Code": "PET_Z_BOT",
+            "Descriptions": [
+                "20<b>バリア</b>を得る",
+                "コードデッキから1枚のカードを選び、手札に加える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ペットZロボット",
+            "ImagePath": "PET_Z_BOT.jpg",
+            "Code": "PET_Z_BOT_UPGRADED",
+            "Descriptions": [
+                "30<b>バリア</b>を得る",
+                "コードデッキから1枚のカードを選び、手札に加える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "パワーアーマー",
+            "ImagePath": "POWER_ARMOR.jpg",
+            "Code": "POWER_ARMOR",
+            "Descriptions": [
+                "30<b>バリア</b>を得る"
+            ],
+            "Conditional": "<b>最大VIM</b>を所持している場合、代わりに：",
+            "ConditionalDescriptions": [
+                "100<b>バリア</b>を得る"
+            ],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "パワーアーマー",
+            "ImagePath": "POWER_ARMOR.jpg",
+            "Code": "POWER_ARMOR_UPGRADED",
+            "Descriptions": [
+                "40<b>バリア</b>を得る"
+            ],
+            "Conditional": "<b>最大VIM</b>を所持している場合、代わりに：",
+            "ConditionalDescriptions": [
+                "150<b>バリア</b>を得る"
+            ],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ストリートリゾルブ",
+            "ImagePath": "STREET_RESOLVE.jpg",
+            "Code": "STREET_RESOLVE",
+            "Descriptions": [
+                "60<b>バリア</b>を得る",
+                "4<b>剛毅</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ストリートリゾルブ",
+            "ImagePath": "STREET_RESOLVE.jpg",
+            "Code": "STREET_RESOLVE_UPGRADED",
+            "Descriptions": [
+                "80<b>バリア</b>を得る",
+                "6<b>剛毅</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防御",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "スリンクスの祝福",
+            "ImagePath": "SYRINX_BLESSING.jpg",
+            "Code": "SYRINX_BLESSING",
+            "Descriptions": [
+                "20<b>バリア</b>を得る",
+                "このターンでプレイする次のカードは、2倍の<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "スリンクスの祝福",
+            "ImagePath": "SYRINX_BLESSING.jpg",
+            "Code": "SYRINX_BLESSING_UPGRADED",
+            "Descriptions": [
+                "40<b>バリア</b>を得る",
+                "このターンでプレイする次のカードは、2倍の<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ストレイの悪知恵",
+            "ImagePath": "THE_STRAYS_GUILE.jpg",
+            "Code": "THE_STRAYS_GUILE",
+            "Descriptions": [
+                "30<b>バリア</b>を得る",
+                "2<b>剛毅</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ストレイの悪知恵",
+            "ImagePath": "THE_STRAYS_GUILE.jpg",
+            "Code": "THE_STRAYS_GUILE_UPGRADED",
+            "Descriptions": [
+                "50<b>バリア</b>を得る",
+                "3<b>剛毅</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "狼の巣",
+            "ImagePath": "THE_WOLVES_DEN.jpg",
+            "Code": "THE_WOLVES_DEN",
+            "Descriptions": [
+                "<b>剛毅</b>が2倍になる",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "狼の巣",
+            "ImagePath": "THE_WOLVES_DEN.jpg",
+            "Code": "THE_WOLVES_DEN_UPGRADED",
+            "Descriptions": [
+                "<b>剛毅</b>が2倍になる",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "雷電Zロボット",
+            "ImagePath": "THUNDER_Z_BOT.jpg",
+            "Code": "THUNDER_Z_BOT",
+            "Descriptions": [
+                "30<b>バリア</b>を得る",
+                "1<b>増幅</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "雷電Zロボット",
+            "ImagePath": "THUNDER_Z_BOT.jpg",
+            "Code": "THUNDER_Z_BOT_UPGRADED",
+            "Descriptions": [
+                "40<b>バリア</b>を得る",
+                "2<b>増幅</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "コード斬り",
+            "ImagePath": "CODESLASH.jpg",
+            "Code": "DEMO_CARD",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "アドーニス広告ブロッカー",
+            "ImagePath": "Baribal_angry.jpg",
+            "Code": "DEV_CARD_2",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "バトルオプティマイザー",
+            "ImagePath": "BATTLE_OPTIMIZER.jpg",
+            "Code": "BATTLE_OPTIMIZER",
+            "Descriptions": [
+                "敵全体に3<b>暴露</b>を付与する",
+                "敵全体に3<b>弱体化</b>を付与する",
+                "2<b>キャッシュ</b>を得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9B705FF",
+            "Clock": 3,
+            "Type": "生成元",
+            "Vim": 5,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "バトルオプティマイザー",
+            "ImagePath": "BATTLE_OPTIMIZER.jpg",
+            "Code": "BATTLE_OPTIMIZER_UPGRADED",
+            "Descriptions": [
+                "敵全体に3<b>暴露</b>を付与する",
+                "敵全体に3<b>弱体化</b>を付与する",
+                "3<b>キャッシュ</b>を得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成元",
+            "Vim": 5,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "焼却",
+            "ImagePath": "BURNER.jpg",
+            "Code": "BURNER",
+            "Descriptions": [
+                "1枚のカードを<b>デコンパイル</b>する",
+                "3倍の<b>VIM</b>を得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "焼却",
+            "ImagePath": "BURNER.jpg",
+            "Code": "BURNER_UPGRADED",
+            "Descriptions": [
+                "1枚のカードを<b>デコンパイル</b>する",
+                "3倍の<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "キャタリスト",
+            "ImagePath": "CAT_ALYST.jpg",
+            "Code": "CAT_ALYST",
+            "Descriptions": [
+                "このターンで、カードを引くたびに、1<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "キャタリスト",
+            "ImagePath": "CAT_ALYST.jpg",
+            "Code": "CAT_ALYST_UPGRADED",
+            "Descriptions": [
+                "1<b>キャッシュ</b>を得る",
+                "このターンで、カードを引くたびに、1<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "コンソール再起動器",
+            "ImagePath": "CONSOLE_REBOOTER.jpg",
+            "Code": "CONSOLE_REBOOTER",
+            "Descriptions": [
+                "このターンで、すべての<b>命令</b>をリフレッシュする",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 8,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "コンソール再起動器",
+            "ImagePath": "CONSOLE_REBOOTER.jpg",
+            "Code": "CONSOLE_REBOOTER_UPGRADED",
+            "Descriptions": [
+                "このターンで、すべての<b>命令</b>をリフレッシュする",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 10,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ブレインラッシュ",
+            "ImagePath": "CRANIUM_RUSH.jpg",
+            "Code": "CRANIUM_RUSH",
+            "Descriptions": [
+                "1<b>オーバークロック</b>を得る"
+            ],
+            "Conditional": "<b>最大VIM</b>を所持している場合、代わりに：",
+            "ConditionalDescriptions": [
+                "2<b>オーバークロック</b>を得る",
+                "1の<b>クロック</b>を得る"
+            ],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ブレインラッシュ",
+            "ImagePath": "CRANIUM_RUSH.jpg",
+            "Code": "CRANIUM_RUSH_UPGRADED",
+            "Descriptions": [
+                "1<b>オーバークロック</b>を得る"
+            ],
+            "Conditional": "<b>最大VIM</b>を所持している場合、代わりに：",
+            "ConditionalDescriptions": [
+                "2<b>オーバークロック</b>を得る",
+                "2の<b>クロック</b>を得る"
+            ],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "エンタ菌",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "FUN_GUYS",
+            "Descriptions": [
+                "カードを1枚引く"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "エンタ菌",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "FUN_GUYS_UPGRADED",
+            "Descriptions": [
+                "カードを1枚引く"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "マジックフィンガー",
+            "ImagePath": "MAGIC_FINGERS.jpg",
+            "Code": "MAGIC_FINGERS",
+            "Descriptions": [
+                "このターンで、<b>攻撃</b>カードをプレイするたび、1<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "マジックフィンガー",
+            "ImagePath": "MAGIC_FINGERS.jpg",
+            "Code": "MAGIC_FINGERS_UPGRADED",
+            "Descriptions": [
+                "このターンで、<b>攻撃</b>カードをプレイするたび、2<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "メモリビーコン",
+            "ImagePath": "MEMORY_BEACON.jpg",
+            "Code": "MEM_BEACON",
+            "Descriptions": [
+                "2<b>クロック</b>を得る"
+            ],
+            "Conditional": "<b>最大VIM</b>を所持している場合、代わりに:",
+            "ConditionalDescriptions": [
+                "3<b>クロック</b>を得る",
+                "カードを2枚引く"
+            ],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成元",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "メモリビーコン",
+            "ImagePath": "MEMORY_BEACON.jpg",
+            "Code": "MEM_BEACON_UPGRADED",
+            "Descriptions": [
+                "2<b>クロック</b>を得る"
+            ],
+            "Conditional": "<b>VIM</b>が12以上の場合、代わりに：",
+            "ConditionalDescriptions": [
+                "3<b>クロック</b>を得る",
+                "カードを2枚引く"
+            ],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "生成元",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "月の光",
+            "ImagePath": "MOONLIGHT.jpg",
+            "Code": "MOONLIGHT",
+            "Descriptions": [
+                "5<b>野性</b>を得る",
+                "自ターン終了時、5<b>野性</b>を失う"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "月の光",
+            "ImagePath": "MOONLIGHT.jpg",
+            "Code": "MOONLIGHT_UPGRADED",
+            "Descriptions": [
+                "5<b>野性</b>を得る",
+                "自ターン終了時、5<b>野性</b>を失う"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "プレイドライブ",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "PREY_DRIVE",
+            "Descriptions": [
+                "2<b>剛毅</b>を得る",
+                "2<b>野性</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "プレイドライブ",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "PREY_DRIVE_UPGRADED",
+            "Descriptions": [
+                "3<b>剛毅</b>を得る",
+                "3<b>野性</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "メモリダウンローダー",
+            "ImagePath": "RAM_DOWNLOADER.jpg",
+            "Code": "RAM_DOWNLOADER",
+            "Descriptions": [
+                "最大で3枚までカードを破棄できる",
+                "1枚破棄するたび、3<b>VIM</b>を得る",
+                "3枚破棄した場合、1<b>キャッシュ</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "メモリダウンローダー",
+            "ImagePath": "RAM_DOWNLOADER.jpg",
+            "Code": "RAM_DOWNLOADER_UPGRADED",
+            "Descriptions": [
+                "最大で4枚までカードを破棄できる",
+                "1枚破棄するたび、4<b>VIM</b>を得る",
+                "3枚以上を破棄した場合、2<b>キャッシュ</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "繰り返す夢",
+            "ImagePath": "RECURSIVE_DREAM.jpg",
+            "Code": "RECURSIVE_DREAM",
+            "Descriptions": [
+                "このバトルで、このカードの<b>VIM</b>獲得量が+1になる"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "繰り返す夢",
+            "ImagePath": "RECURSIVE_DREAM.jpg",
+            "Code": "RECURSIVE_DREAM_UPGRADED",
+            "Descriptions": [
+                "このバトルで、このカードの<b>VIM</b>獲得量が+1になる"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 6,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "シェーファーの血液サンプル",
+            "ImagePath": "SCHAFER_BLOOD_SAMPLE.jpg",
+            "Code": "SCHAFER_BLOOD_SAMPLE",
+            "Descriptions": [
+                "自分の<b>VIM</b>が2倍になる",
+                "カードを1枚引く",
+                "1<b>キャッシュ</b>を得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "シェーファーの血液サンプル",
+            "ImagePath": "SCHAFER_BLOOD_SAMPLE.jpg",
+            "Code": "SCHAFER_BLOOD_SAMPLE_UPGRADED",
+            "Descriptions": [
+                "自分の<b>VIM</b>が2倍になる",
+                "カードを1枚引く",
+                "2<b>キャッシュ</b>を得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "制御不能な成長",
+            "ImagePath": "UNRESTRAINED_GROWTH.jpg",
+            "Code": "UNRESTRAINED_GROWTH",
+            "Descriptions": [
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 5,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "制御不能な成長",
+            "ImagePath": "UNRESTRAINED_GROWTH.jpg",
+            "Code": "UNRESTRAINED_GROWTH_UPGRADED",
+            "Descriptions": [
+                "1<b>増幅</b>を得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 5,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "不安定放電",
+            "ImagePath": "UNSTABLE_CHARGE.jpg",
+            "Code": "UNSTABLE_CHARGE",
+            "Descriptions": [],
+            "Conditional": "このターンで<b>命令</b>を1回以上実行していた場合：",
+            "ConditionalDescriptions": [
+                "追加で1<b>VIM</b>を得る"
+            ],
+            "Rarity": "B級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "不安定放電",
+            "ImagePath": "UNSTABLE_CHARGE.jpg",
+            "Code": "UNSTABLE_CHARGE_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "このターンで<b>命令</b>を1回以上実行していた場合：",
+            "ConditionalDescriptions": [
+                "<b>マイナー命令</b>をリフレッシュする",
+                "追加で1<b>VIM</b>を得る"
+            ],
+            "Rarity": "B級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "豊饒の角プロトコル",
+            "ImagePath": "CORNUCOPIA_PROTOCOL.jpg",
+            "Code": "CORNUCOPIA_PROTOCOL",
+            "Descriptions": [
+                "自分のターン開始時に3<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "プロトコル",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "カンニングプロトコル",
+            "ImagePath": "CUNNING_PROTOCOL.jpg",
+            "Code": "CUNNING_PROTOCOL",
+            "Descriptions": [
+                "自分のターン開始時に3<b>剛毅</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "プロトコル",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "グリードプロトコル",
+            "ImagePath": "GREED_PROTOCOL.jpg",
+            "Code": "GREED_PROTOCOL",
+            "Descriptions": [
+                "各ターンで最初にプレイするカードは、2倍の<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "プロトコル",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "点火プロトコル",
+            "ImagePath": "IGNITION_PROTOCOL.jpg",
+            "Code": "IGNITION_PROTOCOL",
+            "Descriptions": [
+                "<b>命令</b>を実行するたびに、敵全体に20<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "プロトコル",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "運動量プロトコル",
+            "ImagePath": "MOMENTUM_PROTOCOL.jpg",
+            "Code": "MOMENTUM_PROTOCOL",
+            "Descriptions": [
+                "毎ターン、初めて<b>命令</b>を実行すると、1<b>クロック</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "プロトコル",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ムーンプロトコル",
+            "ImagePath": "MOON_PROTOCOL.jpg",
+            "Code": "MOON_PROTOCOL",
+            "Descriptions": [
+                "自分のターン開始時に3<b>野性</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "プロトコル",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ニルヴァーナプロトコル",
+            "ImagePath": "NIRVANA_PROTOCOL.jpg",
+            "Code": "NIRVANA_PROTOCOL",
+            "Descriptions": [
+                "自分のターン開始時、<b>最大VIM</b>であれば、1<b>クロック</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "プロトコル",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "オーバーフロープロトコル",
+            "ImagePath": "OVERFLOW_PROTOCOL.jpg",
+            "Code": "OVERFLOW_PROTOCOL",
+            "Descriptions": [
+                "<b>最大VIM</b>のまま<b>VIM</b>を1点得るたび、敵全体に5<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "プロトコル",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PING-Uプロトコル",
+            "ImagePath": "PINGU_PROTOCOL.jpg",
+            "Code": "PING_U_PROTOCOL",
+            "Descriptions": [
+                "<b>最大VIM</b>のままカードをプレイするたび、敵全体に8<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "プロトコル",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "量子プロトコル",
+            "ImagePath": "QUANTUM_PROTOCOL.jpg",
+            "Code": "QUANTUM_PROTOCOL",
+            "Descriptions": [
+                "<b>命令</b>を実行するたび、2<b>VIM</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "プロトコル",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "偵察プロトコル",
+            "ImagePath": "RECON_PROTOCOL.jpg",
+            "Code": "RECON_PROTOCOL",
+            "Descriptions": [
+                "各ターンに、追加でカードを1枚引く"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "プロトコル",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "NULL",
+            "ImagePath": ".jpg",
+            "Code": "DECOMPILE_TEST",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "NULL",
+            "ImagePath": ".jpg",
+            "Code": "FACTORY_TEST",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "生成元",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "NULL",
+            "ImagePath": "AMPED_CODESLASH.jpg",
+            "Code": "HACK_TEST",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻撃",
+            "Vim": 0,
+            "IsUpgrade": false
+        }
+    ]
+}

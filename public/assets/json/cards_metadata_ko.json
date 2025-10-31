@@ -1,0 +1,5550 @@
+{
+    "Items": [
+        {
+            "CardName": "애프터쇼크",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "AFTERSHOCK",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다.",
+                "<b>버리기 시:</b> ICE에 20포인트의 <b>피해</b>를 주고, 이 카드의 <b>임시</b> 복사본을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "애프터쇼크",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "AFTERSHOCK_UPGRADED",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다.",
+                "<b>버리기 시:</b> ICE에 35포인트의 <b>피해</b>를 주고, 이 카드의 <b>임시</b> 복사본을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "정점 거미",
+            "ImagePath": "APEX_ARACHNID.jpg",
+            "Code": "APEX_ARACHNID",
+            "Descriptions": [
+                "70포인트의 <b>피해</b>를 줍니다.",
+                "2장의 <b>바이트 스크립트</b>를 생성합니다.",
+                "<b>어시스트3:</b> 2장의 <b>바이트 스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "정점 거미",
+            "ImagePath": "APEX_ARACHNID.jpg",
+            "Code": "APEX_ARACHNID_UPGRADED",
+            "Descriptions": [
+                "80포인트의 <b>피해</b>를 줍니다.",
+                "4장의 <b>바이트 스크립트</b>를 생성합니다.",
+                "<b>어시스트3:</b> 3장의 <b>바이트 스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "보정",
+            "ImagePath": "CALIBRATE.jpg",
+            "Code": "CALIBRATE",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다.",
+                "부차적 커맨드를 <b>보강</b>합니다.",
+                "메인 커맨드를 <b>보강</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "보정",
+            "ImagePath": "CALIBRATE.jpg",
+            "Code": "CALIBRATE_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>피해</b>를 줍니다.",
+                "부차적 커맨드를 <b>보강</b>합니다.",
+                "메인 커맨드를 <b>보강</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "코만독스 대장",
+            "ImagePath": "CAPTAIN_COMMANDOGS.jpg",
+            "Code": "CAPTAIN_COMMANDOGS",
+            "Descriptions": [
+                "25포인트의 <b>피해</b>를 줍니다.",
+                "<b>어시스트 2:</b> 무작위 커맨드를 <b>강화</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "코만독스 대장",
+            "ImagePath": "CAPTAIN_COMMANDOGS.jpg",
+            "Code": "CAPTAIN_COMMANDOGS_UPGRADED",
+            "Descriptions": [
+                "30포인트의 <b>피해</b>를 줍니다.",
+                "<b>어시스트 3:</b> 무작위 커맨드를 <b>강화</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "코드 크런치",
+            "ImagePath": "CODECRUNCH.jpg",
+            "Code": "CODECRUNCH",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "코드 크런치",
+            "ImagePath": "CODECRUNCH.jpg",
+            "Code": "CODECRUNCH_UPGRADED",
+            "Descriptions": [
+                "30포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "코드 스매시",
+            "ImagePath": "CODESMASH.jpg",
+            "Code": "CODESMASH",
+            "Descriptions": [
+                "50포인트의 <b>피해</b>를 줍니다.",
+                "<b>명중 후:</b> 1중첩의 <b>오버클럭</b>을 획득합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "코드 스매시",
+            "ImagePath": "CODESMASH.jpg",
+            "Code": "CODESMASH_UPGRADED",
+            "Descriptions": [
+                "60포인트의 <b>피해</b>를 줍니다.",
+                "<b>명중 후:</b> 2중첩의 <b>오버클럭</b>을 획득합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "치명적 스레딩",
+            "ImagePath": "DEADLY_THREADING.jpg",
+            "Code": "DEADLY_THREADING",
+            "Descriptions": [
+                "60포인트의 <b>피해</b>를 줍니다.",
+                "중요 커맨드를 <b>보강</b>합니다.",
+                "1장의 <b>스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "치명적 스레딩",
+            "ImagePath": "DEADLY_THREADING.jpg",
+            "Code": "DEADLY_THREADING_UPGRADED",
+            "Descriptions": [
+                "90포인트의 <b>피해</b>를 줍니다.",
+                "중요 커맨드를 <b>보강</b>합니다.",
+                "랜덤으로 2장의 <b>스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "불규칙적 위빙",
+            "ImagePath": "ERRATIC_WEAVING.jpg",
+            "Code": "ERRATIC_WEAVING",
+            "Descriptions": [
+                "25포인트의 <b>피해</b>를 줍니다.",
+                "1중첩의 <b>폭로</b>를 부여합니다.",
+                "1장의 <b>스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "불규칙적 위빙",
+            "ImagePath": "ERRATIC_WEAVING.jpg",
+            "Code": "ERRATIC_WEAVING_UPGRADED",
+            "Descriptions": [
+                "25포인트의 <b>피해</b>를 줍니다.",
+                "2중첩의 <b>폭로</b>를 부여합니다.",
+                "2장의 <b>스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "추론",
+            "ImagePath": "EXTRAPOLATE.jpg",
+            "Code": "EXTRAPOLATE",
+            "Descriptions": [
+                "40포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "<b>보강된</b> 커맨드가 2 이상 있으면, 추가로:",
+            "ConditionalDescriptions": [
+                "80포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "추론",
+            "ImagePath": "EXTRAPOLATE.jpg",
+            "Code": "EXTRAPOLATE_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "<b>보강된</b> 커맨드가 2 이상 있으면, 추가로:",
+            "ConditionalDescriptions": [
+                "120포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "탐식 광란",
+            "ImagePath": "FEEDING_FRENZY.jpg",
+            "Code": "FEEDING_FRENZY",
+            "Descriptions": [
+                "30포인트의 <b>피해</b>를 줍니다.",
+                "패에 있는 모든 <b>스크립트</b>를 <b>바이트 스크립트</b>로 변환합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "탐식 광란",
+            "ImagePath": "FEEDING_FRENZY.jpg",
+            "Code": "FEEDING_FRENZY_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>피해</b>를 줍니다.",
+                "패에 있는 모든 <b>스크립트</b>를 <b>바이트 스크립트</b>로 변환합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "프랙탈 송곳니",
+            "ImagePath": "FRACTAL_FANG.jpg",
+            "Code": "FRACTAL_FANG",
+            "Descriptions": [
+                "모든 유닛에게 40포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "프랙탈 송곳니",
+            "ImagePath": "FRACTAL_FANG.jpg",
+            "Code": "FRACTAL_FANG_UPGRADED",
+            "Descriptions": [
+                "모든 유닛에게 60포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "글래스 캐논",
+            "ImagePath": "GLASS_CANNON.jpg",
+            "Code": "GLASS_CANNON",
+            "Descriptions": [
+                "0포인트의 <b>피해</b>를 줍니다.",
+                "<b>디컴파일</b>.",
+                "<b>버리기 시:</b> 4포인트의 <b>VIM</b>을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "글래스 캐논",
+            "ImagePath": "GLASS_CANNON.jpg",
+            "Code": "GLASS_CANNON_UPGRADED",
+            "Descriptions": [
+                "150포인트의 <b>피해</b>를 줍니다.",
+                "<b>디컴파일</b>.",
+                "<b>버리기 시:</b> 6포인트의 <b>VIM</b>을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "핫픽스",
+            "ImagePath": "HOTFIX.jpg",
+            "Code": "HOTFIX",
+            "Descriptions": [
+                "30포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "<b>보강된</b> 커맨드가 있으면, 추가로:",
+            "ConditionalDescriptions": [
+                "1중첩의 <b>쇠약</b>을 적용합니다."
+            ],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "핫픽스",
+            "ImagePath": "HOTFIX.jpg",
+            "Code": "HOTFIX_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "<b>보강된</b> 커맨드가 있으면, 추가로:",
+            "ConditionalDescriptions": [
+                "2중첩의 <b>쇠약</b>을 적용합니다."
+            ],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "점프스타트",
+            "ImagePath": "JUMPSTART.jpg",
+            "Code": "JUMPSTART",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다.",
+                "1장의 카드를 뽑습니다.",
+                "메인 커맨드를 <b>보강</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "점프스타트",
+            "ImagePath": "JUMPSTART.jpg",
+            "Code": "JUMPSTART_UPGRADED",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다.",
+                "2장의 카드를 뽑습니다.",
+                "메인 커맨드를 <b>보강</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "액화",
+            "ImagePath": "LIQUEFACTION.jpg",
+            "Code": "LIQUEFACTION",
+            "Descriptions": [
+                "10포인트의 <b>피해</b>를 줍니다.",
+                "<b>명중 후:</b> 3장의 <b>바이트 스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "액화",
+            "ImagePath": "LIQUEFACTION.jpg",
+            "Code": "LIQUEFACTION_UPGRADED",
+            "Descriptions": [
+                "10포인트의 <b>피해</b>를 줍니다.",
+                "<b>명중 후:</b> 4장의 <b>바이트 스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "까치 매기",
+            "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
+            "Code": "MAGGIE_THE_MAGPIE",
+            "Descriptions": [
+                "모든 유닛에게 15포인트의 <b>피해</b>를 줍니다.",
+                "<b>어시스트2:</b> 1장의 카드를 뽑습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "까치 매기",
+            "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
+            "Code": "MAGGIE_THE_MAGPIE_UPGRADED",
+            "Descriptions": [
+                "모든 유닛에게 25포인트의 <b>피해</b>를 줍니다.",
+                "<b>어시스트3:</b> 1장의 카드를 뽑습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "모스키토 인코그니토",
+            "ImagePath": "MOSQUITO_INCOGNITO.jpg",
+            "Code": "MOSQUITO_INCOGNITO",
+            "Descriptions": [
+                "5포인트의 <b>피해</b>를 줍니다.",
+                "<b>어시스트20:</b> ICE에 5포인트의 <b>피해</b>를 줍니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "모스키토 인코그니토",
+            "ImagePath": "MOSQUITO_INCOGNITO.jpg",
+            "Code": "MOSQUITO_INCOGNITO_UPGRADED",
+            "Descriptions": [
+                "5포인트의 <b>피해</b>를 줍니다.",
+                "<b>어시스트25:</b> ICE에 5포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "신경독 작살",
+            "ImagePath": "NEUROTOXIC_HARPOON.jpg",
+            "Code": "NEUROTOXIC_HARPOON",
+            "Descriptions": [
+                "50포인트의 <b>피해</b>를 줍니다.",
+                "<b>명중 후:</b> <b>바이트 스크립트</b>의 기본 피해를 전투 종료 시까지 5만큼 증가시킵니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "신경독 작살",
+            "ImagePath": "NEUROTOXIC_HARPOON.jpg",
+            "Code": "NEUROTOXIC_HARPOON_UPGRADED",
+            "Descriptions": [
+                "60포인트의 <b>피해</b>를 줍니다.",
+                "<b>명중 후:</b> <b>바이트 스크립트</b>의 기본 피해를 전투 종료 시까지 8만큼 증가시킵니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "일회용 유닛",
+            "ImagePath": "DISPOSABLE_UNITS.jpg",
+            "Code": "NITRO_DAGGER",
+            "Descriptions": [
+                "10포인트의 <b>피해</b>를 줍니다.",
+                "1중첩의 <b>오버클럭</b>을 획득합니다.",
+                "<b>버리기 시:</b> 1 <b>시계</b>를 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "일회용 유닛",
+            "ImagePath": "DISPOSABLE_UNITS.jpg",
+            "Code": "NITRO_DAGGER_UPGRADED",
+            "Descriptions": [
+                "15포인트의 <b>피해</b>를 줍니다.",
+                "1중첩의 <b>오버클럭</b>을 획득합니다.",
+                "<b>버리기 시:</b> 2 <b>시계</b>를 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "오버홀",
+            "ImagePath": "OVERHAUL.jpg",
+            "Code": "OVERHAUL",
+            "Descriptions": [
+                "45포인트의 <b>피해</b>를 줍니다.",
+                "2중첩의 <b>폭로</b>를 부여합니다.",
+                "<b>보강</b> 부차적 커맨드."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "오버홀",
+            "ImagePath": "OVERHAUL.jpg",
+            "Code": "OVERHAUL_UPGRADED",
+            "Descriptions": [
+                "70포인트의 <b>피해</b>를 줍니다.",
+                "3중첩의 <b>폭로</b>를 부여합니다.",
+                "<b>보강</b> 부차적 커맨드."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "옥스 호크스",
+            "ImagePath": "OX_HOAX.jpg",
+            "Code": "OX_HOAX",
+            "Descriptions": [
+                "1포인트의 <b>피해</b>를 줍니다.",
+                "<b>어시스트1:</b> ICE에 60포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "옥스 호크스",
+            "ImagePath": "OX_HOAX.jpg",
+            "Code": "OX_HOAX_UPGRADED",
+            "Descriptions": [
+                "1포인트의 <b>피해</b>를 줍니다.",
+                "<b>어시스트1:</b> ICE에 100포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "피냐타 폭탄",
+            "ImagePath": "PINATA_BOMB.jpg",
+            "Code": "PINATA_BOMB",
+            "Descriptions": [
+                "10포인트의 <b>피해</b>를 줍니다.",
+                "<b>버리기 시:</b> 모든 유닛에게 30포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "피냐타 폭탄",
+            "ImagePath": "PINATA_BOMB.jpg",
+            "Code": "PINATA_BOMB_UPGRADED",
+            "Descriptions": [
+                "10포인트의 <b>피해</b>를 줍니다.",
+                "<b>버리기 시:</b> 모든 유닛에게 45포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "탐욕의 비명",
+            "ImagePath": "RAVENOUS_SCREECH.jpg",
+            "Code": "RAVENOUS_SCREECH",
+            "Descriptions": [
+                "10포인트의 <b>피해</b>를 줍니다.",
+                "1중첩의 <b>쇠약</b>을 적용합니다.",
+                "메인 커맨드를 <b>보강</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "공격",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "탐욕의 비명",
+            "ImagePath": "RAVENOUS_SCREECH.jpg",
+            "Code": "RAVENOUS_SCREECH_UPGRADED",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다.",
+                "1중첩의 <b>쇠약</b>을 적용합니다.",
+                "메인 커맨드를 <b>보강</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "공격",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "재조정",
+            "ImagePath": "READJUST.jpg",
+            "Code": "READJUST",
+            "Descriptions": [
+                "모든 유닛에게 25포인트의 <b>피해</b>를 줍니다.",
+                "부차적 커맨드를 <b>보강</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "재조정",
+            "ImagePath": "READJUST.jpg",
+            "Code": "READJUST_UPGRADED",
+            "Descriptions": [
+                "모든 유닛에게 40포인트의 <b>피해</b>를 줍니다.",
+                "부차적 커맨드를 <b>보강</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "싱귤래리티",
+            "ImagePath": "SINGULARITY.jpg",
+            "Code": "SINGULARITY",
+            "Descriptions": [
+                "100포인트의 <b>피해</b>를 줍니다.",
+                "<b>보강</b> 커맨드 1개를 가지고 있을 때마다, 이 카드의 비용이 <b>시계</b> 1만큼 감소합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "싱귤래리티",
+            "ImagePath": "SINGULARITY.jpg",
+            "Code": "SINGULARITY_UPGRADED",
+            "Descriptions": [
+                "150포인트의 <b>피해</b>를 줍니다.",
+                "<b>보강</b> 커맨드 1개를 가지고 있을 때마다, 이 카드의 비용이 <b>시계</b> 1만큼 감소합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "경쾌 습격",
+            "ImagePath": "SKITTERING_STRIKE.jpg",
+            "Code": "SKITTERING_STRIKE",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "<b>보강된</b> 커맨드가 있으면, 추가로:",
+            "ConditionalDescriptions": [
+                "1 <b>시계</b>를 획득합니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "경쾌 습격",
+            "ImagePath": "SKITTERING_STRIKE.jpg",
+            "Code": "SKITTERING_STRIKE_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "<b>보강된</b> 커맨드가 있으면, 추가로:",
+            "ConditionalDescriptions": [
+                "1 <b>시계</b>를 획득합니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "변이",
+            "ImagePath": "MUTATE.jpg",
+            "Code": "SPAWN_SPIDERLINGS",
+            "Descriptions": [
+                "10포인트의 <b>피해</b>를 줍니다.",
+                "6장의 <b>바이트 스크립트</b>를 생성합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "변이",
+            "ImagePath": "MUTATE.jpg",
+            "Code": "SPAWN_SPIDERLINGS_UPGRADED",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다.",
+                "6장의 <b>바이트 스크립트</b>를 생성합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "생성기",
+            "ImagePath": "SPAWNER.jpg",
+            "Code": "SPAWNER",
+            "Descriptions": [
+                "10포인트의 <b>피해</b>를 줍니다.",
+                "1장의 <b>바이트 스크립트</b>를 생성합니다.",
+                "<b>버리기 시:</b> 3장의 <b>바이트 스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "생성기",
+            "ImagePath": "SPAWNER.jpg",
+            "Code": "SPAWNER_UPGRADED",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다.",
+                "2장의 <b>바이트 스크립트</b>를 생성합니다.",
+                "<b>버리기 시:</b> 4장의 <b>바이트 스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "스파이더 킹",
+            "ImagePath": "SPIDER_KING.jpg",
+            "Code": "SPIDER_KING",
+            "Descriptions": [
+                "60포인트의 <b>피해</b>를 줍니다.",
+                "<b>어시스트4:</b> 랜덤으로 2장의 <b>스크립트</b>를 생성합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "스파이더 킹",
+            "ImagePath": "SPIDER_KING.jpg",
+            "Code": "SPIDER_KING_UPGRADED",
+            "Descriptions": [
+                "70포인트의 <b>피해</b>를 줍니다.",
+                "<b>어시스트4:</b> 랜덤으로 3장의 <b>스크립트</b>를 생성합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "테크노 오소리",
+            "ImagePath": "TECHNO_BADGER.jpg",
+            "Code": "TECHNO_BADGER",
+            "Descriptions": [
+                "10포인트의 <b>피해</b>를 줍니다.",
+                "<b>어시스트5:</b> 모든 유닛에게 10포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "테크노 오소리",
+            "ImagePath": "TECHNO_BADGER.jpg",
+            "Code": "TECHNO_BADGER_UPGRADED",
+            "Descriptions": [
+                "10포인트의 <b>피해</b>를 줍니다.",
+                "<b>어시스트5:</b> 모든 유닛에게 20포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "임시 애프터쇼크",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "TEMP_AFTERSHOCK",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다.",
+                "<b>버리기 시:</b> ICE에 20포인트의 <b>피해</b>를 주고, 이 카드의 <b>임시</b> 복사본을 생성합니다.",
+                "<b>임시</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "임시 애프터쇼크",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "TEMP_AFTERSHOCK_UPGRADED",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다.",
+                "<b>버리기 시:</b> ICE에 35포인트의 <b>피해</b>를 주고, 이 카드의 <b>임시</b> 복사본을 생성합니다.",
+                "<b>임시</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "쓰리드라",
+            "ImagePath": "THREEDRA.jpg",
+            "Code": "THREEDRA",
+            "Descriptions": [
+                "모든 유닛에게 20포인트의 <b>피해</b>를 줍니다.",
+                "모든 유닛에게 2중첩의 <b>폭로</b>를 부여합니다.",
+                "<b>어시스트3:</b> 모든 유닛에게 20포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "쓰리드라",
+            "ImagePath": "THREEDRA.jpg",
+            "Code": "THREEDRA_UPGRADED",
+            "Descriptions": [
+                "모든 유닛에게 30포인트의 <b>피해</b>를 줍니다.",
+                "모든 유닛에게 3중첩의 <b>폭로</b>를 부여합니다.",
+                "<b>어시스트3:</b> 모든 유닛에게 30포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "독액 공격",
+            "ImagePath": "VENOM_STRIKE.jpg",
+            "Code": "VENOM_STRIKE",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다.",
+                "이번 턴 동안 <b>바이트 스크립트</b>의 피해량을 10만큼 증가시킵니다.",
+                "<b>명중 후:</b> 2중첩의 <b>폭로</b>를 부여합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "독액 공격",
+            "ImagePath": "VENOM_STRIKE.jpg",
+            "Code": "VENOM_STRIKE_UPGRADED",
+            "Descriptions": [
+                "45포인트의 <b>피해</b>를 줍니다.",
+                "이번 턴 동안 <b>바이트 스크립트</b>의 피해량을 10만큼 증가시킵니다.",
+                "<b>명중 후:</b> 2중첩의 <b>폭로</b>를 부여합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "집 건",
+            "ImagePath": "ZIP_GUN.jpg",
+            "Code": "ZIP_GUN",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다.",
+                "1장의 카드를 버립니다.",
+                "<b>버리기 시:</b> ICE에게 20포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "집 건",
+            "ImagePath": "ZIP_GUN.jpg",
+            "Code": "ZIP_GUN_UPGRADED",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다.",
+                "1장의 카드를 버립니다.",
+                "<b>버리기 시:</b> ICE에게 40포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "좀비 호플라이트",
+            "ImagePath": "ZOMBIE_HOPLITE.jpg",
+            "Code": "ZOMBIE_HOPLITE",
+            "Descriptions": [
+                "이번 턴에 버려진 카드 1장마다 모든 모든 유닛에게 20포인트의 <b>피해</b>를 줍니다. (0포인트 <b>피해</b>)."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "좀비 호플라이트",
+            "ImagePath": "ZOMBIE_HOPLITE.jpg",
+            "Code": "ZOMBIE_HOPLITE_UPGRADED",
+            "Descriptions": [
+                "이번 턴에 버려진 카드 1장마다 모든 모든 유닛에게 30포인트의 <b>피해</b>를 줍니다. (0포인트 <b>피해</b>)."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "잔상",
+            "ImagePath": "AFTERIMAGE.jpg",
+            "Code": "AFTERIMAGE",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "<b>보강된</b> 커맨드가 있으면, 추가로:",
+            "ConditionalDescriptions": [
+                "랜덤으로 <b>어시스트</b> 효과를 1포인트 연장합니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "잔상",
+            "ImagePath": "AFTERIMAGE.jpg",
+            "Code": "AFTERIMAGE_UPGRADED",
+            "Descriptions": [
+                "50포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "<b>보강된</b> 커맨드가 있으면, 추가로:",
+            "ConditionalDescriptions": [
+                "랜덤으로 <b>어시스트</b> 효과를 1포인트 연장합니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "배리 케이드",
+            "ImagePath": "BARRY_CADE.jpg",
+            "Code": "BARRY_CADE",
+            "Descriptions": [
+                "60포인트의 <b>방어막</b>을 획득합니다.",
+                "2중첩의 <b>캐시</b>를 획득합니다.",
+                "<b>어시스트3:</b> 40포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 3,
+            "Type": "방어",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "배리 케이드",
+            "ImagePath": "BARRY_CADE.jpg",
+            "Code": "BARRY_CADE_UPGRADED",
+            "Descriptions": [
+                "60포인트의 <b>방어막</b>을 획득합니다.",
+                "2중첩의 <b>캐시</b>를 획득합니다.",
+                "<b>어시스트3:</b> 40포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "방어",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "빅 파파",
+            "ImagePath": "BIG_PAPPA.jpg",
+            "Code": "BIG_PAPPA",
+            "Descriptions": [
+                "80포인트의 <b>방어막</b>을 획득합니다.",
+                "모든 <b>어시스트</b> 효과를 2포인트 연장합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "방어",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "빅 파파",
+            "ImagePath": "BIG_PAPPA.jpg",
+            "Code": "BIG_PAPPA_UPGRADED",
+            "Descriptions": [
+                "120포인트의 <b>방어막</b>을 획득합니다.",
+                "모든 <b>어시스트</b> 효과를 3포인트 연장합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "방어",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "에코 챔버",
+            "ImagePath": "ECHO_CHAMBER.jpg",
+            "Code": "ECHO_CHAMBER",
+            "Descriptions": [
+                "20포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "<b>보강된</b> 커맨드가 있으면, 추가로:",
+            "ConditionalDescriptions": [
+                "50중첩의 <b>방어막</b>을 획득합니다."
+            ],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "에코 챔버",
+            "ImagePath": "ECHO_CHAMBER.jpg",
+            "Code": "ECHO_CHAMBER_UPGRADED",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "<b>보강된</b> 커맨드가 있으면, 추가로:",
+            "ConditionalDescriptions": [
+                "70중첩의 <b>방어막</b>을 획득합니다."
+            ],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "역장",
+            "ImagePath": "FORCEFIELD.jpg",
+            "Code": "FORCEFIELD",
+            "Descriptions": [
+                "20포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "역장",
+            "ImagePath": "FORCEFIELD.jpg",
+            "Code": "FORCEFIELD_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "신성 토스터",
+            "ImagePath": "HOLY_TOASTER.jpg",
+            "Code": "HOLY_TOASTER",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다.",
+                "<b>어시스트2: 1장의 카드를 뽑습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "신성 토스터",
+            "ImagePath": "HOLY_TOASTER.jpg",
+            "Code": "HOLY_TOASTER_UPGRADED",
+            "Descriptions": [
+                "50포인트의 <b>방어막</b>을 획득합니다.",
+                "<b>어시스트3: 1장의 카드를 뽑습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "루즈 기어",
+            "ImagePath": "LOOSE_GEARS.jpg",
+            "Code": "LOOSE_GEARS",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다.",
+                "1장의 카드를 버립니다.",
+                "<b>버리기 시:</b> 30포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "루즈 기어",
+            "ImagePath": "LOOSE_GEARS.jpg",
+            "Code": "LOOSE_GEARS_UPGRADED",
+            "Descriptions": [
+                "45포인트의 <b>방어막</b>을 획득합니다.",
+                "1장의 카드를 버립니다.",
+                "<b>버리기 시:</b> 45포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "탈피",
+            "ImagePath": "MOLT.jpg",
+            "Code": "MOLT",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "이번 턴에 2장 이상의 <b>스크립트</b>를 사용했다면, 추가로:",
+            "ConditionalDescriptions": [
+                "마지막으로 사용한 <b>스크립트</b>의 복사본 2장을 생성합니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "탈피",
+            "ImagePath": "MOLT.jpg",
+            "Code": "MOLT_UPGRADED",
+            "Descriptions": [
+                "45포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "이번 턴에 2장 이상의 <b>스크립트</b>를 사용했다면, 추가로:",
+            "ConditionalDescriptions": [
+                "마지막으로 사용한 <b>스크립트</b>의 복사본 3장을 생성합니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "미라화",
+            "ImagePath": "MUMMIFY.jpg",
+            "Code": "MUMMIFY",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다.",
+                "이번 턴에 <b>코쿤 스크립트</b>를 생성할 때마다, 1장을 추가로 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "미라화",
+            "ImagePath": "MUMMIFY.jpg",
+            "Code": "MUMMIFY_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>방어막</b>을 획득합니다.",
+                "이번 턴에 <b>코쿤 스크립트</b>를 생성할 때마다, 1장을 추가로 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "종이 학",
+            "ImagePath": "PAPER_CRANE.jpg",
+            "Code": "PAPER_CRANE",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다.",
+                "1장의 카드를 버립니다.",
+                "1장의 카드를 뽑습니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "종이 학",
+            "ImagePath": "PAPER_CRANE.jpg",
+            "Code": "PAPER_CRANE_UPGRADED",
+            "Descriptions": [
+                "50포인트의 <b>방어막</b>을 획득합니다.",
+                "1장의 카드를 버립니다.",
+                "2장의 카드를 뽑습니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "패치워크",
+            "ImagePath": "PATCHWORK.jpg",
+            "Code": "PATCHWORK",
+            "Descriptions": [
+                "손패를 버리세요.",
+                "버린 카드 1장당 20포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "패치워크",
+            "ImagePath": "PATCHWORK.jpg",
+            "Code": "PATCHWORK_UPGRADED",
+            "Descriptions": [
+                "원하는 만큼 카드를 버립니다.",
+                "버린 카드 1장당 25포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "퀵 스레딩",
+            "ImagePath": "QUICK_THREADING.jpg",
+            "Code": "QUICK_THREADING",
+            "Descriptions": [
+                "2장의 <b>코쿤 스크립트</b>를 생성합니다.",
+                "모든 유닛에게 1중첩의 <b>쇠약</b> 효과를 부여합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "퀵 스레딩",
+            "ImagePath": "QUICK_THREADING.jpg",
+            "Code": "QUICK_THREADING_UPGRADED",
+            "Descriptions": [
+                "4장의 <b>코쿤 스크립트</b>를 생성합니다.",
+                "모든 유닛에게 1중첩의 <b>쇠약</b> 효과를 부여합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "재연결",
+            "ImagePath": "REWIRE.jpg",
+            "Code": "REWIRE",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다.",
+                "1중첩의 <b>캐시</b>를 획득합니다.",
+                "부차적 커맨드를 <b>보강</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "재연결",
+            "ImagePath": "REWIRE.jpg",
+            "Code": "REWIRE_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>방어막</b>을 획득합니다.",
+                "2중첩의 <b>캐시</b>를 획득합니다.",
+                "부차적 커맨드를 <b>보강</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "스크랩 필드",
+            "ImagePath": "SCRAP_FIELD.jpg",
+            "Code": "SCRAP_FIELD",
+            "Descriptions": [
+                "10포인트의 <b>방어막</b>을 획득합니다.",
+                "<b>버리기 시:</b> 전투 종료 시까지 이 카드로 얻는 <b>방어막</b>이 20포인트 증가합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "스크랩 필드",
+            "ImagePath": "SCRAP_FIELD.jpg",
+            "Code": "SCRAP_FIELD_UPGRADED",
+            "Descriptions": [
+                "10포인트의 <b>방어막</b>을 획득합니다.",
+                "<b>버리기 시:</b> 전투 종료 시까지 이 카드로 얻는 <b>방어막</b>이 30포인트 증가합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "실크 쉘",
+            "ImagePath": "SILK_SHELL.jpg",
+            "Code": "SILK_SHELL",
+            "Descriptions": [
+                "35포인트의 <b>방어막</b>을 획득합니다.",
+                "3장의 <b>코쿤 스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "실크 쉘",
+            "ImagePath": "SILK_SHELL.jpg",
+            "Code": "SILK_SHELL_UPGRADED",
+            "Descriptions": [
+                "35포인트의 <b>방어막</b>을 획득합니다.",
+                "5장의 <b>코쿤 스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "방어",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "부드러운 후퇴",
+            "ImagePath": "SILKEN_RETREAT.jpg",
+            "Code": "SILKEN_RETREAT",
+            "Descriptions": [
+                "50포인트의 <b>방어막</b>을 획득합니다.",
+                "중요 커맨드를 <b>보강</b>합니다.",
+                "2장의 <b>코쿤 스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "방어",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "부드러운 후퇴",
+            "ImagePath": "SILKEN_RETREAT.jpg",
+            "Code": "SILKEN_RETREAT_UPGRADED",
+            "Descriptions": [
+                "60포인트의 <b>방어막</b>을 획득합니다.",
+                "중요 커맨드를 <b>보강</b>합니다.",
+                "4장의 <b>코쿤 스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "방어",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "선스크린 세이버",
+            "ImagePath": "SUNSCREEN_SAVER.jpg",
+            "Code": "SUNSCREEN_SAVER",
+            "Descriptions": [
+                "10포인트의 <b>방어막</b>을 획득합니다.",
+                "<b>어시스트2: 20포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "선스크린 세이버",
+            "ImagePath": "SUNSCREEN_SAVER.jpg",
+            "Code": "SUNSCREEN_SAVER_UPGRADED",
+            "Descriptions": [
+                "20포인트의 <b>방어막</b>을 획득합니다.",
+                "<b>어시스트2: 30포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "티타늄 웹",
+            "ImagePath": "TITANIUM_WEB.jpg",
+            "Code": "TITANIUM_WEB",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다.",
+                "이번 턴에 생성하는 모든 스크립트는 <b>코쿤 스크립트</b>로 변경합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "티타늄 웹",
+            "ImagePath": "TITANIUM_WEB.jpg",
+            "Code": "TITANIUM_WEB_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>방어막</b>을 획득합니다.",
+                "이번 턴에 생성하는 모든 스크립트는 <b>코쿤 스크립트</b>로 변경합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "터보 케틀",
+            "ImagePath": "TURBO_KETTLE.jpg",
+            "Code": "TURBO_KETTLE",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다.",
+                "<b>어시스트1: 1 <b>시계</b>를 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "터보 케틀",
+            "ImagePath": "TURBO_KETTLE.jpg",
+            "Code": "TURBO_KETTLE_UPGRADED",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다.",
+                "<b>어시스트2: 1 <b>시계</b>를 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "불안정한 피난처",
+            "ImagePath": "UNSTABLE_SHELTER.jpg",
+            "Code": "UNSTABLE_SHELTER",
+            "Descriptions": [
+                "60포인트의 <b>방어막</b>을 획득합니다.",
+                "랜덤으로 1장의 카드를 버립니다.",
+                "버린 카드가 <b>방어</b> 카드라면, 40포인트의 <b>방어막을</b> 추가로 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "불안정한 피난처",
+            "ImagePath": "UNSTABLE_SHELTER.jpg",
+            "Code": "UNSTABLE_SHELTER_UPGRADED",
+            "Descriptions": [
+                "60포인트의 <b>방어막</b>을 획득합니다.",
+                "랜덤으로 1장의 카드를 버립니다.",
+                "버린 카드가 <b>방어</b> 카드라면, 40포인트의 <b>방어막을</b> 추가로 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "왁스 윙스",
+            "ImagePath": "WAX_WINGS.jpg",
+            "Code": "WAX_WINGS",
+            "Descriptions": [
+                "80포인트의 <b>방어막</b>을 획득합니다.",
+                "<b>버리기 시:</b> 전투 종료 시까지 이 카드의 비용이 1 감소합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 4,
+            "Type": "방어",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "왁스 윙스",
+            "ImagePath": "WAX_WINGS.jpg",
+            "Code": "WAX_WINGS_UPGRADED",
+            "Descriptions": [
+                "120포인트의 <b>방어막</b>을 획득합니다.",
+                "<b>버리기 시:</b> 전투 종료 시까지 이 카드의 비용이 1 감소합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 3,
+            "Type": "방어",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "공중 우세",
+            "ImagePath": "AIR_SUPERIORITY.jpg",
+            "Code": "3_STEPS_AHEAD",
+            "Descriptions": [
+                "보유한 <b>보강</b> 커맨드 하나당 1장의 카드를 뽑고, 1 <b>시계</b>를 획득합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "공중 우세",
+            "ImagePath": "AIR_SUPERIORITY.jpg",
+            "Code": "3_STEPS_AHEAD_UPGRADED",
+            "Descriptions": [
+                "보유한 <b>보강</b> 커맨드 하나당 2장의 카드를 뽑고, 1 <b>시계</b>를 획득합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "코드 리팩터",
+            "ImagePath": "CODE_REFACTOR.jpg",
+            "Code": "CODE_REFACTOR",
+            "Descriptions": [
+                "전투 종료 시까지 패의 모든 카드를 <b>업그레이드</b>합니다.",
+                "모든 커맨드를 <b>보강</b>합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9B705FF",
+            "Clock": 3,
+            "Type": "생성기",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "코드 리팩터",
+            "ImagePath": "CODE_REFACTOR.jpg",
+            "Code": "CODE_REFACTOR_UPGRADED",
+            "Descriptions": [
+                "전투 종료 시까지 패의 모든 카드를 <b>업그레이드</b>합니다.",
+                "모든 커맨드를 <b>보강</b>합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "생성기",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "크립",
+            "ImagePath": "CREEP.jpg",
+            "Code": "CREEP",
+            "Descriptions": [
+                "부차적 커맨드를 <b>보강</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "크립",
+            "ImagePath": "CREEP.jpg",
+            "Code": "CREEP_UPGRADED",
+            "Descriptions": [
+                "부차적 커맨드를 <b>보강</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "계몽",
+            "ImagePath": "ENLIGHTEN.jpg",
+            "Code": "ENLIGHTEN",
+            "Descriptions": [
+                "메인 커맨드를 <b>보강</b>합니다.",
+                "중요 커맨드를 <b>보강</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "계몽",
+            "ImagePath": "ENLIGHTEN.jpg",
+            "Code": "ENLIGHTEN_UPGRADED",
+            "Descriptions": [
+                "부차적 커맨드를 <b>보강</b>합니다.",
+                "메인 커맨드를 <b>보강</b>합니다.",
+                "중요 커맨드를 <b>보강</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "진화론",
+            "ImagePath": "EVOLUTION_THEORY.jpg",
+            "Code": "EVOLUTION_THEORY",
+            "Descriptions": [],
+            "Conditional": "이번 전투에서 <b>스크립트</b>를 20장 이상 사용했다면, 추가로:",
+            "ConditionalDescriptions": [
+                "5장의 카드를 뽑습니다.",
+                "3 <b>시계</b>를 획득합니다.",
+                "<b>디컴파일</b>.",
+                "<i>(사용한 스크립트 수량: 0)</i>."
+            ],
+            "Rarity": "유니크",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "진화론",
+            "ImagePath": "EVOLUTION_THEORY.jpg",
+            "Code": "EVOLUTION_THEORY_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "이번 전투에서 <b>스크립트</b>를 20장 이상 사용했다면, 추가로:",
+            "ConditionalDescriptions": [
+                "7장의 카드를 뽑습니다.",
+                "4 <b>시계</b>를 획득합니다.",
+                "<b>디컴파일</b>.",
+                "<i>(사용한 스크립트 수량: 0)</i>."
+            ],
+            "Rarity": "유니크",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "포춘 쿠키",
+            "ImagePath": "FORTUNE_COOKIE.jpg",
+            "Code": "FORTUNE_COOKIE",
+            "Descriptions": [
+                "<b>버리기 시:</b> 1장의 카드를 뽑고, 랜덤으로 1장의 <b>스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "포춘 쿠키",
+            "ImagePath": "FORTUNE_COOKIE.jpg",
+            "Code": "FORTUNE_COOKIE_UPGRADED",
+            "Descriptions": [
+                "<b>버리기 시:</b> 2장의 카드를 뽑고, 랜덤으로 1장의 <b>스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "민니 거미",
+            "ImagePath": "ITSY_BITSY.jpg",
+            "Code": "ITSY_BITSY",
+            "Descriptions": [
+                "모든 유닛에게 1중첩의 <b>쇠약</b> 효과를 부여합니다.",
+                "<b>어시스트3: </b> 1장의 <b>바이트 스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "민니 거미",
+            "ImagePath": "ITSY_BITSY.jpg",
+            "Code": "ITSY_BITSY_UPGRADED",
+            "Descriptions": [
+                "모든 유닛에게 1중첩의 <b>쇠약</b> 효과를 부여합니다.",
+                "<b>어시스트3: </b> 2장의 <b>바이트 스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "키네틱 메모리",
+            "ImagePath": "KINETIC_MEMORY.jpg",
+            "Code": "KINETIC_MEMORY",
+            "Descriptions": [
+                "1장의 카드를 버립니다.",
+                "2장의 카드를 뽑습니다.",
+                "<b>버리기 시:</b> 2포인트의 <b>VIM</b>을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "키네틱 메모리",
+            "ImagePath": "KINETIC_MEMORY.jpg",
+            "Code": "KINETIC_MEMORY_UPGRADED",
+            "Descriptions": [
+                "2장의 카드를 버립니다.",
+                "3장의 카드를 뽑습니다.",
+                "<b>버리기 시:</b> 4포인트의 <b>VIM</b>을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "라스트 콜",
+            "ImagePath": "LAST_CALL.jpg",
+            "Code": "LAST_CALL",
+            "Descriptions": [
+                "남아 있는 모든 <b>어시스트</b> 효과를 발동합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "생성기",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "라스트 콜",
+            "ImagePath": "LAST_CALL.jpg",
+            "Code": "LAST_CALL_UPGRADED",
+            "Descriptions": [
+                "남아 있는 모든 <b>어시스트</b> 효과를 발동합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "니트로 장어",
+            "ImagePath": "NITRO_EEL.jpg",
+            "Code": "NITRO_EEL",
+            "Descriptions": [
+                "2 <b>시계</b>를 획득합니다.",
+                "<b>어시스트1: </b> 1 <b>시계</b>를 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "니트로 장어",
+            "ImagePath": "NITRO_EEL.jpg",
+            "Code": "NITRO_EEL_UPGRADED",
+            "Descriptions": [
+                "2 <b>시계</b>를 획득합니다.",
+                "<b>어시스트1: </b> 1 <b>시계</b>를 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "피크 퍼포먼스",
+            "ImagePath": "PEAK_PERFORMANCE.jpg",
+            "Code": "PEAK_PERFORMANCE",
+            "Descriptions": [
+                "최대 <b>VIM</b>까지 <b>VIM</b>을 생성합니다.",
+                "<b>디컴파일</b>.",
+                "<b>버리기 시:</b> 1중첩의 <b>증폭</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 3,
+            "Type": "생성기",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "피크 퍼포먼스",
+            "ImagePath": "PEAK_PERFORMANCE.jpg",
+            "Code": "PEAK_PERFORMANCE_UPGRADED",
+            "Descriptions": [
+                "최대 <b>VIM</b>까지 <b>VIM</b>을 생성합니다.",
+                "<b>디컴파일</b>.",
+                "<b>버리기 시:</b> 1중첩의 <b>증폭</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "생성기",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "정찰 질주",
+            "ImagePath": "SCOUTING_SCUTTLE.jpg",
+            "Code": "SCOUTING_SCUTTLE",
+            "Descriptions": [
+                "이번 턴에 플레이한 <b>스크립트</b>마다 1장의 카드를 뽑습니다 (0장).",
+                "랜덤으로 1장의 <b>스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "정찰 질주",
+            "ImagePath": "SCOUTING_SCUTTLE.jpg",
+            "Code": "SCOUTING_SCUTTLE_UPGRADED",
+            "Descriptions": [
+                "이번 턴에 플레이한 <b>스크립트</b>마다 2장의 카드를 뽑습니다 (0장).",
+                "랜덤으로 1장의 <b>스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "카라구치 메뉴",
+            "ImagePath": "KARAGUCHI_MENU.jpg",
+            "Code": "SCRIBE_TERMINAL",
+            "Descriptions": [
+                "랜덤으로 2장의 <b>스크립트</b>를 생성합니다.",
+                "<b>디컴파일</b>.",
+                "<b>버리기 시:</b> 랜덤으로 1장의 <b>스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "카라구치 메뉴",
+            "ImagePath": "KARAGUCHI_MENU.jpg",
+            "Code": "SCRIBE_TERMINAL_UPGRADED",
+            "Descriptions": [
+                "랜덤으로 3장의 <b>스크립트</b>를 생성합니다.",
+                "<b>디컴파일</b>.",
+                "<b>버리기 시:</b> 랜덤으로 2장의 <b>스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "자동 생성 코드",
+            "ImagePath": "SELF_GENERATING_CODE.jpg",
+            "Code": "SELF_GENERATING_CODE",
+            "Descriptions": [
+                "1장의 <b>스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "자동 생성 코드",
+            "ImagePath": "SELF_GENERATING_CODE.jpg",
+            "Code": "SELF_GENERATING_CODE_UPGRADED",
+            "Descriptions": [
+                "2장의 <b>스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "스몰 파파",
+            "ImagePath": "SMALL_PAPPA.jpg",
+            "Code": "SMALL_PAPPA",
+            "Descriptions": [
+                "모든 <b>어시스트</b> 효과를 2포인트 연장합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "스몰 파파",
+            "ImagePath": "SMALL_PAPPA.jpg",
+            "Code": "SMALL_PAPPA_UPGRADED",
+            "Descriptions": [
+                "모든 <b>어시스트</b> 효과를 3포인트 연장합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "서든 스핀",
+            "ImagePath": "SUDDEN_SPIN.jpg",
+            "Code": "SUDDEN_SPIN",
+            "Descriptions": [
+                "1장의 카드를 버립니다.",
+                "1장의 <b>바이트 스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "서든 스핀",
+            "ImagePath": "SUDDEN_SPIN.jpg",
+            "Code": "SUDDEN_SPIN_UPGRADED",
+            "Descriptions": [
+                "1장의 카드를 버립니다.",
+                "2장의 <b>바이트 스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "적자 생존",
+            "ImagePath": "SURVIVAL_OF_THE_FITTEST.jpg",
+            "Code": "SURVIVAL_OF_THE_FITTEST",
+            "Descriptions": [
+                "패를 <b>버립니다.</b>",
+                "버린 카드 1장당 랜덤으로 2장의 <b>스크립트</b>를 생성합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "생성기",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "적자 생존",
+            "ImagePath": "SURVIVAL_OF_THE_FITTEST.jpg",
+            "Code": "SURVIVAL_OF_THE_FITTEST_UPGRADED",
+            "Descriptions": [
+                "패를 <b>버립니다.</b>",
+                "버린 카드 1장당 랜덤으로 2장의 <b>스크립트</b>를 생성합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "템퍼 코드",
+            "ImagePath": "TEMPER_CODE.jpg",
+            "Code": "TEMPER_CODE",
+            "Descriptions": [
+                "카드 1장을 <b>버리고</b> 전투 종료 시까지 그 카드를 <b>업그레이드</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "템퍼 코드",
+            "ImagePath": "TEMPER_CODE.jpg",
+            "Code": "TEMPER_CODE_UPGRADED",
+            "Descriptions": [
+                "카드 1장을 <b>버리고</b> 전투 종료 시까지 그 카드를 <b>업그레이드</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "썬더플라이",
+            "ImagePath": "THUNDERFLY.jpg",
+            "Code": "THUNDERFLY",
+            "Descriptions": [
+                "2장의 카드를 뽑습니다.",
+                "<b>어시스트2:</b> 4포인트의 <b>VIM</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "생성기",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "썬더플라이",
+            "ImagePath": "THUNDERFLY.jpg",
+            "Code": "THUNDERFLY_UPGRADED",
+            "Descriptions": [
+                "3장의 카드를 뽑습니다.",
+                "<b>어시스트2:</b> 6포인트의 <b>VIM</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "생성기",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "적응 프로토콜",
+            "ImagePath": "ADAPTATION_PROTOCOL.jpg",
+            "Code": "ADAPTATION_PROTOCOL",
+            "Descriptions": [
+                "턴 시작 시, 랜덤으로 커맨드를 <b>보강</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "프로토콜",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "부스트 프로토콜",
+            "ImagePath": "BOOST_PROTOCOL.jpg",
+            "Code": "BOOST_PROTOCOL",
+            "Descriptions": [
+                "턴마다 처음으로 커맨드를 <b>보강</b>할 때, 1 <b>시계</b>를 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "프로토콜",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "소화 프로토콜",
+            "ImagePath": "DIGEST_PROTOCOL.jpg",
+            "Code": "DIGEST_PROTOCOL",
+            "Descriptions": [
+                "<b>스크립트</b>를 사용할 때마다, 1포인트의 <b>VIM</b>을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "프로토콜",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "만료 프로토콜",
+            "ImagePath": "EXPIRATION_PROTOCOL.jpg",
+            "Code": "EXPIRATION_PROTOCOL",
+            "Descriptions": [
+                "<b>어시스트</b> 효과가 만료될 때마다, 1 <b>시계</b>를 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "프로토콜",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "부화 프로토콜",
+            "ImagePath": "HATCH_PROTOCOL.jpg",
+            "Code": "HATCH_PROTOCOL",
+            "Descriptions": [
+                "턴 시작 시, 랜덤으로 2장의 <b>스크립트</b>를 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "프로토콜",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "정크 프로토콜",
+            "ImagePath": "JUNK_PROTOCOL.jpg",
+            "Code": "JUNK_PROTOCOL",
+            "Descriptions": [
+                "턴 중 카드 버릴 때마다, 모든 유닛에게 10포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "프로토콜",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "루프 프로토콜",
+            "ImagePath": "LOOP_PROTOCOL.jpg",
+            "Code": "LOOP_PROTOCOL",
+            "Descriptions": [
+                "턴 종료 시, 랜덤으로 <b>어시스트</b> 효과를 1포인트 연장합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "프로토콜",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "패치 프로토콜",
+            "ImagePath": "PATCH_PROTOCOL.jpg",
+            "Code": "PATCH_PROTOCOL",
+            "Descriptions": [
+                "턴마다 처음으로 커맨드 <b>버릴</b> 때, 전투 종료 시까지 그 카드를 <b>업그레이드</b>합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "프로토콜",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "바이트 스크립트",
+            "ImagePath": "BITE_SCRIPT.jpg",
+            "Code": "BITE",
+            "Descriptions": [
+                "10포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "스크립트",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "코쿤 스크립트",
+            "ImagePath": "COCOON_SCRIPT.jpg",
+            "Code": "COCOON",
+            "Descriptions": [
+                "10포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "스크립트",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "위브 스크립트",
+            "ImagePath": "WEAVE_SCRIPT.jpg",
+            "Code": "WEAVE",
+            "Descriptions": [
+                "카드를 1장 뽑습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "스크립트",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "손상된 데이터",
+            "ImagePath": "CORRUPTED_DATA.jpg",
+            "Code": "CORRUPTED_DATA",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#515151FF",
+            "Clock": 9,
+            "Type": "손상",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "파편화된 데이터",
+            "ImagePath": "FRAGMENTED_DATA.jpg",
+            "Code": "FRAGMENTED_DATA",
+            "Descriptions": [
+                "이 카드가 버려질 때 <b>디컴파일</b>합니다. 턴 중 또는 턴 종료 시에도 효과 발동 가능합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#515151FF",
+            "Clock": 9,
+            "Type": "손상",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "감염된 데이터",
+            "ImagePath": "INFECTED_DATA.jpg",
+            "Code": "INFECTED_DATA",
+            "Descriptions": [
+                "10포인트의 피해을 받습니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#515151FF",
+            "Clock": 0,
+            "Type": "손상",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "심판관의 응시",
+            "ImagePath": "JUDICATORS_GAZE.jpg",
+            "Code": "JUDICATORS_GAZE",
+            "Descriptions": [
+                "15포인트의 <b>피해</b>를 입힙니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#515151FF",
+            "Clock": 0,
+            "Type": "손상",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "코어 관통",
+            "ImagePath": "PIERCE_CORE.jpg",
+            "Code": "PIERCE_CORE",
+            "Descriptions": [
+                "코어 주변 장치에 150 피해를 입힙니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#FFFFFFFF",
+            "Clock": 2,
+            "Type": "스페셜",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "THANKS_GUYS",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#981BD3FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "THANKS_GUYS_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "스크립트",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "알파 코드슬래시",
+            "ImagePath": "ALPHA_CODESLASH.jpg",
+            "Code": "ALPHA_CODESLASH",
+            "Descriptions": [
+                "0 <b>피해</b>를 입힙니다.\n이 카드 외에 이름에 \"코드슬래시\"가 포함된 다른 카드를 보유할 때마다, 15포인트의 <b>피해</b>를 입힙니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "알파 코드슬래시",
+            "ImagePath": "ALPHA_CODESLASH.jpg",
+            "Code": "ALPHA_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "0포인트의 <b>피해</b>를 입힙니다.\n이름에 \"코드슬래시\"가 포함된 다른 카드를 보유할 때마다, 20포인트의 <b>피해</b>를 입힙니다 (0포인트의 <b>피해</b>)."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "앰프드 코드슬래시",
+            "ImagePath": "AMPED_CODESLASH.jpg",
+            "Code": "AMPED_CODESLASH",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 입힙니다."
+            ],
+            "Conditional": "최소 10포인트의 <b>VIM</b>을 가지고 있다면, 대신:",
+            "ConditionalDescriptions": [
+                "모든 유닛에게 40포인트의 <b>피해<b>를 입힙니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Rarity": "스타터",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "앰프드 코드슬래시",
+            "ImagePath": "AMPED_CODESLASH.jpg",
+            "Code": "AMPED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 입힙니다."
+            ],
+            "Conditional": "최소 10포인트의 <b>VIM</b>을 가지고 있다면, 대신:",
+            "ConditionalDescriptions": [
+                "모든 대상에게 60 포인트의 피해를 입힙니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Rarity": "스타터",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "야수로 변해라",
+            "ImagePath": "BECOME_THE_BEAST.jpg",
+            "Code": "BECOME_THE_BEAST",
+            "Descriptions": [
+                "<b>야성</b> 중첩 수를 2배로 만듭니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "야수로 변해라",
+            "ImagePath": "BECOME_THE_BEAST.jpg",
+            "Code": "BECOME_THE_BEAST_UPGRADED",
+            "Descriptions": [
+                "<b>야성</b> 중첩 수를 2배로 만듭니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "잔혹한 난타",
+            "ImagePath": "BRUTAL_MAULING.jpg",
+            "Code": "BRUTAL_MAULING",
+            "Descriptions": [
+                "모든 유닛에게 35포인트의 <b>피해</b>를 줍니다.",
+                "4 중첩의 <b>야성</b>을 얻습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "잔혹한 난타",
+            "ImagePath": "BRUTAL_MAULING.jpg",
+            "Code": "BRUTAL_MAULING_UPGRADED",
+            "Descriptions": [
+                "모든 유닛에게 45포인트의 <b>피해</b>를 줍니다.",
+                "6중첩의 <b>야성</b>을 얻습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "차지 코드슬래시",
+            "ImagePath": "CHARGED_CODESLASH.jpg",
+            "Code": "CHARGED_CODESLASH",
+            "Descriptions": [
+                "35포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "차지 코드슬래시",
+            "ImagePath": "CHARGED_CODESLASH.jpg",
+            "Code": "CHARGED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "50포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 6,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "코드슬래시",
+            "ImagePath": "CODESLASH.jpg",
+            "Code": "CODESLASH",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "코드슬래시",
+            "ImagePath": "CODESLASH.jpg",
+            "Code": "CODESLASH_UPGRADED",
+            "Descriptions": [
+                "30포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "콘솔 천재",
+            "ImagePath": "CONSOLE_PRODIGY.jpg",
+            "Code": "CONSOLE_PRODIGY",
+            "Descriptions": [
+                "60포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "이번 턴에<br><b>커맨드</b>를 최소 2회 사용했다면, 대신:",
+            "ConditionalDescriptions": [
+                "120포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "콘솔 천재",
+            "ImagePath": "CONSOLE_PRODIGY.jpg",
+            "Code": "CONSOLE_PRODIGY_UPGRADED",
+            "Descriptions": [
+                "60포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "이번 턴에<br><b>커맨드</b>를 최소 2회 사용했다면, 대신:",
+            "ConditionalDescriptions": [
+                "120포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "크림슨 어썰트",
+            "ImagePath": "CRIMSON_ASSAULT.jpg",
+            "Code": "CRIMSON_ASSAULT",
+            "Descriptions": [
+                "40포인트의 <b>피해</b>를 줍니다.",
+                "이번 턴에 사용한 공격 1회당 이 카드의 <b>피해</b>가 20만큼 증가합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "크림슨 어썰트",
+            "ImagePath": "CRIMSON_ASSAULT.jpg",
+            "Code": "CRIMSON_ASSAULT_UPGRADED",
+            "Descriptions": [
+                "50포인트의 <b>피해</b>를 줍니다.",
+                "이번 턴에 사용한 공격 1회당 이 카드의 <b>피해</b>가 30만큼 증가합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "데이터 드레인",
+            "ImagePath": "DATA_DRAIN.jpg",
+            "Code": "DATA_DRAIN",
+            "Descriptions": [
+                "60포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "<b>최대 VIM</b> 보유 중이라면, 추가로:",
+            "ConditionalDescriptions": [
+                "<b>피해</b>량과 같은 수치의 <b>방어막</b>을 획득합니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "데이터 드레인",
+            "ImagePath": "DATA_DRAIN.jpg",
+            "Code": "DATA_DRAIN_UPGRADED",
+            "Descriptions": [
+                "70포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "만약 최소 12포인트의 <b>VIM</b>을 가지고 있다면, 추가로:",
+            "ConditionalDescriptions": [
+                "<b>피해</b>량과 같은 수치의 <b>방어막</b>을 획득합니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "덧없는 칼날",
+            "ImagePath": "EPHEMERAL_EDGE.jpg",
+            "Code": "EPHEMERAL_EDGE",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다.",
+                "<b>명중 시:</b> 3 <b>VIM</b> 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "공격",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "덧없는 칼날",
+            "ImagePath": "EPHEMERAL_EDGE.jpg",
+            "Code": "EPHEMERAL_EDGE_UPGRADED",
+            "Descriptions": [
+                "30포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "송곳니 공격",
+            "ImagePath": "FANG_STRIKE.jpg",
+            "Code": "FANG_STRIKE",
+            "Descriptions": [
+                "35포인트의 <b>피해</b>를 줍니다.",
+                "2중첩의 <b>야성</b>을 얻습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "송곳니 공격",
+            "ImagePath": "FANG_STRIKE.jpg",
+            "Code": "FANG_STRIKE_UPGRADED",
+            "Descriptions": [
+                "55포인트의 <b>피해</b>를 줍니다.",
+                "3중첩의 <b>야성</b>을 얻습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "파편화된 코드슬래시",
+            "ImagePath": "FRAGMENTED_CODESLASH.jpg",
+            "Code": "FRAGMENTED_CODESLASH",
+            "Descriptions": [
+                "모든 유닛에게 20포인트의 <b>피해</b>를 줍니다.",
+                "1장의 <b>파편화된 데이터</b> 카드를 코드 저장소에 추가하세요."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "공격",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "파편화된 코드슬래시",
+            "ImagePath": "FRAGMENTED_CODESLASH.jpg",
+            "Code": "FRAGMENTED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "모든 유닛에게 25포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "호플리트",
+            "ImagePath": "HOPLITE.jpg",
+            "Code": "HOPLITE",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다.",
+                "20포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "호플리트",
+            "ImagePath": "HOPLITE.jpg",
+            "Code": "HOPLITE_UPGRADED",
+            "Descriptions": [
+                "30포인트의 <b>피해</b>를 줍니다.",
+                "30포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "메모리 단검",
+            "ImagePath": "MEMORY_DAGGER.jpg",
+            "Code": "MEM_DAGGER",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "만약 최소 12포인트의 <b>VIM</b>을 가지고 있다면, 추가로: ",
+            "ConditionalDescriptions": [
+                "1장의 카드를 뽑습니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "공격",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "메모리 단검",
+            "ImagePath": "MEMORY_DAGGER.jpg",
+            "Code": "MEM_DAGGER_UPGRADED",
+            "Descriptions": [
+                "30포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "만약 최소 12포인트의 <b>VIM</b>을 가지고 있다면, 추가로: ",
+            "ConditionalDescriptions": [
+                "1장의 카드를 뽑습니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "메모리 점프",
+            "ImagePath": "MEMORY_LEAP.jpg",
+            "Code": "MEM_LEAP",
+            "Descriptions": [
+                "30포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "만약 최소 12포인트의 <b>VIM</b>을 가지고 있다면, 추가로: ",
+            "ConditionalDescriptions": [
+                "1 <b>시계</b>를 얻습니다."
+            ],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "메모리 점프",
+            "ImagePath": "MEMORY_LEAP.jpg",
+            "Code": "MEM_LEAP_UPGRADED",
+            "Descriptions": [
+                "50포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "만약 최소 12포인트의 <b>VIM</b>을 가지고 있다면, 추가로: ",
+            "ConditionalDescriptions": [
+                "1 <b>시계</b>를 얻습니다."
+            ],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "메모리 세이버",
+            "ImagePath": "MEM_SABER.jpg",
+            "Code": "MEM_SABER",
+            "Descriptions": [
+                "40포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "만약 최소 12 포인트의 <b>VIM</b>을 가지고 있다면, 추가로: ",
+            "ConditionalDescriptions": [
+                "2중첩의 <b>쇠약</b>을 부여합니다.",
+                "2중첩의 <b>폭로</b>를 부여합니다."
+            ],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "메모리 세이버",
+            "ImagePath": "MEM_SABER.jpg",
+            "Code": "MEM_SABER_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "만약 최소 12포인트의 <b>VIM</b>을 가지고 있다면, 추가로: ",
+            "ConditionalDescriptions": [
+                "2중첩의 <b>쇠약</b>을 부여합니다.",
+                "2중첩의 <b>폭로</b>를 부여합니다."
+            ],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "메모리 낫",
+            "ImagePath": "MEMORY_SCYTHE.jpg",
+            "Code": "MEM_SCYTHE",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "만약 <b>최대 VIM</b>을 가지고 있다면, 대신:",
+            "ConditionalDescriptions": [
+                "90포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "메모리 낫",
+            "ImagePath": "MEMORY_SCYTHE.jpg",
+            "Code": "MEM_SCYTHE_UPGRADED",
+            "Descriptions": [
+                "1중첩의 <b>증폭</b>을 획득합니다.",
+                "30포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "만약 <b>최대 VIM</b>을 가지고 있다면, 대신:",
+            "ConditionalDescriptions": [
+                "90포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "과도한 살육",
+            "ImagePath": "OVERKILL.jpg",
+            "Code": "OVERKILL",
+            "Descriptions": [
+                "40포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "만약 <b>최대 VIM</b>을 가지고 있다면, 대신:",
+            "ConditionalDescriptions": [
+                "모든 유닛에게 200포인트의 <b>피해</b>를 줍니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "과도한 살육",
+            "ImagePath": "OVERKILL.jpg",
+            "Code": "OVERKILL_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "만약 <b>최대 VIM</b>을 가지고 있다면, 대신:",
+            "ConditionalDescriptions": [
+                "모든 유닛에게 350포인트의 <b>피해</b>를 줍니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "무리 사냥",
+            "ImagePath": "PACK_HUNT.jpg",
+            "Code": "PACK_HUNT",
+            "Descriptions": [
+                "50포인트의 <b>피해</b>를 줍니다.",
+                "이 카드는 <b>야성</b>의 효과를 3배로 받습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "무리 사냥",
+            "ImagePath": "PACK_HUNT.jpg",
+            "Code": "PACK_HUNT_UPGRADED",
+            "Descriptions": [
+                "50포인트의 <b>피해</b>를 줍니다.",
+                "이 카드는 <b>야성</b>의 효과를 3배로 받습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "야생의 울부짖음",
+            "ImagePath": "PRIMAL_HOWL.jpg",
+            "Code": "PRIMAL_HOWL",
+            "Descriptions": [
+                "100포인트의 <b>피해</b>를 줍니다.",
+                "<b>야성</b> 3중첩을 가질 때마다, 이 카드의 비용이 1 <b>시계</b>만큼 감소합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 9,
+            "Type": "공격",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "야생의 울부짖음",
+            "ImagePath": "PRIMAL_HOWL.jpg",
+            "Code": "PRIMAL_HOWL_UPGRADED",
+            "Descriptions": [
+                "120포인트의 <b>피해</b>를 줍니다.",
+                "<b>야성</b> 2중첩을 가질 때마다, 이 카드의 비용이 1 <b>시계</b>만큼 감소합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 9,
+            "Type": "공격",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "재귀의 악몽",
+            "ImagePath": "RECURSIVE_NIGHTMARE.jpg",
+            "Code": "RECURSIVE_NIGHTMARE",
+            "Descriptions": [
+                "30포인트의 <b>피해</b>를 줍니다.",
+                "이 카드의 <b>피해</b>를 전투 종료 시까지 10포인트만큼 증가시킵니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "재귀의 악몽",
+            "ImagePath": "RECURSIVE_NIGHTMARE.jpg",
+            "Code": "RECURSIVE_NIGHTMARE_UPGRADED",
+            "Descriptions": [
+                "30포인트의 <b>피해</b>를 줍니다.",
+                "이 카드의 <b>피해</b>를 전투 종료 시까지 10포인트만큼 증가시킵니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "렌딩 코드슬래시",
+            "ImagePath": "RENDING_CODESLASH.jpg",
+            "Code": "RENDING_CODESLASH",
+            "Descriptions": [
+                "35포인트의 <b>피해</b>를 줍니다.",
+                "<b>명중 후:</b> 1중첩의 <b>쇠약</b>을 적용합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "렌딩 코드슬래시",
+            "ImagePath": "RENDING_CODESLASH.jpg",
+            "Code": "RENDING_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "45포인트의 <b>피해</b>를 줍니다.",
+                "<b>명중 후:</b> 2중첩의 <b>쇠약</b>을 적용합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "태양 폭발X",
+            "ImagePath": "SUN_BURST_X.jpg",
+            "Code": "SUN_BURST_X",
+            "Descriptions": [
+                "30포인트의 <b>피해</b>를 줍니다.",
+                "이번 턴에 사용하는 다음 <b>공격</b> 카드는 두 배의 <b>VIM</b>을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "태양 폭발X",
+            "ImagePath": "SUN_BURST_X.jpg",
+            "Code": "SUN_BURST_X_UPGRADED",
+            "Descriptions": [
+                "50포인트의 <b>피해</b>를 줍니다.",
+                "이번 턴에 사용하는 다음 <b>공격</b> 카드는 두 배의 <b>VIM</b>을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "암호회의 계략",
+            "ImagePath": "THE_CYPHERS_GAMBIT.jpg",
+            "Code": "THE_CYPHERS_GAMBIT",
+            "Descriptions": [
+                "30포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "만약 이번 턴에 <br>최소 1회의 <b>커맨드</b>를 사용했다면, 추가로:",
+            "ConditionalDescriptions": [
+                "1 <b>시계</b>를 얻습니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "암호회의 계략",
+            "ImagePath": "THE_CYPHERS_GAMBIT.jpg",
+            "Code": "THE_CYPHERS_GAMBIT_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "만약 이번 턴에 <br>최소 1회의 <b>커맨드</b>를 사용했다면, 추가로:",
+            "ConditionalDescriptions": [
+                "1 <b>시계</b>를 얻습니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "길드의 절도",
+            "ImagePath": "THE_GUILDS_HEIST.jpg",
+            "Code": "THE_GUILDS_HEIST",
+            "Descriptions": [
+                "40포인트의 <b>피해</b>를 줍니다.",
+                "<b>명중 후:</b> 1장의 카드를 뽑습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "길드의 절도",
+            "ImagePath": "THE_GUILDS_HEIST.jpg",
+            "Code": "THE_GUILDS_HEIST_UPGRADED",
+            "Descriptions": [
+                "55포인트의 <b>피해</b>를 줍니다.",
+                "<b>명중 후:</b> 2장의 카드를 뽑고, 1장의 카드를 버립니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "창조자의 손길",
+            "ImagePath": "THE_MAKERS_TOUCH.jpg",
+            "Code": "THE_MAKERS_TOUCH",
+            "Descriptions": [
+                "30포인트의 <b>피해</b>를 줍니다.",
+                "1장의 패를 랜덤으로 버립니다.",
+                "만약 <b>공격</b> 카드라면, 추가로 30포인트의 <b>피해</b>를 입힙니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "창조자의 손길",
+            "ImagePath": "THE_MAKERS_TOUCH.jpg",
+            "Code": "THE_MAKERS_TOUCH_UPGRADED",
+            "Descriptions": [
+                "30포인트의 <b>피해</b>를 줍니다.",
+                "2장의 패를 랜덤으로 버립니다.",
+                "만약 2장의 카드를 버렸다면, 추가로 60포인트의 <b>피해</b>를 입힙니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "펑크의 선물",
+            "ImagePath": "THE_PUNKS_GIFT.jpg",
+            "Code": "THE_PUNKS_GIFT",
+            "Descriptions": [
+                "패 1장을 <b>디컴파일</b>합니다.",
+                "모든 유닛에게 해당 <b>VIM</b> 값의 20배만큼 <b>피해</b>를 입힙니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "펑크의 선물",
+            "ImagePath": "THE_PUNKS_GIFT.jpg",
+            "Code": "THE_PUNKS_GIFT_UPGRADED",
+            "Descriptions": [
+                "패 1장을 <b>디컴파일</b>합니다.",
+                "모든 유닛에게 해당 <b>VIM</b> 값의 30배만큼 <b>피해</b>를 입힌다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "야견단의 매복",
+            "ImagePath": "THE_STRAY_AMBUSH.jpg",
+            "Code": "THE_STRAYS_AMBUSH",
+            "Descriptions": [
+                "30포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "만약 최소<br>6중첩의 <b>야성</b>을 가지고 있다면, 추가로:",
+            "ConditionalDescriptions": [
+                "1 <b>시계</b>를 얻습니다."
+            ],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "야견단의 매복",
+            "ImagePath": "THE_STRAY_AMBUSH.jpg",
+            "Code": "THE_STRAYS_AMBUSH_UPGRADED",
+            "Descriptions": [
+                "30포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "만약 최소<br>8중첩의 <b>야성</b>을 가지고 있다면, 추가로:",
+            "ConditionalDescriptions": [
+                "2 <b>시계</b>를 얻습니다."
+            ],
+            "Rarity": "일반",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "식물체인 최상위",
+            "ImagePath": "TOP_OF_THE_FOOD_CHAIN.jpg",
+            "Code": "TOP_OF_THE_FOOD_CHAIN",
+            "Descriptions": [
+                "12 × 당신의 <b>투지</b> 중첩 수만큼의 <b>피해</b>를 입힙니다(0포인트의 <b>피해</b>)",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "식물체인 최상위",
+            "ImagePath": "TOP_OF_THE_FOOD_CHAIN.jpg",
+            "Code": "TOP_OF_THE_FOOD_CHAIN_UPGRADED",
+            "Descriptions": [
+                "12 × 당신의 <b>투지</b> 중첩 수만큼의 <b>피해</b>를 입힙니다(0포인트의 <b>피해</b>)"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "율리시스의 장난감",
+            "ImagePath": "ULYSSES_TOY.jpg",
+            "Code": "ULYSSES_TOY",
+            "Descriptions": [
+                "이번 전투에서 사용한 <b>VIM</b>의 값에 2배를 곱한 <b>피해</b>를 입힙니다(0포인트의 <b>피해</b>).",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "율리시스의 장난감",
+            "ImagePath": "ULYSSES_TOY.jpg",
+            "Code": "ULYSSES_TOY_UPGRADED",
+            "Descriptions": [
+                "이번 전투에서 사용한 <b>VIM</b>의 값에 3배를 곱한 <b>피해</b>를 입힙니다(0포인트의 <b>피해</b>).",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "공허의 코드클래시",
+            "ImagePath": "VOID_CODESLASH.jpg",
+            "Code": "VOID_CODESLASH",
+            "Descriptions": [
+                "모든 유닛에게 40포인트의 <b>피해</b>를 줍니다.",
+                "2중첩의 <b>폭로</b>를 적용합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "공허의 코드클래시",
+            "ImagePath": "VOID_CODESLASH.jpg",
+            "Code": "VOID_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "모든 유닛에게 50포인트의 <b>피해</b>를 줍니다.",
+                "3중첩의 <b>폭로</b>를 적용합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "수호군주의 입맞춤",
+            "ImagePath": "WARDLORD_KISS.jpg",
+            "Code": "WARDLORD_KISS",
+            "Descriptions": [
+                "120포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "수호군주의 입맞춤",
+            "ImagePath": "WARDLORD_KISS.jpg",
+            "Code": "WARDLORD_KISS_UPGRADED",
+            "Descriptions": [
+                "120포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "공격",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "아도니스 광고 차단기",
+            "ImagePath": "ADONIS_AD_BLOCKER.jpg",
+            "Code": "ADONIS_AD_BLOCKER",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다.",
+                "1장의 카드를 뽑습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "아도니스 광고 차단기",
+            "ImagePath": "ADONIS_AD_BLOCKER.jpg",
+            "Code": "ADONIS_AD_BLOCKER_UPGRADED",
+            "Descriptions": [
+                "45포인트의 <b>방어막</b>을 획득합니다.",
+                "1장의 카드를 뽑습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "앰프드 사이버 껍질",
+            "ImagePath": "AMPED_CYBERSHELL.jpg",
+            "Code": "AMPED_CYBERSHELL",
+            "Descriptions": [
+                "20포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "최소 10포인트의 <b>VIM</b>을 가지고 있다면, 대신:",
+            "ConditionalDescriptions": [
+                "40포인트의 <b>방어막</b>을 획득합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Rarity": "스타터",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "앰프드 사이버 껍질",
+            "ImagePath": "AMPED_CYBERSHELL.jpg",
+            "Code": "AMPED_CYBERSHELL_UPGRADED",
+            "Descriptions": [
+                "20포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "만약 최소 10포인트의 <b>VIM</b>을 가지고 있다면, 대신:",
+            "ConditionalDescriptions": [
+                "60포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Rarity": "스타터",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "동물의 본능",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "ANIMAL_INSTINCT",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "이번 턴에 공격이 명중했다면 대신:",
+            "ConditionalDescriptions": [
+                "60포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "동물의 본능",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "ANIMAL_INSTINCT_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "이번 턴에 공격이 명중했다면 대신:",
+            "ConditionalDescriptions": [
+                "80포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "뒤틀린 현실",
+            "ImagePath": "BEND_REALITY.jpg",
+            "Code": "BEND_REALITY",
+            "Descriptions": [
+                "160포인트의 <b>방어막</b>을 획득합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "뒤틀린 현실",
+            "ImagePath": "BEND_REALITY.jpg",
+            "Code": "BEND_REALITY_UPGRADED",
+            "Descriptions": [
+                "200포인트의 <b>방어막</b>을 획득합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "차가운 응시",
+            "ImagePath": "COLD_STARE.jpg",
+            "Code": "COLD_STARE",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "최소 6중첩의 <b>투지</b>를 가지고 있다면, 추가로:",
+            "ConditionalDescriptions": [
+                "모든 유닛에게 1중첩의 <b>쇠약</b> 효과를 부여합니다."
+            ],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "차가운 응시",
+            "ImagePath": "COLD_STARE.jpg",
+            "Code": "COLD_STARE_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "만약 최소 6중첩의 <b>투지</b>를 가지고 있다면, 추가로:",
+            "ConditionalDescriptions": [
+                "모든 유닛에게 2중첩의 <b>쇠약</b> 효과를 부여합니다."
+            ],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "콘솔 백업",
+            "ImagePath": "CONSOLE_BACKUP.jpg",
+            "Code": "CONSOLE_BACKUP",
+            "Descriptions": [
+                "60포인트의 <b>방어막</b>을 획득합니다.",
+                "이번 턴에 <b>커맨드</b>를 사용할 때마다, 30포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "방어",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "콘솔 백업",
+            "ImagePath": "CONSOLE_BACKUP.jpg",
+            "Code": "CONSOLE_BACKUP_UPGRADED",
+            "Descriptions": [
+                "70포인트의 <b>방어막</b>을 획득합니다.",
+                "이번 턴에 <b>커맨드</b>를 사용할 때마다, 45포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "방어",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "사이버 커버",
+            "ImagePath": "CYBERHIDE.jpg",
+            "Code": "CYBERHIDE",
+            "Descriptions": [
+                "20포인트의 <b>방어막</b>을 획득합니다.",
+                "이번 턴에 당신이 사용한 마지막 카드가 <b>방어</b> 카드라면, 이 카드는 두 번 사용됩니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "사이버 커버",
+            "ImagePath": "CYBERHIDE.jpg",
+            "Code": "CYBERHIDE_UPGRADED",
+            "Descriptions": [
+                "35포인트의 <b>방어막</b>을 획득합니다.",
+                "이번 턴에 당신이 사용한 마지막 카드가 <b>방어</b> 카드라면, 이 카드는 두 번 사용됩니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "사이버 껍질",
+            "ImagePath": "CYBERSHELL.jpg",
+            "Code": "CYBERSHELL",
+            "Descriptions": [
+                "20포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "사이버 껍질",
+            "ImagePath": "CYBERSHELL.jpg",
+            "Code": "CYBERSHELL_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "에너지 외투",
+            "ImagePath": "ENERGY_COAT.jpg",
+            "Code": "ENERGY_COAT",
+            "Descriptions": [
+                "40포인트의 <b>방어막</b>을 획득합니다.",
+                "이번 턴에 <b>방어</b> 카드를 한 장 낼 때마다 7포인트의 <b>방어막</b>을 얻고 1포인트의 <b>VIM</b>을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "에너지 외투",
+            "ImagePath": "ENERGY_COAT.jpg",
+            "Code": "ENERGY_COAT_UPGRADED",
+            "Descriptions": [
+                "45포인트의 <b>방어막</b>을 획득합니다.",
+                "이번 턴에 <b>방어</b> 카드를 한 장 낼 때마다 10포인트의 <b>방어막</b>을 얻고 2포인트의 <b>VIM</b>을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "순간 방어막",
+            "ImagePath": "EPHEMERAL_WALL.jpg",
+            "Code": "EPHEMERAL_WALL",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다.",
+                "<b>서브 커맨드</b>를 리셋합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "순간 방어막",
+            "ImagePath": "EPHEMERAL_WALL.jpg",
+            "Code": "EPHEMERAL_WALL_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>방어막</b>을 획득합니다.",
+                "<b>서브 커맨드</b>를 리셋합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 6,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "파손된 방벽",
+            "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
+            "Code": "FRAGMENTED_BLOCKADE",
+            "Descriptions": [
+                "50포인트의 <b>방어막</b>을 획득합니다.",
+                "1장의 <b>파편화된 데이터</b> 카드를 코드 저장소에 추가하세요."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "파손된 방벽",
+            "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
+            "Code": "FRAGMENTED_BLOCKADE_UPGRADED",
+            "Descriptions": [
+                "50포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "입력 도우미",
+            "ImagePath": "INPUT_ASSISTANT.jpg",
+            "Code": "INPUT_ASSISTANT",
+            "Descriptions": [
+                "20포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "이번 턴에 최소<br><b>커맨드</b> 1회를 사용했다면, 추가로:",
+            "ConditionalDescriptions": [
+                "1중첩의 <b>캐시</b>를 얻습니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "방어",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "입력 도우미",
+            "ImagePath": "INPUT_ASSISTANT.jpg",
+            "Code": "INPUT_ASSISTANT_UPGRADED",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "이번 턴에 최소<br><b>커맨드</b> 1회를 사용했다면, 추가로:",
+            "ConditionalDescriptions": [
+                "1장의 카드를 뽑습니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "방어",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "사육장의 법칙",
+            "ImagePath": "KENNEL_LAW.jpg",
+            "Code": "KENNEL_LAW",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "만약 최소 6중첩의 <b>투지</b>를 가지고 있다면, 추가로:",
+            "ConditionalDescriptions": [
+                "1 <b>시계</b>를 얻습니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "사육장의 법칙",
+            "ImagePath": "KENNEL_LAW.jpg",
+            "Code": "KENNEL_LAW_UPGRADED",
+            "Descriptions": [
+                "45포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "최소 6중첩의 <b>투지</b>를 가지고 있다면, 추가로:",
+            "ConditionalDescriptions": [
+                "1 <b>시계</b>를 얻습니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "메모리 망토",
+            "ImagePath": "MEMORY_CLOAK.jpg",
+            "Code": "MEM_CLOAK",
+            "Descriptions": [
+                "20포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "만약 최소 12포인트의 <b>VIM</b>을 가지고 있다면, 추가로: ",
+            "ConditionalDescriptions": [
+                "1장의 카드를 뽑습니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "방어",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "메모리 망토",
+            "ImagePath": "MEMORY_CLOAK.jpg",
+            "Code": "MEM_CLOAK_UPGRADED",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "만약 최소 12포인트의 <b>VIM</b>을 가지고 있다면, 추가로: ",
+            "ConditionalDescriptions": [
+                "1장의 카드를 뽑습니다."
+            ],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "거리의 지배",
+            "ImagePath": "OWN_THE_STREETS.jpg",
+            "Code": "OWN_THE_STREETS",
+            "Descriptions": [
+                "60포인트의 <b>방어막</b>을 획득합니다.",
+                "이 카드는 <b>투지</b>의 효과를 3배로 받습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "거리의 지배",
+            "ImagePath": "OWN_THE_STREETS.jpg",
+            "Code": "OWN_THE_STREETS_UPGRADED",
+            "Descriptions": [
+                "90포인트의 <b>방어막</b>을 획득합니다.",
+                "이 카드는 <b>투지</b>의 효과를 3배로 받습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "방어",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "펫 Z-봇",
+            "ImagePath": "PET_Z_BOT.jpg",
+            "Code": "PET_Z_BOT",
+            "Descriptions": [
+                "20포인트의 <b>방어막</b>을 획득합니다.",
+                "코드 저장소에서 카드 1장을 선택해 카드 덱에 추가합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "펫 Z-봇",
+            "ImagePath": "PET_Z_BOT.jpg",
+            "Code": "PET_Z_BOT_UPGRADED",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다.",
+                "코드 저장소에서 카드 1장을 선택해 카드 덱에 추가합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "파워 아머",
+            "ImagePath": "POWER_ARMOR.jpg",
+            "Code": "POWER_ARMOR",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "만약 <b>최대 VIM</b>을 가지고 있다면, 대신:",
+            "ConditionalDescriptions": [
+                "100포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "파워 아머",
+            "ImagePath": "POWER_ARMOR.jpg",
+            "Code": "POWER_ARMOR_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Conditional": "만약 <b>최대 VIM</b>을 가지고 있다면, 대신:",
+            "ConditionalDescriptions": [
+                "150포인트의 <b>방어막</b>을 획득합니다."
+            ],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "거리의 결단",
+            "ImagePath": "STREET_RESOLVE.jpg",
+            "Code": "STREET_RESOLVE",
+            "Descriptions": [
+                "60포인트의 <b>방어막</b>을 획득합니다.",
+                "4중첩의 <b>투지</b>를 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "거리의 결단",
+            "ImagePath": "STREET_RESOLVE.jpg",
+            "Code": "STREET_RESOLVE_UPGRADED",
+            "Descriptions": [
+                "80포인트의 <b>방어막</b>을 획득합니다.",
+                "6중첩의 <b>투지</b>를 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "방어",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "시린크스의 축복",
+            "ImagePath": "SYRINX_BLESSING.jpg",
+            "Code": "SYRINX_BLESSING",
+            "Descriptions": [
+                "20포인트의 <b>방어막</b>을 획득합니다.",
+                "이번 턴에 사용하는 다음 카드는 두 배의 <b>방어막</b> 효과를 부여할 수 있습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "시린크스의 축복",
+            "ImagePath": "SYRINX_BLESSING.jpg",
+            "Code": "SYRINX_BLESSING_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>방어막</b>을 획득합니다.",
+                "이번 턴에 사용하는 다음 카드는 두 배의 <b>방어막</b> 효과를 부여할 수 있습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "교활한 야견단",
+            "ImagePath": "THE_STRAYS_GUILE.jpg",
+            "Code": "THE_STRAYS_GUILE",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다.",
+                "2중첩의 <b>투지</b>를 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "교활한 야견단",
+            "ImagePath": "THE_STRAYS_GUILE.jpg",
+            "Code": "THE_STRAYS_GUILE_UPGRADED",
+            "Descriptions": [
+                "50포인트의 <b>방어막</b>을 획득합니다.",
+                "3중첩의 <b>투지</b>를 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "늑대굴",
+            "ImagePath": "THE_WOLVES_DEN.jpg",
+            "Code": "THE_WOLVES_DEN",
+            "Descriptions": [
+                "<b>투지</b>를 두 배로 만듭니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "늑대굴",
+            "ImagePath": "THE_WOLVES_DEN.jpg",
+            "Code": "THE_WOLVES_DEN_UPGRADED",
+            "Descriptions": [
+                "<b>투지</b>를 두 배로 만듭니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "천둥 Z-봇",
+            "ImagePath": "THUNDER_Z_BOT.jpg",
+            "Code": "THUNDER_Z_BOT",
+            "Descriptions": [
+                "30포인트의 <b>방어막</b>을 획득합니다.",
+                "1중첩의 <b>증폭</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "천둥 Z-봇",
+            "ImagePath": "THUNDER_Z_BOT.jpg",
+            "Code": "THUNDER_Z_BOT_UPGRADED",
+            "Descriptions": [
+                "40포인트의 <b>방어막</b>을 획득합니다.",
+                "2중첩의 <b>증폭</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "코드슬래시",
+            "ImagePath": "CODESLASH.jpg",
+            "Code": "DEMO_CARD",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "공격",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "아도니스 광고 차단기",
+            "ImagePath": "Baribal_angry.jpg",
+            "Code": "DEV_CARD_2",
+            "Descriptions": [
+                "20포인트의 <b>피해</b>를 줍니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "전투 최적화기",
+            "ImagePath": "BATTLE_OPTIMIZER.jpg",
+            "Code": "BATTLE_OPTIMIZER",
+            "Descriptions": [
+                "모든 목표에 3중첩의 <b>폭로</b> 효과를 부여합니다.",
+                "모든 목표에 3중첩의 <b>쇠약</b> 효과를 부여합니다.",
+                "2중첩의 <b>캐시</b>를 부여합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9B705FF",
+            "Clock": 3,
+            "Type": "생성기",
+            "Vim": 5,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "전투 최적화기",
+            "ImagePath": "BATTLE_OPTIMIZER.jpg",
+            "Code": "BATTLE_OPTIMIZER_UPGRADED",
+            "Descriptions": [
+                "모든 목표에3중첩의 <b>폭로</b>를 부여합니다.",
+                "모든 목표에3중첩의 <b>쇠약</b>을 부여합니다.",
+                "3중첩의 <b>캐시</b>를 부여합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "생성기",
+            "Vim": 5,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "버너",
+            "ImagePath": "BURNER.jpg",
+            "Code": "BURNER",
+            "Descriptions": [
+                "패 1장을 <b>디컴파일</b>합니다.",
+                "3배의 <b>VIM</b>을 생성합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "버너",
+            "ImagePath": "BURNER.jpg",
+            "Code": "BURNER_UPGRADED",
+            "Descriptions": [
+                "패 1장을 <b>디컴파일</b>합니다.",
+                "3배의 <b>VIM</b>을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "냥매제",
+            "ImagePath": "CAT_ALYST.jpg",
+            "Code": "CAT_ALYST",
+            "Descriptions": [
+                "이번 턴에 카드를 한 장 뽑을 때마다 1포인트의 <b>VIM</b>을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "냥매제",
+            "ImagePath": "CAT_ALYST.jpg",
+            "Code": "CAT_ALYST_UPGRADED",
+            "Descriptions": [
+                "1중첩의 <b>캐시</b>를 얻습니다.",
+                "이번 턴에 카드를 한 장 뽑을 때마다 1포인트의 <b>VIM</b>을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "콘솔 리부터",
+            "ImagePath": "CONSOLE_REBOOTER.jpg",
+            "Code": "CONSOLE_REBOOTER",
+            "Descriptions": [
+                "이번 턴에 모든 <b>커맨드</b>를 리셋합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 8,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "콘솔 리부터",
+            "ImagePath": "CONSOLE_REBOOTER.jpg",
+            "Code": "CONSOLE_REBOOTER_UPGRADED",
+            "Descriptions": [
+                "이번 턴에 모든 <b>커맨드</b>를 리셋합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 10,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "두뇌 돌진",
+            "ImagePath": "CRANIUM_RUSH.jpg",
+            "Code": "CRANIUM_RUSH",
+            "Descriptions": [
+                "<b>오버클럭</b> 1중첩을 획득합니다."
+            ],
+            "Conditional": "만약 <b>최대 VIM</b>을 가지고 있다면, 대신:",
+            "ConditionalDescriptions": [
+                "<b>오버클럭</b> 2중첩을 획득합니다.",
+                "1 <b>시계</b>를 얻습니다."
+            ],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "두뇌 돌진",
+            "ImagePath": "CRANIUM_RUSH.jpg",
+            "Code": "CRANIUM_RUSH_UPGRADED",
+            "Descriptions": [
+                "<b>오버클럭</b> 1중첩을 획득합니다."
+            ],
+            "Conditional": "만약 <b>최대 VIM</b>을 가지고 있다면, 대신:",
+            "ConditionalDescriptions": [
+                "<b>오버클럭</b> 2중첩을 획득합니다.",
+                "2 <b>시계</b>를 얻습니다."
+            ],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "버섯 친구들",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "FUN_GUYS",
+            "Descriptions": [
+                "1장의 카드를 뽑습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "버섯 친구들",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "FUN_GUYS_UPGRADED",
+            "Descriptions": [
+                "1장의 카드를 뽑습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "마법의 손가락",
+            "ImagePath": "MAGIC_FINGERS.jpg",
+            "Code": "MAGIC_FINGERS",
+            "Descriptions": [
+                "이번 턴에 <b>공격</b> 카드를 한 장 사용할 때마다 1포인트의 <b>VIM</b>을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "마법의 손가락",
+            "ImagePath": "MAGIC_FINGERS.jpg",
+            "Code": "MAGIC_FINGERS_UPGRADED",
+            "Descriptions": [
+                "이번 턴에 <b>공격</b> 카드를 한 장 사용할 때마다 2포인트의 <b>VIM</b>을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "메모리 비콘",
+            "ImagePath": "MEMORY_BEACON.jpg",
+            "Code": "MEM_BEACON",
+            "Descriptions": [
+                "2 <b>시계</b>를 얻습니다."
+            ],
+            "Conditional": "만약 <b>최대 VIM</b>을 가지고 있다면, 대신:",
+            "ConditionalDescriptions": [
+                "<b>시계</b> 3포인트를 획득합니다.",
+                "2장의 카드를 뽑습니다."
+            ],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "생성기",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "메모리 비콘",
+            "ImagePath": "MEMORY_BEACON.jpg",
+            "Code": "MEM_BEACON_UPGRADED",
+            "Descriptions": [
+                "2 <b>시계</b>를 얻습니다."
+            ],
+            "Conditional": "최소 12포인트의 <b>VIM</b>을 가지고 있다면, 대신:",
+            "ConditionalDescriptions": [
+                "<b>시계</b> 3포인트를 획득합니다.",
+                "2장의 카드를 뽑습니다."
+            ],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "생성기",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "달빛",
+            "ImagePath": "MOONLIGHT.jpg",
+            "Code": "MOONLIGHT",
+            "Descriptions": [
+                "5중첩의 <b>야성</b>을 얻습니다.",
+                "턴 종료 시 5중첩의 <b>야성(Feral)</b>을 잃습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "달빛",
+            "ImagePath": "MOONLIGHT.jpg",
+            "Code": "MOONLIGHT_UPGRADED",
+            "Descriptions": [
+                "5중첩의 <b>야성</b>을 얻습니다.",
+                "턴 종료 시 5중첩의 <b>야성(Feral)</b>을 잃습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "사냥 본능",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "PREY_DRIVE",
+            "Descriptions": [
+                "2중첩의 <b>투지</b>를 획득합니다.",
+                "2중첩의 <b>야성</b>을 얻습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "사냥 본능",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "PREY_DRIVE_UPGRADED",
+            "Descriptions": [
+                "3중첩의 <b>투지</b>를 획득합니다.",
+                "3중첩의 <b>야성</b>을 얻습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "일반",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "램 다운로더",
+            "ImagePath": "RAM_DOWNLOADER.jpg",
+            "Code": "RAM_DOWNLOADER",
+            "Descriptions": [
+                "최대 3장의 카드를 버립니다.",
+                "버린 카드 1장당 3포인트의 <b>VIM</b>을 생성합니다.",
+                "카드를 3장 버린다면 1중첩의 <b>캐시</b>를 얻습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "램 다운로더",
+            "ImagePath": "RAM_DOWNLOADER.jpg",
+            "Code": "RAM_DOWNLOADER_UPGRADED",
+            "Descriptions": [
+                "최대 4장의 카드를 버립니다.",
+                "버린 카드 1장당 4포인트의 <b>VIM</b>을 생성합니다.",
+                "카드를 3장이상 버린다면 2중첩의 <b>캐시</b>를 얻습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "재귀 꿈",
+            "ImagePath": "RECURSIVE_DREAM.jpg",
+            "Code": "RECURSIVE_DREAM",
+            "Descriptions": [
+                "이번 전투 동안 이 카드가 생성하는 <b>VIM</b>이 1만큼 증가합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "재귀 꿈",
+            "ImagePath": "RECURSIVE_DREAM.jpg",
+            "Code": "RECURSIVE_DREAM_UPGRADED",
+            "Descriptions": [
+                "이번 전투 동안 이 카드가 생성하는 <b>VIM</b>이 1만큼 증가합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 6,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "셰퍼 혈액 샘플",
+            "ImagePath": "SCHAFER_BLOOD_SAMPLE.jpg",
+            "Code": "SCHAFER_BLOOD_SAMPLE",
+            "Descriptions": [
+                "<b>VIM</b>을 2배로 만듭니다.",
+                "1장의 카드를 뽑습니다.",
+                "1중첩의 <b>캐시</b>를 얻습니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "셰퍼 혈액 샘플",
+            "ImagePath": "SCHAFER_BLOOD_SAMPLE.jpg",
+            "Code": "SCHAFER_BLOOD_SAMPLE_UPGRADED",
+            "Descriptions": [
+                "<b>VIM</b>을 2배로 만듭니다.",
+                "1장의 카드를 뽑습니다.",
+                "2중첩의 <b>캐시</b>를 얻습니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "억제되지 않은 성장",
+            "ImagePath": "UNRESTRAINED_GROWTH.jpg",
+            "Code": "UNRESTRAINED_GROWTH",
+            "Descriptions": [
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 5,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "억제되지 않은 성장",
+            "ImagePath": "UNRESTRAINED_GROWTH.jpg",
+            "Code": "UNRESTRAINED_GROWTH_UPGRADED",
+            "Descriptions": [
+                "1중첩의 <b>증폭</b>을 획득합니다.",
+                "<b>디컴파일</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 5,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "불안정 충전",
+            "ImagePath": "UNSTABLE_CHARGE.jpg",
+            "Code": "UNSTABLE_CHARGE",
+            "Descriptions": [],
+            "Conditional": "이번 턴에 최소<br> 1회의 <b>커맨드</b>를 사용했다면, 추가로:",
+            "ConditionalDescriptions": [
+                "<b>VIM</b>을 1포인트 추가로 생성합니다."
+            ],
+            "Rarity": "스타터",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "불안정 충전",
+            "ImagePath": "UNSTABLE_CHARGE.jpg",
+            "Code": "UNSTABLE_CHARGE_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "이번 턴에 최소<br> 1회의 <b>커맨드</b>를 사용했다면, 추가로:",
+            "ConditionalDescriptions": [
+                "<b>서브 커맨드</b>를 리셋합니다.",
+                "<b>VIM</b>을 1포인트 생성합니다."
+            ],
+            "Rarity": "스타터",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "풍요의 뿔 프로토콜",
+            "ImagePath": "CORNUCOPIA_PROTOCOL.jpg",
+            "Code": "CORNUCOPIA_PROTOCOL",
+            "Descriptions": [
+                "턴이 시작 시, 3포인트의 <b>VIM</b>을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "프로토콜",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "커닝 프로토콜",
+            "ImagePath": "CUNNING_PROTOCOL.jpg",
+            "Code": "CUNNING_PROTOCOL",
+            "Descriptions": [
+                "턴이 시작될 때 3중첩의 <b>투지</b>를 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "프로토콜",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "탐욕 프로토콜",
+            "ImagePath": "GREED_PROTOCOL.jpg",
+            "Code": "GREED_PROTOCOL",
+            "Descriptions": [
+                "매 턴 첫 번째로 사용하는 카드가 두 배의 <b>VIM</b>을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "프로토콜",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "점화 프로토콜",
+            "ImagePath": "IGNITION_PROTOCOL.jpg",
+            "Code": "IGNITION_PROTOCOL",
+            "Descriptions": [
+                "매번 <b>커맨드</b>를 활성화할 때마다, 20포인트의 <b>피해</b>를 입힙니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "프로토콜",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "모멘텀 프로토콜",
+            "ImagePath": "MOMENTUM_PROTOCOL.jpg",
+            "Code": "MOMENTUM_PROTOCOL",
+            "Descriptions": [
+                "매 턴 처음으로 <b>커맨드</b>를 활성화할 때마다, 1 <b>시계</b>를 얻습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "프로토콜",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "달빛 프로토콜",
+            "ImagePath": "MOON_PROTOCOL.jpg",
+            "Code": "MOON_PROTOCOL",
+            "Descriptions": [
+                "턴이 시작될 때 3중첩의 <b>야성</b>을 획득합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "프로토콜",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "불사 프로토콜",
+            "ImagePath": "NIRVANA_PROTOCOL.jpg",
+            "Code": "NIRVANA_PROTOCOL",
+            "Descriptions": [
+                "턴이 시작할 때, 만약 <b>최대 VIM</b>을 가지고 있다면, 1 <b>시계</b>를 얻습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "프로토콜",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "오버플로 프로토콜",
+            "ImagePath": "OVERFLOW_PROTOCOL.jpg",
+            "Code": "OVERFLOW_PROTOCOL",
+            "Descriptions": [
+                "<b>최대 VIM</b> 상태에서 <b>VIM</b>을 생성할 때, 생성하는 <b>VIM</b> 1포인트마다 모든 유닛에게 5포인트의 <b>피해</b>를 입힙니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "프로토콜",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PING-U 프로토콜",
+            "ImagePath": "PINGU_PROTOCOL.jpg",
+            "Code": "PING_U_PROTOCOL",
+            "Descriptions": [
+                "<b>최대 VIM<b> 상태에서 카드를 1장 사용하면 8포인트의 피해를 입힙니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "프로토콜",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "양자 프로토콜",
+            "ImagePath": "QUANTUM_PROTOCOL.jpg",
+            "Code": "QUANTUM_PROTOCOL",
+            "Descriptions": [
+                "<b>커맨드<b>를 활성화할 때마다 2포인트의 <b>VIM</b>을 생성합니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "유니크",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "프로토콜",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "정찰 프로토콜",
+            "ImagePath": "RECON_PROTOCOL.jpg",
+            "Code": "RECON_PROTOCOL",
+            "Descriptions": [
+                "매 턴 1장의 카드를 추가로 뽑습니다."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "보통",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "프로토콜",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "NULL",
+            "ImagePath": ".jpg",
+            "Code": "DECOMPILE_TEST",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "생성기",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "NULL",
+            "ImagePath": ".jpg",
+            "Code": "FACTORY_TEST",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "생성기",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "NULL",
+            "ImagePath": "AMPED_CODESLASH.jpg",
+            "Code": "HACK_TEST",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "레어",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "공격",
+            "Vim": 0,
+            "IsUpgrade": false
+        }
+    ]
+}

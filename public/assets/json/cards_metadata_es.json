@@ -1,0 +1,5550 @@
+{
+    "Items": [
+        {
+            "CardName": "REPLICA",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "AFTERSHOCK",
+            "Descriptions": [
+                "Haz 20 de daño.",
+                "<b>Al descartar:</b> Haz 20 de daño al ICE y crea una copia <b>Temporaria</b> de esta carta."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "REPLICA",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "AFTERSHOCK_UPGRADED",
+            "Descriptions": [
+                "Haz 20 de daño.",
+                "<b>Al descartar:</b> Haz 35 de daño al ICE y crea una copia <b>Temporaria</b> de esta carta."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ARÁCNIDO ÁPICE",
+            "ImagePath": "APEX_ARACHNID.jpg",
+            "Code": "APEX_ARACHNID",
+            "Descriptions": [
+                "Haz 70 de daño.",
+                "Crea 2 <b>Scripts de Mordida</b>.",
+                "<b>Asistir 3:</b> Crea 2 <b>Scripts de Mordida</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ARÁCNIDO ÁPICE",
+            "ImagePath": "APEX_ARACHNID.jpg",
+            "Code": "APEX_ARACHNID_UPGRADED",
+            "Descriptions": [
+                "Haz 80 de daño.",
+                "Crea 4 <b>Scripts de Mordida</b>.",
+                "<b>Asistir 3:</b> Crea 3 <b>Scripts de Mordida</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CALIBRAR",
+            "ImagePath": "CALIBRATE.jpg",
+            "Code": "CALIBRATE",
+            "Descriptions": [
+                "Haz 20 de daño.",
+                "<b>Augmenta</b> Menor.",
+                "<b>Augmenta</b> Mayor."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CALIBRAR",
+            "ImagePath": "CALIBRATE.jpg",
+            "Code": "CALIBRATE_UPGRADED",
+            "Descriptions": [
+                "Haz 40 de daño.",
+                "<b>Augmenta</b> Menor.",
+                "<b>Augmenta</b> Mayor."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CAPITÁN COMANDOGOS",
+            "ImagePath": "CAPTAIN_COMMANDOGS.jpg",
+            "Code": "CAPTAIN_COMMANDOGS",
+            "Descriptions": [
+                "Haz 25 de daño.",
+                "<b>Asistir 2:</b> <b>Augmenta</b> un Comando al azar."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CAPITÁN COMANDOGOS",
+            "ImagePath": "CAPTAIN_COMMANDOGS.jpg",
+            "Code": "CAPTAIN_COMMANDOGS_UPGRADED",
+            "Descriptions": [
+                "Haz 30 de daño.",
+                "<b>Asistir 3:</b> <b>Augmenta</b> un Comando al azar."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CÓDIGO CRUJIENTE",
+            "ImagePath": "CODECRUNCH.jpg",
+            "Code": "CODECRUNCH",
+            "Descriptions": [
+                "Haz 20 de daño."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CÓDIGO CRUJIENTE",
+            "ImagePath": "CODECRUNCH.jpg",
+            "Code": "CODECRUNCH_UPGRADED",
+            "Descriptions": [
+                "Haz 30 de daño."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CÓDIGO APLASTANTE",
+            "ImagePath": "CODESMASH.jpg",
+            "Code": "CODESMASH",
+            "Descriptions": [
+                "Haz 50 de daño.",
+                "Si impacta: Gana 1 de <b>Overclocked</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CÓDIGO APLASTANTE",
+            "ImagePath": "CODESMASH.jpg",
+            "Code": "CODESMASH_UPGRADED",
+            "Descriptions": [
+                "Haz 60 de daño.",
+                "Si impacta: Gana 2 de <b>Overclocked</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ENHEBRADO LETAL",
+            "ImagePath": "DEADLY_THREADING.jpg",
+            "Code": "DEADLY_THREADING",
+            "Descriptions": [
+                "Haz 60 de daño.",
+                "<b>Augmenta</b> Crítico.",
+                "Crea 1 <b>Script</b> al azar."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ENHEBRADO LETAL",
+            "ImagePath": "DEADLY_THREADING.jpg",
+            "Code": "DEADLY_THREADING_UPGRADED",
+            "Descriptions": [
+                "Haz 90 de daño.",
+                "<b>Augmenta</b> Crítico.",
+                "Crea 2 <b>Scripts</b> al azar."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "TEJIDO ERRÁTICO",
+            "ImagePath": "ERRATIC_WEAVING.jpg",
+            "Code": "ERRATIC_WEAVING",
+            "Descriptions": [
+                "Haz 25 de daño.",
+                "Inflige 1 de <b>Exposición</b>.",
+                "Crea 1 <b>Script</b> al azar."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "TEJIDO ERRÁTICO",
+            "ImagePath": "ERRATIC_WEAVING.jpg",
+            "Code": "ERRATIC_WEAVING_UPGRADED",
+            "Descriptions": [
+                "Haz 25 de daño.",
+                "Inflige 2 de <b>Exposición</b>.",
+                "Crea 2 <b>Script</b> al azar."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "EXTRAPOLAR",
+            "ImagePath": "EXTRAPOLATE.jpg",
+            "Code": "EXTRAPOLATE",
+            "Descriptions": [
+                "Haz 40 de daño."
+            ],
+            "Conditional": "Si tienes al menos 2 Comandos <b>Augmentados</b>, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Haz 80 de daño."
+            ],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "EXTRAPOLAR",
+            "ImagePath": "EXTRAPOLATE.jpg",
+            "Code": "EXTRAPOLATE_UPGRADED",
+            "Descriptions": [
+                "Haz 40 de daño."
+            ],
+            "Conditional": "Si tienes al menos 2 Comandos <b>Augmentados</b>, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Haz 120 de daño."
+            ],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "FRENESÍ ALIMENTICIO",
+            "ImagePath": "FEEDING_FRENZY.jpg",
+            "Code": "FEEDING_FRENZY",
+            "Descriptions": [
+                "Haz 30 de daño.",
+                "Convierte todos los <b>Scripts</b> de tu mano en <b>Scripts de Mordida</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "FRENESÍ ALIMENTICIO",
+            "ImagePath": "FEEDING_FRENZY.jpg",
+            "Code": "FEEDING_FRENZY_UPGRADED",
+            "Descriptions": [
+                "Haz 40 de daño.",
+                "Convierte todos los <b>Scripts</b> de tu mano en <b>Scripts de Mordida</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "COLMILLO FRACTAL",
+            "ImagePath": "FRACTAL_FANG.jpg",
+            "Code": "FRACTAL_FANG",
+            "Descriptions": [
+                "Haz 40 de daño a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "COLMILLO FRACTAL",
+            "ImagePath": "FRACTAL_FANG.jpg",
+            "Code": "FRACTAL_FANG_UPGRADED",
+            "Descriptions": [
+                "Haz 60 de daño a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CAÑÓN DE CRISTAL",
+            "ImagePath": "GLASS_CANNON.jpg",
+            "Code": "GLASS_CANNON",
+            "Descriptions": [
+                "Haz 0 de daño.",
+                "<b>DECOMPILAR</b>.",
+                "<b>Al descartar:</b> Genera 4 <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CAÑÓN DE CRISTAL",
+            "ImagePath": "GLASS_CANNON.jpg",
+            "Code": "GLASS_CANNON_UPGRADED",
+            "Descriptions": [
+                "Haz 150 de daño.",
+                "<b>DECOMPILAR</b>.",
+                "<b>Al descartar:</b> Genera 6 <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ARREGLO PROVISORIO",
+            "ImagePath": "HOTFIX.jpg",
+            "Code": "HOTFIX",
+            "Descriptions": [
+                "Haz 30 de daño."
+            ],
+            "Conditional": "Si tienes un Comando <b>Augmentado</b>, también:",
+            "ConditionalDescriptions": [
+                "Inflige 1 de <b>Debilidad</b>."
+            ],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ARREGLO PROVISORIO",
+            "ImagePath": "HOTFIX.jpg",
+            "Code": "HOTFIX_UPGRADED",
+            "Descriptions": [
+                "Haz 40 de daño."
+            ],
+            "Conditional": "Si tienes un Comando <b>Augmentado</b>, también:",
+            "ConditionalDescriptions": [
+                "Inflige 2 de <b>Debilidad</b>."
+            ],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "PUENTEAR",
+            "ImagePath": "JUMPSTART.jpg",
+            "Code": "JUMPSTART",
+            "Descriptions": [
+                "Haz 20 de daño.",
+                "Roba 1 carta.",
+                "<b>Augmenta</b> Mayor."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PUENTEAR",
+            "ImagePath": "JUMPSTART.jpg",
+            "Code": "JUMPSTART_UPGRADED",
+            "Descriptions": [
+                "Haz 20 de daño.",
+                "Roba 2 carta.",
+                "<b>Augmenta</b> Mayor."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "LICUACIÓN",
+            "ImagePath": "LIQUEFACTION.jpg",
+            "Code": "LIQUEFACTION",
+            "Descriptions": [
+                "Haz 10 de daño.",
+                "<b>Si Impacta:</b> Crea 3 <b>Scripts de Mordida</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "LICUACIÓN",
+            "ImagePath": "LIQUEFACTION.jpg",
+            "Code": "LIQUEFACTION_UPGRADED",
+            "Descriptions": [
+                "Haz 10 de daño.",
+                "<b>Si Impacta:</b> Crea 4 <b>Scripts de Mordida</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "URI LA URRACA",
+            "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
+            "Code": "MAGGIE_THE_MAGPIE",
+            "Descriptions": [
+                "Haz 15 de daño a todos los enemigos.",
+                "<b>Asistir 2:</b> Roba 1 carta."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "URI LA URRACA",
+            "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
+            "Code": "MAGGIE_THE_MAGPIE_UPGRADED",
+            "Descriptions": [
+                "Haz 25 de daño a todos los enemigos.",
+                "<b>Asistir 3:</b> Roba 1 carta."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "MOSQUITO INCOGNITO",
+            "ImagePath": "MOSQUITO_INCOGNITO.jpg",
+            "Code": "MOSQUITO_INCOGNITO",
+            "Descriptions": [
+                "Haz 5 de daño.",
+                "<b>Asistir 20:</b> Haz 5 de daño al ICE.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "MOSQUITO INCOGNITO",
+            "ImagePath": "MOSQUITO_INCOGNITO.jpg",
+            "Code": "MOSQUITO_INCOGNITO_UPGRADED",
+            "Descriptions": [
+                "Haz 5 de daño.",
+                "<b>Asistir 25:</b> Haz 5 de daño al ICE."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ARPÓN NEUROTÓXICO",
+            "ImagePath": "NEUROTOXIC_HARPOON.jpg",
+            "Code": "NEUROTOXIC_HARPOON",
+            "Descriptions": [
+                "Haz 50 de daño.",
+                "<b>Si Impacta:</b> Aumenta el daño base de los <b>Scripts de Mordida</b> en 5 hasta el final de combate.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ARPÓN NEUROTÓXICO",
+            "ImagePath": "NEUROTOXIC_HARPOON.jpg",
+            "Code": "NEUROTOXIC_HARPOON_UPGRADED",
+            "Descriptions": [
+                "Haz 60 de daño.",
+                "<b>Si Impacta:</b> Aumenta el daño base de los <b>Scripts de Mordida</b> en 8 hasta el final de combate.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "UNIDADES DESECHABLES",
+            "ImagePath": "DISPOSABLE_UNITS.jpg",
+            "Code": "NITRO_DAGGER",
+            "Descriptions": [
+                "Haz 10 de daño.",
+                "Gana 1 de <b>Overclocked</b>.",
+                "<b>Al descartar:</b> Gana 1 de <b>Clock</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "UNIDADES DESECHABLES",
+            "ImagePath": "DISPOSABLE_UNITS.jpg",
+            "Code": "NITRO_DAGGER_UPGRADED",
+            "Descriptions": [
+                "Haz 15 de daño.",
+                "Gana 1 de <b>Overclocked</b>.",
+                "<b>Al descartar:</b> Gana 2 de <b>Clock</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "RENOVACIÓN",
+            "ImagePath": "OVERHAUL.jpg",
+            "Code": "OVERHAUL",
+            "Descriptions": [
+                "Haz 45 de daño.",
+                "Inflige 2 de <b>Exposición</b>.",
+                "<b>Augmenta</b> Menor."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "RENOVACIÓN",
+            "ImagePath": "OVERHAUL.jpg",
+            "Code": "OVERHAUL_UPGRADED",
+            "Descriptions": [
+                "Haz 70 de daño.",
+                "Inflige 3 de <b>Exposición</b>.",
+                "<b>Augmenta</b> Menor."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "BUEY SIN LEY",
+            "ImagePath": "OX_HOAX.jpg",
+            "Code": "OX_HOAX",
+            "Descriptions": [
+                "Haz 1 de daño.",
+                "<b>Asistir 1:</b> Haz 60 de daño al ICE."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "BUEY SIN LEY",
+            "ImagePath": "OX_HOAX.jpg",
+            "Code": "OX_HOAX_UPGRADED",
+            "Descriptions": [
+                "Haz 1 de daño.",
+                "<b>Asistir 1:</b> Haz 100 de daño al ICE."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "BOMBA PIÑATA",
+            "ImagePath": "PINATA_BOMB.jpg",
+            "Code": "PINATA_BOMB",
+            "Descriptions": [
+                "Haz 10 de daño.",
+                "<b>Al descartar:</b> Haz 30 de daño a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "BOMBA PIÑATA",
+            "ImagePath": "PINATA_BOMB.jpg",
+            "Code": "PINATA_BOMB_UPGRADED",
+            "Descriptions": [
+                "Haz 10 de daño.",
+                "<b>Al descartar:</b> Haz 45 de daño a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "GRITO FAMÉLICO",
+            "ImagePath": "RAVENOUS_SCREECH.jpg",
+            "Code": "RAVENOUS_SCREECH",
+            "Descriptions": [
+                "Haz 10 de daño.",
+                "<b>Si impacta:</b> inflige 1 de <b>Debilidad</b>.",
+                "<b>Augmenta</b> Mayor."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "ATAQUE",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "GRITO FAMÉLICO",
+            "ImagePath": "RAVENOUS_SCREECH.jpg",
+            "Code": "RAVENOUS_SCREECH_UPGRADED",
+            "Descriptions": [
+                "Haz 20 de daño.",
+                "<b>Si impacta:</b> inflige 1 de <b>Debilidad</b>.",
+                "<b>Augmenta</b> Mayor."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "ATAQUE",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "REAJUSTAR",
+            "ImagePath": "READJUST.jpg",
+            "Code": "READJUST",
+            "Descriptions": [
+                "Haz 25 de daño a todos los enemigos.",
+                "<b>Augmenta</b> Menor."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "REAJUSTAR",
+            "ImagePath": "READJUST.jpg",
+            "Code": "READJUST_UPGRADED",
+            "Descriptions": [
+                "Haz 40 de daño a todos los enemigos.",
+                "<b>Augmenta</b> Menor."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "SINGULARIDAD",
+            "ImagePath": "SINGULARITY.jpg",
+            "Code": "SINGULARITY",
+            "Descriptions": [
+                "Haz 100 de daño.",
+                "Esta carta cuesta 1 menos de <b>Clock</b> por cada Comando <b>Augmentado</b> que tengas."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "SINGULARIDAD",
+            "ImagePath": "SINGULARITY.jpg",
+            "Code": "SINGULARITY_UPGRADED",
+            "Descriptions": [
+                "Haz 150 de daño.",
+                "Esta carta cuesta 1 menos de <b>Clock</b> por cada Comando <b>Augmentado</b> que tengas."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "GOLPE ESCURRIDIZO",
+            "ImagePath": "SKITTERING_STRIKE.jpg",
+            "Code": "SKITTERING_STRIKE",
+            "Descriptions": [
+                "Haz 20 de daño."
+            ],
+            "Conditional": "Si tienes un Comando <b>Augmentado </b>, también:",
+            "ConditionalDescriptions": [
+                "Gana 1 de <b>Clock</b>."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "GOLPE ESCURRIDIZO",
+            "ImagePath": "SKITTERING_STRIKE.jpg",
+            "Code": "SKITTERING_STRIKE_UPGRADED",
+            "Descriptions": [
+                "Haz 40 de daño."
+            ],
+            "Conditional": "Si tienes un Comando <b>Augmentado </b>, también:",
+            "ConditionalDescriptions": [
+                "Gana 1 de <b>Clock</b>."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "MUTAR",
+            "ImagePath": "MUTATE.jpg",
+            "Code": "SPAWN_SPIDERLINGS",
+            "Descriptions": [
+                "Haz 10 de daño.",
+                "Crea 6 <b>Script de Mordida</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "MUTAR",
+            "ImagePath": "MUTATE.jpg",
+            "Code": "SPAWN_SPIDERLINGS_UPGRADED",
+            "Descriptions": [
+                "Haz 20 de daño.",
+                "Crea 6 <b>Script de Mordida</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ENGENDRAR",
+            "ImagePath": "SPAWNER.jpg",
+            "Code": "SPAWNER",
+            "Descriptions": [
+                "Haz 10 de daño.",
+                "Crea 1 <b>Script de Mordida</b>.",
+                "<b>Al descartar:</b> Crea 3 <b>Scripts de Mordida</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ENGENDRAR",
+            "ImagePath": "SPAWNER.jpg",
+            "Code": "SPAWNER_UPGRADED",
+            "Descriptions": [
+                "Haz 20 de daño.",
+                "Crea 2 <b>Script de Mordida</b>.",
+                "<b>Al descartar:</b> Crea 4 <b>Scripts de Mordida</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "REY ARAÑA",
+            "ImagePath": "SPIDER_KING.jpg",
+            "Code": "SPIDER_KING",
+            "Descriptions": [
+                "Haz 60 de daño.",
+                "<b>Asistir 4:</b> Crea 2 <b>Scripts</b> al azar.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "REY ARAÑA",
+            "ImagePath": "SPIDER_KING.jpg",
+            "Code": "SPIDER_KING_UPGRADED",
+            "Descriptions": [
+                "Haz 70 de daño.",
+                "<b>Asistir 4:</b> Crea 3 <b>Scripts</b> al azar.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "TECNO TEJÓN",
+            "ImagePath": "TECHNO_BADGER.jpg",
+            "Code": "TECHNO_BADGER",
+            "Descriptions": [
+                "Haz 10 de daño.",
+                "<b>Asistir 5:</b> Haz 10 de daño a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "TECNO TEJÓN",
+            "ImagePath": "TECHNO_BADGER.jpg",
+            "Code": "TECHNO_BADGER_UPGRADED",
+            "Descriptions": [
+                "Haz 10 de daño.",
+                "<b>Asistir 5:</b> Haz 20 de daño a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "RÉPLICA TEMPORARIA",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "TEMP_AFTERSHOCK",
+            "Descriptions": [
+                "Haz 20 de daño.",
+                "<b>Al descartar:</b> Haz 20 de daño y crea una copia <b>Temporaria</b> de esta carta.",
+                "<b>Temporaria</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "RÉPLICA TEMPORARIA",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "TEMP_AFTERSHOCK_UPGRADED",
+            "Descriptions": [
+                "Haz 20 de daño.",
+                "<b>Al descartar:</b> Haz 35 de daño y crea una copia <b>Temporaria</b> de esta carta.",
+                "<b>Temporaria</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "TRHIDRA",
+            "ImagePath": "THREEDRA.jpg",
+            "Code": "THREEDRA",
+            "Descriptions": [
+                "Haz 20 de daño a todos los enemigos.",
+                "Inflige 2 de <b>Exposición</b> a todos los enemigos.",
+                "<b>Asistir 3:</b> Haz 20 de daño a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "TRHIDRA",
+            "ImagePath": "THREEDRA.jpg",
+            "Code": "THREEDRA_UPGRADED",
+            "Descriptions": [
+                "Haz 30 de daño a todos los enemigos.",
+                "Inflige 3 de <b>Exposición</b> a todos los enemigos.",
+                "<b>Asistir 3:</b> Haz 30 de daño a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "GOLPE VENENOSO",
+            "ImagePath": "VENOM_STRIKE.jpg",
+            "Code": "VENOM_STRIKE",
+            "Descriptions": [
+                "Haz 20 de daño.",
+                "Aumenta el daño de los <b>Scripts de Mordida</b> en 10 por este turno.",
+                "<b>Si Impacta:</b> Inflige 2 de <b>Exposición</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "GOLPE VENENOSO",
+            "ImagePath": "VENOM_STRIKE.jpg",
+            "Code": "VENOM_STRIKE_UPGRADED",
+            "Descriptions": [
+                "Haz 45 de daño.",
+                "Aumenta el daño de los <b>Scripts de Mordida</b> en 10 por este turno.",
+                "<b>Si Impacta:</b> Inflige 2 de <b>Exposición</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "TASER",
+            "ImagePath": "ZIP_GUN.jpg",
+            "Code": "ZIP_GUN",
+            "Descriptions": [
+                "Haz 20 de daño.",
+                "Descarta 1 carta.",
+                "<b>Al descartar:</b> Haz 20 de daño al ICE."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "TASER",
+            "ImagePath": "ZIP_GUN.jpg",
+            "Code": "ZIP_GUN_UPGRADED",
+            "Descriptions": [
+                "Haz 20 de daño.",
+                "Descarta 1 carta.",
+                "<b>Al descartar:</b> Haz 40 de daño al ICE."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "HOPLITA ZOMBIE",
+            "ImagePath": "ZOMBIE_HOPLITE.jpg",
+            "Code": "ZOMBIE_HOPLITE",
+            "Descriptions": [
+                "Haz 20 de daño a todos los enemigos por carta descartada este turno. (0 de daño)."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "HOPLITA ZOMBIE",
+            "ImagePath": "ZOMBIE_HOPLITE.jpg",
+            "Code": "ZOMBIE_HOPLITE_UPGRADED",
+            "Descriptions": [
+                "Haz 30 de daño a todos los enemigos por carta descartada este turno. (0 de daño)."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "IMAGEN RESIDUAL",
+            "ImagePath": "AFTERIMAGE.jpg",
+            "Code": "AFTERIMAGE",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si tienes un Comando <b>Augmentado </b>, también:",
+            "ConditionalDescriptions": [
+                "Prolonga un efecto de <b>Asistir</b> al azar por 1."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "IMAGEN RESIDUAL",
+            "ImagePath": "AFTERIMAGE.jpg",
+            "Code": "AFTERIMAGE_UPGRADED",
+            "Descriptions": [
+                "Gana 50 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si tienes un Comando <b>Augmentado </b>, también:",
+            "ConditionalDescriptions": [
+                "Prolonga un efecto de <b>Asistir</b> al azar por 1."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "BARRY CADA",
+            "ImagePath": "BARRY_CADE.jpg",
+            "Code": "BARRY_CADE",
+            "Descriptions": [
+                "Gana 60 de <b>Barrera</b>.",
+                "Gana 2 de <b>Acumulación</b>.",
+                "<b>Asistir 3:</b> Gana 40 de <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 3,
+            "Type": "DEFENSA",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "BARRY CADA",
+            "ImagePath": "BARRY_CADE.jpg",
+            "Code": "BARRY_CADE_UPGRADED",
+            "Descriptions": [
+                "Gana 60 de <b>Barrera</b>.",
+                "Gana 2 de <b>Acumulación</b>.",
+                "<b>Asistir 3:</b> Gana 40 de <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "DEFENSA",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "GRAN PAPPA",
+            "ImagePath": "BIG_PAPPA.jpg",
+            "Code": "BIG_PAPPA",
+            "Descriptions": [
+                "Gana 80 de <b>Barrera</b>.",
+                "Prolonga todos tus efectos de <b>Asistir</b> por 2.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "DEFENSA",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "GRAN PAPPA",
+            "ImagePath": "BIG_PAPPA.jpg",
+            "Code": "BIG_PAPPA_UPGRADED",
+            "Descriptions": [
+                "Gana 120 de <b>Barrera</b>.",
+                "Prolonga todos tus efectos de <b>Asistir</b> por 3.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "DEFENSA",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CÁMARA DE RESONANCIA",
+            "ImagePath": "ECHO_CHAMBER.jpg",
+            "Code": "ECHO_CHAMBER",
+            "Descriptions": [
+                "Gana 20 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si tienes un Comando <b>Augmentado</b>, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Gana 50 de <b>Barrera</b>."
+            ],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CÁMARA DE RESONANCIA",
+            "ImagePath": "ECHO_CHAMBER.jpg",
+            "Code": "ECHO_CHAMBER_UPGRADED",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si tienes un Comando <b>Augmentado</b>, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Gana 70 de <b>Barrera</b>."
+            ],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CAMPO DE FUERZA",
+            "ImagePath": "FORCEFIELD.jpg",
+            "Code": "FORCEFIELD",
+            "Descriptions": [
+                "Gana 20 de <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CAMPO DE FUERZA",
+            "ImagePath": "FORCEFIELD.jpg",
+            "Code": "FORCEFIELD_UPGRADED",
+            "Descriptions": [
+                "Gana 40 de <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "SANTA TOSTADORA",
+            "ImagePath": "HOLY_TOASTER.jpg",
+            "Code": "HOLY_TOASTER",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>.",
+                "<b>Asistir 2:</b> Roba 1 carta."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "SANTA TOSTADORA",
+            "ImagePath": "HOLY_TOASTER.jpg",
+            "Code": "HOLY_TOASTER_UPGRADED",
+            "Descriptions": [
+                "Gana 50 de <b>Barrera</b>.",
+                "<b>Asistir 3:</b> Roba 1 carta."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ENGRANAJES SUELTOS",
+            "ImagePath": "LOOSE_GEARS.jpg",
+            "Code": "LOOSE_GEARS",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>.",
+                "Descarta 1 carta.",
+                "<b>Al descartar:</b> Gana 30 <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ENGRANAJES SUELTOS",
+            "ImagePath": "LOOSE_GEARS.jpg",
+            "Code": "LOOSE_GEARS_UPGRADED",
+            "Descriptions": [
+                "Gana 45 de <b>Barrera</b>.",
+                "Descarta 1 carta.",
+                "<b>Al descartar:</b> Gana 45 <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "MUDAR DE PIEL",
+            "ImagePath": "MOLT.jpg",
+            "Code": "MOLT",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si jugaste al menos 2 <b>Scripts</b> este turno, también:",
+            "ConditionalDescriptions": [
+                "Crea 2 copias del último <b>Script</b> que jugaste."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "MUDAR DE PIEL",
+            "ImagePath": "MOLT.jpg",
+            "Code": "MOLT_UPGRADED",
+            "Descriptions": [
+                "Gana 45 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si jugaste al menos 2 <b>Scripts</b> este turno, también:",
+            "ConditionalDescriptions": [
+                "Crea 3 copias del último <b>Script</b> que jugaste."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "MOMIFICAR",
+            "ImagePath": "MUMMIFY.jpg",
+            "Code": "MUMMIFY",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>.",
+                "Cada vez que crees cualquier cantidad de <b>Scripts de Capullo</b> este turno, crea uno más."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "MOMIFICAR",
+            "ImagePath": "MUMMIFY.jpg",
+            "Code": "MUMMIFY_UPGRADED",
+            "Descriptions": [
+                "Gana 40 de <b>Barrera</b>.",
+                "Cada vez que crees cualquier cantidad de <b>Scripts de Capullo</b> este turno, crea uno más."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "GRULLA DE PAPEL",
+            "ImagePath": "PAPER_CRANE.jpg",
+            "Code": "PAPER_CRANE",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>.",
+                "Descarta 1 carta.",
+                "Roba 1 carta.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "GRULLA DE PAPEL",
+            "ImagePath": "PAPER_CRANE.jpg",
+            "Code": "PAPER_CRANE_UPGRADED",
+            "Descriptions": [
+                "Gana 50 de <b>Barrera</b>.",
+                "Descarta 1 carta.",
+                "Roba 2 carta.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "RETAZOS",
+            "ImagePath": "PATCHWORK.jpg",
+            "Code": "PATCHWORK",
+            "Descriptions": [
+                "Descarta tu mano.",
+                "Gana 20 de <b>Barrera</b> por carta descartada de esta forma."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "RETAZOS",
+            "ImagePath": "PATCHWORK.jpg",
+            "Code": "PATCHWORK_UPGRADED",
+            "Descriptions": [
+                "Descarta cualquier cantidad de cartas.",
+                "Gana 25 de <b>Barrera</b> por carta descartada de esta forma."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ENHEBRADO RÁPIDO",
+            "ImagePath": "QUICK_THREADING.jpg",
+            "Code": "QUICK_THREADING",
+            "Descriptions": [
+                "Crea 2 <b>Scripts de Capullo</b>.",
+                "Inflige 1 de <b>Debilidad</b> a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ENHEBRADO RÁPIDO",
+            "ImagePath": "QUICK_THREADING.jpg",
+            "Code": "QUICK_THREADING_UPGRADED",
+            "Descriptions": [
+                "Crea 4 <b>Scripts de Capullo</b>.",
+                "Inflige 1 de <b>Debilidad</b> a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "RECABLEAR",
+            "ImagePath": "REWIRE.jpg",
+            "Code": "REWIRE",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>.",
+                "Gana 1 de <b>Acumulación</b>.",
+                "<b>Augmenta</b> Menor."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "RECABLEAR",
+            "ImagePath": "REWIRE.jpg",
+            "Code": "REWIRE_UPGRADED",
+            "Descriptions": [
+                "Gana 40 de <b>Barrera</b>.",
+                "Gana 2 de <b>Acumulación</b>.",
+                "<b>Augmenta</b> Menor."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CHATARRERÍA",
+            "ImagePath": "SCRAP_FIELD.jpg",
+            "Code": "SCRAP_FIELD",
+            "Descriptions": [
+                "Gana 10 de <b>Barrera</b>.",
+                "<b>Al descartar:</b> Aumenta la <b>Barrera</b> ganada por esta carta en 20 hasta el fin del combate."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CHATARRERÍA",
+            "ImagePath": "SCRAP_FIELD.jpg",
+            "Code": "SCRAP_FIELD_UPGRADED",
+            "Descriptions": [
+                "Gana 10 de <b>Barrera</b>.",
+                "<b>Al descartar:</b> Aumenta la <b>Barrera</b> ganada por esta carta en 30 hasta el fin del combate."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CAPARAZÓN DE SEDA",
+            "ImagePath": "SILK_SHELL.jpg",
+            "Code": "SILK_SHELL",
+            "Descriptions": [
+                "Gana 35 de <b>Barrera</b>.",
+                "Crea 3 <b>Scripts de Capullo</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CAPARAZÓN DE SEDA",
+            "ImagePath": "SILK_SHELL.jpg",
+            "Code": "SILK_SHELL_UPGRADED",
+            "Descriptions": [
+                "Gana 35 de <b>Barrera</b>.",
+                "Crea 5 <b>Scripts de Capullo</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "DEFENSA",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "RETIRADA DE SEDA",
+            "ImagePath": "SILKEN_RETREAT.jpg",
+            "Code": "SILKEN_RETREAT",
+            "Descriptions": [
+                "Gana 50 de <b>Barrera</b>.",
+                "<b>Augmenta</b> Crítico.",
+                "Crea 2 <b>Scripts de Capullo</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "DEFENSA",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "RETIRADA DE SEDA",
+            "ImagePath": "SILKEN_RETREAT.jpg",
+            "Code": "SILKEN_RETREAT_UPGRADED",
+            "Descriptions": [
+                "Gana 60 de <b>Barrera</b>.",
+                "<b>Augmenta</b> Crítico.",
+                "Crea 4 <b>Scripts de Capullo</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "DEFENSA",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "PROTECTOR DE PANTALLA SOLAR",
+            "ImagePath": "SUNSCREEN_SAVER.jpg",
+            "Code": "SUNSCREEN_SAVER",
+            "Descriptions": [
+                "Gana 10 de <b>Barrera</b>.",
+                "<b>Asistir 2:</b> Gana 20 de <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTECTOR DE PANTALLA SOLAR",
+            "ImagePath": "SUNSCREEN_SAVER.jpg",
+            "Code": "SUNSCREEN_SAVER_UPGRADED",
+            "Descriptions": [
+                "Gana 20 de <b>Barrera</b>.",
+                "<b>Asistir 2:</b> Gana 30 de <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "RED DE TITANIO",
+            "ImagePath": "TITANIUM_WEB.jpg",
+            "Code": "TITANIUM_WEB",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>.",
+                "Todos los Scripts que crees este turno serán <b>Scripts de Capullo</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "RED DE TITANIO",
+            "ImagePath": "TITANIUM_WEB.jpg",
+            "Code": "TITANIUM_WEB_UPGRADED",
+            "Descriptions": [
+                "Gana 40 de <b>Barrera</b>.",
+                "Todos los Scripts que crees este turno serán <b>Scripts de Capullo</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "TURBO CALDERA",
+            "ImagePath": "TURBO_KETTLE.jpg",
+            "Code": "TURBO_KETTLE",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>.",
+                "<b>Asistir 1:</b> Gana 1 de <b>Clock</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "TURBO CALDERA",
+            "ImagePath": "TURBO_KETTLE.jpg",
+            "Code": "TURBO_KETTLE_UPGRADED",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>.",
+                "<b>Asistir 2:</b> Gana 1 de <b>Clock</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "REFUGIO INESTABLE",
+            "ImagePath": "UNSTABLE_SHELTER.jpg",
+            "Code": "UNSTABLE_SHELTER",
+            "Descriptions": [
+                "Gana 60 de <b>Barrera</b>.",
+                "Descarta 1 carta al azar.",
+                "Si fue una <b>Defensa</b>, gana 40 de <b>Barrier</b> adicional."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "REFUGIO INESTABLE",
+            "ImagePath": "UNSTABLE_SHELTER.jpg",
+            "Code": "UNSTABLE_SHELTER_UPGRADED",
+            "Descriptions": [
+                "Gana 60 de <b>Barrera</b>.",
+                "Descarta 1 carta al azar.",
+                "Si fue una <b>Defensa</b>, gana 40 de <b>Barrier</b> adicional."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ALAS DE CERA",
+            "ImagePath": "WAX_WINGS.jpg",
+            "Code": "WAX_WINGS",
+            "Descriptions": [
+                "Gana 80 de <b>Barrera</b>.",
+                "<b>Al descartar:</b> Reduce el coste de esta carta por 1 hasta el fin del combate."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 4,
+            "Type": "DEFENSA",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ALAS DE CERA",
+            "ImagePath": "WAX_WINGS.jpg",
+            "Code": "WAX_WINGS_UPGRADED",
+            "Descriptions": [
+                "Gana 120 de <b>Barrera</b>.",
+                "<b>Al descartar:</b> Reduce el coste de esta carta por 1 hasta el fin del combate."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 3,
+            "Type": "DEFENSA",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "SUPREMACÍA AÉREA",
+            "ImagePath": "AIR_SUPERIORITY.jpg",
+            "Code": "3_STEPS_AHEAD",
+            "Descriptions": [
+                "Roba 1 carta y gana 1 de <b>Clock</b> por cada Comando <b>Augmentado</b> que tengas.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "SUPREMACÍA AÉREA",
+            "ImagePath": "AIR_SUPERIORITY.jpg",
+            "Code": "3_STEPS_AHEAD_UPGRADED",
+            "Descriptions": [
+                "Roba 2 carta y gana 1 de <b>Clock</b> por cada Comando <b>Augmentado</b> que tengas.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "REFACTORIZADOR DE CÓDIGO",
+            "ImagePath": "CODE_REFACTOR.jpg",
+            "Code": "CODE_REFACTOR",
+            "Descriptions": [
+                "<b>Mejora</b> todas las cartas en tu mano hasta el fin del combate.",
+                "<b>Augmenta</b> todos tus Comandos.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9B705FF",
+            "Clock": 3,
+            "Type": "GENERADOR",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "REFACTORIZADOR DE CÓDIGO",
+            "ImagePath": "CODE_REFACTOR.jpg",
+            "Code": "CODE_REFACTOR_UPGRADED",
+            "Descriptions": [
+                "<b>Mejora</b> todas las cartas en tu mano hasta el fin del combate.",
+                "<b>Augmenta</b> todos tus Comandos.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "GENERADOR",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ARRASTRARSE",
+            "ImagePath": "CREEP.jpg",
+            "Code": "CREEP",
+            "Descriptions": [
+                "<b>Augmenta</b> Menor."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ARRASTRARSE",
+            "ImagePath": "CREEP.jpg",
+            "Code": "CREEP_UPGRADED",
+            "Descriptions": [
+                "<b>Augmenta</b> Menor."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ILUMINAR",
+            "ImagePath": "ENLIGHTEN.jpg",
+            "Code": "ENLIGHTEN",
+            "Descriptions": [
+                "<b>Augmenta</b> Mayor.",
+                "<b>Augmenta</b> Crítico."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ILUMINAR",
+            "ImagePath": "ENLIGHTEN.jpg",
+            "Code": "ENLIGHTEN_UPGRADED",
+            "Descriptions": [
+                "<b>Augmenta</b> Menor.",
+                "<b>Augmenta</b> Mayor.",
+                "<b>Augmenta</b> Crítico."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "TEORÍA DE LA EVOLUCIÓN",
+            "ImagePath": "EVOLUTION_THEORY.jpg",
+            "Code": "EVOLUTION_THEORY",
+            "Descriptions": [],
+            "Conditional": "Si jugaste al menos 20 <b>Scripts</b> este combate:",
+            "ConditionalDescriptions": [
+                "Roba 5 cartas.",
+                "Gana 3 de <b>Clock</b>.",
+                "<b>DECOMPILAR</b>.",
+                "<i>(Scripts jugados: 0)</i>"
+            ],
+            "Rarity": "ÚNICO",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "TEORÍA DE LA EVOLUCIÓN",
+            "ImagePath": "EVOLUTION_THEORY.jpg",
+            "Code": "EVOLUTION_THEORY_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "Si jugaste al menos 20 <b>Scripts</b> este combate:",
+            "ConditionalDescriptions": [
+                "Roba 7 cartas.",
+                "Gana 4 de <b>Clock</b>.",
+                "<b>DECOMPILAR</b>.",
+                "<i>(Scripts jugados: 0)</i>"
+            ],
+            "Rarity": "ÚNICO",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "GALLETA DE LA FORTUNA",
+            "ImagePath": "FORTUNE_COOKIE.jpg",
+            "Code": "FORTUNE_COOKIE",
+            "Descriptions": [
+                "<b>Al descartar:</b> Roba 1 carta y crea 1 <b>Script</b> al azar."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "GALLETA DE LA FORTUNA",
+            "ImagePath": "FORTUNE_COOKIE.jpg",
+            "Code": "FORTUNE_COOKIE_UPGRADED",
+            "Descriptions": [
+                "<b>Al descartar:</b> Roba 2 carta y crea 1 <b>Script</b> al azar."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ITSY BITSY",
+            "ImagePath": "ITSY_BITSY.jpg",
+            "Code": "ITSY_BITSY",
+            "Descriptions": [
+                "Inflige 1 de <b>Debilidad</b> a todos los enemigos.",
+                "<b>Asistir 3:</b> Crea 1 <b>Script de Mordida</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ITSY BITSY",
+            "ImagePath": "ITSY_BITSY.jpg",
+            "Code": "ITSY_BITSY_UPGRADED",
+            "Descriptions": [
+                "Inflige 1 de <b>Debilidad</b> a todos los enemigos.",
+                "<b>Asistir 3:</b> Crea 2 <b>Script de Mordida</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "MEMORIA CINÉTICA",
+            "ImagePath": "KINETIC_MEMORY.jpg",
+            "Code": "KINETIC_MEMORY",
+            "Descriptions": [
+                "Descarta 1 carta.",
+                "Roba 2 cartas.",
+                "<b>Al descartar:</b> Genera 2 <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "MEMORIA CINÉTICA",
+            "ImagePath": "KINETIC_MEMORY.jpg",
+            "Code": "KINETIC_MEMORY_UPGRADED",
+            "Descriptions": [
+                "Descarta 2 carta.",
+                "Roba 3 cartas.",
+                "<b>Al descartar:</b> Genera 4 <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ÚLTIMA LLAMADA",
+            "ImagePath": "LAST_CALL.jpg",
+            "Code": "LAST_CALL",
+            "Descriptions": [
+                "Resuelve todos tus efectos de <b>Asistir</b> vigentes.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "GENERADOR",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ÚLTIMA LLAMADA",
+            "ImagePath": "LAST_CALL.jpg",
+            "Code": "LAST_CALL_UPGRADED",
+            "Descriptions": [
+                "Resuelve todos tus efectos de <b>Asistir</b> vigentes.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ANGUILA NITRO",
+            "ImagePath": "NITRO_EEL.jpg",
+            "Code": "NITRO_EEL",
+            "Descriptions": [
+                "Gana 2 de <b>Clock</b>.",
+                "<b>Asistir 1:</b> Gana 1 de <b>Clock</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ANGUILA NITRO",
+            "ImagePath": "NITRO_EEL.jpg",
+            "Code": "NITRO_EEL_UPGRADED",
+            "Descriptions": [
+                "Gana 2 de <b>Clock</b>.",
+                "<b>Asistir 1:</b> Gana 1 de <b>Clock</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "MÁXIMO RENDIMIENTO",
+            "ImagePath": "PEAK_PERFORMANCE.jpg",
+            "Code": "PEAK_PERFORMANCE",
+            "Descriptions": [
+                "Genera <b>VIM</b> hasta estar en MAX VIM.",
+                "<b>DECOMPILAR</b>.",
+                "<b>Al descartar:</b> Gana 1 de <b>Amplificación</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 3,
+            "Type": "GENERADOR",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "MÁXIMO RENDIMIENTO",
+            "ImagePath": "PEAK_PERFORMANCE.jpg",
+            "Code": "PEAK_PERFORMANCE_UPGRADED",
+            "Descriptions": [
+                "Genera <b>VIM</b> hasta estar en MAX VIM.",
+                "<b>DECOMPILAR</b>.",
+                "<b>Al descartar:</b> Gana 1 de <b>Amplificación</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "GENERADOR",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CARRERA DE EXPLORACIÓN",
+            "ImagePath": "SCOUTING_SCUTTLE.jpg",
+            "Code": "SCOUTING_SCUTTLE",
+            "Descriptions": [
+                "Roba 1 carta por cada <b>Script</b> que hayas jugado este turno (0 cartas).",
+                "Crea 1 <b>Script</b> al azar."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CARRERA DE EXPLORACIÓN",
+            "ImagePath": "SCOUTING_SCUTTLE.jpg",
+            "Code": "SCOUTING_SCUTTLE_UPGRADED",
+            "Descriptions": [
+                "Roba 2 carta por cada <b>Script</b> que hayas jugado este turno (0 cartas).",
+                "Crea 1 <b>Script</b> al azar."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "MENÚ KARAGUCHI",
+            "ImagePath": "KARAGUCHI_MENU.jpg",
+            "Code": "SCRIBE_TERMINAL",
+            "Descriptions": [
+                "Crea 2 <b>Scripts</b> al azar.",
+                "<b>DECOMPILAR</b>.",
+                "<b>Al descartar:</b> Crea 1 <b>Script</b> al azar."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "MENÚ KARAGUCHI",
+            "ImagePath": "KARAGUCHI_MENU.jpg",
+            "Code": "SCRIBE_TERMINAL_UPGRADED",
+            "Descriptions": [
+                "Crea 3 <b>Scripts</b> al azar.",
+                "<b>DECOMPILAR</b>.",
+                "<b>Al descartar:</b> Crea 2 <b>Scripts</b> al azar."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CÓDIGO AUTOGENERADO",
+            "ImagePath": "SELF_GENERATING_CODE.jpg",
+            "Code": "SELF_GENERATING_CODE",
+            "Descriptions": [
+                "Crea 1 <b>Script</b> al azar."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CÓDIGO AUTOGENERADO",
+            "ImagePath": "SELF_GENERATING_CODE.jpg",
+            "Code": "SELF_GENERATING_CODE_UPGRADED",
+            "Descriptions": [
+                "Crea 2 <b>Script</b> al azar."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "PEQUEÑO PAPPA",
+            "ImagePath": "SMALL_PAPPA.jpg",
+            "Code": "SMALL_PAPPA",
+            "Descriptions": [
+                "Prolonga todos tus efectos de <b>Asistir</b> por 2.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PEQUEÑO PAPPA",
+            "ImagePath": "SMALL_PAPPA.jpg",
+            "Code": "SMALL_PAPPA_UPGRADED",
+            "Descriptions": [
+                "Prolonga todos tus efectos de <b>Asistir</b> por 3.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "GIRO SÚBITO",
+            "ImagePath": "SUDDEN_SPIN.jpg",
+            "Code": "SUDDEN_SPIN",
+            "Descriptions": [
+                "Descarta 1 carta.",
+                "Crea 1 <b>Script de Mordida</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "GIRO SÚBITO",
+            "ImagePath": "SUDDEN_SPIN.jpg",
+            "Code": "SUDDEN_SPIN_UPGRADED",
+            "Descriptions": [
+                "Descarta 1 carta.",
+                "Crea 2 <b>Script de Mordida</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "SUPERVIVENCIA DEL MÁS APTO",
+            "ImagePath": "SURVIVAL_OF_THE_FITTEST.jpg",
+            "Code": "SURVIVAL_OF_THE_FITTEST",
+            "Descriptions": [
+                "<b>Descarta</b> tu mano.",
+                "Crea 2 <b>Scripts</b> al azar por cada carta descartada de esta manera.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "GENERADOR",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "SUPERVIVENCIA DEL MÁS APTO",
+            "ImagePath": "SURVIVAL_OF_THE_FITTEST.jpg",
+            "Code": "SURVIVAL_OF_THE_FITTEST_UPGRADED",
+            "Descriptions": [
+                "<b>Descarta</b> tu mano.",
+                "Crea 2 <b>Scripts</b> al azar por cada carta descartada de esta manera.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "TEMPLAR CÓDIGO",
+            "ImagePath": "TEMPER_CODE.jpg",
+            "Code": "TEMPER_CODE",
+            "Descriptions": [
+                "<b>Descarta</b> una carta y <b>mejórala</b> hasta el final del combate."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "TEMPLAR CÓDIGO",
+            "ImagePath": "TEMPER_CODE.jpg",
+            "Code": "TEMPER_CODE_UPGRADED",
+            "Descriptions": [
+                "<b>Descarta</b> una carta y <b>mejórala</b> hasta el final del combate."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "MOSCA TRUENO",
+            "ImagePath": "THUNDERFLY.jpg",
+            "Code": "THUNDERFLY",
+            "Descriptions": [
+                "Roba 2 cartas.",
+                "<b>Asistir 2:</b> Gana 4 <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "GENERADOR",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "MOSCA TRUENO",
+            "ImagePath": "THUNDERFLY.jpg",
+            "Code": "THUNDERFLY_UPGRADED",
+            "Descriptions": [
+                "Roba 3 cartas.",
+                "<b>Asistir 2:</b> Gana 6 <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "GENERADOR",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "PROTOCOLO DE ADAPTACIÓN",
+            "ImagePath": "ADAPTATION_PROTOCOL.jpg",
+            "Code": "ADAPTATION_PROTOCOL",
+            "Descriptions": [
+                "Al comienzo de tu turno, <b>Augmenta</b> un Comando al azar."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "PROTOCOLO",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTOCOLO DE IMPULSO",
+            "ImagePath": "BOOST_PROTOCOL.jpg",
+            "Code": "BOOST_PROTOCOL",
+            "Descriptions": [
+                "La primera vez que <b>Augmentes</b> un Comando este turno, gana 1 de <b>Clock</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "PROTOCOLO",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTOCOLO DIGESTIVO",
+            "ImagePath": "DIGEST_PROTOCOL.jpg",
+            "Code": "DIGEST_PROTOCOL",
+            "Descriptions": [
+                "Cada vez que juegues un <b>Script</b>, genera 1 <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "PROTOCOLO",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTOCOLO DE EXPIRACIÓN",
+            "ImagePath": "EXPIRATION_PROTOCOL.jpg",
+            "Code": "EXPIRATION_PROTOCOL",
+            "Descriptions": [
+                "Cada vez que un efecto de <b>Asistir</b> expira, gana 1 de <b>Clock</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "PROTOCOLO",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTOCOLO DE ECLOSIÓN",
+            "ImagePath": "HATCH_PROTOCOL.jpg",
+            "Code": "HATCH_PROTOCOL",
+            "Descriptions": [
+                "Al principio de tu turno, crea 2 <b>Scripts</b> al azar."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "PROTOCOLO",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTOCOLO BASURA",
+            "ImagePath": "JUNK_PROTOCOL.jpg",
+            "Code": "JUNK_PROTOCOL",
+            "Descriptions": [
+                "Cada vez que descartes una carta durante tu turno, haz 10 de daño a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "PROTOCOLO",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTOCOLO BUCLE",
+            "ImagePath": "LOOP_PROTOCOL.jpg",
+            "Code": "LOOP_PROTOCOL",
+            "Descriptions": [
+                "Al final de tu turno, prolonga un efecto de <b>Asistir</b> al azar por 1."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "PROTOCOLO",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTOCOLO DE PARCHE",
+            "ImagePath": "PATCH_PROTOCOL.jpg",
+            "Code": "PATCH_PROTOCOL",
+            "Descriptions": [
+                "La primera vez que <b>descartes</b> una carta cada turno, <b>mejórala</b> hasta el final del combate."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "PROTOCOLO",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "SCRIPT DE MORDIDA",
+            "ImagePath": "BITE_SCRIPT.jpg",
+            "Code": "BITE",
+            "Descriptions": [
+                "Haz 10 de daño."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "SCRIPT",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "SCRIPT DE CAPULLO",
+            "ImagePath": "COCOON_SCRIPT.jpg",
+            "Code": "COCOON",
+            "Descriptions": [
+                "Gana 10 de <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "SCRIPT",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "SCRIPT DE TEJIDO",
+            "ImagePath": "WEAVE_SCRIPT.jpg",
+            "Code": "WEAVE",
+            "Descriptions": [
+                "Roba una carta."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "SCRIPT",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "DATOS CORRUPTOS",
+            "ImagePath": "CORRUPTED_DATA.jpg",
+            "Code": "CORRUPTED_DATA",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#515151FF",
+            "Clock": 9,
+            "Type": "CORRUPTO",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "DATOS FRAGMENTADOS",
+            "ImagePath": "FRAGMENTED_DATA.jpg",
+            "Code": "FRAGMENTED_DATA",
+            "Descriptions": [
+                "<b>DECOMPILA</b> esta carta cuando sea descartada, ya sea durante tu turno o al finalizar la ronda."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#515151FF",
+            "Clock": 9,
+            "Type": "CORRUPTO",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "DATOS INFECTADOS",
+            "ImagePath": "INFECTED_DATA.jpg",
+            "Code": "INFECTED_DATA",
+            "Descriptions": [
+                "Recibe 10 de daño.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#515151FF",
+            "Clock": 0,
+            "Type": "CORRUPTO",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "MIRADA DEL ENJUCIADOR",
+            "ImagePath": "JUDICATORS_GAZE.jpg",
+            "Code": "JUDICATORS_GAZE",
+            "Descriptions": [
+                "Recibe 15 de daño.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#515151FF",
+            "Clock": 0,
+            "Type": "CORRUPTO",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PERFORAR NÚCLEO",
+            "ImagePath": "PIERCE_CORE.jpg",
+            "Code": "PIERCE_CORE",
+            "Descriptions": [
+                "Hacer 150 de daño al Periférico Núcleo.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#FFFFFFFF",
+            "Clock": 2,
+            "Type": "ESPECIAL",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "WORK GUYS",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "THANKS_GUYS",
+            "Descriptions": [
+                "Assemble a great Dev Team",
+                "Develop for 3 years"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#981BD3FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "THANKS_GUYS_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "SCRIPT",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CIBERTAJO SUPREMO",
+            "ImagePath": "ALPHA_CODESLASH.jpg",
+            "Code": "ALPHA_CODESLASH",
+            "Descriptions": [
+                "Haz 0 de daño.\nEsta carta hace 15 de daño por cada una de tus otras cartas que contenga \"CIBERTAJO\" en su nombre."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CIBERTAJO SUPREMO",
+            "ImagePath": "ALPHA_CODESLASH.jpg",
+            "Code": "ALPHA_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "Haz 0 de daño.\nEsta carte hace 20 de daño por cada una de tus otras cartas que contenga \"CIBERTAJO\" en su nombre.\n"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CIBERTAJO POTENCIADO",
+            "ImagePath": "AMPED_CODESLASH.jpg",
+            "Code": "AMPED_CODESLASH",
+            "Descriptions": [
+                "Haz 20 de daño."
+            ],
+            "Conditional": "Si tienes al menos <br>10 <b>VIM</b>, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Haz 40 de daño a todos los enemigos.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Rarity": "INICIAL",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CIBERTAJO POTENCIADO",
+            "ImagePath": "AMPED_CODESLASH.jpg",
+            "Code": "AMPED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "Haz 20 de daño."
+            ],
+            "Conditional": "Si tienes al menos <br>10 <b>VIM</b>, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Haz 60 de daño a todos los enemigos.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Rarity": "INICIAL",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "SER LA BESTIA",
+            "ImagePath": "BECOME_THE_BEAST.jpg",
+            "Code": "BECOME_THE_BEAST",
+            "Descriptions": [
+                "Duplica tu <b>Fiereza</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "SER LA BESTIA",
+            "ImagePath": "BECOME_THE_BEAST.jpg",
+            "Code": "BECOME_THE_BEAST_UPGRADED",
+            "Descriptions": [
+                "Duplica tu <b>Fiereza</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "PALIZA BRUTAL",
+            "ImagePath": "BRUTAL_MAULING.jpg",
+            "Code": "BRUTAL_MAULING",
+            "Descriptions": [
+                "Haz 35 de daño a todos los enemigos.",
+                "Gana 4 de <b>Fiereza</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PALIZA BRUTAL",
+            "ImagePath": "BRUTAL_MAULING.jpg",
+            "Code": "BRUTAL_MAULING_UPGRADED",
+            "Descriptions": [
+                "Haz 45 de daño a todos los enemigos.",
+                "Gana 6 de <b>Fiereza</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CIBERTAJO CARGADO",
+            "ImagePath": "CHARGED_CODESLASH.jpg",
+            "Code": "CHARGED_CODESLASH",
+            "Descriptions": [
+                "Haz 35 de daño."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CIBERTAJO CARGADO",
+            "ImagePath": "CHARGED_CODESLASH.jpg",
+            "Code": "CHARGED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "Haz 50 de daño."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 6,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CIBERTAJO",
+            "ImagePath": "CODESLASH.jpg",
+            "Code": "CODESLASH",
+            "Descriptions": [
+                "Haz 20 de daño."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CIBERTAJO",
+            "ImagePath": "CODESLASH.jpg",
+            "Code": "CODESLASH_UPGRADED",
+            "Descriptions": [
+                "Haz 30 de daño."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "GENIO DE LAS CONSOLAS",
+            "ImagePath": "CONSOLE_PRODIGY.jpg",
+            "Code": "CONSOLE_PRODIGY",
+            "Descriptions": [
+                "Haz 60 de daño."
+            ],
+            "Conditional": "Si usaste al menos<br>2 <b>Comandos</b> este turno, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Haz 120 de daño."
+            ],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "GENIO DE LAS CONSOLAS",
+            "ImagePath": "CONSOLE_PRODIGY.jpg",
+            "Code": "CONSOLE_PRODIGY_UPGRADED",
+            "Descriptions": [
+                "Haz 60 de daño."
+            ],
+            "Conditional": "Si usaste al menos<br>2 <b>Comandos</b> este turno, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Haz 120 de daño."
+            ],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ATAQUE CARMESÍ",
+            "ImagePath": "CRIMSON_ASSAULT.jpg",
+            "Code": "CRIMSON_ASSAULT",
+            "Descriptions": [
+                "Haz 40 de daño.",
+                "Aumenta el daño de esta carta por 20 por Ataque jugado este turno.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ATAQUE CARMESÍ",
+            "ImagePath": "CRIMSON_ASSAULT.jpg",
+            "Code": "CRIMSON_ASSAULT_UPGRADED",
+            "Descriptions": [
+                "Haz 50 de daño.",
+                "Aumenta el daño de esta carta por 30 por Ataque jugado este turno.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "DRENAJE DE DATOS",
+            "ImagePath": "DATA_DRAIN.jpg",
+            "Code": "DATA_DRAIN",
+            "Descriptions": [
+                "Haz 60 de daño."
+            ],
+            "Conditional": "Si estás en <b>MAX VIM</b>, <br> también:",
+            "ConditionalDescriptions": [
+                "Gana <b>Barrera</b> igual al daño hecho."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "DRENAJE DE DATOS",
+            "ImagePath": "DATA_DRAIN.jpg",
+            "Code": "DATA_DRAIN_UPGRADED",
+            "Descriptions": [
+                "Haz 70 de daño."
+            ],
+            "Conditional": "Si tienes al menos <br>12 <b>VIM</b>, también:",
+            "ConditionalDescriptions": [
+                "Gana <b>Barrera</b> igual al daño hecho."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "FILO EFÍMERO",
+            "ImagePath": "EPHEMERAL_EDGE.jpg",
+            "Code": "EPHEMERAL_EDGE",
+            "Descriptions": [
+                "Haz 20 de daño.",
+                "<b>Si Impacta:</b> Generar 3 <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "ATAQUE",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "FILO EFÍMERO",
+            "ImagePath": "EPHEMERAL_EDGE.jpg",
+            "Code": "EPHEMERAL_EDGE_UPGRADED",
+            "Descriptions": [
+                "Haz 30 de daño."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "COLMILLAZO",
+            "ImagePath": "FANG_STRIKE.jpg",
+            "Code": "FANG_STRIKE",
+            "Descriptions": [
+                "Haz 35 de daño.",
+                "Gana 2 de <b>Fiereza</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "COLMILLAZO",
+            "ImagePath": "FANG_STRIKE.jpg",
+            "Code": "FANG_STRIKE_UPGRADED",
+            "Descriptions": [
+                "Haz 55 de daño.",
+                "Gana 3 de <b>Fiereza</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CIBERTAJO FRACTURADO",
+            "ImagePath": "FRAGMENTED_CODESLASH.jpg",
+            "Code": "FRAGMENTED_CODESLASH",
+            "Descriptions": [
+                "Haz 20 de daño a todos los enemigos.",
+                "Agrega 1 <b>DATOS FRAGMENTADOS</b> a tu Repo y mézclalo."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "ATAQUE",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CIBERTAJO FRACTURADO",
+            "ImagePath": "FRAGMENTED_CODESLASH.jpg",
+            "Code": "FRAGMENTED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "Haz 25 de daño a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "HOPLITA",
+            "ImagePath": "HOPLITE.jpg",
+            "Code": "HOPLITE",
+            "Descriptions": [
+                "Haz 20 de daño.",
+                "Gana 20 de <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "HOPLITA",
+            "ImagePath": "HOPLITE.jpg",
+            "Code": "HOPLITE_UPGRADED",
+            "Descriptions": [
+                "Haz 30 de daño.",
+                "Gana 30 de <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "DAGA DE MEMORIA",
+            "ImagePath": "MEMORY_DAGGER.jpg",
+            "Code": "MEM_DAGGER",
+            "Descriptions": [
+                "Haz 20 de daño."
+            ],
+            "Conditional": "Si tienes al menos <br>12 <b>VIM</b>, también:",
+            "ConditionalDescriptions": [
+                "Roba 1 carta."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "ATAQUE",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "DAGA DE MEMORIA",
+            "ImagePath": "MEMORY_DAGGER.jpg",
+            "Code": "MEM_DAGGER_UPGRADED",
+            "Descriptions": [
+                "Haz 30 de daño."
+            ],
+            "Conditional": "Si tienes al menos <br>12 <b>VIM</b>, también:",
+            "ConditionalDescriptions": [
+                "Roba 1 carta."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "SALTO DE MEMORIA",
+            "ImagePath": "MEMORY_LEAP.jpg",
+            "Code": "MEM_LEAP",
+            "Descriptions": [
+                "Haz 30 de daño."
+            ],
+            "Conditional": "Si tienes al menos <br>12 <b>VIM</b>, también:",
+            "ConditionalDescriptions": [
+                "Gana 1 de <b>Clock</b>."
+            ],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "SALTO DE MEMORIA",
+            "ImagePath": "MEMORY_LEAP.jpg",
+            "Code": "MEM_LEAP_UPGRADED",
+            "Descriptions": [
+                "Haz 50 de daño."
+            ],
+            "Conditional": "Si tienes al menos <br>12 <b>VIM</b>, también:",
+            "ConditionalDescriptions": [
+                "Gana 1 de <b>Clock</b>."
+            ],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "SABLE DE MEMORIA",
+            "ImagePath": "MEM_SABER.jpg",
+            "Code": "MEM_SABER",
+            "Descriptions": [
+                "Haz 40 de daño."
+            ],
+            "Conditional": "Si tienes al menos <br>12 <b>VIM</b>, también:",
+            "ConditionalDescriptions": [
+                "Inflige 2 de <b>Debilidad</b>.",
+                "Inflige 2 de <b>Exposición</b>."
+            ],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "SABLE DE MEMORIA",
+            "ImagePath": "MEM_SABER.jpg",
+            "Code": "MEM_SABER_UPGRADED",
+            "Descriptions": [
+                "Haz 40 de daño."
+            ],
+            "Conditional": "Si tienes al menos <br>12 <b>VIM</b>, también:",
+            "ConditionalDescriptions": [
+                "Inflige 2 de <b>Debilidad</b>.",
+                "Inflige 2 de <b>Exposición</b>."
+            ],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "GUADAÑA DE MEMORIA",
+            "ImagePath": "MEMORY_SCYTHE.jpg",
+            "Code": "MEM_SCYTHE",
+            "Descriptions": [
+                "Haz 20 de daño."
+            ],
+            "Conditional": "Si estás en <b>MAX VIM</b>, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Haz 90 de daño."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "GUADAÑA DE MEMORIA",
+            "ImagePath": "MEMORY_SCYTHE.jpg",
+            "Code": "MEM_SCYTHE_UPGRADED",
+            "Descriptions": [
+                "Gana 1 de <b>Amplificación</b>.",
+                "Haz 30 de daño."
+            ],
+            "Conditional": "Si estás en <b>MAX VIM</b>, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Haz 90 de daño."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "FUERZA EXCESIVA",
+            "ImagePath": "OVERKILL.jpg",
+            "Code": "OVERKILL",
+            "Descriptions": [
+                "Haz 40 de daño."
+            ],
+            "Conditional": "Si estás en <b>MAX VIM</b>, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Haz 200 de daño a todos los enemigos.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "FUERZA EXCESIVA",
+            "ImagePath": "OVERKILL.jpg",
+            "Code": "OVERKILL_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "Si estás en <b>MAX VIM</b>:",
+            "ConditionalDescriptions": [
+                "Haz 350 de daño a todos los enemigos.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CACERÍA EN MANADA",
+            "ImagePath": "PACK_HUNT.jpg",
+            "Code": "PACK_HUNT",
+            "Descriptions": [
+                "Haz 50 de daño.",
+                "Tu <b>Fiereza</b> afecta esta carta 3 veces."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CACERÍA EN MANADA",
+            "ImagePath": "PACK_HUNT.jpg",
+            "Code": "PACK_HUNT_UPGRADED",
+            "Descriptions": [
+                "Haz 50 de daño.",
+                "Tu <b>Fiereza</b> afecta esta carta 3 veces."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "AULLIDO PRIMIGENIO",
+            "ImagePath": "PRIMAL_HOWL.jpg",
+            "Code": "PRIMAL_HOWL",
+            "Descriptions": [
+                "Haz 100 de daño.",
+                "Esta carta cuesta 1 <b>Clock</b> menos por cada 3 de <b>Fiereza</b> que tengas.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 9,
+            "Type": "ATAQUE",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "AULLIDO PRIMIGENIO",
+            "ImagePath": "PRIMAL_HOWL.jpg",
+            "Code": "PRIMAL_HOWL_UPGRADED",
+            "Descriptions": [
+                "Haz 120 de daño.",
+                "Esta carta cuesta 1 <b>Clock</b> menos por cada 2 de <b>Fiereza</b> que tengas.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 9,
+            "Type": "ATAQUE",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "PESADILLA RECURSIVA",
+            "ImagePath": "RECURSIVE_NIGHTMARE.jpg",
+            "Code": "RECURSIVE_NIGHTMARE",
+            "Descriptions": [
+                "Haz 30 de daño.",
+                "Aumenta el daño de esta carta por 10 hasta el final del combate. "
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PESADILLA RECURSIVA",
+            "ImagePath": "RECURSIVE_NIGHTMARE.jpg",
+            "Code": "RECURSIVE_NIGHTMARE_UPGRADED",
+            "Descriptions": [
+                "Haz 30 de daño.",
+                "Aumenta el daño de esta carta por 10 hasta el final del combate. "
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CIBERTAJO DESGARRO",
+            "ImagePath": "RENDING_CODESLASH.jpg",
+            "Code": "RENDING_CODESLASH",
+            "Descriptions": [
+                "Haz 35 de daño.",
+                "Si impacta: inflige 1 de <b>Debilidad</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CIBERTAJO DESGARRO",
+            "ImagePath": "RENDING_CODESLASH.jpg",
+            "Code": "RENDING_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "Haz 45 de daño.",
+                "Si impacta: inflige 2 de <b>Debilidad</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "EXPLOSIÓN SOLAR X",
+            "ImagePath": "SUN_BURST_X.jpg",
+            "Code": "SUN_BURST_X",
+            "Descriptions": [
+                "Haz 30 de daño.",
+                "El próximo <b>Ataque</b> que juegues este turno generará doble <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "EXPLOSIÓN SOLAR X",
+            "ImagePath": "SUN_BURST_X.jpg",
+            "Code": "SUN_BURST_X_UPGRADED",
+            "Descriptions": [
+                "Haz 50 de daño.",
+                "El próximo <b>Ataque</b> que juegues este turno generará doble <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "EL GAMBITO DEL CYPHER",
+            "ImagePath": "THE_CYPHERS_GAMBIT.jpg",
+            "Code": "THE_CYPHERS_GAMBIT",
+            "Descriptions": [
+                "Haz 30 de daño."
+            ],
+            "Conditional": "Si usaste al menos <br>1 <b>Comando</b> este turno, también:",
+            "ConditionalDescriptions": [
+                "Gana 1 de <b>Clock</b>."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "EL GAMBITO DEL CYPHER",
+            "ImagePath": "THE_CYPHERS_GAMBIT.jpg",
+            "Code": "THE_CYPHERS_GAMBIT_UPGRADED",
+            "Descriptions": [
+                "Haz 40 de daño."
+            ],
+            "Conditional": "Si activaste al menos <br>1 <b>Comando</b> este turno, también:",
+            "ConditionalDescriptions": [
+                "Gana 1 de <b>Clock</b>."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "EL GOLPE DEL GUILD",
+            "ImagePath": "THE_GUILDS_HEIST.jpg",
+            "Code": "THE_GUILDS_HEIST",
+            "Descriptions": [
+                "Haz 40 de daño.",
+                "Si impacta: Roba 1 carta."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "EL GOLPE DEL GUILD",
+            "ImagePath": "THE_GUILDS_HEIST.jpg",
+            "Code": "THE_GUILDS_HEIST_UPGRADED",
+            "Descriptions": [
+                "Haz 55 de daño.",
+                "Si impacta: Roba 2 cartas y luego descarta 1."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "EL TOQUE DEL MAKER",
+            "ImagePath": "THE_MAKERS_TOUCH.jpg",
+            "Code": "THE_MAKERS_TOUCH",
+            "Descriptions": [
+                "Haz 30 de daño.",
+                "Descarta 1 carta de tu mano al azar.",
+                "Si fue un <b>Ataque</b>, haz 30 daño extra."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "EL TOQUE DEL MAKER",
+            "ImagePath": "THE_MAKERS_TOUCH.jpg",
+            "Code": "THE_MAKERS_TOUCH_UPGRADED",
+            "Descriptions": [
+                "Haz 30 de daño.",
+                "Descarta 2 cartas de tu mano al azar. ",
+                "Si descartaste 2 cartas, haz 60 daño extra."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "EL REGALO DEL PUNK",
+            "ImagePath": "THE_PUNKS_GIFT.jpg",
+            "Code": "THE_PUNKS_GIFT",
+            "Descriptions": [
+                "<b>DECOMPILA</b> una carta de tu mano. ",
+                "Haz 20 veces su <b>VIM</b> como daño a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "EL REGALO DEL PUNK",
+            "ImagePath": "THE_PUNKS_GIFT.jpg",
+            "Code": "THE_PUNKS_GIFT_UPGRADED",
+            "Descriptions": [
+                "<b>DECOMPILA</b> una carta de tu mano. ",
+                "Haz 30 veces su <b>VIM</b> como daño a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "EMBOSCADA STRAY",
+            "ImagePath": "THE_STRAY_AMBUSH.jpg",
+            "Code": "THE_STRAYS_AMBUSH",
+            "Descriptions": [
+                "Haz 30 de daño."
+            ],
+            "Conditional": "Si tienes al menos <br>6 de <b>Fiereza</b>, también:",
+            "ConditionalDescriptions": [
+                "Gana 1 de <b>Clock</b>."
+            ],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "EMBOSCADA STRAY",
+            "ImagePath": "THE_STRAY_AMBUSH.jpg",
+            "Code": "THE_STRAYS_AMBUSH_UPGRADED",
+            "Descriptions": [
+                "Haz 30 de daño."
+            ],
+            "Conditional": "Si tienes al menos <br>8 de <b>Fiereza</b>, también:",
+            "ConditionalDescriptions": [
+                "Gana 2 de <b>Clock</b>."
+            ],
+            "Rarity": "COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "DEPREDADOR DOMINANTE",
+            "ImagePath": "TOP_OF_THE_FOOD_CHAIN.jpg",
+            "Code": "TOP_OF_THE_FOOD_CHAIN",
+            "Descriptions": [
+                "Haz daño igual a 12 veces tu <b>Firmeza</b> (0 de daño).",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "DEPREDADOR DOMINANTE",
+            "ImagePath": "TOP_OF_THE_FOOD_CHAIN.jpg",
+            "Code": "TOP_OF_THE_FOOD_CHAIN_UPGRADED",
+            "Descriptions": [
+                "Haz daño igual a 12 veces tu <b>Firmeza</b> (0 de daño)."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "EL JUGUETE DE ULISES",
+            "ImagePath": "ULYSSES_TOY.jpg",
+            "Code": "ULYSSES_TOY",
+            "Descriptions": [
+                "Haz daño igual a 2 veces el <b>VIM</b> gastado en este combate (0 daño).",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "EL JUGUETE DE ULISES",
+            "ImagePath": "ULYSSES_TOY.jpg",
+            "Code": "ULYSSES_TOY_UPGRADED",
+            "Descriptions": [
+                "Haz daño igual a 3 veces el <b>VIM</b> gastado en este combate (0 daño).",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CIBERTAJO DEL VACÍO",
+            "ImagePath": "VOID_CODESLASH.jpg",
+            "Code": "VOID_CODESLASH",
+            "Descriptions": [
+                "Haz 40 de daño a todos los enemigos.",
+                "Inflige 2 de <b>Exposición</b> a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CIBERTAJO DEL VACÍO",
+            "ImagePath": "VOID_CODESLASH.jpg",
+            "Code": "VOID_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "Haz 50 de daño a todos los enemigos.",
+                "Inflige 3 de <b>Exposición</b> a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "BESO DE WARDLORD",
+            "ImagePath": "WARDLORD_KISS.jpg",
+            "Code": "WARDLORD_KISS",
+            "Descriptions": [
+                "Haz 120 de daño."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "BESO DE WARDLORD",
+            "ImagePath": "WARDLORD_KISS.jpg",
+            "Code": "WARDLORD_KISS_UPGRADED",
+            "Descriptions": [
+                "Haz 120 de daño."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "ATAQUE",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ADONIS AD BLOCKER",
+            "ImagePath": "ADONIS_AD_BLOCKER.jpg",
+            "Code": "ADONIS_AD_BLOCKER",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>.",
+                "Roba 1 carta."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ADONIS AD BLOCKER",
+            "ImagePath": "ADONIS_AD_BLOCKER.jpg",
+            "Code": "ADONIS_AD_BLOCKER_UPGRADED",
+            "Descriptions": [
+                "Gana 45 de <b>Barrera</b>.",
+                "Roba 1 carta."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CIBERSHELL POTENCIADO",
+            "ImagePath": "AMPED_CYBERSHELL.jpg",
+            "Code": "AMPED_CYBERSHELL",
+            "Descriptions": [
+                "Gana 20 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si tienes al menos <br>10 <b>VIM</b>, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Gana 40 de <b>Barrera</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Rarity": "INICIAL",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CIBERSHELL POTENCIADO",
+            "ImagePath": "AMPED_CYBERSHELL.jpg",
+            "Code": "AMPED_CYBERSHELL_UPGRADED",
+            "Descriptions": [
+                "Gana 20 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si tienes al menos <br>10 <b>VIM</b>, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Gana 60 de <b>Barrera</b>."
+            ],
+            "Rarity": "INICIAL",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "INSTINTO ANIMAL",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "ANIMAL_INSTINCT",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si impactaste este turno, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Gana 60 de <b>Barrera</b>."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "INSTINTO ANIMAL",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "ANIMAL_INSTINCT_UPGRADED",
+            "Descriptions": [
+                "Gana 40 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si impactaste este turno, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Gana 80 de <b>Barrera</b>."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "TORCER LA REALIDAD",
+            "ImagePath": "BEND_REALITY.jpg",
+            "Code": "BEND_REALITY",
+            "Descriptions": [
+                "Gana 160 de <b>Barrera</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "TORCER LA REALIDAD",
+            "ImagePath": "BEND_REALITY.jpg",
+            "Code": "BEND_REALITY_UPGRADED",
+            "Descriptions": [
+                "Gana 200 de <b>Barrera</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "MIRADA FRÍA",
+            "ImagePath": "COLD_STARE.jpg",
+            "Code": "COLD_STARE",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si tienes al menos <br>6 de <b>Firmeza</b>, también:",
+            "ConditionalDescriptions": [
+                "Inflige 1 de <b>Debilidad</b> a todos los enemigos."
+            ],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "MIRADA FRÍA",
+            "ImagePath": "COLD_STARE.jpg",
+            "Code": "COLD_STARE_UPGRADED",
+            "Descriptions": [
+                "Gana 40 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si tienes al menos <br>6 de <b>Firmeza</b>, también:",
+            "ConditionalDescriptions": [
+                "Inflige 2 de <b>Debilidad</b> a todos los enemigos."
+            ],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "RESPALDO DE CONSOLA",
+            "ImagePath": "CONSOLE_BACKUP.jpg",
+            "Code": "CONSOLE_BACKUP",
+            "Descriptions": [
+                "Gana 60 de <b>Barrera</b>.",
+                "Cada vez que uses un <b>Comando</b> este turno, gana 30 de <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "DEFENSA",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "RESPALDO DE CONSOLA",
+            "ImagePath": "CONSOLE_BACKUP.jpg",
+            "Code": "CONSOLE_BACKUP_UPGRADED",
+            "Descriptions": [
+                "Gana 70 de <b>Barrera</b>.",
+                "Cada vez que uses un <b>Comando</b> este turno, gana 45 de <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "DEFENSA",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CIBERCUERO",
+            "ImagePath": "CYBERHIDE.jpg",
+            "Code": "CYBERHIDE",
+            "Descriptions": [
+                "Gana 20 de <b>Barrera</b>.",
+                "Si juegas esta carta inmediatamente después de una carta de <b>Defensa</b> este turno, juégala dos veces."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CIBERCUERO",
+            "ImagePath": "CYBERHIDE.jpg",
+            "Code": "CYBERHIDE_UPGRADED",
+            "Descriptions": [
+                "Gana 35 de <b>Barrera</b>.",
+                "Si juegas esta carta inmediatamente después de una carta de <b>Defensa</b> este turno, juégala dos veces."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CIBERSHELL",
+            "ImagePath": "CYBERSHELL.jpg",
+            "Code": "CYBERSHELL",
+            "Descriptions": [
+                "Gana 20 de <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CIBERSHELL",
+            "ImagePath": "CYBERSHELL.jpg",
+            "Code": "CYBERSHELL_UPGRADED",
+            "Descriptions": [
+                "Gana 40 de <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CAPA DE ENERGÍA",
+            "ImagePath": "ENERGY_COAT.jpg",
+            "Code": "ENERGY_COAT",
+            "Descriptions": [
+                "Gana 40 de <b>Barrera</b>.",
+                "Cada vez que juegues una carta de <b>Defensa</b> este turno, gana 7 de <b>Barrera</b> y genera 1 <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CAPA DE ENERGÍA",
+            "ImagePath": "ENERGY_COAT.jpg",
+            "Code": "ENERGY_COAT_UPGRADED",
+            "Descriptions": [
+                "Gana 45 de <b>Barrera</b>.",
+                "Cada vez que juegues una carta de <b>Defensa</b> este turno, gana 10 de <b>Barrera</b> y genera 2 <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "MURO EFÍMERO",
+            "ImagePath": "EPHEMERAL_WALL.jpg",
+            "Code": "EPHEMERAL_WALL",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>.",
+                "Rehabilita tu <b>Comando Menor</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "MURO EFÍMERO",
+            "ImagePath": "EPHEMERAL_WALL.jpg",
+            "Code": "EPHEMERAL_WALL_UPGRADED",
+            "Descriptions": [
+                "Gana 40 de <b>Barrera</b>.",
+                "Rehabilita tu <b>Comando Menor</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 6,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "BLOQUEO FRACTURADO",
+            "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
+            "Code": "FRAGMENTED_BLOCKADE",
+            "Descriptions": [
+                "Gana 50 de <b>Barrera</b>.",
+                "Agrega 1 <b>DATOS FRAGMENTADOS</b> a tu Repo y mézclala."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "BLOQUEO FRACTURADO",
+            "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
+            "Code": "FRAGMENTED_BLOCKADE_UPGRADED",
+            "Descriptions": [
+                "Gana 50 de <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "ASISTENTE DE CARGA",
+            "ImagePath": "INPUT_ASSISTANT.jpg",
+            "Code": "INPUT_ASSISTANT",
+            "Descriptions": [
+                "Gana 20 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si usaste al menos <br>1 <b>Comando</b> este turno, también:",
+            "ConditionalDescriptions": [
+                "Gana 1 de <b>Acumulación</b>."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "DEFENSA",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ASISTENTE DE CARGA",
+            "ImagePath": "INPUT_ASSISTANT.jpg",
+            "Code": "INPUT_ASSISTANT_UPGRADED",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si usaste al menos <br>1 <b>Comando</b> este turno, también:",
+            "ConditionalDescriptions": [
+                "Roba 1 carta."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "DEFENSA",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "LA LEY DEL CANIL",
+            "ImagePath": "KENNEL_LAW.jpg",
+            "Code": "KENNEL_LAW",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si tienes al menos <br>6 de <b>Firmeza</b>, también:",
+            "ConditionalDescriptions": [
+                "Gana 1 de <b>Clock</b>."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "LA LEY DEL CANIL",
+            "ImagePath": "KENNEL_LAW.jpg",
+            "Code": "KENNEL_LAW_UPGRADED",
+            "Descriptions": [
+                "Gana 45 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si tienes al menos <br>6 de <b>Firmeza</b>, también:",
+            "ConditionalDescriptions": [
+                "Gana 1 de <b>Clock</b>."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "MANTO DE MEMORIA",
+            "ImagePath": "MEMORY_CLOAK.jpg",
+            "Code": "MEM_CLOAK",
+            "Descriptions": [
+                "Gana 20 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si tienes al menos <br>12 <b>VIM</b>, también:",
+            "ConditionalDescriptions": [
+                "Roba 1 cartas."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "DEFENSA",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "MANTO DE MEMORIA",
+            "ImagePath": "MEMORY_CLOAK.jpg",
+            "Code": "MEM_CLOAK_UPGRADED",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si tienes al menos <br>12 <b>VIM</b>, también:",
+            "ConditionalDescriptions": [
+                "Roba 1 cartas."
+            ],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "DUEÑOS DE LA CALLE",
+            "ImagePath": "OWN_THE_STREETS.jpg",
+            "Code": "OWN_THE_STREETS",
+            "Descriptions": [
+                "Gana 60 de <b>Barrera</b>.",
+                "Tu <b>Firmeza</b> afecta esta carta 3 veces."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "DUEÑOS DE LA CALLE",
+            "ImagePath": "OWN_THE_STREETS.jpg",
+            "Code": "OWN_THE_STREETS_UPGRADED",
+            "Descriptions": [
+                "Gana 90 de <b>Barrera</b>.",
+                "Tu <b>Firmeza</b> afecta esta carta 3 veces."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "DEFENSA",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "Z-BOT MASCOTA",
+            "ImagePath": "PET_Z_BOT.jpg",
+            "Code": "PET_Z_BOT",
+            "Descriptions": [
+                "Gana 20 de <b>Barrera</b>.",
+                "Elige 1 carta de tu Repositorio y ponlas en tu mano."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "Z-BOT MASCOTA",
+            "ImagePath": "PET_Z_BOT.jpg",
+            "Code": "PET_Z_BOT_UPGRADED",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>.",
+                "Elige 1 carta de tu Repositorio y ponlas en tu mano."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "SERVOARMADURA",
+            "ImagePath": "POWER_ARMOR.jpg",
+            "Code": "POWER_ARMOR",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si estás en <b>MAX VIM</b>, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Gana 100 de <b>Barrera</b>."
+            ],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "SERVOARMADURA",
+            "ImagePath": "POWER_ARMOR.jpg",
+            "Code": "POWER_ARMOR_UPGRADED",
+            "Descriptions": [
+                "Gana 40 de <b>Barrera</b>."
+            ],
+            "Conditional": "Si estás en <b>MAX VIM</b>, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Gana 150 de <b>Barrera</b>."
+            ],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "TEMPLE CALLEJERO",
+            "ImagePath": "STREET_RESOLVE.jpg",
+            "Code": "STREET_RESOLVE",
+            "Descriptions": [
+                "Gana 60 de <b>Barrera</b>.",
+                "Gana 4 de <b>Firmeza</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "TEMPLE CALLEJERO",
+            "ImagePath": "STREET_RESOLVE.jpg",
+            "Code": "STREET_RESOLVE_UPGRADED",
+            "Descriptions": [
+                "Gana 80 de <b>Barrera</b>.",
+                "Gana 6 de <b>Firmeza</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "DEFENSA",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "FAVOR DE LOS SYRINX",
+            "ImagePath": "SYRINX_BLESSING.jpg",
+            "Code": "SYRINX_BLESSING",
+            "Descriptions": [
+                "Gana 20 de <b>Barrera</b>.",
+                "La próxima carta que juegues generará doble <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "FAVOR DE LOS SYRINX",
+            "ImagePath": "SYRINX_BLESSING.jpg",
+            "Code": "SYRINX_BLESSING_UPGRADED",
+            "Descriptions": [
+                "Gana 40 de <b>Barrera</b>.",
+                "La próxima carta que juegues generará doble <b>Barrera</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "LA ASTUCIA DEL STRAY",
+            "ImagePath": "THE_STRAYS_GUILE.jpg",
+            "Code": "THE_STRAYS_GUILE",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>.",
+                "Gana 2 de <b>Firmeza</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "LA ASTUCIA DEL STRAY",
+            "ImagePath": "THE_STRAYS_GUILE.jpg",
+            "Code": "THE_STRAYS_GUILE_UPGRADED",
+            "Descriptions": [
+                "Gana 50 de <b>Barrera</b>.",
+                "Gana 3 de <b>Firmeza</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "LA GUARIDA DEL LOBO",
+            "ImagePath": "THE_WOLVES_DEN.jpg",
+            "Code": "THE_WOLVES_DEN",
+            "Descriptions": [
+                "Duplica tu <b>Firmeza</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "LA GUARIDA DEL LOBO",
+            "ImagePath": "THE_WOLVES_DEN.jpg",
+            "Code": "THE_WOLVES_DEN_UPGRADED",
+            "Descriptions": [
+                "Duplica tu <b>Firmeza</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "THUNDER Z-BOT",
+            "ImagePath": "THUNDER_Z_BOT.jpg",
+            "Code": "THUNDER_Z_BOT",
+            "Descriptions": [
+                "Gana 30 de <b>Barrera</b>.",
+                "Gana 1 de <b>Amplificación</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "THUNDER Z-BOT",
+            "ImagePath": "THUNDER_Z_BOT.jpg",
+            "Code": "THUNDER_Z_BOT_UPGRADED",
+            "Descriptions": [
+                "Gana 40 de <b>Barrera</b>.",
+                "Gana 2 de <b>Amplificación</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CIBERTAJO",
+            "ImagePath": "CODESLASH.jpg",
+            "Code": "DEMO_CARD",
+            "Descriptions": [
+                "Haz 20 de daño."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATAQUE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "ADONIS AD BLOCKER",
+            "ImagePath": "Baribal_angry.jpg",
+            "Code": "DEV_CARD_2",
+            "Descriptions": [
+                "Haz 20 de daño."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "OPTIMIZADOR DE BATALLA",
+            "ImagePath": "BATTLE_OPTIMIZER.jpg",
+            "Code": "BATTLE_OPTIMIZER",
+            "Descriptions": [
+                "Inflige 3 de <b>Exposición</b>.",
+                "Inflige 3 de <b>Debilidad</b>.",
+                "Gana 2 de <b>Acumulación</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 3,
+            "Type": "GENERADOR",
+            "Vim": 5,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "OPTIMIZADOR DE BATALLA",
+            "ImagePath": "BATTLE_OPTIMIZER.jpg",
+            "Code": "BATTLE_OPTIMIZER_UPGRADED",
+            "Descriptions": [
+                "Inflige 3 de <b>Exposición</b>.",
+                "Inflige 3 de <b>Debilidad</b>.",
+                "Gana 3 de <b>Acumulación</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "GENERADOR",
+            "Vim": 5,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "INCINERADOR",
+            "ImagePath": "BURNER.jpg",
+            "Code": "BURNER",
+            "Descriptions": [
+                "<b>DECOMPILA</b> una carta en tu mano. ",
+                "Genera 3 veces su <b>VIM</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "INCINERADOR",
+            "ImagePath": "BURNER.jpg",
+            "Code": "BURNER_UPGRADED",
+            "Descriptions": [
+                "<b>DECOMPILA</b> una carta en tu mano. ",
+                "Genera 3 veces su <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "GATALIZADOR",
+            "ImagePath": "CAT_ALYST.jpg",
+            "Code": "CAT_ALYST",
+            "Descriptions": [
+                "Cada vez que robes una carta este turno,<br>genera 1 <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "GATALIZADOR",
+            "ImagePath": "CAT_ALYST.jpg",
+            "Code": "CAT_ALYST_UPGRADED",
+            "Descriptions": [
+                "Gana 1 de <b>Acumulación</b>.",
+                "Cada vez que robes una carta este turno,<br>genera 1 <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "REINICIADOR DE CONSOLA",
+            "ImagePath": "CONSOLE_REBOOTER.jpg",
+            "Code": "CONSOLE_REBOOTER",
+            "Descriptions": [
+                "Rehabilita todos los <b>Comandos</b> este turno.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 8,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "REINICIADOR DE CONSOLA",
+            "ImagePath": "CONSOLE_REBOOTER.jpg",
+            "Code": "CONSOLE_REBOOTER_UPGRADED",
+            "Descriptions": [
+                "Rehabilita todos los <b>Comandos</b> este turno.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 10,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "VIAJE DE CRÁNIUM",
+            "ImagePath": "CRANIUM_RUSH.jpg",
+            "Code": "CRANIUM_RUSH",
+            "Descriptions": [
+                "Gana 1 de <b>Overclocked</b>."
+            ],
+            "Conditional": "Si estás en <b>MAX VIM</b>, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Gana 2 de <b>Overclocked</b>.",
+                "Gana 1 de <b>Clock</b>."
+            ],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "VIAJE DE CRÁNIUM",
+            "ImagePath": "CRANIUM_RUSH.jpg",
+            "Code": "CRANIUM_RUSH_UPGRADED",
+            "Descriptions": [
+                "Gana 1 de <b>Overclocked</b>."
+            ],
+            "Conditional": "Si estás en <b>MAX VIM</b>, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Gana 2 de <b>Overclocked</b>.",
+                "Gana 2 de <b>Clock</b>."
+            ],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CHAMPIÑEROS",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "FUN_GUYS",
+            "Descriptions": [
+                "Roba 1 carta."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CHAMPIÑEROS",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "FUN_GUYS_UPGRADED",
+            "Descriptions": [
+                "Roba 1 carta."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "DEDOS MÁGICOS",
+            "ImagePath": "MAGIC_FINGERS.jpg",
+            "Code": "MAGIC_FINGERS",
+            "Descriptions": [
+                "Cada vez que juegues un <b>Ataque</b> este turno,<br>genera 1 <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "DEDOS MÁGICOS",
+            "ImagePath": "MAGIC_FINGERS.jpg",
+            "Code": "MAGIC_FINGERS_UPGRADED",
+            "Descriptions": [
+                "Cada vez que juegues un <b>Ataque</b> este turno,<br>genera 2 <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "BALIZA DE MEMORIA",
+            "ImagePath": "MEMORY_BEACON.jpg",
+            "Code": "MEM_BEACON",
+            "Descriptions": [
+                "Gana 2 de <b>Clock</b>."
+            ],
+            "Conditional": "Si estás en <b>MAX VIM</b>, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Gana 3 de <b>Clock</b>.",
+                "Draw 2 cards."
+            ],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "GENERADOR",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "BALIZA DE MEMORIA",
+            "ImagePath": "MEMORY_BEACON.jpg",
+            "Code": "MEM_BEACON_UPGRADED",
+            "Descriptions": [
+                "Gana 2 de <b>Clock</b>."
+            ],
+            "Conditional": "Si tienes al menos <br>12 <b>VIM</b>, en vez de eso:",
+            "ConditionalDescriptions": [
+                "Gana 3 de <b>Clock</b>.",
+                "Draw 2 cards."
+            ],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "GENERADOR",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "LUZ DE LUNA",
+            "ImagePath": "MOONLIGHT.jpg",
+            "Code": "MOONLIGHT",
+            "Descriptions": [
+                "Gana 5 de <b>Fiereza</b>.",
+                "Al finalizar tu turno, pierde 5 de <b>Fiereza</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "LUZ DE LUNA",
+            "ImagePath": "MOONLIGHT.jpg",
+            "Code": "MOONLIGHT_UPGRADED",
+            "Descriptions": [
+                "Gana 5 de <b>Fiereza</b>.",
+                "Al finalizar tu turno, pierde 5 de <b>Fiereza</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "IMPULSO DE CAZA",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "PREY_DRIVE",
+            "Descriptions": [
+                "Gana 2 de <b>Firmeza</b>.",
+                "Gana 2 de <b>Fiereza</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "IMPULSO DE CAZA",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "PREY_DRIVE_UPGRADED",
+            "Descriptions": [
+                "Gana 3 de <b>Firmeza</b>.",
+                "Gana 3 de <b>Fiereza</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "DESCARGADOR DE RAM",
+            "ImagePath": "RAM_DOWNLOADER.jpg",
+            "Code": "RAM_DOWNLOADER",
+            "Descriptions": [
+                "Descarta hasta 3 cartas.",
+                "Genera 3 <b>VIM</b> por cada una.",
+                "Si fueron 3, gana 1 de <b>Acumulación</b>"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "DESCARGADOR DE RAM",
+            "ImagePath": "RAM_DOWNLOADER.jpg",
+            "Code": "RAM_DOWNLOADER_UPGRADED",
+            "Descriptions": [
+                "Descarta hasta 4 cartas.",
+                "Genera 4 <b>VIM</b> por cada una.",
+                "Si descartaste al menos 3, gana 2 de <b>Acumulación</b>"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "SUEÑO RECURSIVO",
+            "ImagePath": "RECURSIVE_DREAM.jpg",
+            "Code": "RECURSIVE_DREAM",
+            "Descriptions": [
+                "Aumenta el <b>VIM</b> generado por esta carta por 1 hasta el final del combate."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "SUEÑO RECURSIVO",
+            "ImagePath": "RECURSIVE_DREAM.jpg",
+            "Code": "RECURSIVE_DREAM_UPGRADED",
+            "Descriptions": [
+                "Aumenta el <b>VIM</b> generado por esta carta por 1 hasta el final el combate."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 6,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "HEMOGRAMA DE SCHÄFER",
+            "ImagePath": "SCHAFER_BLOOD_SAMPLE.jpg",
+            "Code": "SCHAFER_BLOOD_SAMPLE",
+            "Descriptions": [
+                "Duplica tu <b>VIM</b>.",
+                "Roba 1 cartas.",
+                "Gana 1 de <b>Acumulación</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "HEMOGRAMA DE SCHÄFER",
+            "ImagePath": "SCHAFER_BLOOD_SAMPLE.jpg",
+            "Code": "SCHAFER_BLOOD_SAMPLE_UPGRADED",
+            "Descriptions": [
+                "Duplica tu <b>VIM</b>.",
+                "Roba 1 cartas.",
+                "Gana 2 de <b>Acumulación</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CRECIMIENTO VORAZ",
+            "ImagePath": "UNRESTRAINED_GROWTH.jpg",
+            "Code": "UNRESTRAINED_GROWTH",
+            "Descriptions": [
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 5,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CRECIMIENTO VORAZ",
+            "ImagePath": "UNRESTRAINED_GROWTH.jpg",
+            "Code": "UNRESTRAINED_GROWTH_UPGRADED",
+            "Descriptions": [
+                "Gana 1 de <b>Amplificación</b>.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 5,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "CARGA INESTABLE",
+            "ImagePath": "UNSTABLE_CHARGE.jpg",
+            "Code": "UNSTABLE_CHARGE",
+            "Descriptions": [],
+            "Conditional": "Si usaste al menos <br>1 <b>Comando</b> este turno, también:",
+            "ConditionalDescriptions": [
+                "Genera 1 <b>VIM</b> extra ."
+            ],
+            "Rarity": "INICIAL",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "CARGA INESTABLE",
+            "ImagePath": "UNSTABLE_CHARGE.jpg",
+            "Code": "UNSTABLE_CHARGE_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "Si usate al menos <br>1 <b>Comando</b> este turno, también:",
+            "ConditionalDescriptions": [
+                "Rehabilita tu <b>Comando Menor</b>.",
+                "Genera 1 <b>VIM</b> extra ."
+            ],
+            "Rarity": "INICIAL",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "PROTOCOLO CORNUCOPIA",
+            "ImagePath": "CORNUCOPIA_PROTOCOL.jpg",
+            "Code": "CORNUCOPIA_PROTOCOL",
+            "Descriptions": [
+                "Al principio de tu turno, genera 3 <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "PROTOCOLO",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTOCOLO DE INGENIO",
+            "ImagePath": "CUNNING_PROTOCOL.jpg",
+            "Code": "CUNNING_PROTOCOL",
+            "Descriptions": [
+                "Al principio de tu turno, gana 3 de <b>Firmeza</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "PROTOCOLO",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTOCOLO DE AVARICIA",
+            "ImagePath": "GREED_PROTOCOL.jpg",
+            "Code": "GREED_PROTOCOL",
+            "Descriptions": [
+                "La primera carta que juegues cada turno genera doble <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "PROTOCOLO",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTOCOLO DE ENCENDIDO",
+            "ImagePath": "IGNITION_PROTOCOL.jpg",
+            "Code": "IGNITION_PROTOCOL",
+            "Descriptions": [
+                "Cada vez que uses un <b>Comando</b>, haz 20 de daño a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "PROTOCOLO",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTOCOLO DE ÍMPETU",
+            "ImagePath": "MOMENTUM_PROTOCOL.jpg",
+            "Code": "MOMENTUM_PROTOCOL",
+            "Descriptions": [
+                "La primera vez que uses un <b>Comando</b> en cada turno, gana 1 de <b>Clock</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "PROTOCOLO",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTOCOLO LUNAR",
+            "ImagePath": "MOON_PROTOCOL.jpg",
+            "Code": "MOON_PROTOCOL",
+            "Descriptions": [
+                "Al principio de tu turno, gana 3 de <b>Fiereza</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "PROTOCOLO",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTOCOLO NIRVANA",
+            "ImagePath": "NIRVANA_PROTOCOL.jpg",
+            "Code": "NIRVANA_PROTOCOL",
+            "Descriptions": [
+                "Al principio de tu turno, si estás en <b>MAX VIM</b>, gana 1 de <b>Clock</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "PROTOCOLO",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTOCOLO DE DERRAME",
+            "ImagePath": "OVERFLOW_PROTOCOL.jpg",
+            "Code": "OVERFLOW_PROTOCOL",
+            "Descriptions": [
+                "Cada vez que generes <b>VIM</b> mientras estés en <b>MAX VIM</b>, haz 5 de daño por <b>VIM</b> generado a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "PROTOCOLO",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTOCOLO PING-U",
+            "ImagePath": "PINGU_PROTOCOL.jpg",
+            "Code": "PING_U_PROTOCOL",
+            "Descriptions": [
+                "Cada vez que juegues una carta, si estás <b>MAX VIM</b>, haz 8 de daño a todos los enemigos."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "PROTOCOLO",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTOCOLO CUÁNTICO",
+            "ImagePath": "QUANTUM_PROTOCOL.jpg",
+            "Code": "QUANTUM_PROTOCOL",
+            "Descriptions": [
+                "Cada vez que actives un <b>Comando</b>, genera 2 <b>VIM</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "ÚNICO",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "PROTOCOLO",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "PROTOCOLO DE RECONOCIMIENTO",
+            "ImagePath": "RECON_PROTOCOL.jpg",
+            "Code": "RECON_PROTOCOL",
+            "Descriptions": [
+                "Roba 1 carta extra cada turno."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "POCO COMÚN",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "PROTOCOLO",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "NULL",
+            "ImagePath": ".jpg",
+            "Code": "DECOMPILE_TEST",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "GENERADOR",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "NULL",
+            "ImagePath": ".jpg",
+            "Code": "FACTORY_TEST",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "GENERADOR",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "NULL",
+            "ImagePath": "AMPED_CODESLASH.jpg",
+            "Code": "HACK_TEST",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "RARO",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "ATAQUE",
+            "Vim": 0,
+            "IsUpgrade": false
+        }
+    ]
+}

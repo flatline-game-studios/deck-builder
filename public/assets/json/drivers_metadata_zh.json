@@ -1,0 +1,628 @@
+{
+    "Items": [
+        {
+            "DriverName": "伏击驱动",
+            "ImagePath": "Red_ambush.png",
+            "Code": "AMBUSH_DRIVER",
+            "Description": "每场战斗开始时，对所有目标施加1层<b>暴露</b>。"
+        },
+        {
+            "DriverName": "增援驱动",
+            "ImagePath": "Blue_backup.png",
+            "Code": "BACKUP_DRIVER",
+            "Description": "在你的回合结束时，如果你没有任何<b>屏障</b>，则获得10点<b>屏障</b>。"
+        },
+        {
+            "DriverName": "街垒驱动",
+            "ImagePath": "Blue_barricade_U-01.png",
+            "Code": "BARRICADE_DRIVER",
+            "Description": "在你的回合结束时，如果你拥有至少80点<b>屏障</b>，则获得2层<b>坚毅</b>。"
+        },
+        {
+            "DriverName": "盛怒驱动",
+            "ImagePath": "Red_berserk_R-01.png",
+            "Code": "BERSERK_DRIVER",
+            "Description": "你每打出一张<b>攻击</b>牌时，获得1层<b>野性</b>并对自己施加1层<b>暴露</b>。"
+        },
+        {
+            "DriverName": "晶蓝驱动",
+            "ImagePath": "Blue_blue.png",
+            "Code": "BLUE_DRIVER",
+            "Description": "你在每回合第一次获得<b>坚毅</b>时，获得10点<b>屏障</b>。"
+        },
+        {
+            "DriverName": "追逐驱动",
+            "ImagePath": "Red_chase_U-01.png",
+            "Code": "CHASE_DRIVER",
+            "Description": "在你的回合开始时，如果你有至少12层<b>野性</b>，则获得1<b>时钟</b>。"
+        },
+        {
+            "DriverName": "响片驱动",
+            "ImagePath": "Green_clicker_U-01.png",
+            "Code": "CLICKER_DRIVER",
+            "Description": "你在一场战斗中每使用3次<b>指令</b>，获得5点<b>临时VIM</b>。（0/3）"
+        },
+        {
+            "DriverName": "云驱动",
+            "ImagePath": "Yellow_cloud.png",
+            "Code": "CLOUD_DRIVER",
+            "Description": "你在每回合第一次获得<b>临时VIM</b>时生成2点<b>VIM</b>。"
+        },
+        {
+            "DriverName": "抄本驱动",
+            "ImagePath": "Purple_codex.png",
+            "Code": "CODEX_DRIVER",
+            "Description": "每场战斗开始时，获得2层<b>缓存</b>。"
+        },
+        {
+            "DriverName": "电机驱动",
+            "ImagePath": "Yellow_dynamo_U-01.png",
+            "Code": "DYNAMO_DRIVER",
+            "Description": "你打出<b>生成器</b>牌时，额外生成1点<b>VIM</b>。"
+        },
+        {
+            "DriverName": "月蚀驱动",
+            "ImagePath": "Red_eclipse_R-01.png",
+            "Code": "ECLIPSE_DRIVER",
+            "Description": "在每回合结束时，<b>野性</b>层数不再衰减。"
+        },
+        {
+            "DriverName": "边缘驱动",
+            "ImagePath": "Red_edge_U-01.png",
+            "Code": "EDGE_DRIVER",
+            "Description": "“代码斩”牌造成20%额外<b>伤害</b>。"
+        },
+        {
+            "DriverName": "佯攻驱动",
+            "ImagePath": "Blue_feint_U-01.png",
+            "Code": "FEINT_DRIVER",
+            "Description": "你在一回合中每打出3张<b>防御</b>卡，获得0<b>时钟</b>。（0/3）"
+        },
+        {
+            "DriverName": "苏生驱动",
+            "ImagePath": "Purple_mend.png",
+            "Code": "MEND_DRIVER",
+            "Description": "每场战斗开始时，恢复15点<b>完整性</b>。"
+        },
+        {
+            "DriverName": "月球驱动",
+            "ImagePath": "Red_moon_U-01.png",
+            "Code": "MOON_DRIVER",
+            "Description": "你在一回合中每打出4张<b>攻击</b>牌，获得3层<b>野性</b>。（0/4）"
+        },
+        {
+            "DriverName": "管弦乐队驱动",
+            "ImagePath": "Yellow_orchestra_R-01.png",
+            "Code": "ORCHESTRA_DRIVER",
+            "Description": "在你的回合开始时，生成10点<b>临时VIM</b>。在你的回合结束时，失去所有<b>VIM</b>。"
+        },
+        {
+            "DriverName": "迅捷驱动",
+            "ImagePath": "Green_prompt.png",
+            "Code": "PROMPT_DRIVER",
+            "Description": "你在每场战斗中第一次使用<b>指令</b>时获得1 <b>时钟</b>。"
+        },
+        {
+            "DriverName": "原初驱动",
+            "ImagePath": "Purple_proto_U-01.png",
+            "Code": "PROTO_DRIVER",
+            "Description": "<b>协议</b>牌的费用减少1 <b>时钟</b>。"
+        },
+        {
+            "DriverName": "炽红驱动",
+            "ImagePath": "Red_red.png",
+            "Code": "RED_DRIVER",
+            "Description": "你每打出10张<b>攻击</b>牌，获得2层<b>野性</b>。 (0/10)"
+        },
+        {
+            "DriverName": "雄鸡驱动",
+            "ImagePath": "Yellow_rooster.png",
+            "Code": "ROOSTER_DRIVER",
+            "Description": "每场战斗开始时，生成3点<b>VIM</b>。"
+        },
+        {
+            "DriverName": "庇护所驱动",
+            "ImagePath": "Blue_shelter_U-01.png",
+            "Code": "SHELTER_DRIVER",
+            "Description": "在你的回合结束时，如果你还没有打出任何<b>防御</b>卡，获得3层<b>坚毅</b>。"
+        },
+        {
+            "DriverName": "罗网驱动",
+            "ImagePath": "Blue_snare.png",
+            "Code": "SNARE_DRIVER",
+            "Description": "每场战斗开始时，对所有目标施加层<b>虚弱</b>。"
+        },
+        {
+            "DriverName": "维稳驱动",
+            "ImagePath": "Yellow_stabilizer_U-01.png",
+            "Code": "STABILIZER_DRIVER",
+            "Description": "在你的回合开始时，生成2点<b>VIM</b>。"
+        },
+        {
+            "DriverName": "奔流驱动",
+            "ImagePath": "Red_stream.png",
+            "Code": "STREAM_DRIVER",
+            "Description": "你在一回合中每打出4张<b>攻击</b>牌，抽1张牌。（0/4）"
+        },
+        {
+            "DriverName": "街头驱动",
+            "ImagePath": "Blue_street.png",
+            "Code": "STREET_DRIVER",
+            "Description": "在每场战斗开始时，获得2层<b>坚毅</b>。"
+        },
+        {
+            "DriverName": "惊雷驱动",
+            "ImagePath": "Yellow_thunder_U-01.png",
+            "Code": "THUNDER_DRIVER",
+            "Description": "在你的回合开始时，如果你拥有<b>最大VIM</b>，则获得1<b>时钟</b>。"
+        },
+        {
+            "DriverName": "晶体管驱动",
+            "ImagePath": "Yellow_transistor_U-01.png",
+            "Code": "TRANSISTOR_DRIVER",
+            "Description": "在你的回合结束时，生成等同于你<b>临时VIM</b>的<b>VIM</b>。"
+        },
+        {
+            "DriverName": "转台驱动",
+            "ImagePath": "Green_turntable_U-01.png",
+            "Code": "TUNRTABLE_DRIVER",
+            "Description": "你每回合可以使用<b>小型指令</b>2次。"
+        },
+        {
+            "DriverName": "先锋驱动",
+            "ImagePath": "Blue_vanguard_R-01.png",
+            "Code": "VANGUARD_DRIVER",
+            "Description": "在你的回合开始时，你拥有的每点<b>坚毅</b>对所有目标造成3点<b>伤害</b>。（0<b>伤害</b>）"
+        },
+        {
+            "DriverName": "黑胶驱动",
+            "ImagePath": "Green_vinyl_U-01.png",
+            "Code": "VINYL_DRIVER",
+            "Description": "你在一回合中每使用3次<b>指令</b>，获得 0 <b>时钟</b>。 （0/3）"
+        },
+        {
+            "DriverName": "苍狼驱动",
+            "ImagePath": "Red_wolf.png",
+            "Code": "WOLF_DRIVER",
+            "Description": "每场战斗开始时，获得2层<b>野性</b>。"
+        },
+        {
+            "DriverName": "柠黄驱动",
+            "ImagePath": "Yellow_yellow.png",
+            "Code": "YELLOW_DRIVER",
+            "Description": "在你的回合开始时，如果你拥有至少10点<b>VIM</b>，则生成2点<b>VIM</b>。"
+        },
+        {
+            "DriverName": "磁控管驱动",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID41_DRIVER",
+            "Description": "每触发一次<b>协助</b>效果，生成2点<b>VIM</b>。"
+        },
+        {
+            "DriverName": "卫星驱动",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID42_DRIVER",
+            "Description": "每场战斗开始时，<b>增强</b>所有<b>指令</b>并获得1<b>时钟</b>。"
+        },
+        {
+            "DriverName": "链条驱动",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID52_DRIVER",
+            "Description": "每次你连续打出6张<b>脚本</b>牌，获得1<b>时钟</b>。（0/6）"
+        },
+        {
+            "DriverName": "灵活驱动",
+            "ImagePath": "Green R.png",
+            "Code": "ID26_DARWIN_DRIVER",
+            "Description": "每打出第10张卡牌，获得1<b>时钟</b>。（0/10）"
+        },
+        {
+            "DriverName": "毒蛇驱动",
+            "ImagePath": "Red R.png",
+            "Code": "ID43_DRIVER",
+            "Description": "提高4点<b>噬咬脚本</b>的基础<b>伤害</b>。"
+        },
+        {
+            "DriverName": "回旋镖驱动",
+            "ImagePath": "Green R.png",
+            "Code": "ID49_DRIVER",
+            "Description": "每回合第一个过期的<b>协助</b>效果会回收到你的手牌。"
+        },
+        {
+            "DriverName": "冲击波驱动",
+            "ImagePath": "Red R.png",
+            "Code": "ID50_DRIVER",
+            "Description": "你每使用一次<b>增强指令</b>，对所有目标造成20点<b>伤害</b>。"
+        },
+        {
+            "DriverName": "饥饿驱动",
+            "ImagePath": "Red R.png",
+            "Code": "ID51_DRIVER",
+            "Description": "所有的随机<b>脚本</b>牌将变成<b>噬咬脚本</b>。"
+        },
+        {
+            "DriverName": "晶体管驱动",
+            "ImagePath": "Yellow R.png",
+            "Code": "ID53_DRIVER",
+            "Description": "你每弃置一张卡牌，生成与其费用相等的<b>VIM</b>。"
+        },
+        {
+            "DriverName": "发电机驱动",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID32_DRIVER",
+            "Description": "你每打出一张牌，生成1点<b>VIM</b>。"
+        },
+        {
+            "DriverName": "导弹驱动",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID33_DRIVER",
+            "Description": "减少1<b>时钟</b>所有费用为3的卡牌的费用。"
+        },
+        {
+            "DriverName": "颅骨驱动",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID34_DRIVER",
+            "Description": "每三次使用<b>指令</b>，获得1<b>时钟</b>并抽1张牌。（0/3）"
+        },
+        {
+            "DriverName": "耐心驱动",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID35_DRIVER",
+            "Description": "你的回合结束时，如果你没有使用任何<b>指令</b>，获得1层<b>超频</b>。"
+        },
+        {
+            "DriverName": "性能驱动",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID36_DRIVER",
+            "Description": "每回合首次打出一张费用为2的卡牌，获得1<b>时钟</b>。"
+        },
+        {
+            "DriverName": "勇气驱动",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID37_DRIVER",
+            "Description": "在精英和Boss战中，每回合开始时，获得1<b>时钟</b>并生成2点<b>VIM</b>。"
+        },
+        {
+            "DriverName": "提示驱动",
+            "ImagePath": "Green R.png",
+            "Code": "ID22_DRIVER",
+            "Description": "你每使用一次<b>指令</b>，抽1张牌。"
+        },
+        {
+            "DriverName": "转台驱动",
+            "ImagePath": "Green R.png",
+            "Code": "ID23_DRIVER",
+            "Description": "你每回合可以使用2次<b>小型指令</b>。"
+        },
+        {
+            "DriverName": "装甲驱动",
+            "ImagePath": "Blue R.png",
+            "Code": "ID24_DRIVER",
+            "Description": "你每打出一张<b>防御</b>牌，获得10层<b>屏障</b>。"
+        },
+        {
+            "DriverName": "原型驱动",
+            "ImagePath": "Purple R.png",
+            "Code": "ID25_DRIVER",
+            "Description": "<b>协议</b>牌的费用减少1<b>时钟</b>。"
+        },
+        {
+            "DriverName": "零驱动",
+            "ImagePath": "Yellow R.png",
+            "Code": "ID27_DRIVER",
+            "Description": "每次你的<b>VIM</b>为0时，生成4点<b>VIM</b>。"
+        },
+        {
+            "DriverName": "电击驱动",
+            "ImagePath": "Red R.png",
+            "Code": "ID28_DRIVER",
+            "Description": "你每在回合内抽一张牌，对ICE造成4点<b>伤害</b>。"
+        },
+        {
+            "DriverName": "烟雾驱动",
+            "ImagePath": "Red R.png",
+            "Code": "ID29_DRIVER",
+            "Description": "每次你施加<b>暴露</b>时，追加施加层<b>虚弱</b>。"
+        },
+        {
+            "DriverName": "多米诺驱动",
+            "ImagePath": "Red R.png",
+            "Code": "ID30_DRIVER",
+            "Description": "你每禁用一个<b>外围设备</b>，获得1层<b>超频</b>和1层<b>缓存</b>。"
+        },
+        {
+            "DriverName": "更新驱动",
+            "ImagePath": "Green R.png",
+            "Code": "ID31_DRIVER",
+            "Description": "每场战斗开始时，随机升级3张你代码库中的<b>新手</b>牌，直到战斗结束。"
+        },
+        {
+            "DriverName": "向日葵驱动",
+            "ImagePath": "Yellow U.png",
+            "Code": "ID1_DRIVER",
+            "Description": "每次你打出一张<b>生成器</b>卡牌，生成1点<b>VIM</b>。"
+        },
+        {
+            "DriverName": "雄鸡驱动",
+            "ImagePath": "Yellow U.png",
+            "Code": "ID2_DRIVER",
+            "Description": "每场战斗开始时，生成5点<b>VIM</b>。"
+        },
+        {
+            "DriverName": "旋风驱动",
+            "ImagePath": "Yellow U.png",
+            "Code": "ID3_DRIVER",
+            "Description": "每次你将回收站洗入你的代码库中，生成3点<b>VIM</b>。"
+        },
+        {
+            "DriverName": "幽灵驱动",
+            "ImagePath": "Green U.png",
+            "Code": "ID4_DRIVER",
+            "Description": "每场战斗中，你打出的第一张将被<b>反编译</b>的卡牌会被弃置。"
+        },
+        {
+            "DriverName": "磨坊驱动",
+            "ImagePath": "Green U.png",
+            "Code": "ID5_DRIVER",
+            "Description": "每打出第6张卡牌，抽1张牌。（0/6）"
+        },
+        {
+            "DriverName": "溪流驱动",
+            "ImagePath": "Red U.png",
+            "Code": "ID6_DRIVER",
+            "Description": "你每在同一回合内打出3张<b>攻击</b>牌，抽1张牌。（0/3）"
+        },
+        {
+            "DriverName": "黑胶驱动",
+            "ImagePath": "Green U.png",
+            "Code": "ID7_DRIVER",
+            "Description": "你每在同一回合内使用3次<b>指令</b>，获得1<b>时钟</b>。（0/3）"
+        },
+        {
+            "DriverName": "电池驱动",
+            "ImagePath": "Blue U.png",
+            "Code": "ID8_DRIVER",
+            "Description": "你每在同一回合内打出3张<b>防御</b>牌，获得1层<b>超频</b>。（0/3）"
+        },
+        {
+            "DriverName": "燃烧瓶驱动",
+            "ImagePath": "Red U.png",
+            "Code": "ID9_DRIVER",
+            "Description": "每打出第6张<b>攻击</b>牌，对所有目标造成15点<b>伤害</b>。（0/6）"
+        },
+        {
+            "DriverName": "惊雷驱动",
+            "ImagePath": "Yellow U.png",
+            "Code": "ID10_DRIVER",
+            "Description": "你每达到<b>最大VIM</b>，对所有目标造成15点<b>伤害</b>。"
+        },
+        {
+            "DriverName": "力场驱动",
+            "ImagePath": "Yellow U.png",
+            "Code": "ID11_DRIVER",
+            "Description": "每场战斗中首次达到<b>最大VIM</b>时，获得70层<b>屏障</b>。"
+        },
+        {
+            "DriverName": "冬眠驱动",
+            "ImagePath": "Blue U.png",
+            "Code": "ID12_DRIVER",
+            "Description": "每回合可保留最多30层<b>屏障</b>，而不是耗尽所有屏障。"
+        },
+        {
+            "DriverName": "加密驱动",
+            "ImagePath": "Purple U.png",
+            "Code": "ID13_DRIVER",
+            "Description": "你每打出一张<b>协议</b>牌，获得70层<b>屏障</b>。"
+        },
+        {
+            "DriverName": "阿基里斯驱动",
+            "ImagePath": "Red U.png",
+            "Code": "ID14_DRIVER",
+            "Description": "每次你禁用一个<b>外围设备</b>，对ICE造成30点<b>伤害</b>。"
+        },
+        {
+            "DriverName": "埋伏驱动",
+            "ImagePath": "Red U.png",
+            "Code": "ID15_DRIVER",
+            "Description": "每场战斗开始时，对所有目标施加2层<b>暴露</b>。"
+        },
+        {
+            "DriverName": "报复驱动",
+            "ImagePath": "Red U.png",
+            "Code": "ID16_DRIVER",
+            "Description": "每当你<b>暴露</b>，对ICE施加2层<b>暴露</b>。"
+        },
+        {
+            "DriverName": "闪光驱动",
+            "ImagePath": "Blue U.png",
+            "Code": "ID17_DRIVER",
+            "Description": "每场战斗开始时，对所有目标施加2层<b>虚弱</b>。"
+        },
+        {
+            "DriverName": "修复驱动",
+            "ImagePath": "Blue U.png",
+            "Code": "ID18_DRIVER",
+            "Description": "每场战斗开始时，恢复15点<b>完整性</b>。"
+        },
+        {
+            "DriverName": "大炮驱动",
+            "ImagePath": "Red U.png",
+            "Code": "ID19_DRIVER",
+            "Description": "你每使用一次<b>关键指令</b>，对ICE造成40点<b>伤害</b>。"
+        },
+        {
+            "DriverName": "补给驱动",
+            "ImagePath": "Green U.png",
+            "Code": "ID20_DRIVER",
+            "Description": "每场战斗开始时，获得3层<b>缓存</b>。"
+        },
+        {
+            "DriverName": "沙漏驱动",
+            "ImagePath": "Yellow U.png",
+            "Code": "ID21_DRIVER",
+            "Description": "回合结束时，如果你还有剩余<b>时钟</b>，获得1层<b>强电</b>。"
+        },
+        {
+            "DriverName": "撬棍驱动",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID100_DRIVER",
+            "Description": "打开沉重门扉时需要花费的<b>踪迹</b>减1。"
+        },
+        {
+            "DriverName": "扣锁驱动",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID101_DRIVER",
+            "Description": "每4次开启<b>门扉</b>时，获得1个<b>哈希密钥</b>。（0/4）"
+        },
+        {
+            "DriverName": "ID102",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID102_DRIVER",
+            "Description": "每4次<b>提取</b>节点时，在当前集群中随机解锁一扇<b>门扉</b>。（0/4）"
+        },
+        {
+            "DriverName": "价签驱动",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID103_DRIVER",
+            "Description": "将<b>哈希密钥</b>的<b>情报</b>价格降低50%。"
+        },
+        {
+            "DriverName": "ID104",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID104_DRIVER",
+            "Description": "每禁用一个<b>守护者</b>，获得1个<b>哈希密钥</b>和80条<b>情报</b>。"
+        },
+        {
+            "DriverName": "ID105",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID105_DRIVER",
+            "Description": "每7次使用<b>节点</b>时，禁用当前区域的<b>守护者</b>。（0/7）"
+        },
+        {
+            "DriverName": "ID106",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID106_DRIVER",
+            "Description": "每对一个节点<b>重算哈希</b>时，获得80条<b>情报</b>。"
+        },
+        {
+            "DriverName": "全景驱动",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID107_DRIVER",
+            "Description": "当踪迹等级达到5或以上时，在每场战斗开始前，减少1<b>踪迹</b>。"
+        },
+        {
+            "DriverName": "ID108",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID108_DRIVER",
+            "Description": "每3次使用<b>工具</b>时，随机获得一个<b>基础工具</b>。（0/3）"
+        },
+        {
+            "DriverName": "扳手驱动",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID109_DRIVER",
+            "Description": "每5次<b>提取</b>节点时，随机获得一个<b>基础工具</b>。（0/5）"
+        },
+        {
+            "DriverName": "注射器驱动",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID110_DRIVER",
+            "Description": "每次<b>提取</b>节点时，恢复15点<b>完整性</b>。"
+        },
+        {
+            "DriverName": "工具箱驱动",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID111_DRIVER",
+            "Description": "每次使用<b>技能</b>时，随机获得一个<b>基础工具</b>。"
+        },
+        {
+            "DriverName": "冷却器驱动",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID112_DRIVER",
+            "Description": "每击败或禁用5个<b>哨卫</b>时，刷新你的<b>技能</b>。（0/5）"
+        },
+        {
+            "DriverName": "红外驱动",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID113_DRIVER",
+            "Description": "每当<b>警报级别</b>提升时，随机揭开2个区域。"
+        },
+        {
+            "DriverName": "隐身驱动",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID114_DRIVER",
+            "Description": "当<b>踪迹等级</b>为0时，你可以在<b>哨卫</b>未禁用的条件下进行穿越。"
+        },
+        {
+            "DriverName": "接入驱动",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID115_DRIVER",
+            "Description": "<b>门扉</b>在<b>警报级别</b>提升时不再关闭。"
+        },
+        {
+            "DriverName": "安全驱动",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID116_DRIVER",
+            "Description": "<b>哨卫</b>在<b>警报级别</b>提升时不再生成。"
+        },
+        {
+            "DriverName": "采集驱动",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID117_DRIVER",
+            "Description": "当你拥有至少条<b>情报</b>时，提取节点获得的情报增加30%。"
+        },
+        {
+            "DriverName": "风暴驱动",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID38_DRIVER",
+            "Description": "回合结束时，每拥有一点<b>VIM</b>，对所有目标造成3点<b>伤害</b>。（0点<b>伤害</b>）"
+        },
+        {
+            "DriverName": "日蚀驱动",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID39_DRIVER",
+            "Description": "<b>野性</b>不再在每回合结束时衰减。"
+        },
+        {
+            "DriverName": "先锋驱动",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID40_DRIVER",
+            "Description": "每回合开始时，按你拥有的<b>坚韧</b>层数，对所有目标造成3点<b>伤害</b>。(0点<b>伤害</b>)"
+        },
+        {
+            "DriverName": "疾速驱动",
+            "ImagePath": "Green R.png",
+            "Code": "ID26_URSA_DRIVER",
+            "Description": "每打出第6张卡牌，获得1<b>时钟</b>。（0/6）"
+        },
+        {
+            "DriverName": "毒性驱动",
+            "ImagePath": "Red R.png",
+            "Code": "ID44_DRIVER",
+            "Description": "每回合首次打出一张<b>攻击</b>牌，获得1层<b>野性</b>。"
+        },
+        {
+            "DriverName": "紫葳驱动",
+            "ImagePath": "Blue R.png",
+            "Code": "ID45_DRIVER",
+            "Description": "每回合首次获得<b>坚韧</b>，获得1层<b>坚韧</b>。"
+        },
+        {
+            "DriverName": "原子驱动",
+            "ImagePath": "Yellow R.png",
+            "Code": "ID46_DRIVER",
+            "Description": "每回合开始时，如果你处于<b>最大VIM</b>，抽2张牌。"
+        },
+        {
+            "DriverName": "利爪驱动",
+            "ImagePath": "Red R.png",
+            "Code": "ID47_DRIVER",
+            "Description": "带有<b>“代码斩”</b>的卡牌造成额外20%的<b>伤害</b>。"
+        },
+        {
+            "DriverName": "铬驱动",
+            "ImagePath": "Green R.png",
+            "Code": "ID48_DRIVER",
+            "Description": "每场战斗开始时，随机升级3张你代码库中带有<b>“代码斩”</b>的卡牌，直到战斗结束。"
+        }
+    ]
+}
