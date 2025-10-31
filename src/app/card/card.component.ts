@@ -67,7 +67,6 @@ export class CardComponent {
     getColor(): string {
 
          if(this.card.Color.toLowerCase() === '#ffffffff') {
-             console.log("negro")
              return '#000000'
          }else {
                 return '#FFFFFF'

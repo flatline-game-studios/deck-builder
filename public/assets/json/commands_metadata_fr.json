@@ -1,0 +1,270 @@
+{
+    "Items": [
+        {
+            "CommandName": "",
+            "Cost": 6,
+            "Description": "",
+            "Tier": "Minor",
+            "Code": "AUGMENTED"
+        },
+        {
+            "CommandName": "",
+            "Cost": 10,
+            "Description": "",
+            "Tier": "Major",
+            "Code": "CloneCommand_NotImplemented"
+        },
+        {
+            "CommandName": "",
+            "Cost": 6,
+            "Description": "",
+            "Tier": "Minor",
+            "Code": "DareCommand"
+        },
+        {
+            "CommandName": "",
+            "Cost": 5,
+            "Description": "",
+            "Tier": "Minor",
+            "Code": "CONSTRUCT_COMMAND"
+        },
+        {
+            "CommandName": "",
+            "Cost": 5,
+            "Description": "",
+            "Tier": "Minor",
+            "Code": "CONSTRUCT_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "",
+            "Cost": 16,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "DIVE_COMMAND"
+        },
+        {
+            "CommandName": "",
+            "Cost": 16,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "DIVE_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "",
+            "Cost": 5,
+            "Description": "",
+            "Tier": "Minor",
+            "Code": "MANTAIN_COMMAND"
+        },
+        {
+            "CommandName": "",
+            "Cost": 5,
+            "Description": "",
+            "Tier": "Minor",
+            "Code": "MANTAIN_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "",
+            "Cost": 12,
+            "Description": "",
+            "Tier": "Major",
+            "Code": "PREPARE_COMMAND"
+        },
+        {
+            "CommandName": "",
+            "Cost": 12,
+            "Description": "",
+            "Tier": "Major",
+            "Code": "PREPARE_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "",
+            "Cost": 12,
+            "Description": "",
+            "Tier": "Major",
+            "Code": "RALLY_COMMAND"
+        },
+        {
+            "CommandName": "",
+            "Cost": 12,
+            "Description": "",
+            "Tier": "Major",
+            "Code": "RALLY_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "",
+            "Cost": 10,
+            "Description": "",
+            "Tier": "Major",
+            "Code": "REBOUND_COMMAND"
+        },
+        {
+            "CommandName": "",
+            "Cost": 10,
+            "Description": "",
+            "Tier": "Major",
+            "Code": "REBOUND_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "",
+            "Cost": 20,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "REPLICATE_COMMAND"
+        },
+        {
+            "CommandName": "",
+            "Cost": 15,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "REPLICATE_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "",
+            "Cost": 6,
+            "Description": "",
+            "Tier": "Minor",
+            "Code": "REPURPOSE_COMMAND"
+        },
+        {
+            "CommandName": "",
+            "Cost": 6,
+            "Description": "",
+            "Tier": "Minor",
+            "Code": "REPURPOSE_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "",
+            "Cost": 15,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "RUSH_COMMAND"
+        },
+        {
+            "CommandName": "",
+            "Cost": 15,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "RUSH_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "",
+            "Cost": 10,
+            "Description": "",
+            "Tier": "Major",
+            "Code": "STRATEGIZE_COMMAND"
+        },
+        {
+            "CommandName": "",
+            "Cost": 10,
+            "Description": "",
+            "Tier": "Major",
+            "Code": "STRATEGIZE_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "",
+            "Cost": 6,
+            "Description": "",
+            "Tier": "Minor",
+            "Code": "TOUCH_COMMAND"
+        },
+        {
+            "CommandName": "",
+            "Cost": 6,
+            "Description": "",
+            "Tier": "Minor",
+            "Code": "TOUCH_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "",
+            "Cost": 17,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "TRANSCEND_COMMAND"
+        },
+        {
+            "CommandName": "",
+            "Cost": 17,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "TRANSCEND_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "",
+            "Cost": 10,
+            "Description": "",
+            "Tier": "Major",
+            "Code": "DIG"
+        },
+        {
+            "CommandName": "",
+            "Cost": 15,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "EchoCommand"
+        },
+        {
+            "CommandName": "",
+            "Cost": 18,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "Energize"
+        },
+        {
+            "CommandName": "",
+            "Cost": 17,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "ExecuteCommand"
+        },
+        {
+            "CommandName": "",
+            "Cost": 5,
+            "Description": "",
+            "Tier": "Minor",
+            "Code": "FarmCommand"
+        },
+        {
+            "CommandName": "",
+            "Cost": 16,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "OPTIMIZE"
+        },
+        {
+            "CommandName": "",
+            "Cost": 12,
+            "Description": "",
+            "Tier": "Major",
+            "Code": "RecollectCommand"
+        },
+        {
+            "CommandName": "",
+            "Cost": 10,
+            "Description": "",
+            "Tier": "Major",
+            "Code": "RecurCommand"
+        },
+        {
+            "CommandName": "",
+            "Cost": 6,
+            "Description": "",
+            "Tier": "Minor",
+            "Code": "RoarCommand"
+        },
+        {
+            "CommandName": "",
+            "Cost": 5,
+            "Description": "",
+            "Tier": "Minor",
+            "Code": "ScoutCommand"
+        },
+        {
+            "CommandName": "",
+            "Cost": 9,
+            "Description": "",
+            "Tier": "Major",
+            "Code": "TutorCommand"
+        }
+    ]
+}

@@ -1,0 +1,628 @@
+{
+    "Items": [
+        {
+            "DriverName": "DRIVER DE EMBOSCADA",
+            "ImagePath": "Red_ambush.png",
+            "Code": "AMBUSH_DRIVER",
+            "Description": "Al principio de cada combate, inflige 1 de <b>Exposición</b>."
+        },
+        {
+            "DriverName": "DRIVER DE RESPALDO",
+            "ImagePath": "Blue_backup.png",
+            "Code": "BACKUP_DRIVER",
+            "Description": "Al final de tu turno, si no tienes nada de <b>Barrier</b>, gana 10 de <b>Barrier</b>."
+        },
+        {
+            "DriverName": "DRIVER BARRICADA",
+            "ImagePath": "Blue_barricade_U-01.png",
+            "Code": "BARRICADE_DRIVER",
+            "Description": "Al final de tu turno, si tienes al menos 80 de <b>Barrera</b>, gana 2 de <b>Firmeza</b>."
+        },
+        {
+            "DriverName": "DRIVER FRENÉTICO",
+            "ImagePath": "Red_berserk_R-01.png",
+            "Code": "BERSERK_DRIVER",
+            "Description": "Cada vez que juegues un <b>Ataque</b>, gana 1 de <b>Fiereza</b> e infligite 1 de <b>Exposición</b>."
+        },
+        {
+            "DriverName": "DRIVER AZUL",
+            "ImagePath": "Blue_blue.png",
+            "Code": "BLUE_DRIVER",
+            "Description": "La primera vez que ganes <b>Firmeza</b> cada turno, gana 10 de <b>Barrera</b>."
+        },
+        {
+            "DriverName": "DRIVER DE PERSECUSIÓN",
+            "ImagePath": "Red_chase_U-01.png",
+            "Code": "CHASE_DRIVER",
+            "Description": "Al principio de tu turno, si tienes al menos 12 <b>Fiereza</b>, gana 1 de <b>Clock</b>."
+        },
+        {
+            "DriverName": "DRIVER CONTADOR",
+            "ImagePath": "Green_clicker_U-01.png",
+            "Code": "CLICKER_DRIVER",
+            "Description": "Cada vez que actives 3 <b>Comandos</b> en un mismo combate, gana 5 <b>TEMP VIM</b>. (0/3)"
+        },
+        {
+            "DriverName": "DRIVER NUBE",
+            "ImagePath": "Yellow_cloud.png",
+            "Code": "CLOUD_DRIVER",
+            "Description": "La primera vez que ganes <b>TEMP VIM</b> cada turno, genera 2 <b>VIM</b>."
+        },
+        {
+            "DriverName": "DRIVER CODEX",
+            "ImagePath": "Purple_codex.png",
+            "Code": "CODEX_DRIVER",
+            "Description": "Al principio de cada combate, gana 2 de <b>Acumulación</b>."
+        },
+        {
+            "DriverName": "DRIVER DÍNAMO",
+            "ImagePath": "Yellow_dynamo_U-01.png",
+            "Code": "DYNAMO_DRIVER",
+            "Description": "Cada vez que juegues un <b>Generador</b>, genera 1 <b>VIM</b>."
+        },
+        {
+            "DriverName": "DRIVER DE ECLIPSE",
+            "ImagePath": "Red_eclipse_R-01.png",
+            "Code": "ECLIPSE_DRIVER",
+            "Description": "Tu <b>Fiereza</b> no decaerá al final de cada ronda."
+        },
+        {
+            "DriverName": "DRIVER DE FILO",
+            "ImagePath": "Red_edge_U-01.png",
+            "Code": "EDGE_DRIVER",
+            "Description": "Las cartas \"Cibertajo\" hacen 20% más de daño."
+        },
+        {
+            "DriverName": "DRIVER DE AMAGUE",
+            "ImagePath": "Blue_feint_U-01.png",
+            "Code": "FEINT_DRIVER",
+            "Description": "Cada vez que jueges 3 cartas de <b>Defensa</b> en un mismo turno, gana 0 de <b>Clock</b>. (0/3)"
+        },
+        {
+            "DriverName": "DRIVER DE REMIENDO",
+            "ImagePath": "Purple_mend.png",
+            "Code": "MEND_DRIVER",
+            "Description": "Al principio de cada combate, restaura 15 de <b>Integridad</b>."
+        },
+        {
+            "DriverName": "DRIVER LUNAR",
+            "ImagePath": "Red_moon_U-01.png",
+            "Code": "MOON_DRIVER",
+            "Description": "Cada vez que jueges 4 <b>Ataques</b> en un mismo turno, gana 3 de <b>Fiereza</b>. (0/4)"
+        },
+        {
+            "DriverName": "DRIVER ORQUESTA",
+            "ImagePath": "Yellow_orchestra_R-01.png",
+            "Code": "ORCHESTRA_DRIVER",
+            "Description": "Al principio de tu turno, genera 10 <b>TEMP VIM</b>. Al final de tu turno, pierde todo tu <b>VIM</b>."
+        },
+        {
+            "DriverName": "DRIVER DE PROMPT",
+            "ImagePath": "Green_prompt.png",
+            "Code": "PROMPT_DRIVER",
+            "Description": "La primera vez que actives un <b>Comando</b> en cada combate, gana 1 de <b>Clock</b>."
+        },
+        {
+            "DriverName": "PROTODRIVER",
+            "ImagePath": "Purple_proto_U-01.png",
+            "Code": "PROTO_DRIVER",
+            "Description": "Las cartas <b>Protocolo</b> cuestan 1 menos de <b>Clock</b>."
+        },
+        {
+            "DriverName": "DRIVER ROJO",
+            "ImagePath": "Red_red.png",
+            "Code": "RED_DRIVER",
+            "Description": "Cada 10 <b>Ataques</b> que juegues, gana  2 de <b>Fiereza</b>. (0/10)"
+        },
+        {
+            "DriverName": "DRIVER DEL GALLO",
+            "ImagePath": "Yellow_rooster.png",
+            "Code": "ROOSTER_DRIVER",
+            "Description": "Al principio cada combate, genera 3  <b>VIM</b>."
+        },
+        {
+            "DriverName": "DRIVER DE REFUGIO",
+            "ImagePath": "Blue_shelter_U-01.png",
+            "Code": "SHELTER_DRIVER",
+            "Description": "Al final de tu turno, si no jugaste ninguna carta de <b>Defensa</b>, gana 3 <b>Grit</b>."
+        },
+        {
+            "DriverName": "DRIVER TRAMPA",
+            "ImagePath": "Blue_snare.png",
+            "Code": "SNARE_DRIVER",
+            "Description": "Al principio de cada combate, inflige  de <b>Debilidad</b>."
+        },
+        {
+            "DriverName": "DRIVER ESTABILIZADOR",
+            "ImagePath": "Yellow_stabilizer_U-01.png",
+            "Code": "STABILIZER_DRIVER",
+            "Description": "Al principio de tu turno, genera 2  <b>VIM</b>."
+        },
+        {
+            "DriverName": "DRIVER DE STREAM ",
+            "ImagePath": "Red_stream.png",
+            "Code": "STREAM_DRIVER",
+            "Description": "Cada vez que jueges 4 <b>Ataques</b>  en un mismo turno, roba 1 carta. (0/4)"
+        },
+        {
+            "DriverName": "DRIVER CALLEJERO",
+            "ImagePath": "Blue_street.png",
+            "Code": "STREET_DRIVER",
+            "Description": "Al principio de cada combate, gana 2 de <b>Firmeza</b>."
+        },
+        {
+            "DriverName": "DRIVER TRUENO",
+            "ImagePath": "Yellow_thunder_U-01.png",
+            "Code": "THUNDER_DRIVER",
+            "Description": "Al principio de tu turno, si tienes <b>MAX VIM</b>, gana 1 de <b>Clock</b>."
+        },
+        {
+            "DriverName": "DRIVER TRANSISTOR",
+            "ImagePath": "Yellow_transistor_U-01.png",
+            "Code": "TRANSISTOR_DRIVER",
+            "Description": "Al final de tu turno, genera tanto <b>VIM</b> como <b>TEMP VIM</b> tengas."
+        },
+        {
+            "DriverName": "DRIVER TOCADISCOS",
+            "ImagePath": "Green_turntable_U-01.png",
+            "Code": "TUNRTABLE_DRIVER",
+            "Description": "Puedes activar <b>Comandos Menores</b> 2 veces por turno."
+        },
+        {
+            "DriverName": "DRIVER DE VANGUARDIA",
+            "ImagePath": "Blue_vanguard_R-01.png",
+            "Code": "VANGUARD_DRIVER",
+            "Description": "Al principio de tu turno, haz 3 de daño a todos los enemigos por cada punto de <b>Firmeza</b> que tengas. (0 de daño)"
+        },
+        {
+            "DriverName": "DRIVER DE VINILO",
+            "ImagePath": "Green_vinyl_U-01.png",
+            "Code": "VINYL_DRIVER",
+            "Description": "Cada vez que actives 3 <b>Comandos</b> en un mismo  turno, gana 0 de <b>Clock</b>. (0/3)"
+        },
+        {
+            "DriverName": "DRIVER DEL LOBO",
+            "ImagePath": "Red_wolf.png",
+            "Code": "WOLF_DRIVER",
+            "Description": "Al principio de cada combate, gana 2 de <b>Fiereza</b>."
+        },
+        {
+            "DriverName": "DRIVER AMARILLO",
+            "ImagePath": "Yellow_yellow.png",
+            "Code": "YELLOW_DRIVER",
+            "Description": "Al principio de tu turno, si tienes al menos 10 <b>VIM</b>, genera 2 <b>VIM</b>."
+        },
+        {
+            "DriverName": "DRIVER MAGNETRÓN",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID41_DRIVER",
+            "Description": "Cada vez que un efecto de <b>Asistir</b> se activa, genera 2 <b>VIM</b>."
+        },
+        {
+            "DriverName": "DRIVER SATÉLITE",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID42_DRIVER",
+            "Description": "Al principio de cada combate, <b>Augmenta</b> todos tus <b>Comandos</b> y gana 1 de <b>Clock</b>."
+        },
+        {
+            "DriverName": "DRIVER CADENA",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID52_DRIVER",
+            "Description": "Cada vez que juegues 6 <b>SCRIPTS</b> seguidos, gana 1 de <b>Clock</b>. (0/6)"
+        },
+        {
+            "DriverName": "DRIVER DE AGILIDAD",
+            "ImagePath": "Green R.png",
+            "Code": "ID26_DARWIN_DRIVER",
+            "Description": "Cada 10ma carta que juegues, gana 1 de <b>Clock</b>. (0/10)"
+        },
+        {
+            "DriverName": "DRIVER VÍBORA",
+            "ImagePath": "Red R.png",
+            "Code": "ID43_DRIVER",
+            "Description": "Aumenta el daño base de los <b>SCRIPTS DE MORDIDA</b> en 4."
+        },
+        {
+            "DriverName": "DRIVER BÚMERAN",
+            "ImagePath": "Green R.png",
+            "Code": "ID49_DRIVER",
+            "Description": "Cada turno, el primer efecto de <b>Asistir</b> que expire regresa a tu mano."
+        },
+        {
+            "DriverName": "DRIVER CONMOCIÓN",
+            "ImagePath": "Red R.png",
+            "Code": "ID50_DRIVER",
+            "Description": "Cada vez que uses un <b>Comando Augmentado </b>, haz 20 de daño a todos los enemigos."
+        },
+        {
+            "DriverName": "DRIVER DE HAMBRE",
+            "ImagePath": "Red R.png",
+            "Code": "ID51_DRIVER",
+            "Description": "Todos los <b>SCRIPTS</b> creados al azar serán <b>SCRIPTS DE MORDIDA</b>."
+        },
+        {
+            "DriverName": "DRIVER TRANSISTOR",
+            "ImagePath": "Yellow R.png",
+            "Code": "ID53_DRIVER",
+            "Description": "Cada vez que descartes una carta, genera <b>VIM</b> igual a su costo."
+        },
+        {
+            "DriverName": "DRIVER DÍNAMO",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID32_DRIVER",
+            "Description": "Cada vez que juegues una carta, genera 1 <b>VIM</b>."
+        },
+        {
+            "DriverName": "DRIVER MISIL",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID33_DRIVER",
+            "Description": "Reduce el costo de todas las cartas de coste 3 por 1."
+        },
+        {
+            "DriverName": "DRIVER DE CRANIUM",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID34_DRIVER",
+            "Description": "Cada 3er <b>Comando</b> que uses, gana 1 de <b>Clock</b> y roba 1 carta. (0/3)"
+        },
+        {
+            "DriverName": "DRIVER DE PACIENCIA",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID35_DRIVER",
+            "Description": "Al final de tu turno, si no usaste ningún <b>Comando</b>, gana 1 de <b>Overclocked</b>."
+        },
+        {
+            "DriverName": "DRIVER DE DESEMPEÑO",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID36_DRIVER",
+            "Description": "La primera vez que juegues una carta de coste 2 cada turno, gana 1 de <b>Clock</b>."
+        },
+        {
+            "DriverName": "DRIVER DE CORAJE",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID37_DRIVER",
+            "Description": "En combates de Elite y de Jefes, al principio de tu turno, gana 1 de <b>Clock</b> y genera 2 <b>VIM</b>."
+        },
+        {
+            "DriverName": "DRIVER DE PROMPT",
+            "ImagePath": "Green R.png",
+            "Code": "ID22_DRIVER",
+            "Description": "Cada vez que uses un <b>Comando</b>, roba 1 carta."
+        },
+        {
+            "DriverName": "DRIVER TOCADISCOS",
+            "ImagePath": "Green R.png",
+            "Code": "ID23_DRIVER",
+            "Description": "Puedes usar <b>Comandos Menores</b> 2 veces por turno."
+        },
+        {
+            "DriverName": "DRIVER DE ENCHAPADO",
+            "ImagePath": "Blue R.png",
+            "Code": "ID24_DRIVER",
+            "Description": "Cada vez que juegues una <b>DEFENSA</b>, gana 10 de <b>Barrera</b>."
+        },
+        {
+            "DriverName": "PROTO DRIVER",
+            "ImagePath": "Purple R.png",
+            "Code": "ID25_DRIVER",
+            "Description": "Los <b>PROTOCOLOS</b> cuestan 1 menos de <b>Clock</b>."
+        },
+        {
+            "DriverName": "DRIVER CERO",
+            "ImagePath": "Yellow R.png",
+            "Code": "ID27_DRIVER",
+            "Description": "Cada vez que llegues a 0 <b>VIM</b>, genera 4 <b>VIM</b>."
+        },
+        {
+            "DriverName": "DRIVER DE CHISPAZO",
+            "ImagePath": "Red R.png",
+            "Code": "ID28_DRIVER",
+            "Description": "Cada vez que robes una carta durante tu turno, haz 4 de daño al ICE."
+        },
+        {
+            "DriverName": "DRIVER DE VAPORES",
+            "ImagePath": "Red R.png",
+            "Code": "ID29_DRIVER",
+            "Description": "Cada vez que inflijas <b>Exposición</b>, también inflige  de <b>Debilidad</b>."
+        },
+        {
+            "DriverName": "DRIVER DOMINÓ",
+            "ImagePath": "Red R.png",
+            "Code": "ID30_DRIVER",
+            "Description": "Cada vez que desactives un <b>Periferico</b>, gana 1 de <b>Overclocked</b> y de 1 <b>Acumulación</b>."
+        },
+        {
+            "DriverName": "DRIVER DE ACTUALIZACIÓN",
+            "ImagePath": "Green R.png",
+            "Code": "ID31_DRIVER",
+            "Description": "Al principio de cada combate, mejora 3 cartas <b>INICIALES</b> de tu Repo al azar hasta el final del combate."
+        },
+        {
+            "DriverName": "DRIVER GIRASOL",
+            "ImagePath": "Yellow U.png",
+            "Code": "ID1_DRIVER",
+            "Description": "Cada vez que juegues un <b>Generador</b>, genera 1 <b>VIM</b>."
+        },
+        {
+            "DriverName": "DRIVER DEL GALLO",
+            "ImagePath": "Yellow U.png",
+            "Code": "ID2_DRIVER",
+            "Description": "Al principio cada combate, genera 5 <b>VIM</b>."
+        },
+        {
+            "DriverName": "DRIVER DEL CICLÓN",
+            "ImagePath": "Yellow U.png",
+            "Code": "ID3_DRIVER",
+            "Description": "Cada vez que mezcles tu Recicladora con tu Repo, genera 3 <b>VIM</b>."
+        },
+        {
+            "DriverName": "DRIVER FANTASMA",
+            "ImagePath": "Green U.png",
+            "Code": "ID4_DRIVER",
+            "Description": "Cada combate, la primera carta que juegues que debería ser <b>DECOMPILADA</b> se descarta en vez de eso."
+        },
+        {
+            "DriverName": "DRIVER MOLINO",
+            "ImagePath": "Green U.png",
+            "Code": "ID5_DRIVER",
+            "Description": "Cada 6ta carta que juegues, roba 1 carta. (0/6)"
+        },
+        {
+            "DriverName": "DRIVER DE CORRENTADA",
+            "ImagePath": "Red U.png",
+            "Code": "ID6_DRIVER",
+            "Description": "Cada vez que juegues 3 <b>ATAQUES</b> en un mismo turno, roba 1 carta. (0/3)"
+        },
+        {
+            "DriverName": "DRIVER DE VINILO",
+            "ImagePath": "Green U.png",
+            "Code": "ID7_DRIVER",
+            "Description": "Cada vez que uses 3 <b>Comandos</b> en un mismo turno, gana 1 de <b>Clock</b>. (0/3)"
+        },
+        {
+            "DriverName": "DRIVER BATERÍA",
+            "ImagePath": "Blue U.png",
+            "Code": "ID8_DRIVER",
+            "Description": "Cada vez que jueges 3 <b>Defensas</b> en un mismo turno, gana 1 de <b>Overclocked</b>. (0/3)"
+        },
+        {
+            "DriverName": "DRIVER MOLOTOV",
+            "ImagePath": "Red U.png",
+            "Code": "ID9_DRIVER",
+            "Description": "Cada 6to <b>ATAQUE</b> que juegues, haz 15 de daño a todos los enemigos. (0/6)"
+        },
+        {
+            "DriverName": "DRIVER TRUENO",
+            "ImagePath": "Yellow U.png",
+            "Code": "ID10_DRIVER",
+            "Description": "Cada vez que alcances <b>MAX VIM</b>, haz 15 de daño a todos los enemigos."
+        },
+        {
+            "DriverName": "DRIVER CAMPO DE FUERZA",
+            "ImagePath": "Yellow U.png",
+            "Code": "ID11_DRIVER",
+            "Description": "La primera vez que alcances <b>MAX VIM</b> cada combate, gana 70 de <b>Barrera</b>."
+        },
+        {
+            "DriverName": "DRIVER DE HIBERNACIÓN",
+            "ImagePath": "Blue U.png",
+            "Code": "ID12_DRIVER",
+            "Description": "Cada turno, conserva hasta 30 de <b>Barrera</b> en vez de perderlo todo."
+        },
+        {
+            "DriverName": "DRIVER DE ENCRIPTACIÓN",
+            "ImagePath": "Purple U.png",
+            "Code": "ID13_DRIVER",
+            "Description": "Cada vez que juegues un <b>PROTOCOLO</b>, gana 70 de <b>Barrera</b>."
+        },
+        {
+            "DriverName": "DRIVER DE AQUILES",
+            "ImagePath": "Red U.png",
+            "Code": "ID14_DRIVER",
+            "Description": "Cada vez que desactives un <b>Periférico</b>, haz 30 de daño al ICE."
+        },
+        {
+            "DriverName": "DRIVER DE EMBOSCADA",
+            "ImagePath": "Red U.png",
+            "Code": "ID15_DRIVER",
+            "Description": "Al principio de cada combate, inflige 2 de <b>Exposición</b>."
+        },
+        {
+            "DriverName": "DRIVER DE REVANCHA",
+            "ImagePath": "Red U.png",
+            "Code": "ID16_DRIVER",
+            "Description": "Cada vez que recibas <b>Exposición</b>, inflige 2 de <b>Exposición</b> al ICE."
+        },
+        {
+            "DriverName": "DRIVER ATURDIDOR",
+            "ImagePath": "Blue U.png",
+            "Code": "ID17_DRIVER",
+            "Description": "Al principio de cada combate, inflige 2 de <b>Debilidad</b>."
+        },
+        {
+            "DriverName": "DRIVER DE REMIENDO",
+            "ImagePath": "Blue U.png",
+            "Code": "ID18_DRIVER",
+            "Description": "Al principio de cada combate, restaura 15 de <b>Integridad</b>."
+        },
+        {
+            "DriverName": "DRIVER DE CAÑÓN",
+            "ImagePath": "Red U.png",
+            "Code": "ID19_DRIVER",
+            "Description": "Cada vez que uses un <b>Comando Crítico</b>, haz 40 de daño al ICE."
+        },
+        {
+            "DriverName": "DRIVER DE INSUMOS",
+            "ImagePath": "Green U.png",
+            "Code": "ID20_DRIVER",
+            "Description": "Al principio de cada combate, gana 3 de <b>Acumulación</b>."
+        },
+        {
+            "DriverName": "DRIVER CLEPSAMIA",
+            "ImagePath": "Yellow U.png",
+            "Code": "ID21_DRIVER",
+            "Description": "Al final de tu turno, si tienes <b>Clock</b> sin gastar, gana 1 de <b>Amplificación</b>."
+        },
+        {
+            "DriverName": "DRIVER PALANCA",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID100_DRIVER",
+            "Description": "Las Puertas Pesadas cuestan 1 menos de <b>Rastro</b> para abrirse."
+        },
+        {
+            "DriverName": "DRIVER CANDADO",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID101_DRIVER",
+            "Description": "Cada 4ta <b>Puerta</b> que abras, gana 1 <b>Hashkey</b>. (0/4)"
+        },
+        {
+            "DriverName": "ID102",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID102_DRIVER",
+            "Description": "Cada 4to Nodo que <b>Extraigas</b>, desbloquea una <b>Puerta</b> al azar en el Cluster en el que estés. (0/4)"
+        },
+        {
+            "DriverName": "DRIVER DE PRECIO",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID103_DRIVER",
+            "Description": "Disminuye el precio en <b>Intel</b> de las <b>Hashkeys</b> en un 50%."
+        },
+        {
+            "DriverName": "ID104",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID104_DRIVER",
+            "Description": "Cada vez que desactives un <b>Vigía</b>, gana 1 <b>Hashkey</b> y 80 de <b>Intel</b>."
+        },
+        {
+            "DriverName": "ID105",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID105_DRIVER",
+            "Description": "Cada 7mo <b>Nodo</b> que uses, desactiva el <b>Vigía</b> del Clúster en el que esté. (0/7)"
+        },
+        {
+            "DriverName": "ID106",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID106_DRIVER",
+            "Description": "Cada vez que <b>Reestructures<b> un Nodo, gana 80 de <b>Intel</b>."
+        },
+        {
+            "DriverName": "DRIVER PANÓPTICO",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID107_DRIVER",
+            "Description": "Mientras el Nivel de Rastro sea igual o mayor que 5, antes de empezar cada combate, reduce el <b>Rastro</b> por 1."
+        },
+        {
+            "DriverName": "ID108",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID108_DRIVER",
+            "Description": "Cada 3er <b>Herramienta</b> que uses, obtén una <b>Herramienta Básica</b> al azar. (0/3)"
+        },
+        {
+            "DriverName": "DRIVER PULSIANA",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID109_DRIVER",
+            "Description": "Cada 5to Nodo que <b>Extraigas</b>, obtén una <b>Herramienta Básica</b> al azar. (0/5)"
+        },
+        {
+            "DriverName": "DRIVER JERINGA",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID110_DRIVER",
+            "Description": "Cada vez que <b>Extraigas</b> un Nodo, restaura 15 de <b>Integridad</b>."
+        },
+        {
+            "DriverName": "DRIVER DE HERRAMIENTAS",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID111_DRIVER",
+            "Description": "Cada vez que uses una <b>Habilidad</b>, obtén una <b>Herramienta Básica</b> al azar."
+        },
+        {
+            "DriverName": "DRIVER ENFRIADOR",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID112_DRIVER",
+            "Description": "Cada 5to <b>Centinela</b> que venzas o desactives, refresca tus <b>Habilidades</b>. (0/5)"
+        },
+        {
+            "DriverName": "DRIVER INFRARROJO",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID113_DRIVER",
+            "Description": "Cada vez que suba el <b>Nivel de Alarma</b>, revela 2 Clústers al azar."
+        },
+        {
+            "DriverName": "DRIVER DE SIGILO",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID114_DRIVER",
+            "Description": "Mientras el <b>Nivel de Rastro</b> esté en 0, puedes atravesar Centinelas sin tener que desactivarlos."
+        },
+        {
+            "DriverName": "DRIVER DE ACCESO",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID115_DRIVER",
+            "Description": "Las <b>Puertas</b> ya no se cerrarán cuando suba el Nivel de Alarma."
+        },
+        {
+            "DriverName": "DRIVER DE SEGURIDAD",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID116_DRIVER",
+            "Description": "Ya no aparecerán nuevos <b>Centinelas</b cuando suba el Nivel de Alarma."
+        },
+        {
+            "DriverName": "DRIVER MINERO",
+            "ImagePath": "Shop Placeholder.png",
+            "Code": "ID117_DRIVER",
+            "Description": "Mientras tengas al menos  de <b>Intel</b>, aumenta la Intel ganada al <b>Extraer</b> cualquier Nodo en un 30% ."
+        },
+        {
+            "DriverName": "DRIVER DE TORMENTA",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID38_DRIVER",
+            "Description": "Al final de tu turno, haz 3 de daño a todos los enemigos por cada punto de <b>VIM</b> que tengas. (0 de daño)"
+        },
+        {
+            "DriverName": "DRIVER DE ECLIPSE",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID39_DRIVER",
+            "Description": "Tu <b>Fiereza</b> no decaerá al final de cada ronda."
+        },
+        {
+            "DriverName": "DRIVER DE VANGUARDIA",
+            "ImagePath": "Boss Placeholder.png",
+            "Code": "ID40_DRIVER",
+            "Description": "Al principio de tu turno, haz 3 de daño a todos los enemigos por cada punto de <b>Firmeza</b> que tengas. (0 de daño)"
+        },
+        {
+            "DriverName": "VELOCITY DRIVER",
+            "ImagePath": "Green R.png",
+            "Code": "ID26_URSA_DRIVER",
+            "Description": "Cada 6ta carta que juegues, gana 1 de <b>Clock</b>. (0/6)"
+        },
+        {
+            "DriverName": "DRIVER AMAPOLA",
+            "ImagePath": "Red R.png",
+            "Code": "ID44_DRIVER",
+            "Description": "La primera vez que juegues un <b>ATAQUE</b> cada turno, gana 1 de <b>Fiereza</b>."
+        },
+        {
+            "DriverName": "DRIVER JACARANDÁ",
+            "ImagePath": "Blue R.png",
+            "Code": "ID45_DRIVER",
+            "Description": "La primera vez que ganes <b>Firmeza</b> cada turno, gana 1 de <b>Firmeza</b>."
+        },
+        {
+            "DriverName": "DRIVER ATÓMICO",
+            "ImagePath": "Yellow R.png",
+            "Code": "ID46_DRIVER",
+            "Description": "Al principio de tu turno, si estás en <b>MAX VIM</b>, roba 2 cartas ."
+        },
+        {
+            "DriverName": "DRIVER GARRA",
+            "ImagePath": "Red R.png",
+            "Code": "ID47_DRIVER",
+            "Description": "Las cartas con <b>\"Cibertajo\"</b> en su nombre hacen 20% más de daño."
+        },
+        {
+            "DriverName": "DRIVER CROMADO",
+            "ImagePath": "Green R.png",
+            "Code": "ID48_DRIVER",
+            "Description": "Al principio de cada combate, mejora 3 cartas al azar con <b>\"Cibertajo\"</b> en su nombre de tu Repo hasta el fin del combate."
+        }
+    ]
+}

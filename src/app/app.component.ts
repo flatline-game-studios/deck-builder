@@ -81,11 +81,13 @@ export class AppComponent {
     public async ngOnInit() {
 
 
-        await Promise.all([this.LoadCards(), this.LoadDrivers(), this.LoadCommands()]);
 
-        this.route.queryParams.subscribe(params => {
+
+
+        this.route.queryParams.subscribe(async (params) => {
             const myParam = params['d'];
-
+            const language: string = params['language'];
+            await Promise.all([this.LoadCards(language), this.LoadDrivers(language), this.LoadCommands(language)]);
             if(!myParam) {
                 this.showCards =  this.GetCards();
                 this.showDrivers = this.drivers.Items;
@@ -162,30 +164,30 @@ export class AppComponent {
         });
     }
 
-    public async LoadCards(): Promise<void> {
+    public async LoadCards(language: string = 'en'): Promise<void> {
         try {
             this.cards = await firstValueFrom(
-                this.http.get<Response<CardData>>('public/assets/output/cards_metadata.json')
+                this.http.get<Response<CardData>>(`public/assets/json/cards_metadata_${language}.json`)
             );
         } catch (err) {
             console.error('HTTP error', err);
         }
     }
 
-    private async LoadDrivers() {
+    private async LoadDrivers(language: string = 'en') {
         try {
             this.drivers = await firstValueFrom(
-                this.http.get<Response<DriverData>>('public/assets/output/drivers_metadata.json')
+                this.http.get<Response<DriverData>>(`public/assets/json/drivers_metadata_${language}.json`)
             );
         } catch (err) {
             console.error('HTTP error', err);
         }
     }
 
-    private async LoadCommands() {
+    private async LoadCommands(language: string = 'en') {
         try {
             this.commands = await firstValueFrom(
-                this.http.get<Response<CommandData>>('public/assets/output/commands_metadata.json')
+                this.http.get<Response<CommandData>>(`public/assets/json/commands_metadata_${language}.json`)
             );
         } catch (err) {
             console.error('HTTP error', err);

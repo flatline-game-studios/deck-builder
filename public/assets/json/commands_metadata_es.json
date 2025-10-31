@@ -1,0 +1,270 @@
+{
+    "Items": [
+        {
+            "CommandName": "CULTIVAR",
+            "Cost": 6,
+            "Description": "Cada vez que juegues una carta este turno, genera 1 <b>VIM</b>.",
+            "Tier": "Minor",
+            "Code": "AUGMENTED"
+        },
+        {
+            "CommandName": "CLONAR",
+            "Cost": 10,
+            "Description": "Elige una carta <b>no Protocolo</b> de tu mano. El próximo turno, crea una copia en tu mano.",
+            "Tier": "Major",
+            "Code": "CloneCommand_NotImplemented"
+        },
+        {
+            "CommandName": "PROVOCAR",
+            "Cost": 6,
+            "Description": "Gana 2 de <b>Firmeza</b>.",
+            "Tier": "Minor",
+            "Code": "DareCommand"
+        },
+        {
+            "CommandName": "CONSTRUIR",
+            "Cost": 5,
+            "Description": "Crea 1 copia del último <b>Script</b> que jugaste este turno.",
+            "Tier": "Minor",
+            "Code": "CONSTRUCT_COMMAND"
+        },
+        {
+            "CommandName": "CONSTRUIR AUG.",
+            "Cost": 5,
+            "Description": "Crea 2 copias del último <b>Script</b> que jugaste este turno.",
+            "Tier": "Minor",
+            "Code": "CONSTRUCT_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "BUCEAR",
+            "Cost": 16,
+            "Description": "Roba 4 cartas.",
+            "Tier": "Critical",
+            "Code": "DIVE_COMMAND"
+        },
+        {
+            "CommandName": "BUCEAR",
+            "Cost": 16,
+            "Description": "Roba 5 cartas.",
+            "Tier": "Critical",
+            "Code": "DIVE_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "MANTENER",
+            "Cost": 5,
+            "Description": "Elige 1 carta de tu mano para <b>Preservarla</b> este turno.",
+            "Tier": "Minor",
+            "Code": "MANTAIN_COMMAND"
+        },
+        {
+            "CommandName": "MANTENER AUG.",
+            "Cost": 5,
+            "Description": "Elige hasta 2 cartas de tu mano para <b>Preservarlas</b> este turno.",
+            "Tier": "Minor",
+            "Code": "MANTAIN_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "PREPARAR",
+            "Cost": 12,
+            "Description": "Al principio de tu próximo turno, gana 1 de <b>Clock</b>.",
+            "Tier": "Major",
+            "Code": "PREPARE_COMMAND"
+        },
+        {
+            "CommandName": "PREPARAR AUG.",
+            "Cost": 12,
+            "Description": "Al principio de tu próximo turno, gana 2 de <b>Clock</b>.",
+            "Tier": "Major",
+            "Code": "PREPARE_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "ANIMAR",
+            "Cost": 12,
+            "Description": "Prolonga todos tus efectos de <b>Asistir</b> por 1.",
+            "Tier": "Major",
+            "Code": "RALLY_COMMAND"
+        },
+        {
+            "CommandName": "ANIMAR AUG.",
+            "Cost": 12,
+            "Description": "Prolonga todos tus efectos de <b>Asistir</b> por 2.",
+            "Tier": "Major",
+            "Code": "RALLY_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "RECUPERAR",
+            "Cost": 10,
+            "Description": "Devuelve a tu mano la última carta descartada este turno.",
+            "Tier": "Major",
+            "Code": "REBOUND_COMMAND"
+        },
+        {
+            "CommandName": "RECUPERAR AUG.",
+            "Cost": 10,
+            "Description": "Devuelve a tu mano la última carta descartada este turno y roba 1 carta.",
+            "Tier": "Major",
+            "Code": "REBOUND_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "REPLICAR",
+            "Cost": 20,
+            "Description": "Crea 1 copia de cada <b>Script</b> en tu mano.",
+            "Tier": "Critical",
+            "Code": "REPLICATE_COMMAND"
+        },
+        {
+            "CommandName": "REPLICAR AUG.",
+            "Cost": 15,
+            "Description": "Crea 1 copia de cada <b>Script</b> en tu mano.",
+            "Tier": "Critical",
+            "Code": "REPLICATE_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "RECONVERTIR",
+            "Cost": 6,
+            "Description": "Descarta 1 carta al azar y roba 1.",
+            "Tier": "Minor",
+            "Code": "REPURPOSE_COMMAND"
+        },
+        {
+            "CommandName": "RECONVERTIR AUG.",
+            "Cost": 6,
+            "Description": "Descarta 1 carta al azar y roba 2.",
+            "Tier": "Minor",
+            "Code": "REPURPOSE_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "APURAR",
+            "Cost": 15,
+            "Description": "Resuelve 1 de tus efectos de <b>Asistir</b> al azar.",
+            "Tier": "Critical",
+            "Code": "RUSH_COMMAND"
+        },
+        {
+            "CommandName": "APURAR AUG.",
+            "Cost": 15,
+            "Description": "Resuelve 2 de tus efectos de <b>Asistir</b> al azar.",
+            "Tier": "Critical",
+            "Code": "RUSH_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "PLANEAR",
+            "Cost": 10,
+            "Description": "<b>Conserva</b> todos tus <b>Scripts</b> este turno.",
+            "Tier": "Major",
+            "Code": "STRATEGIZE_COMMAND"
+        },
+        {
+            "CommandName": "PLANEAR AUG.",
+            "Cost": 10,
+            "Description": "Crea 1 <b>Script</b> al azar. <b>Conserva</b> todos tus <b>Scripts</b> este turno.",
+            "Tier": "Major",
+            "Code": "STRATEGIZE_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "TOCAR",
+            "Cost": 6,
+            "Description": "Activa 1 de tus efectos de <b>Asistir</b> al azar.",
+            "Tier": "Minor",
+            "Code": "TOUCH_COMMAND"
+        },
+        {
+            "CommandName": "TOCAR AUG.",
+            "Cost": 6,
+            "Description": "Activa 2 de tus efectos de <b>Asistir</b> al azar.",
+            "Tier": "Minor",
+            "Code": "TOUCH_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "TRASCENDER",
+            "Cost": 17,
+            "Description": "Descarta 3 cartas para ganar 2 de <b>Clock</b>.",
+            "Tier": "Critical",
+            "Code": "TRANSCEND_COMMAND"
+        },
+        {
+            "CommandName": "TRASCENDER AUG.",
+            "Cost": 17,
+            "Description": "Descarta 3 cartas para ganar 3 de <b>Clock</b>.",
+            "Tier": "Critical",
+            "Code": "TRANSCEND_COMMAND_AUGMENTED"
+        },
+        {
+            "CommandName": "CAVAR",
+            "Cost": 10,
+            "Description": "Roba 3 cartas y luego descarta 1.",
+            "Tier": "Major",
+            "Code": "DIG"
+        },
+        {
+            "CommandName": "ECO",
+            "Cost": 15,
+            "Description": "El próxima carta <b>no Protocolo</b> que juegues este turno se jugará dos veces.",
+            "Tier": "Critical",
+            "Code": "EchoCommand"
+        },
+        {
+            "CommandName": "ENERGIZAR",
+            "Cost": 18,
+            "Description": "Roba 1 carta y gana 2 de <b>Clock</b>.",
+            "Tier": "Critical",
+            "Code": "Energize"
+        },
+        {
+            "CommandName": "EJECUTAR",
+            "Cost": 17,
+            "Description": "Elige una carta de tu Repositorio y juegala gratis.",
+            "Tier": "Critical",
+            "Code": "ExecuteCommand"
+        },
+        {
+            "CommandName": "CULTIVAR",
+            "Cost": 5,
+            "Description": "Cada vez que juegues una carta este turno, genera 1 <b>VIM</b>.",
+            "Tier": "Minor",
+            "Code": "FarmCommand"
+        },
+        {
+            "CommandName": "OPTIMIZAR",
+            "Cost": 16,
+            "Description": "Descarta una carta de tu mano y reduce su <b>costo de Clock</b> por 1 hasta el fin del combate.",
+            "Tier": "Critical",
+            "Code": "OPTIMIZE"
+        },
+        {
+            "CommandName": "REMEMORAR",
+            "Cost": 12,
+            "Description": "Elige hasta 2 cartas de tu Recicladora y ponlas en tu mano.",
+            "Tier": "Major",
+            "Code": "RecollectCommand"
+        },
+        {
+            "CommandName": "REITERAR",
+            "Cost": 10,
+            "Description": "El próxima carta <b>no Protocolo</b> y no Decompilable que juegues este turno volverá a tu mano.",
+            "Tier": "Major",
+            "Code": "RecurCommand"
+        },
+        {
+            "CommandName": "RUGIR",
+            "Cost": 6,
+            "Description": "Gana 2 de <b>Fiereza</b>.",
+            "Tier": "Minor",
+            "Code": "RoarCommand"
+        },
+        {
+            "CommandName": "EXPLORAR",
+            "Cost": 5,
+            "Description": "Roba 1 carta.",
+            "Tier": "Minor",
+            "Code": "ScoutCommand"
+        },
+        {
+            "CommandName": "TUTELAR",
+            "Cost": 9,
+            "Description": "Elige 1 carta de tu Repositorio y ponla en tu mano.",
+            "Tier": "Major",
+            "Code": "TutorCommand"
+        }
+    ]
+}

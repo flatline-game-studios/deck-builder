@@ -1,0 +1,5550 @@
+{
+    "Items": [
+        {
+            "CardName": "",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "AFTERSHOCK",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "AFTERSHOCK_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "APEX_ARACHNID.jpg",
+            "Code": "APEX_ARACHNID",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "APEX_ARACHNID.jpg",
+            "Code": "APEX_ARACHNID_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CALIBRATE.jpg",
+            "Code": "CALIBRATE",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CALIBRATE.jpg",
+            "Code": "CALIBRATE_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CAPTAIN_COMMANDOGS.jpg",
+            "Code": "CAPTAIN_COMMANDOGS",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CAPTAIN_COMMANDOGS.jpg",
+            "Code": "CAPTAIN_COMMANDOGS_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CODECRUNCH.jpg",
+            "Code": "CODECRUNCH",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CODECRUNCH.jpg",
+            "Code": "CODECRUNCH_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CODESMASH.jpg",
+            "Code": "CODESMASH",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CODESMASH.jpg",
+            "Code": "CODESMASH_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "DEADLY_THREADING.jpg",
+            "Code": "DEADLY_THREADING",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "DEADLY_THREADING.jpg",
+            "Code": "DEADLY_THREADING_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ERRATIC_WEAVING.jpg",
+            "Code": "ERRATIC_WEAVING",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ERRATIC_WEAVING.jpg",
+            "Code": "ERRATIC_WEAVING_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "EXTRAPOLATE.jpg",
+            "Code": "EXTRAPOLATE",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "EXTRAPOLATE.jpg",
+            "Code": "EXTRAPOLATE_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FEEDING_FRENZY.jpg",
+            "Code": "FEEDING_FRENZY",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FEEDING_FRENZY.jpg",
+            "Code": "FEEDING_FRENZY_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FRACTAL_FANG.jpg",
+            "Code": "FRACTAL_FANG",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FRACTAL_FANG.jpg",
+            "Code": "FRACTAL_FANG_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "GLASS_CANNON.jpg",
+            "Code": "GLASS_CANNON",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "GLASS_CANNON.jpg",
+            "Code": "GLASS_CANNON_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "HOTFIX.jpg",
+            "Code": "HOTFIX",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "HOTFIX.jpg",
+            "Code": "HOTFIX_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "JUMPSTART.jpg",
+            "Code": "JUMPSTART",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "JUMPSTART.jpg",
+            "Code": "JUMPSTART_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "LIQUEFACTION.jpg",
+            "Code": "LIQUEFACTION",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "LIQUEFACTION.jpg",
+            "Code": "LIQUEFACTION_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
+            "Code": "MAGGIE_THE_MAGPIE",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
+            "Code": "MAGGIE_THE_MAGPIE_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MOSQUITO_INCOGNITO.jpg",
+            "Code": "MOSQUITO_INCOGNITO",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MOSQUITO_INCOGNITO.jpg",
+            "Code": "MOSQUITO_INCOGNITO_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "NEUROTOXIC_HARPOON.jpg",
+            "Code": "NEUROTOXIC_HARPOON",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "NEUROTOXIC_HARPOON.jpg",
+            "Code": "NEUROTOXIC_HARPOON_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "DISPOSABLE_UNITS.jpg",
+            "Code": "NITRO_DAGGER",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "DISPOSABLE_UNITS.jpg",
+            "Code": "NITRO_DAGGER_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "OVERHAUL.jpg",
+            "Code": "OVERHAUL",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "OVERHAUL.jpg",
+            "Code": "OVERHAUL_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "OX_HOAX.jpg",
+            "Code": "OX_HOAX",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "OX_HOAX.jpg",
+            "Code": "OX_HOAX_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PINATA_BOMB.jpg",
+            "Code": "PINATA_BOMB",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PINATA_BOMB.jpg",
+            "Code": "PINATA_BOMB_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "RAVENOUS_SCREECH.jpg",
+            "Code": "RAVENOUS_SCREECH",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "RAVENOUS_SCREECH.jpg",
+            "Code": "RAVENOUS_SCREECH_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "READJUST.jpg",
+            "Code": "READJUST",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "READJUST.jpg",
+            "Code": "READJUST_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SINGULARITY.jpg",
+            "Code": "SINGULARITY",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SINGULARITY.jpg",
+            "Code": "SINGULARITY_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SKITTERING_STRIKE.jpg",
+            "Code": "SKITTERING_STRIKE",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SKITTERING_STRIKE.jpg",
+            "Code": "SKITTERING_STRIKE_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MUTATE.jpg",
+            "Code": "SPAWN_SPIDERLINGS",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MUTATE.jpg",
+            "Code": "SPAWN_SPIDERLINGS_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SPAWNER.jpg",
+            "Code": "SPAWNER",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SPAWNER.jpg",
+            "Code": "SPAWNER_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SPIDER_KING.jpg",
+            "Code": "SPIDER_KING",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SPIDER_KING.jpg",
+            "Code": "SPIDER_KING_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "TECHNO_BADGER.jpg",
+            "Code": "TECHNO_BADGER",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "TECHNO_BADGER.jpg",
+            "Code": "TECHNO_BADGER_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "TEMP_AFTERSHOCK",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "AFTERSHOCK.jpg",
+            "Code": "TEMP_AFTERSHOCK_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THREEDRA.jpg",
+            "Code": "THREEDRA",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THREEDRA.jpg",
+            "Code": "THREEDRA_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "VENOM_STRIKE.jpg",
+            "Code": "VENOM_STRIKE",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "VENOM_STRIKE.jpg",
+            "Code": "VENOM_STRIKE_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ZIP_GUN.jpg",
+            "Code": "ZIP_GUN",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ZIP_GUN.jpg",
+            "Code": "ZIP_GUN_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ZOMBIE_HOPLITE.jpg",
+            "Code": "ZOMBIE_HOPLITE",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ZOMBIE_HOPLITE.jpg",
+            "Code": "ZOMBIE_HOPLITE_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "AFTERIMAGE.jpg",
+            "Code": "AFTERIMAGE",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "AFTERIMAGE.jpg",
+            "Code": "AFTERIMAGE_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "BARRY_CADE.jpg",
+            "Code": "BARRY_CADE",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "BARRY_CADE.jpg",
+            "Code": "BARRY_CADE_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "BIG_PAPPA.jpg",
+            "Code": "BIG_PAPPA",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "BIG_PAPPA.jpg",
+            "Code": "BIG_PAPPA_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ECHO_CHAMBER.jpg",
+            "Code": "ECHO_CHAMBER",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ECHO_CHAMBER.jpg",
+            "Code": "ECHO_CHAMBER_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FORCEFIELD.jpg",
+            "Code": "FORCEFIELD",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FORCEFIELD.jpg",
+            "Code": "FORCEFIELD_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "HOLY_TOASTER.jpg",
+            "Code": "HOLY_TOASTER",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "HOLY_TOASTER.jpg",
+            "Code": "HOLY_TOASTER_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "LOOSE_GEARS.jpg",
+            "Code": "LOOSE_GEARS",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "LOOSE_GEARS.jpg",
+            "Code": "LOOSE_GEARS_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MOLT.jpg",
+            "Code": "MOLT",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MOLT.jpg",
+            "Code": "MOLT_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MUMMIFY.jpg",
+            "Code": "MUMMIFY",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MUMMIFY.jpg",
+            "Code": "MUMMIFY_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PAPER_CRANE.jpg",
+            "Code": "PAPER_CRANE",
+            "Descriptions": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PAPER_CRANE.jpg",
+            "Code": "PAPER_CRANE_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PATCHWORK.jpg",
+            "Code": "PATCHWORK",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PATCHWORK.jpg",
+            "Code": "PATCHWORK_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "QUICK_THREADING.jpg",
+            "Code": "QUICK_THREADING",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "QUICK_THREADING.jpg",
+            "Code": "QUICK_THREADING_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "REWIRE.jpg",
+            "Code": "REWIRE",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "REWIRE.jpg",
+            "Code": "REWIRE_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SCRAP_FIELD.jpg",
+            "Code": "SCRAP_FIELD",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SCRAP_FIELD.jpg",
+            "Code": "SCRAP_FIELD_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SILK_SHELL.jpg",
+            "Code": "SILK_SHELL",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SILK_SHELL.jpg",
+            "Code": "SILK_SHELL_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SILKEN_RETREAT.jpg",
+            "Code": "SILKEN_RETREAT",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SILKEN_RETREAT.jpg",
+            "Code": "SILKEN_RETREAT_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SUNSCREEN_SAVER.jpg",
+            "Code": "SUNSCREEN_SAVER",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SUNSCREEN_SAVER.jpg",
+            "Code": "SUNSCREEN_SAVER_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "TITANIUM_WEB.jpg",
+            "Code": "TITANIUM_WEB",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "TITANIUM_WEB.jpg",
+            "Code": "TITANIUM_WEB_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "TURBO_KETTLE.jpg",
+            "Code": "TURBO_KETTLE",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "TURBO_KETTLE.jpg",
+            "Code": "TURBO_KETTLE_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "UNSTABLE_SHELTER.jpg",
+            "Code": "UNSTABLE_SHELTER",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "UNSTABLE_SHELTER.jpg",
+            "Code": "UNSTABLE_SHELTER_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "WAX_WINGS.jpg",
+            "Code": "WAX_WINGS",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 4,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "WAX_WINGS.jpg",
+            "Code": "WAX_WINGS_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "AIR_SUPERIORITY.jpg",
+            "Code": "3_STEPS_AHEAD",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "AIR_SUPERIORITY.jpg",
+            "Code": "3_STEPS_AHEAD_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CODE_REFACTOR.jpg",
+            "Code": "CODE_REFACTOR",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CODE_REFACTOR.jpg",
+            "Code": "CODE_REFACTOR_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CREEP.jpg",
+            "Code": "CREEP",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CREEP.jpg",
+            "Code": "CREEP_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ENLIGHTEN.jpg",
+            "Code": "ENLIGHTEN",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ENLIGHTEN.jpg",
+            "Code": "ENLIGHTEN_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "EVOLUTION_THEORY.jpg",
+            "Code": "EVOLUTION_THEORY",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "EVOLUTION_THEORY.jpg",
+            "Code": "EVOLUTION_THEORY_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FORTUNE_COOKIE.jpg",
+            "Code": "FORTUNE_COOKIE",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FORTUNE_COOKIE.jpg",
+            "Code": "FORTUNE_COOKIE_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ITSY_BITSY.jpg",
+            "Code": "ITSY_BITSY",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ITSY_BITSY.jpg",
+            "Code": "ITSY_BITSY_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "KINETIC_MEMORY.jpg",
+            "Code": "KINETIC_MEMORY",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "KINETIC_MEMORY.jpg",
+            "Code": "KINETIC_MEMORY_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "LAST_CALL.jpg",
+            "Code": "LAST_CALL",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "LAST_CALL.jpg",
+            "Code": "LAST_CALL_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "NITRO_EEL.jpg",
+            "Code": "NITRO_EEL",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "NITRO_EEL.jpg",
+            "Code": "NITRO_EEL_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PEAK_PERFORMANCE.jpg",
+            "Code": "PEAK_PERFORMANCE",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PEAK_PERFORMANCE.jpg",
+            "Code": "PEAK_PERFORMANCE_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SCOUTING_SCUTTLE.jpg",
+            "Code": "SCOUTING_SCUTTLE",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SCOUTING_SCUTTLE.jpg",
+            "Code": "SCOUTING_SCUTTLE_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "KARAGUCHI_MENU.jpg",
+            "Code": "SCRIBE_TERMINAL",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "KARAGUCHI_MENU.jpg",
+            "Code": "SCRIBE_TERMINAL_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SELF_GENERATING_CODE.jpg",
+            "Code": "SELF_GENERATING_CODE",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SELF_GENERATING_CODE.jpg",
+            "Code": "SELF_GENERATING_CODE_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SMALL_PAPPA.jpg",
+            "Code": "SMALL_PAPPA",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SMALL_PAPPA.jpg",
+            "Code": "SMALL_PAPPA_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SUDDEN_SPIN.jpg",
+            "Code": "SUDDEN_SPIN",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SUDDEN_SPIN.jpg",
+            "Code": "SUDDEN_SPIN_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SURVIVAL_OF_THE_FITTEST.jpg",
+            "Code": "SURVIVAL_OF_THE_FITTEST",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SURVIVAL_OF_THE_FITTEST.jpg",
+            "Code": "SURVIVAL_OF_THE_FITTEST_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "TEMPER_CODE.jpg",
+            "Code": "TEMPER_CODE",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "TEMPER_CODE.jpg",
+            "Code": "TEMPER_CODE_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THUNDERFLY.jpg",
+            "Code": "THUNDERFLY",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THUNDERFLY.jpg",
+            "Code": "THUNDERFLY_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ADAPTATION_PROTOCOL.jpg",
+            "Code": "ADAPTATION_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "BOOST_PROTOCOL.jpg",
+            "Code": "BOOST_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "DIGEST_PROTOCOL.jpg",
+            "Code": "DIGEST_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "EXPIRATION_PROTOCOL.jpg",
+            "Code": "EXPIRATION_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "HATCH_PROTOCOL.jpg",
+            "Code": "HATCH_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "JUNK_PROTOCOL.jpg",
+            "Code": "JUNK_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "LOOP_PROTOCOL.jpg",
+            "Code": "LOOP_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PATCH_PROTOCOL.jpg",
+            "Code": "PATCH_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "BITE_SCRIPT.jpg",
+            "Code": "BITE",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "COCOON_SCRIPT.jpg",
+            "Code": "COCOON",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "WEAVE_SCRIPT.jpg",
+            "Code": "WEAVE",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CORRUPTED_DATA.jpg",
+            "Code": "CORRUPTED_DATA",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#515151FF",
+            "Clock": 9,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FRAGMENTED_DATA.jpg",
+            "Code": "FRAGMENTED_DATA",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#515151FF",
+            "Clock": 9,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "INFECTED_DATA.jpg",
+            "Code": "INFECTED_DATA",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#515151FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "JUDICATORS_GAZE.jpg",
+            "Code": "JUDICATORS_GAZE",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#515151FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PIERCE_CORE.jpg",
+            "Code": "PIERCE_CORE",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#FFFFFFFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "THANKS_GUYS",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "THANKS_GUYS_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#FFFFFFFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ALPHA_CODESLASH.jpg",
+            "Code": "ALPHA_CODESLASH",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ALPHA_CODESLASH.jpg",
+            "Code": "ALPHA_CODESLASH_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "AMPED_CODESLASH.jpg",
+            "Code": "AMPED_CODESLASH",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                "",
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "AMPED_CODESLASH.jpg",
+            "Code": "AMPED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                "",
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "BECOME_THE_BEAST.jpg",
+            "Code": "BECOME_THE_BEAST",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "BECOME_THE_BEAST.jpg",
+            "Code": "BECOME_THE_BEAST_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "BRUTAL_MAULING.jpg",
+            "Code": "BRUTAL_MAULING",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "BRUTAL_MAULING.jpg",
+            "Code": "BRUTAL_MAULING_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CHARGED_CODESLASH.jpg",
+            "Code": "CHARGED_CODESLASH",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CHARGED_CODESLASH.jpg",
+            "Code": "CHARGED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 6,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CODESLASH.jpg",
+            "Code": "CODESLASH",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CODESLASH.jpg",
+            "Code": "CODESLASH_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CONSOLE_PRODIGY.jpg",
+            "Code": "CONSOLE_PRODIGY",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CONSOLE_PRODIGY.jpg",
+            "Code": "CONSOLE_PRODIGY_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CRIMSON_ASSAULT.jpg",
+            "Code": "CRIMSON_ASSAULT",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CRIMSON_ASSAULT.jpg",
+            "Code": "CRIMSON_ASSAULT_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "DATA_DRAIN.jpg",
+            "Code": "DATA_DRAIN",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "DATA_DRAIN.jpg",
+            "Code": "DATA_DRAIN_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "EPHEMERAL_EDGE.jpg",
+            "Code": "EPHEMERAL_EDGE",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "EPHEMERAL_EDGE.jpg",
+            "Code": "EPHEMERAL_EDGE_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FANG_STRIKE.jpg",
+            "Code": "FANG_STRIKE",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FANG_STRIKE.jpg",
+            "Code": "FANG_STRIKE_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FRAGMENTED_CODESLASH.jpg",
+            "Code": "FRAGMENTED_CODESLASH",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FRAGMENTED_CODESLASH.jpg",
+            "Code": "FRAGMENTED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "HOPLITE.jpg",
+            "Code": "HOPLITE",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "HOPLITE.jpg",
+            "Code": "HOPLITE_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MEMORY_DAGGER.jpg",
+            "Code": "MEM_DAGGER",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MEMORY_DAGGER.jpg",
+            "Code": "MEM_DAGGER_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MEMORY_LEAP.jpg",
+            "Code": "MEM_LEAP",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MEMORY_LEAP.jpg",
+            "Code": "MEM_LEAP_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MEM_SABER.jpg",
+            "Code": "MEM_SABER",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                "",
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MEM_SABER.jpg",
+            "Code": "MEM_SABER_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                "",
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MEMORY_SCYTHE.jpg",
+            "Code": "MEM_SCYTHE",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MEMORY_SCYTHE.jpg",
+            "Code": "MEM_SCYTHE_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "OVERKILL.jpg",
+            "Code": "OVERKILL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                "",
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "OVERKILL.jpg",
+            "Code": "OVERKILL_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                "",
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PACK_HUNT.jpg",
+            "Code": "PACK_HUNT",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PACK_HUNT.jpg",
+            "Code": "PACK_HUNT_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PRIMAL_HOWL.jpg",
+            "Code": "PRIMAL_HOWL",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 9,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PRIMAL_HOWL.jpg",
+            "Code": "PRIMAL_HOWL_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 9,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "RECURSIVE_NIGHTMARE.jpg",
+            "Code": "RECURSIVE_NIGHTMARE",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "RECURSIVE_NIGHTMARE.jpg",
+            "Code": "RECURSIVE_NIGHTMARE_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "RENDING_CODESLASH.jpg",
+            "Code": "RENDING_CODESLASH",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "RENDING_CODESLASH.jpg",
+            "Code": "RENDING_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SUN_BURST_X.jpg",
+            "Code": "SUN_BURST_X",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SUN_BURST_X.jpg",
+            "Code": "SUN_BURST_X_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THE_CYPHERS_GAMBIT.jpg",
+            "Code": "THE_CYPHERS_GAMBIT",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THE_CYPHERS_GAMBIT.jpg",
+            "Code": "THE_CYPHERS_GAMBIT_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THE_GUILDS_HEIST.jpg",
+            "Code": "THE_GUILDS_HEIST",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THE_GUILDS_HEIST.jpg",
+            "Code": "THE_GUILDS_HEIST_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THE_MAKERS_TOUCH.jpg",
+            "Code": "THE_MAKERS_TOUCH",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THE_MAKERS_TOUCH.jpg",
+            "Code": "THE_MAKERS_TOUCH_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THE_PUNKS_GIFT.jpg",
+            "Code": "THE_PUNKS_GIFT",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THE_PUNKS_GIFT.jpg",
+            "Code": "THE_PUNKS_GIFT_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THE_STRAY_AMBUSH.jpg",
+            "Code": "THE_STRAYS_AMBUSH",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THE_STRAY_AMBUSH.jpg",
+            "Code": "THE_STRAYS_AMBUSH_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "TOP_OF_THE_FOOD_CHAIN.jpg",
+            "Code": "TOP_OF_THE_FOOD_CHAIN",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "TOP_OF_THE_FOOD_CHAIN.jpg",
+            "Code": "TOP_OF_THE_FOOD_CHAIN_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ULYSSES_TOY.jpg",
+            "Code": "ULYSSES_TOY",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ULYSSES_TOY.jpg",
+            "Code": "ULYSSES_TOY_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "VOID_CODESLASH.jpg",
+            "Code": "VOID_CODESLASH",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "VOID_CODESLASH.jpg",
+            "Code": "VOID_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "WARDLORD_KISS.jpg",
+            "Code": "WARDLORD_KISS",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "WARDLORD_KISS.jpg",
+            "Code": "WARDLORD_KISS_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ADONIS_AD_BLOCKER.jpg",
+            "Code": "ADONIS_AD_BLOCKER",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ADONIS_AD_BLOCKER.jpg",
+            "Code": "ADONIS_AD_BLOCKER_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "AMPED_CYBERSHELL.jpg",
+            "Code": "AMPED_CYBERSHELL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                "",
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "AMPED_CYBERSHELL.jpg",
+            "Code": "AMPED_CYBERSHELL_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "ANIMAL_INSTINCT",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "ANIMAL_INSTINCT_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "BEND_REALITY.jpg",
+            "Code": "BEND_REALITY",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "BEND_REALITY.jpg",
+            "Code": "BEND_REALITY_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "COLD_STARE.jpg",
+            "Code": "COLD_STARE",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "COLD_STARE.jpg",
+            "Code": "COLD_STARE_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CONSOLE_BACKUP.jpg",
+            "Code": "CONSOLE_BACKUP",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CONSOLE_BACKUP.jpg",
+            "Code": "CONSOLE_BACKUP_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CYBERHIDE.jpg",
+            "Code": "CYBERHIDE",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CYBERHIDE.jpg",
+            "Code": "CYBERHIDE_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CYBERSHELL.jpg",
+            "Code": "CYBERSHELL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CYBERSHELL.jpg",
+            "Code": "CYBERSHELL_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ENERGY_COAT.jpg",
+            "Code": "ENERGY_COAT",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "ENERGY_COAT.jpg",
+            "Code": "ENERGY_COAT_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "EPHEMERAL_WALL.jpg",
+            "Code": "EPHEMERAL_WALL",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "EPHEMERAL_WALL.jpg",
+            "Code": "EPHEMERAL_WALL_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 6,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
+            "Code": "FRAGMENTED_BLOCKADE",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
+            "Code": "FRAGMENTED_BLOCKADE_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "INPUT_ASSISTANT.jpg",
+            "Code": "INPUT_ASSISTANT",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "INPUT_ASSISTANT.jpg",
+            "Code": "INPUT_ASSISTANT_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "KENNEL_LAW.jpg",
+            "Code": "KENNEL_LAW",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "KENNEL_LAW.jpg",
+            "Code": "KENNEL_LAW_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MEMORY_CLOAK.jpg",
+            "Code": "MEM_CLOAK",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MEMORY_CLOAK.jpg",
+            "Code": "MEM_CLOAK_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "OWN_THE_STREETS.jpg",
+            "Code": "OWN_THE_STREETS",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "OWN_THE_STREETS.jpg",
+            "Code": "OWN_THE_STREETS_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PET_Z_BOT.jpg",
+            "Code": "PET_Z_BOT",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PET_Z_BOT.jpg",
+            "Code": "PET_Z_BOT_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "POWER_ARMOR.jpg",
+            "Code": "POWER_ARMOR",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "POWER_ARMOR.jpg",
+            "Code": "POWER_ARMOR_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "STREET_RESOLVE.jpg",
+            "Code": "STREET_RESOLVE",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "STREET_RESOLVE.jpg",
+            "Code": "STREET_RESOLVE_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SYRINX_BLESSING.jpg",
+            "Code": "SYRINX_BLESSING",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SYRINX_BLESSING.jpg",
+            "Code": "SYRINX_BLESSING_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THE_STRAYS_GUILE.jpg",
+            "Code": "THE_STRAYS_GUILE",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THE_STRAYS_GUILE.jpg",
+            "Code": "THE_STRAYS_GUILE_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THE_WOLVES_DEN.jpg",
+            "Code": "THE_WOLVES_DEN",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THE_WOLVES_DEN.jpg",
+            "Code": "THE_WOLVES_DEN_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THUNDER_Z_BOT.jpg",
+            "Code": "THUNDER_Z_BOT",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "THUNDER_Z_BOT.jpg",
+            "Code": "THUNDER_Z_BOT_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CODESLASH.jpg",
+            "Code": "DEMO_CARD",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "Baribal_angry.jpg",
+            "Code": "DEV_CARD_2",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "BATTLE_OPTIMIZER.jpg",
+            "Code": "BATTLE_OPTIMIZER",
+            "Descriptions": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 5,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "BATTLE_OPTIMIZER.jpg",
+            "Code": "BATTLE_OPTIMIZER_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 5,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "BURNER.jpg",
+            "Code": "BURNER",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "BURNER.jpg",
+            "Code": "BURNER_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CAT_ALYST.jpg",
+            "Code": "CAT_ALYST",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CAT_ALYST.jpg",
+            "Code": "CAT_ALYST_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CONSOLE_REBOOTER.jpg",
+            "Code": "CONSOLE_REBOOTER",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 8,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CONSOLE_REBOOTER.jpg",
+            "Code": "CONSOLE_REBOOTER_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 10,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CRANIUM_RUSH.jpg",
+            "Code": "CRANIUM_RUSH",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                "",
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CRANIUM_RUSH.jpg",
+            "Code": "CRANIUM_RUSH_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                "",
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "FUN_GUYS",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "FUN_GUYS.jpg",
+            "Code": "FUN_GUYS_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MAGIC_FINGERS.jpg",
+            "Code": "MAGIC_FINGERS",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MAGIC_FINGERS.jpg",
+            "Code": "MAGIC_FINGERS_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MEMORY_BEACON.jpg",
+            "Code": "MEM_BEACON",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                "",
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MEMORY_BEACON.jpg",
+            "Code": "MEM_BEACON_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                "",
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MOONLIGHT.jpg",
+            "Code": "MOONLIGHT",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MOONLIGHT.jpg",
+            "Code": "MOONLIGHT_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "PREY_DRIVE",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PREY_DRIVE.jpg",
+            "Code": "PREY_DRIVE_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "RAM_DOWNLOADER.jpg",
+            "Code": "RAM_DOWNLOADER",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "RAM_DOWNLOADER.jpg",
+            "Code": "RAM_DOWNLOADER_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "RECURSIVE_DREAM.jpg",
+            "Code": "RECURSIVE_DREAM",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "RECURSIVE_DREAM.jpg",
+            "Code": "RECURSIVE_DREAM_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 6,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SCHAFER_BLOOD_SAMPLE.jpg",
+            "Code": "SCHAFER_BLOOD_SAMPLE",
+            "Descriptions": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "SCHAFER_BLOOD_SAMPLE.jpg",
+            "Code": "SCHAFER_BLOOD_SAMPLE_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "UNRESTRAINED_GROWTH.jpg",
+            "Code": "UNRESTRAINED_GROWTH",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 5,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "UNRESTRAINED_GROWTH.jpg",
+            "Code": "UNRESTRAINED_GROWTH_UPGRADED",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 5,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "UNSTABLE_CHARGE.jpg",
+            "Code": "UNSTABLE_CHARGE",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "UNSTABLE_CHARGE.jpg",
+            "Code": "UNSTABLE_CHARGE_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                "",
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": true
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CORNUCOPIA_PROTOCOL.jpg",
+            "Code": "CORNUCOPIA_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CUNNING_PROTOCOL.jpg",
+            "Code": "CUNNING_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "GREED_PROTOCOL.jpg",
+            "Code": "GREED_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "IGNITION_PROTOCOL.jpg",
+            "Code": "IGNITION_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MOMENTUM_PROTOCOL.jpg",
+            "Code": "MOMENTUM_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MOON_PROTOCOL.jpg",
+            "Code": "MOON_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 3,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "NIRVANA_PROTOCOL.jpg",
+            "Code": "NIRVANA_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "OVERFLOW_PROTOCOL.jpg",
+            "Code": "OVERFLOW_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PINGU_PROTOCOL.jpg",
+            "Code": "PING_U_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "QUANTUM_PROTOCOL.jpg",
+            "Code": "QUANTUM_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "RECON_PROTOCOL.jpg",
+            "Code": "RECON_PROTOCOL",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#981BD3FF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "NULL",
+            "ImagePath": ".jpg",
+            "Code": "DECOMPILE_TEST",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "NULL",
+            "ImagePath": ".jpg",
+            "Code": "FACTORY_TEST",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "NULL",
+            "ImagePath": "AMPED_CODESLASH.jpg",
+            "Code": "HACK_TEST",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 0,
+            "IsUpgrade": false
+        }
+    ]
+}
