@@ -1,5 +1,10 @@
 <!-- src/app/card/card.component.html -->
-<div id="{{card.Code}}" (click)="saveAsImage()" class="itg-card" [style.--itg-accent]="card.Color || '#ff0000'" [style.--itg-card-name]="getColor() || '#ffffff'">
+<div id="{{card.Code}}" (mouseenter)="show(true)" (mouseleave)="show(false)" class="itg-card" [style.--itg-accent]="card.Color || '#ff0000'" [style.--itg-card-name]="getColor() || '#ffffff'">
+
+    <div class="download-button no-capture" *ngIf="showDowload" title="Download Card as Image"  (click)="saveAsImage()">
+        DOWNLOAD
+    </div>
+
 
     <div class="itg-card-border">
         <div class="itg-card-image"

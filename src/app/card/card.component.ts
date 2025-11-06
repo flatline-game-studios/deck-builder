@@ -23,6 +23,8 @@ export class CardComponent {
     public sanitizedDescriptions: SafeHtml[] = [];
     public sanitizedConditional: SafeHtml = '';
     public sanitizedConditionalDescriptions: SafeHtml[] = [];
+    private processing: boolean = false;
+    showDowload: any;
     public constructor(private sanitizer: DomSanitizer) {}
 
     public ngOnChanges(changes: SimpleChanges) {
@@ -52,16 +54,19 @@ export class CardComponent {
     }
 
     saveAsImage() {
-        // console.log('Saving card as image:', this.card.Code);
-        // const element = document.getElementById(this.card.Code);
-        // if (!element) return;
-        // console.log('Element found:', element);
-        // html2canvas(element, { backgroundColor: null, scale: 1 }).then(canvas => {
-        //     const link = document.createElement('a');
-        //     link.download = 'mi_captura.png';
-        //     link.href = canvas.toDataURL('image/png');
-        //     link.click();
-        // });
+        if(this.processing) return;
+        this.processing = true;
+        const element = document.getElementById(this.card.Code);
+        if (!element) return;
+
+
+        html2canvas(element, { backgroundColor: null, scale: 1.5, ignoreElements: (el) => el.classList?.contains('no-capture') ?? false, }).then(canvas => {
+            const link = document.createElement('a');
+            link.download = `${this.card.Code.toLowerCase()}.png`;
+            link.href = canvas.toDataURL('image/png');
+            link.click();
+            this.processing = false;
+        });
     }
 
     getColor(): string {
@@ -71,5 +76,9 @@ export class CardComponent {
          }else {
                 return '#FFFFFF'
          }
+    }
+
+    show(b: boolean) {
+        this.showDowload = b;
     }
 }

@@ -2,6 +2,7 @@
 //@import "/node_modules/bootstrap/scss/bootstrap-grid.scss";
 @import 'bootstrap/dist/css/bootstrap-grid.min.css';
 
+
 @font-face {
   font-family: 'BlenderPro-Medium';
   src: url('assets/fonts/BlenderPro-Medium.ttf') format('truetype');
@@ -36,6 +37,8 @@ body {
     background-repeat: repeat;
     background-position: top left;
     background-size: 20px 20px;
+    margin: 0;
+    padding: 0;
 }
 
 /* WebKit (Chrome, Edge, Safari) */

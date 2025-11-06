@@ -53,10 +53,18 @@ class Item {
     a: number = 0 ;
 }
 
+class Run {
+    totalLayers: number = 0 ;
+    currentLayer: number = 0 ;
+}
+
 class Query<T> {
     i: Array<T> = [] ;
     d: Array<string> = [];
     c: Array<string> = [];
+    m: string = '';
+    s: string = '';
+    r: Run = new Run();
 }
 
 
@@ -67,6 +75,7 @@ class Query<T> {
     styleUrl: './app.component.scss'
 })
 export class AppComponent {
+    query: Query<Item> = { i: [], d: [], c: [], m: '', s: '', r: new Run() };
     searchTerm: string = '';
     cards: Response<CardData> = new Response<CardData>();
     drivers: Response<DriverData> = new Response<DriverData>();
@@ -98,8 +107,9 @@ export class AppComponent {
                                 this.showDrivers = this.drivers.Items;
                                 this.showCommands = this.commands.Items;
                             }
-                            const query = this.decodeFromQuery(d);
-                            this.ParseData(query);
+                            this.query = this.decodeFromQuery(d);
+                            console.log('Decoded query:', this.query);
+                            this.ParseData(this.query);
                         })
                     )
                 )
@@ -213,7 +223,7 @@ export class AppComponent {
 
     public decodeFromQuery(q?: string | null): Query<Item> {
         if (!q) {
-            return { i: [], d: [], c: []  };
+            return { i: [], d: [], c: [] , m: '', s: '', r: new Run()  };
         }
         const decompressed = LZString.decompressFromEncodedURIComponent(q);
         return decompressed ? JSON.parse(decompressed) : null;

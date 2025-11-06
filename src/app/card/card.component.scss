@@ -1,5 +1,23 @@
 /* src/app/card/card.component.scss */
 
+
+.download-button {
+    position: absolute;
+    top: 5px;
+    right: 3px;
+    background-color: black;
+    padding: 8px 8px;
+    border-radius: 0 5px 0px 5px ;
+    //opacity: 0.7;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    &:hover {
+        //box-shadow: 0 0 15px var(--itg-accent, #ff0000);
+        //transform: scale(1.02);
+        cursor: pointer;
+        background-color: var(--itg-accent, #ff0000);
+    }
+}
+
 .itg-card {
     height: 480px;
     width: 300px;
@@ -18,9 +36,9 @@
     backface-visibility: hidden;
 
     &:hover {
-        box-shadow: 0 0 15px var(--itg-accent, #ff0000);
+        //box-shadow: 0 0 15px var(--itg-accent, #ff0000);
         transform: scale(1.02);
-        cursor: pointer;
+        //cursor: pointer;
     }
 }
 

@@ -1,5 +1,30 @@
 
+.itg-navbar {
+    background-color: #ffd400;
+    //padding: 0;
+    //margin: 0;
+    //position: fixed;
+    //width: 100%;
+    //height: 100px;
+    //z-index: 1000;
+    //opacity: 80%;
+    font-family: 'BlenderPro-Bold', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 30px;
+}
 
+.badge {
+    margin-left: 10px;
+    font-family: 'BlenderPro-BoldItalic', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    padding: 5px 5px;
+    background: var(--win-color, #ff0000);;
+    color: white;
+    border-radius: 6px;
+}
+
+.itg-container {
+    padding: 5px;
+}
 
 
 .card-box {
