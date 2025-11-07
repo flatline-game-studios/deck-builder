@@ -24,14 +24,14 @@
         {
             "CommandName": "構築",
             "Cost": 5,
-            "Description": "このターンに最後にプレイした<b>スクリプト</b>のコピーを1枚生成する。",
+            "Description": "Create 1 copy of the last <b>Script</b> you played this turn.  ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND"
         },
         {
             "CommandName": "オーグ・構築",
             "Cost": 5,
-            "Description": "このターンに最後にプレイした<b>スクリプト</b>のコピーを2枚生成する。",
+            "Description": "Create 2 copies of the last <b>Script</b> you played this turn.  ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND_AUGMENTED"
         },
@@ -129,7 +129,7 @@
         {
             "CommandName": "",
             "Cost": 6,
-            "Description": "ランダムに1枚を破棄して2枚を引く。",
+            "Description": "1枚を破棄して1枚を引く。",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND_AUGMENTED"
         },
@@ -233,7 +233,7 @@
         },
         {
             "CommandName": "回収",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "ゴミ箱から最大2枚のカードを選び、手札に加える。",
             "Tier": "Major",
             "Code": "RecollectCommand"

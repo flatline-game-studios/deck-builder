@@ -1,7 +1,7 @@
 {
     "Items": [
         {
-            "CardName": "REPLICA",
+            "CardName": "RÉPLICA",
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK",
             "Descriptions": [
@@ -18,7 +18,7 @@
             "IsUpgrade": false
         },
         {
-            "CardName": "REPLICA",
+            "CardName": "RÉPLICA",
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK_UPGRADED",
             "Descriptions": [
@@ -2797,7 +2797,7 @@
             "Descriptions": [],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "INICIAL",
+            "Rarity": "ESPECIAL",
             "Color": "#515151FF",
             "Clock": 9,
             "Type": "CORRUPTO",
@@ -2825,12 +2825,12 @@
             "ImagePath": "INFECTED_DATA.jpg",
             "Code": "INFECTED_DATA",
             "Descriptions": [
-                "Recibe 10 de daño.",
+                "Recibe 5 de daño.",
                 "<b>DECOMPILAR</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "INICIAL",
+            "Rarity": "ESPECIAL",
             "Color": "#515151FF",
             "Clock": 0,
             "Type": "CORRUPTO",
@@ -3520,10 +3520,12 @@
             "CardName": "FUERZA EXCESIVA",
             "ImagePath": "OVERKILL.jpg",
             "Code": "OVERKILL_UPGRADED",
-            "Descriptions": [],
-            "Conditional": "Si estás en <b>MAX VIM</b>:",
+            "Descriptions": [
+                "Haz 40 de daño."
+            ],
+            "Conditional": "Si estás en <b>MAX VIM</b>, en vez de eso:",
             "ConditionalDescriptions": [
-                "Haz 350 de daño a todos los enemigos.",
+                "Haz 300 de daño a todos los enemigos.",
                 "<b>DECOMPILAR</b>."
             ],
             "Rarity": "ÚNICO",
@@ -3613,7 +3615,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "POCO COMÚN",
+            "Rarity": "RARO",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATAQUE",
@@ -3630,7 +3632,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "POCO COMÚN",
+            "Rarity": "RARO",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATAQUE",
@@ -3763,7 +3765,7 @@
             "ImagePath": "THE_GUILDS_HEIST.jpg",
             "Code": "THE_GUILDS_HEIST_UPGRADED",
             "Descriptions": [
-                "Haz 55 de daño.",
+                "Haz 50 de daño.",
                 "Si impacta: Roba 2 cartas y luego descarta 1."
             ],
             "Conditional": "",
@@ -4809,6 +4811,22 @@
             "IsUpgrade": false
         },
         {
+            "CardName": "ADONIS AD BLOCKER",
+            "ImagePath": "Baribal_angry.jpg",
+            "Code": "DEV_CARD_3",
+            "Descriptions": [
+                "140"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "INICIAL",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSA",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
             "CardName": "OPTIMIZADOR DE BATALLA",
             "ImagePath": "BATTLE_OPTIMIZER.jpg",
             "Code": "BATTLE_OPTIMIZER",
@@ -4890,7 +4908,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "RARO",
+            "Rarity": "POCO COMÚN",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "GENERADOR",
@@ -4907,7 +4925,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "RARO",
+            "Rarity": "POCO COMÚN",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "GENERADOR",

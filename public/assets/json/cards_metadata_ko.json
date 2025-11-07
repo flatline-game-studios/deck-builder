@@ -2797,7 +2797,7 @@
             "Descriptions": [],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "스타터",
+            "Rarity": "스페셜",
             "Color": "#515151FF",
             "Clock": 9,
             "Type": "손상",
@@ -2825,12 +2825,12 @@
             "ImagePath": "INFECTED_DATA.jpg",
             "Code": "INFECTED_DATA",
             "Descriptions": [
-                "10포인트의 피해을 받습니다.",
+                "5포인트의 피해을 받습니다.",
                 "<b>디컴파일</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "스타터",
+            "Rarity": "스페셜",
             "Color": "#515151FF",
             "Clock": 0,
             "Type": "손상",
@@ -3520,10 +3520,12 @@
             "CardName": "과도한 살육",
             "ImagePath": "OVERKILL.jpg",
             "Code": "OVERKILL_UPGRADED",
-            "Descriptions": [],
+            "Descriptions": [
+                "40포인트의 <b>피해</b>를 줍니다."
+            ],
             "Conditional": "만약 <b>최대 VIM</b>을 가지고 있다면, 대신:",
             "ConditionalDescriptions": [
-                "모든 유닛에게 350포인트의 <b>피해</b>를 줍니다.",
+                "모든 유닛에게 300포인트의 <b>피해</b>를 줍니다.",
                 "<b>디컴파일</b>."
             ],
             "Rarity": "유니크",
@@ -3613,7 +3615,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "보통",
+            "Rarity": "레어",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "공격",
@@ -3630,7 +3632,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "보통",
+            "Rarity": "레어",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "공격",
@@ -3763,7 +3765,7 @@
             "ImagePath": "THE_GUILDS_HEIST.jpg",
             "Code": "THE_GUILDS_HEIST_UPGRADED",
             "Descriptions": [
-                "55포인트의 <b>피해</b>를 줍니다.",
+                "50포인트의 <b>피해</b>를 줍니다.",
                 "<b>명중 후:</b> 2장의 카드를 뽑고, 1장의 카드를 버립니다."
             ],
             "Conditional": "",
@@ -4809,6 +4811,22 @@
             "IsUpgrade": false
         },
         {
+            "CardName": "아도니스 광고 차단기",
+            "ImagePath": "Baribal_angry.jpg",
+            "Code": "DEV_CARD_3",
+            "Descriptions": [
+                "140"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "스타터",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "방어",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
             "CardName": "전투 최적화기",
             "ImagePath": "BATTLE_OPTIMIZER.jpg",
             "Code": "BATTLE_OPTIMIZER",
@@ -4890,7 +4908,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "레어",
+            "Rarity": "보통",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "생성기",
@@ -4907,7 +4925,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "레어",
+            "Rarity": "보통",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "생성기",

@@ -2797,7 +2797,7 @@
             "Descriptions": [],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "STARTER",
+            "Rarity": "SPECIAL",
             "Color": "#515151FF",
             "Clock": 9,
             "Type": "CORRUPTED",
@@ -2825,12 +2825,12 @@
             "ImagePath": "INFECTED_DATA.jpg",
             "Code": "INFECTED_DATA",
             "Descriptions": [
-                "Take 10 DMG.",
+                "Take 5 DMG.",
                 "<b>DECOMPILE</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "STARTER",
+            "Rarity": "SPECIAL",
             "Color": "#515151FF",
             "Clock": 0,
             "Type": "CORRUPTED",
@@ -3520,10 +3520,12 @@
             "CardName": "OVERKILL",
             "ImagePath": "OVERKILL.jpg",
             "Code": "OVERKILL_UPGRADED",
-            "Descriptions": [],
-            "Conditional": "If you are at <b>MAX VIM</b>:",
+            "Descriptions": [
+                "Deal 40 <b>DMG</b>."
+            ],
+            "Conditional": "If you are at <b>MAX VIM</b>, instead:",
             "ConditionalDescriptions": [
-                "Deal 350 <b>DMG</b> to all targets.",
+                "Deal 300 <b>DMG</b> to all targets.",
                 "<b>DECOMPILE</b>."
             ],
             "Rarity": "UNIQUE",
@@ -3613,7 +3615,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "UNCOMMON",
+            "Rarity": "RARE",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
@@ -3630,7 +3632,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "UNCOMMON",
+            "Rarity": "RARE",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
@@ -3763,7 +3765,7 @@
             "ImagePath": "THE_GUILDS_HEIST.jpg",
             "Code": "THE_GUILDS_HEIST_UPGRADED",
             "Descriptions": [
-                "Deal 55 <b>DMG</b>.",
+                "Deal 50 <b>DMG</b>.",
                 "<b>On-Hit:</b> Draw 2 cards and then discard 1 card."
             ],
             "Conditional": "",
@@ -4809,6 +4811,22 @@
             "IsUpgrade": false
         },
         {
+            "CardName": "ADONIS AD BLOCKER",
+            "ImagePath": "Baribal_angry.jpg",
+            "Code": "DEV_CARD_3",
+            "Descriptions": [
+                "140"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "STARTER",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "DEFENSE",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
             "CardName": "BATTLE OPTIMIZER",
             "ImagePath": "BATTLE_OPTIMIZER.jpg",
             "Code": "BATTLE_OPTIMIZER",
@@ -4890,7 +4908,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "RARE",
+            "Rarity": "UNCOMMON",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "GENERATOR",
@@ -4907,7 +4925,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "RARE",
+            "Rarity": "UNCOMMON",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "GENERATOR",

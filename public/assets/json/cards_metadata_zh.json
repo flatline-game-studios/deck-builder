@@ -2797,7 +2797,7 @@
             "Descriptions": [],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "初始",
+            "Rarity": "特殊",
             "Color": "#515151FF",
             "Clock": 9,
             "Type": "数据损坏",
@@ -2825,12 +2825,12 @@
             "ImagePath": "INFECTED_DATA.jpg",
             "Code": "INFECTED_DATA",
             "Descriptions": [
-                "承受10点伤害。",
+                "承受5点伤害。",
                 "<b>反编译</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "初始",
+            "Rarity": "特殊",
             "Color": "#515151FF",
             "Clock": 0,
             "Type": "数据损坏",
@@ -3520,10 +3520,12 @@
             "CardName": "过度杀戮",
             "ImagePath": "OVERKILL.jpg",
             "Code": "OVERKILL_UPGRADED",
-            "Descriptions": [],
+            "Descriptions": [
+                "造成40点<b>伤害</b>。"
+            ],
             "Conditional": "如果你处于<b>最大VIM</b>，则改为：",
             "ConditionalDescriptions": [
-                "对所有目标造成350点<b>伤害</b>。",
+                "对所有目标造成300点<b>伤害</b>。",
                 "<b>反编译</b>。"
             ],
             "Rarity": "超凡",
@@ -3613,7 +3615,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "罕见",
+            "Rarity": "稀有",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻击",
@@ -3630,7 +3632,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "罕见",
+            "Rarity": "稀有",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻击",
@@ -3763,7 +3765,7 @@
             "ImagePath": "THE_GUILDS_HEIST.jpg",
             "Code": "THE_GUILDS_HEIST_UPGRADED",
             "Descriptions": [
-                "造成55点<b>伤害</b>。",
+                "造成50点<b>伤害</b>。",
                 "<b>命中后：</b>抽2张牌，然后弃置1张牌。"
             ],
             "Conditional": "",
@@ -4809,6 +4811,22 @@
             "IsUpgrade": false
         },
         {
+            "CardName": "阿多尼斯广告拦截器",
+            "ImagePath": "Baribal_angry.jpg",
+            "Code": "DEV_CARD_3",
+            "Descriptions": [
+                "140"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "初始",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
             "CardName": "战斗优化器",
             "ImagePath": "BATTLE_OPTIMIZER.jpg",
             "Code": "BATTLE_OPTIMIZER",
@@ -4890,7 +4908,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "稀有",
+            "Rarity": "罕见",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "生成器",
@@ -4907,7 +4925,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "稀有",
+            "Rarity": "罕见",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "生成器",

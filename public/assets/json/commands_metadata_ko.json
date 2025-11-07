@@ -24,14 +24,14 @@
         {
             "CommandName": "구축",
             "Cost": 5,
-            "Description": "이번 턴에 마지막으로 사용한 <b>스크립트</b>의 복사본 1장을 생성합니다.",
+            "Description": "Create 1 copy of the last <b>Script</b> you played this turn.  ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND"
         },
         {
             "CommandName": "보강·구축",
             "Cost": 5,
-            "Description": "이번 턴에 마지막으로 사용한 <b>스크립트</b>의 복사본 2장을 생성합니다.",
+            "Description": "Create 2 copies of the last <b>Script</b> you played this turn.  ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND_AUGMENTED"
         },
@@ -129,7 +129,7 @@
         {
             "CommandName": "보강: 재활용",
             "Cost": 6,
-            "Description": "1장의 카드를 무작위으로 버린 후, 2장의 카드를 뽑습니다.",
+            "Description": "1장의 카드를 버린 후, 1장의 카드를 뽑습니다.",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND_AUGMENTED"
         },
@@ -233,7 +233,7 @@
         },
         {
             "CommandName": "회수",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "휴지통에서 최대 2장의 카드를 선택해 핸드에 추가합니다.",
             "Tier": "Major",
             "Code": "RecollectCommand"

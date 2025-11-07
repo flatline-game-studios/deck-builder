@@ -24,14 +24,14 @@
         {
             "CommandName": "CONSTRUCT",
             "Cost": 5,
-            "Description": "Create 1 copy of the last <b>Script</b> you played this turn.",
+            "Description": "Create 1 copy of the last <b>Script</b> you played this turn.  ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND"
         },
         {
             "CommandName": "AUG. CONSTRUCT",
             "Cost": 5,
-            "Description": "Create 2 copies of the last <b>Script</b> you played this turn.",
+            "Description": "Create 2 copies of the last <b>Script</b> you played this turn.  ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND_AUGMENTED"
         },
@@ -129,7 +129,7 @@
         {
             "CommandName": "AUG. REPURPOSE",
             "Cost": 6,
-            "Description": "Discard 1 random card and then draw 2.",
+            "Description": "Discard 1 card and then draw 1.",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND_AUGMENTED"
         },
@@ -233,7 +233,7 @@
         },
         {
             "CommandName": "RECOLLECT",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "Choose up to 2 cards from your Recycler and place them in your hand.",
             "Tier": "Major",
             "Code": "RecollectCommand"

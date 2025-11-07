@@ -214,7 +214,7 @@
             "DriverName": "DRIVER DE AGILIDAD",
             "ImagePath": "Green R.png",
             "Code": "ID26_DARWIN_DRIVER",
-            "Description": "Cada 10ma carta que juegues, gana 1 de <b>Clock</b>. (0/10)"
+            "Description": "Cada 10 cartas que juegues, gana 1 de <b>Clock</b>. (0/10)"
         },
         {
             "DriverName": "DRIVER VÍBORA",
@@ -229,7 +229,7 @@
             "Description": "Cada turno, el primer efecto de <b>Asistir</b> que expire regresa a tu mano."
         },
         {
-            "DriverName": "DRIVER CONMOCIÓN",
+            "DriverName": "DRIVER DE CONMOCIÓN",
             "ImagePath": "Red R.png",
             "Code": "ID50_DRIVER",
             "Description": "Cada vez que uses un <b>Comando Augmentado </b>, haz 20 de daño a todos los enemigos."
@@ -256,13 +256,13 @@
             "DriverName": "DRIVER MISIL",
             "ImagePath": "Boss Placeholder.png",
             "Code": "ID33_DRIVER",
-            "Description": "Reduce el costo de todas las cartas de coste 3 por 1."
+            "Description": "Reduce el costo de todas las cartas de coste 3 en 1."
         },
         {
             "DriverName": "DRIVER DE CRANIUM",
             "ImagePath": "Boss Placeholder.png",
             "Code": "ID34_DRIVER",
-            "Description": "Cada 3er <b>Comando</b> que uses, gana 1 de <b>Clock</b> y roba 1 carta. (0/3)"
+            "Description": "Cada 3 <b>Comandos</b> que uses, gana 1 de <b>Clock</b> y roba 1 carta. (0/3)"
         },
         {
             "DriverName": "DRIVER DE PACIENCIA",
@@ -280,7 +280,7 @@
             "DriverName": "DRIVER DE CORAJE",
             "ImagePath": "Boss Placeholder.png",
             "Code": "ID37_DRIVER",
-            "Description": "En combates de Elite y de Jefes, al principio de tu turno, gana 1 de <b>Clock</b> y genera 2 <b>VIM</b>."
+            "Description": "En combates de Élite y de Guardianes del Núcleo, al principio de tu turno, gana 1 de <b>Clock</b> y genera 4 <b>VIM</b>."
         },
         {
             "DriverName": "DRIVER DE PROMPT",
@@ -295,7 +295,7 @@
             "Description": "Puedes usar <b>Comandos Menores</b> 2 veces por turno."
         },
         {
-            "DriverName": "DRIVER DE ENCHAPADO",
+            "DriverName": "DRIVER ENCHAPADO",
             "ImagePath": "Blue R.png",
             "Code": "ID24_DRIVER",
             "Description": "Cada vez que juegues una <b>DEFENSA</b>, gana 10 de <b>Barrera</b>."
@@ -322,7 +322,7 @@
             "DriverName": "DRIVER DE VAPORES",
             "ImagePath": "Red R.png",
             "Code": "ID29_DRIVER",
-            "Description": "Cada vez que inflijas <b>Exposición</b>, también inflige  de <b>Debilidad</b>."
+            "Description": "Cada vez que inflijas <b>Exposición</b>, inflige también  de <b>Debilidad</b>."
         },
         {
             "DriverName": "DRIVER DOMINÓ",
@@ -346,7 +346,7 @@
             "DriverName": "DRIVER DEL GALLO",
             "ImagePath": "Yellow U.png",
             "Code": "ID2_DRIVER",
-            "Description": "Al principio cada combate, genera 5 <b>VIM</b>."
+            "Description": "Al principio de cada combate, genera 5 <b>VIM</b>."
         },
         {
             "DriverName": "DRIVER DEL CICLÓN",
@@ -364,7 +364,7 @@
             "DriverName": "DRIVER MOLINO",
             "ImagePath": "Green U.png",
             "Code": "ID5_DRIVER",
-            "Description": "Cada 6ta carta que juegues, roba 1 carta. (0/6)"
+            "Description": "Cada 6 cartas que juegues, roba 1 carta. (0/6)"
         },
         {
             "DriverName": "DRIVER DE CORRENTADA",
@@ -382,13 +382,13 @@
             "DriverName": "DRIVER BATERÍA",
             "ImagePath": "Blue U.png",
             "Code": "ID8_DRIVER",
-            "Description": "Cada vez que jueges 3 <b>Defensas</b> en un mismo turno, gana 1 de <b>Overclocked</b>. (0/3)"
+            "Description": "Cada vez que juegues 3 <b>Defensas</b> en un mismo turno, gana 1 de <b>Overclocked</b>. (0/3)"
         },
         {
             "DriverName": "DRIVER MOLOTOV",
             "ImagePath": "Red U.png",
             "Code": "ID9_DRIVER",
-            "Description": "Cada 6to <b>ATAQUE</b> que juegues, haz 15 de daño a todos los enemigos. (0/6)"
+            "Description": "Cada 6 <b>ATAQUES</b> que juegues, haz 15 de daño a todos los enemigos. (0/6)"
         },
         {
             "DriverName": "DRIVER TRUENO",
@@ -397,7 +397,7 @@
             "Description": "Cada vez que alcances <b>MAX VIM</b>, haz 15 de daño a todos los enemigos."
         },
         {
-            "DriverName": "DRIVER CAMPO DE FUERZA",
+            "DriverName": "DRIVER BURBUJA",
             "ImagePath": "Yellow U.png",
             "Code": "ID11_DRIVER",
             "Description": "La primera vez que alcances <b>MAX VIM</b> cada combate, gana 70 de <b>Barrera</b>."
@@ -409,7 +409,7 @@
             "Description": "Cada turno, conserva hasta 30 de <b>Barrera</b> en vez de perderlo todo."
         },
         {
-            "DriverName": "DRIVER DE ENCRIPTACIÓN",
+            "DriverName": "DRIVER ENCRIPTADO",
             "ImagePath": "Purple U.png",
             "Code": "ID13_DRIVER",
             "Description": "Cada vez que juegues un <b>PROTOCOLO</b>, gana 70 de <b>Barrera</b>."
@@ -424,7 +424,7 @@
             "DriverName": "DRIVER DE EMBOSCADA",
             "ImagePath": "Red U.png",
             "Code": "ID15_DRIVER",
-            "Description": "Al principio de cada combate, inflige 2 de <b>Exposición</b>."
+            "Description": "Al principio de cada combate, inflige 2 de <b>Exposición</b> a todos los enemigos."
         },
         {
             "DriverName": "DRIVER DE REVANCHA",
@@ -436,7 +436,7 @@
             "DriverName": "DRIVER ATURDIDOR",
             "ImagePath": "Blue U.png",
             "Code": "ID17_DRIVER",
-            "Description": "Al principio de cada combate, inflige 2 de <b>Debilidad</b>."
+            "Description": "Al principio de cada combate, inflige 2 de <b>Debilidad</b> a todos los enemigos."
         },
         {
             "DriverName": "DRIVER DE REMIENDO",
@@ -466,40 +466,40 @@
             "DriverName": "DRIVER PALANCA",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID100_DRIVER",
-            "Description": "Las Puertas Pesadas cuestan 1 menos de <b>Rastro</b> para abrirse."
+            "Description": "Abrir Puertas Pesadas cuesta 1 menos de <b>Rastro</b>."
         },
         {
             "DriverName": "DRIVER CANDADO",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID101_DRIVER",
-            "Description": "Cada 4ta <b>Puerta</b> que abras, gana 1 <b>Hashkey</b>. (0/4)"
+            "Description": "Cada 4 <b>Puertas</b> que abras, gana 1 <b>Hashkey</b>. (0/4)"
         },
         {
-            "DriverName": "ID102",
+            "DriverName": "DRIVER GANZÚA",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID102_DRIVER",
-            "Description": "Cada 4to Nodo que <b>Extraigas</b>, desbloquea una <b>Puerta</b> al azar en el Cluster en el que estés. (0/4)"
+            "Description": "Cada 4 Nodos que <b>Extraigas</b>, desbloquea una <b>Puerta</b> al azar en el Cluster en el que estés. (0/4)"
         },
         {
             "DriverName": "DRIVER DE PRECIO",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID103_DRIVER",
-            "Description": "Disminuye el precio en <b>Intel</b> de las <b>Hashkeys</b> en un 50%."
+            "Description": "Disminuye el precio en <b>Intel</b> de los <b>Hashkeys</b> en un 50%."
         },
         {
-            "DriverName": "ID104",
+            "DriverName": "DRIVER TELESCÓPICO",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID104_DRIVER",
             "Description": "Cada vez que desactives un <b>Vigía</b>, gana 1 <b>Hashkey</b> y 80 de <b>Intel</b>."
         },
         {
-            "DriverName": "ID105",
+            "DriverName": "DRIVER ENCAPUCHADO",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID105_DRIVER",
-            "Description": "Cada 7mo <b>Nodo</b> que uses, desactiva el <b>Vigía</b> del Clúster en el que esté. (0/7)"
+            "Description": "Cada 7 <b>Nodos</b> que uses, desactiva el <b>Vigía</b> del Clúster en el que esté. (0/7)"
         },
         {
-            "DriverName": "ID106",
+            "DriverName": "DRIVER DE DEMOLICIÓN",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID106_DRIVER",
             "Description": "Cada vez que <b>Reestructures<b> un Nodo, gana 80 de <b>Intel</b>."
@@ -511,16 +511,16 @@
             "Description": "Mientras el Nivel de Rastro sea igual o mayor que 5, antes de empezar cada combate, reduce el <b>Rastro</b> por 1."
         },
         {
-            "DriverName": "ID108",
+            "DriverName": "DRIVER DISQUETE",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID108_DRIVER",
-            "Description": "Cada 3er <b>Herramienta</b> que uses, obtén una <b>Herramienta Básica</b> al azar. (0/3)"
+            "Description": "Cada 3 <b>Herramientas</b> que uses, obtén una <b>Herramienta Básica</b> al azar. (0/3)"
         },
         {
             "DriverName": "DRIVER PULSIANA",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID109_DRIVER",
-            "Description": "Cada 5to Nodo que <b>Extraigas</b>, obtén una <b>Herramienta Básica</b> al azar. (0/5)"
+            "Description": "Cada 5 Nodos que <b>Extraigas</b>, obtén una <b>Herramienta Básica</b> al azar. (0/5)"
         },
         {
             "DriverName": "DRIVER JERINGA",
@@ -538,7 +538,7 @@
             "DriverName": "DRIVER ENFRIADOR",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID112_DRIVER",
-            "Description": "Cada 5to <b>Centinela</b> que venzas o desactives, refresca tus <b>Habilidades</b>. (0/5)"
+            "Description": "Cada 5 <b>Centinelas</b> que venzas o desactives, refresca tus <b>Habilidades</b>. (0/5)"
         },
         {
             "DriverName": "DRIVER INFRARROJO",
@@ -562,13 +562,13 @@
             "DriverName": "DRIVER DE SEGURIDAD",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID116_DRIVER",
-            "Description": "Ya no aparecerán nuevos <b>Centinelas</b cuando suba el Nivel de Alarma."
+            "Description": "Ya no aparecerán nuevos <b>Centinelas</b> cuando suba el Nivel de Alarma."
         },
         {
             "DriverName": "DRIVER MINERO",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID117_DRIVER",
-            "Description": "Mientras tengas al menos  de <b>Intel</b>, aumenta la Intel ganada al <b>Extraer</b> cualquier Nodo en un 30% ."
+            "Description": "Mientras tengas al menos 1200 de <b>Intel</b>, aumenta la Intel ganada al <b>Extraer</b> cualquier Nodo en un 30% ."
         },
         {
             "DriverName": "DRIVER DE TORMENTA",
@@ -589,10 +589,10 @@
             "Description": "Al principio de tu turno, haz 3 de daño a todos los enemigos por cada punto de <b>Firmeza</b> que tengas. (0 de daño)"
         },
         {
-            "DriverName": "VELOCITY DRIVER",
+            "DriverName": "DRIVER DE VELOCIDAD",
             "ImagePath": "Green R.png",
             "Code": "ID26_URSA_DRIVER",
-            "Description": "Cada 6ta carta que juegues, gana 1 de <b>Clock</b>. (0/6)"
+            "Description": "Cada 6 cartas que juegues, gana 1 de <b>Clock</b>. (0/6)"
         },
         {
             "DriverName": "DRIVER AMAPOLA",

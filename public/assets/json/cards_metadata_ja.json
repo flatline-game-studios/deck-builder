@@ -2797,7 +2797,7 @@
             "Descriptions": [],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "B級",
+            "Rarity": "スペシャル",
             "Color": "#515151FF",
             "Clock": 9,
             "Type": "破損",
@@ -2825,12 +2825,12 @@
             "ImagePath": "INFECTED_DATA.jpg",
             "Code": "INFECTED_DATA",
             "Descriptions": [
-                "10ダメージを受ける",
+                "5ダメージを受ける",
                 "<b>デコンパイル</b>する"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "B級",
+            "Rarity": "スペシャル",
             "Color": "#515151FF",
             "Clock": 0,
             "Type": "破損",
@@ -3520,10 +3520,12 @@
             "CardName": "オーバーキル",
             "ImagePath": "OVERKILL.jpg",
             "Code": "OVERKILL_UPGRADED",
-            "Descriptions": [],
+            "Descriptions": [
+                "40<b>ダメージ</b>を与える"
+            ],
             "Conditional": "<b>最大VIM</b>を所持している場合、代わりに：",
             "ConditionalDescriptions": [
-                "敵全体に350<b>ダメージ</b>を与える",
+                "敵全体に300<b>ダメージ</b>を与える",
                 "<b>デコンパイル</b>する"
             ],
             "Rarity": "SR級",
@@ -3613,7 +3615,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "U級",
+            "Rarity": "R級",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
@@ -3630,7 +3632,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "U級",
+            "Rarity": "R級",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
@@ -3763,7 +3765,7 @@
             "ImagePath": "THE_GUILDS_HEIST.jpg",
             "Code": "THE_GUILDS_HEIST_UPGRADED",
             "Descriptions": [
-                "55<b>ダメージ</b>を与える",
+                "50<b>ダメージ</b>を与える",
                 "<b>命中した後</b> 、2枚のカードを引き、1枚のカードを破棄する"
             ],
             "Conditional": "",
@@ -4809,6 +4811,22 @@
             "IsUpgrade": false
         },
         {
+            "CardName": "アドーニス広告ブロッカー",
+            "ImagePath": "Baribal_angry.jpg",
+            "Code": "DEV_CARD_3",
+            "Descriptions": [
+                "140"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "B級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
             "CardName": "バトルオプティマイザー",
             "ImagePath": "BATTLE_OPTIMIZER.jpg",
             "Code": "BATTLE_OPTIMIZER",
@@ -4890,7 +4908,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "R級",
+            "Rarity": "U級",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "生成元",
@@ -4907,7 +4925,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "R級",
+            "Rarity": "U級",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "生成元",
