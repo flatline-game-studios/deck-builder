@@ -58,6 +58,11 @@ class Run {
     currentLayer: number = 0 ;
 }
 
+class Trace {
+    trace: number = 0 ;
+    alarm: number = 0 ;
+}
+
 class Query<T> {
     i: Array<T> = [] ;
     d: Array<string> = [];
@@ -65,6 +70,7 @@ class Query<T> {
     m: string = '';
     s: string = '';
     r: Run = new Run();
+    t: Trace = new Trace();
 }
 
 
@@ -75,7 +81,7 @@ class Query<T> {
     styleUrl: './app.component.scss'
 })
 export class AppComponent {
-    query: Query<Item> = { i: [], d: [], c: [], m: '', s: '', r: new Run() };
+    query: Query<Item> = { i: [], d: [], c: [], m: '', s: '', r: new Run(), t: new Trace() };
     searchTerm: string = '';
     cards: Response<CardData> = new Response<CardData>();
     drivers: Response<DriverData> = new Response<DriverData>();
@@ -102,11 +108,11 @@ export class AppComponent {
                         distinctUntilChanged((a, b) => a.d === b.d && a.language === b.language),
                         switchMap(async ({ d, language }) => {
                             await Promise.all([this.LoadCards(language), this.LoadDrivers(language), this.LoadCommands(language)]);
-                            if (!d) {
-                                this.showCards = this.GetCards();
-                                this.showDrivers = this.drivers.Items;
-                                this.showCommands = this.commands.Items;
-                            }
+                            // if (!d) {
+                            //     this.showCards = this.GetCards();
+                            //     this.showDrivers = this.drivers.Items;
+                            //     this.showCommands = this.commands.Items;
+                            // }
                             this.query = this.decodeFromQuery(d);
                             console.log('Decoded query:', this.query);
                             this.ParseData(this.query);
@@ -223,7 +229,7 @@ export class AppComponent {
 
     public decodeFromQuery(q?: string | null): Query<Item> {
         if (!q) {
-            return { i: [], d: [], c: [] , m: '', s: '', r: new Run()  };
+            return { i: [], d: [], c: [] , m: '', s: '', r: new Run(), t: new Trace() };
         }
         const decompressed = LZString.decompressFromEncodedURIComponent(q);
         return decompressed ? JSON.parse(decompressed) : null;
