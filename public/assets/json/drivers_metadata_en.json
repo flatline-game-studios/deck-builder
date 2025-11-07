@@ -280,7 +280,7 @@
             "DriverName": "COURAGE DRIVER",
             "ImagePath": "Boss Placeholder.png",
             "Code": "ID37_DRIVER",
-            "Description": "On Elite and Boss combats, at the start of your turn, gain 1 <b>Clock</b> and generate 2 <b>VIM</b>."
+            "Description": "On Elite and Core Keeper combats, at the start of your turn, gain 1 <b>Clock</b> and generate 4 <b>VIM</b>."
         },
         {
             "DriverName": "PROMPT DRIVER",
@@ -397,7 +397,7 @@
             "Description": "Every time you reach <b>MAX VIM</b>, deal 15 <b>DMG</b> to all targets."
         },
         {
-            "DriverName": "FORCEFIELD DRIVER",
+            "DriverName": "BUBBLE DRIVER",
             "ImagePath": "Yellow U.png",
             "Code": "ID11_DRIVER",
             "Description": "The first time you reach <b>MAX VIM</b> each combat, gain 70 <b>Barrier</b>."
@@ -475,7 +475,7 @@
             "Description": "Every 4th <b>Gate</b> you open, gain 1 <b>Hashkey</b>. (0/4)"
         },
         {
-            "DriverName": "ID102",
+            "DriverName": "LOCKPICK DRIVER",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID102_DRIVER",
             "Description": "Every 4th Node you <b>Extract</b>, unlock a random <b>Gate</b> in the current Cluster. (0/4)"
@@ -487,19 +487,19 @@
             "Description": "Reduce the <b>Intel</b> price of <b>Hashkeys</b> by 50%."
         },
         {
-            "DriverName": "ID104",
+            "DriverName": "TELESCOPIC DRIVER",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID104_DRIVER",
             "Description": "Every time you disable a <b>Watcher</b>, gain 1 <b>Hashkey</b> and 80 <b>Intel</b>."
         },
         {
-            "DriverName": "ID105",
+            "DriverName": "BLINDFOLD DRIVER",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID105_DRIVER",
             "Description": "Every 7th <b>Node</b> you use, disable the <b>Watcher</b> in the current Cluster. (0/7)"
         },
         {
-            "DriverName": "ID106",
+            "DriverName": "DEMOLITION DRIVER",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID106_DRIVER",
             "Description": "Every time you <b>Rehash<b> a Node, gain 80 <b>Intel</b>."
@@ -511,7 +511,7 @@
             "Description": "While Trace Level is at 5 or more, before starting each combat, reduce <b>Trace</b> by 1."
         },
         {
-            "DriverName": "ID108",
+            "DriverName": "FLOPPY DRIVER",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID108_DRIVER",
             "Description": "Every 3rd <b>Tool</b> you use, obtain a random <b>Basic Tool</b>. (0/3)"
@@ -568,7 +568,7 @@
             "DriverName": "MINING DRIVER",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID117_DRIVER",
-            "Description": "While you have at least  <b>Intel</b>, increase Intel gained by 30% when <b>Extracting</b> any Nodes."
+            "Description": "While you have at least 1200 <b>Intel</b>, increase Intel gained by 30% when <b>Extracting</b> any Nodes."
         },
         {
             "DriverName": "STORM DRIVER",

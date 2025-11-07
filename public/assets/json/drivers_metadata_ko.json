@@ -280,7 +280,7 @@
             "DriverName": "용기 드라이버",
             "ImagePath": "Boss Placeholder.png",
             "Code": "ID37_DRIVER",
-            "Description": "정예전과 보스전에서, 턴 시작 시, 1 <b>시계</b>를 획득하고 2포인트의 <b>VIM</b>을 생성합니다."
+            "Description": "정예전과 보스전에서, 턴 시작 시, 1 <b>시계</b>를 획득하고 4포인트의 <b>VIM</b>을 생성합니다."
         },
         {
             "DriverName": "프롬프트 드라이버",
@@ -568,7 +568,7 @@
             "DriverName": "채굴 드라이버",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID117_DRIVER",
-            "Description": "최소  <b>정보</b>을 보유하고 있을 때, 노드를 추출하면 획득하는 정보가30% 증가합니다."
+            "Description": "최소 1200 <b>정보</b>을 보유하고 있을 때, 노드를 추출하면 획득하는 정보가30% 증가합니다."
         },
         {
             "DriverName": "스톰 드라이버",

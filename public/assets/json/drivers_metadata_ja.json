@@ -280,7 +280,7 @@
             "DriverName": "勇気ドライバー",
             "ImagePath": "Boss Placeholder.png",
             "Code": "ID37_DRIVER",
-            "Description": "エリートおよびボス戦では、ターン開始時に1の<b>クロック</b>を獲得し、2点の<b>VIM</b>を生成する。"
+            "Description": "エリートおよびボス戦では、ターン開始時に1の<b>クロック</b>を獲得し、4点の<b>VIM</b>を生成する。"
         },
         {
             "DriverName": "プロンプトドライバー",
@@ -568,7 +568,7 @@
             "DriverName": "抽出ドライバー",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID117_DRIVER",
-            "Description": "<b>情報</b>がつ以上ある場合、<b>ノード</b>を<b>抽出</b>する際の<b>情報</b>獲得量が30%増加する。"
+            "Description": "<b>情報</b>が1200つ以上ある場合、<b>ノード</b>を<b>抽出</b>する際の<b>情報</b>獲得量が30%増加する。"
         },
         {
             "DriverName": "ストームドライバー",

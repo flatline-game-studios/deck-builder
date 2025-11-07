@@ -24,14 +24,14 @@
         {
             "CommandName": "構建",
             "Cost": 5,
-            "Description": "生成1張你在本回合最後打出的<b>腳本</b> 牌副本。",
+            "Description": "Create 1 copy of the last <b>Script</b> you played this turn.  ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND"
         },
         {
             "CommandName": "增強·構建",
             "Cost": 5,
-            "Description": "生成2張你在本回合最後打出的<b>腳本</b> 牌副本。",
+            "Description": "Create 2 copies of the last <b>Script</b> you played this turn.  ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND_AUGMENTED"
         },
@@ -129,7 +129,7 @@
         {
             "CommandName": "增強·重新利用",
             "Cost": 6,
-            "Description": "隨機棄掉1張卡牌後抽取2張卡牌。",
+            "Description": "棄掉 1 張卡牌後抽取 1 張卡牌。",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND_AUGMENTED"
         },
@@ -233,7 +233,7 @@
         },
         {
             "CommandName": "回憶",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "從你的回收站中選擇最多2張牌放入你的手牌。",
             "Tier": "Major",
             "Code": "RecollectCommand"

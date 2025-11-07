@@ -280,7 +280,7 @@
             "DriverName": "勇氣驅動",
             "ImagePath": "Boss Placeholder.png",
             "Code": "ID37_DRIVER",
-            "Description": "在精英和Boss戰中，每回合開始時，獲得1<b>時鐘</b>並生成2點<b>VIM</b>。"
+            "Description": "在精英和Boss戰中，每回合開始時，獲得1<b>時鐘</b>並生成4點<b>VIM</b>。"
         },
         {
             "DriverName": "提示驅動",
@@ -568,7 +568,7 @@
             "DriverName": "採集驅動",
             "ImagePath": "Shop Placeholder.png",
             "Code": "ID117_DRIVER",
-            "Description": "當你擁有至少條<b>情報</b>時，提取節點獲得的情報增加30%。"
+            "Description": "當你擁有至少1200條<b>情報</b>時，提取節點獲得的情報增加30%。"
         },
         {
             "DriverName": "風暴驅動",

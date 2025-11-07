@@ -3520,7 +3520,9 @@
             "CardName": "",
             "ImagePath": "OVERKILL.jpg",
             "Code": "OVERKILL_UPGRADED",
-            "Descriptions": [],
+            "Descriptions": [
+                ""
+            ],
             "Conditional": "",
             "ConditionalDescriptions": [
                 "",
@@ -4798,6 +4800,22 @@
             "Code": "DEV_CARD_2",
             "Descriptions": [
                 ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "Baribal_angry.jpg",
+            "Code": "DEV_CARD_3",
+            "Descriptions": [
+                "140"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
