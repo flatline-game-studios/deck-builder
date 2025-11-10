@@ -4,625 +4,833 @@
             "DriverName": "伏擊驅動",
             "ImagePath": "Driver_01.png",
             "Code": "AMBUSH_DRIVER",
-            "Description": "每場戰鬥開始時，對所有目標施加1層<b>暴露</b>。"
+            "Description": "每場戰鬥開始時，對所有目標施加1層<b>暴露</b>。",
+            "ImageIcon": "Driver_Icon_Intel_01.png",
+            "Color": "#FF0000FF"
         },
         {
             "DriverName": "增援驅動",
             "ImagePath": "Blue_backup.png",
             "Code": "BACKUP_DRIVER",
-            "Description": "在你的回合結束時，如果你沒有任何<b>屏障</b>，則獲得10點<b>屏障</b>。"
+            "Description": "在你的回合結束時，如果你沒有任何<b>屏障</b>，則獲得10點<b>屏障</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "街壘驅動",
             "ImagePath": "Blue_barricade_U-01.png",
             "Code": "BARRICADE_DRIVER",
-            "Description": "在你的回合結束時，如果你擁有至少80點<b>屏障</b>，則獲得2層<b>堅毅</b>。"
+            "Description": "在你的回合結束時，如果你擁有至少80點<b>屏障</b>，則獲得2層<b>堅毅</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "盛怒驅動",
             "ImagePath": "Red_berserk_R-01.png",
             "Code": "BERSERK_DRIVER",
-            "Description": "你每打出一張<b>攻擊</b>牌時，獲得1層<b>野性</b>並對自己施加1層<b>暴露</b>。"
+            "Description": "你每打出一張<b>攻擊</b>牌時，獲得1層<b>野性</b>並對自己施加1層<b>暴露</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "晶藍驅動",
             "ImagePath": "Blue_blue.png",
             "Code": "BLUE_DRIVER",
-            "Description": "你在每回合第一次獲得<b>堅毅</b>時，獲得10點<b>屏障</b>。"
+            "Description": "你在每回合第一次獲得<b>堅毅</b>時，獲得10點<b>屏障</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "追逐驅動",
             "ImagePath": "Red_chase_U-01.png",
             "Code": "CHASE_DRIVER",
-            "Description": "在你的回合開始時，如果你有至少12層<b>野性</b>，則獲得1<b>時鐘</b>。"
+            "Description": "在你的回合開始時，如果你有至少12層<b>野性</b>，則獲得1<b>時鐘</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "響片驅動",
             "ImagePath": "Green_clicker_U-01.png",
             "Code": "CLICKER_DRIVER",
-            "Description": "你在一場戰鬥中每使用3次<b>指令</b>，獲得5點<b>臨時VIM</b>。（0/3）"
+            "Description": "你在一場戰鬥中每使用3次<b>指令</b>，獲得5點<b>臨時VIM</b>。（0/3）",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "雲驅動",
             "ImagePath": "Yellow_cloud.png",
             "Code": "CLOUD_DRIVER",
-            "Description": "你在每回合第一次獲得<b>臨時VIM</b>時生成2點<b>VIM</b>。"
+            "Description": "你在每回合第一次獲得<b>臨時VIM</b>時生成2點<b>VIM</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "抄本驅動",
             "ImagePath": "Purple_codex.png",
             "Code": "CODEX_DRIVER",
-            "Description": "每場戰鬥開始時，獲得2層<b>快取</b>。"
+            "Description": "每場戰鬥開始時，獲得2層<b>快取</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "電機驅動",
             "ImagePath": "Yellow_dynamo_U-01.png",
             "Code": "DYNAMO_DRIVER",
-            "Description": "你打出<b>生成器</b>牌時，額外生成1點<b>VIM</b>。"
+            "Description": "你打出<b>生成器</b>牌時，額外生成1點<b>VIM</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "月蝕驅動",
             "ImagePath": "Red_eclipse_R-01.png",
             "Code": "ECLIPSE_DRIVER",
-            "Description": "在每回合結束時，<b>野性</b>層數不再衰減。"
+            "Description": "在每回合結束時，<b>野性</b>層數不再衰減。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "邊緣驅動",
             "ImagePath": "Red_edge_U-01.png",
             "Code": "EDGE_DRIVER",
-            "Description": "“代碼斬”牌造成20%額外<b>傷害</b>。"
+            "Description": "“代碼斬”牌造成20%額外<b>傷害</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "佯攻驅動",
             "ImagePath": "Blue_feint_U-01.png",
             "Code": "FEINT_DRIVER",
-            "Description": "你在一回合中每打出3張<b>防禦</b>卡，獲得0<b>時鐘</b>。（0/3）"
+            "Description": "你在一回合中每打出3張<b>防禦</b>卡，獲得0<b>時鐘</b>。（0/3）",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "甦生驅動",
             "ImagePath": "Purple_mend.png",
             "Code": "MEND_DRIVER",
-            "Description": "每場戰鬥開始時，恢復15點<b>完整性</b>。"
+            "Description": "每場戰鬥開始時，恢復15點<b>完整性</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "月球驅動",
             "ImagePath": "Red_moon_U-01.png",
             "Code": "MOON_DRIVER",
-            "Description": "你在一回合中每打出4張<b>攻擊</b>牌，獲得3層<b>野性</b>。（0/4）"
+            "Description": "你在一回合中每打出4張<b>攻擊</b>牌，獲得3層<b>野性</b>。（0/4）",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "管弦樂隊驅動",
             "ImagePath": "Yellow_orchestra_R-01.png",
             "Code": "ORCHESTRA_DRIVER",
-            "Description": "在你的回合開始時，生成10點<b>臨時VIM</b>。在你的回合結束時，失去所有<b>VIM</b>。"
+            "Description": "在你的回合開始時，生成10點<b>臨時VIM</b>。在你的回合結束時，失去所有<b>VIM</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "迅捷驅動",
             "ImagePath": "Green_prompt.png",
             "Code": "PROMPT_DRIVER",
-            "Description": "你在每場戰鬥中第一次使用<b>指令</b>時獲得1 <b>時鐘</b>。"
+            "Description": "你在每場戰鬥中第一次使用<b>指令</b>時獲得1 <b>時鐘</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "原初驅動",
             "ImagePath": "Purple_proto_U-01.png",
             "Code": "PROTO_DRIVER",
-            "Description": "<b>協議</b>牌的費用減少1 <b>時鐘</b>。"
+            "Description": "<b>協議</b>牌的費用減少1 <b>時鐘</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "熾紅驅動",
             "ImagePath": "Red_red.png",
             "Code": "RED_DRIVER",
-            "Description": "你每打出10張<b>攻擊</b>牌，獲得2層<b>野性</b>。(0/10)"
+            "Description": "你每打出10張<b>攻擊</b>牌，獲得2層<b>野性</b>。(0/10)",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "雄雞驅動",
             "ImagePath": "Yellow_rooster.png",
             "Code": "ROOSTER_DRIVER",
-            "Description": "每場戰鬥開始時，生成3點<b>VIM</b>。"
+            "Description": "每場戰鬥開始時，生成3點<b>VIM</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "庇護所驅動",
             "ImagePath": "Blue_shelter_U-01.png",
             "Code": "SHELTER_DRIVER",
-            "Description": "在你的回合結束時，如果你還沒有打出任何<b>防禦</b>卡，獲得3層<b>堅毅</b>。"
+            "Description": "在你的回合結束時，如果你還沒有打出任何<b>防禦</b>卡，獲得3層<b>堅毅</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "羅網驅動",
             "ImagePath": "Blue_snare.png",
             "Code": "SNARE_DRIVER",
-            "Description": "每場戰鬥開始時，對所有目標施加層<b>虛弱</b>。"
+            "Description": "每場戰鬥開始時，對所有目標施加層<b>虛弱</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "維穩驅動",
             "ImagePath": "Yellow_stabilizer_U-01.png",
             "Code": "STABILIZER_DRIVER",
-            "Description": "在你的回合開始時，生成2點<b>VIM</b>。"
+            "Description": "在你的回合開始時，生成2點<b>VIM</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "奔流驅動",
             "ImagePath": "Red_stream.png",
             "Code": "STREAM_DRIVER",
-            "Description": "你在一回合中每打出4張<b>攻擊</b>牌，抽1張牌。（0/4）"
+            "Description": "你在一回合中每打出4張<b>攻擊</b>牌，抽1張牌。（0/4）",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "街頭驅動",
             "ImagePath": "Blue_street.png",
             "Code": "STREET_DRIVER",
-            "Description": "在每場戰鬥開始時，獲得2層<b>堅毅</b>。"
+            "Description": "在每場戰鬥開始時，獲得2層<b>堅毅</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "驚雷驅動",
             "ImagePath": "Yellow_thunder_U-01.png",
             "Code": "THUNDER_DRIVER",
-            "Description": "在你的回合開始時，如果你擁有<b>最大VIM</b>，則獲得1<b>時鐘</b>。"
+            "Description": "在你的回合開始時，如果你擁有<b>最大VIM</b>，則獲得1<b>時鐘</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "電晶體驅動",
             "ImagePath": "Yellow_transistor_U-01.png",
             "Code": "TRANSISTOR_DRIVER",
-            "Description": "在你的回合結束時，生成等同於你<b>臨時VIM</b>的<b>VIM</b>。"
+            "Description": "在你的回合結束時，生成等同於你<b>臨時VIM</b>的<b>VIM</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "轉台驅動",
             "ImagePath": "Green_turntable_U-01.png",
             "Code": "TUNRTABLE_DRIVER",
-            "Description": "你每回合可以使用<b>小型指令</b>2次。"
+            "Description": "你每回合可以使用<b>小型指令</b>2次。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "先鋒驅動",
             "ImagePath": "Blue_vanguard_R-01.png",
             "Code": "VANGUARD_DRIVER",
-            "Description": "在你的回合開始時，你擁有的每點<b>堅毅</b>對所有目標造成3點<b>傷害</b>。（0<b>傷害</b>）"
+            "Description": "在你的回合開始時，你擁有的每點<b>堅毅</b>對所有目標造成3點<b>傷害</b>。（0<b>傷害</b>）",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "黑膠驅動",
             "ImagePath": "Green_vinyl_U-01.png",
             "Code": "VINYL_DRIVER",
-            "Description": "你在一回合中每使用3次<b>指令</b>，獲得 0 <b>時鐘</b>。 （0/3）"
+            "Description": "你在一回合中每使用3次<b>指令</b>，獲得 0 <b>時鐘</b>。 （0/3）",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "蒼狼驅動",
             "ImagePath": "Red_wolf.png",
             "Code": "WOLF_DRIVER",
-            "Description": "每場戰鬥開始時，獲得2層<b>野性</b>。"
+            "Description": "每場戰鬥開始時，獲得2層<b>野性</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "檸黃驅動",
             "ImagePath": "Yellow_yellow.png",
             "Code": "YELLOW_DRIVER",
-            "Description": "在你的回合開始時，如果你擁有至少10點<b>VIM</b>，則生成2點<b>VIM</b>。"
+            "Description": "在你的回合開始時，如果你擁有至少10點<b>VIM</b>，則生成2點<b>VIM</b>。",
+            "ImageIcon": "",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "磁控管驅動",
             "ImagePath": "Driver_06.png",
             "Code": "ID41_DRIVER",
-            "Description": "在你的回合開始時，每觸發一次<b>協助</b>效果，生成2點<b>VIM</b>。"
+            "Description": "在你的回合開始時，每觸發一次<b>協助</b>效果，生成2點<b>VIM</b>。",
+            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "衛星驅動",
             "ImagePath": "Driver_06.png",
             "Code": "ID42_DRIVER",
-            "Description": "每場戰鬥開始時，<b>增強</b>所有<b>指令</b>並獲得1<b>時鐘</b>。"
+            "Description": "每場戰鬥開始時，<b>增強</b>所有<b>指令</b>並獲得1<b>時鐘</b>。",
+            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "鏈條驅動",
             "ImagePath": "Driver_06.png",
             "Code": "ID52_DRIVER",
-            "Description": "每次你連續打出6張<b>腳本</b>牌，獲得1<b>時鐘</b>。（0/6）"
+            "Description": "每次你連續打出6張<b>腳本</b>牌，獲得1<b>時鐘</b>。（0/6）",
+            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "靈活驅動",
             "ImagePath": "Driver_06.png",
             "Code": "ID26_DARWIN_DRIVER",
-            "Description": "每打出第14張卡牌，獲得1<b>時鐘</b>。（0/14）"
+            "Description": "每打出第14張卡牌，獲得1<b>時鐘</b>。（0/14）",
+            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "毒蛇驅動",
             "ImagePath": "Driver_06.png",
             "Code": "ID43_DRIVER",
-            "Description": "提高4點<b>噬咬腳本</b>的基礎<b>傷害</b>。"
+            "Description": "提高4點<b>噬咬腳本</b>的基礎<b>傷害</b>。",
+            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "迴旋鏢驅動",
             "ImagePath": "Driver_06.png",
             "Code": "ID49_DRIVER",
-            "Description": "每回合第一個過期的<b>協助</b>效果會回收到你的手牌。"
+            "Description": "每回合第一個過期的<b>協助</b>效果會回收到你的手牌。",
+            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "衝擊波驅動",
             "ImagePath": "Driver_06.png",
             "Code": "ID50_DRIVER",
-            "Description": "你每使用一次<b>增強指令</b>，對所有目標造成20點<b>傷害</b>。"
+            "Description": "你每使用一次<b>增強指令</b>，對所有目標造成20點<b>傷害</b>。",
+            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "飢餓驅動",
             "ImagePath": "Driver_06.png",
             "Code": "ID51_DRIVER",
-            "Description": "所有的隨機<b>腳本</b>牌將變成<b>噬咬腳本</b>。"
+            "Description": "所有的隨機<b>腳本</b>牌將變成<b>噬咬腳本</b>。",
+            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "電晶體驅動",
             "ImagePath": "Driver_06.png",
             "Code": "ID53_DRIVER",
-            "Description": "在你的回合中，你每棄置一張卡牌，生成其基礎<b>VIM</b>。"
+            "Description": "在你的回合中，你每棄置一張卡牌，生成其基礎<b>VIM</b>。",
+            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "發電機驅動",
             "ImagePath": "Driver_05.png",
             "Code": "ID32_DRIVER",
-            "Description": "你每打出一張牌，生成1點<b>VIM</b>。"
+            "Description": "你每打出一張牌，生成1點<b>VIM</b>。",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "導彈驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID33_DRIVER",
-            "Description": "減少1<b>時鐘</b>所有費用為3的卡牌的費用。"
+            "Description": "減少1<b>時鐘</b>所有費用為3的卡牌的費用。",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "顱骨驅動",
             "ImagePath": "Driver_05.png",
             "Code": "ID34_DRIVER",
-            "Description": "每三次使用<b>指令</b>，獲得1<b>時鐘</b>並抽1張牌。（0/3）"
+            "Description": "每三次使用<b>指令</b>，獲得1<b>時鐘</b>並抽1張牌。（0/3）",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "耐心驅動",
             "ImagePath": "Driver_05.png",
             "Code": "ID35_DRIVER",
-            "Description": "你的回合結束時，如果你沒有使用任何<b>指令</b>，獲得1層<b>超頻</b>。"
+            "Description": "你的回合結束時，如果你沒有使用任何<b>指令</b>，獲得1層<b>超頻</b>。",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "性能驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID36_DRIVER",
-            "Description": "每回合首次打出一張費用為2的卡牌，獲得1<b>時鐘</b>。"
+            "Description": "每回合首次打出一張費用為2的卡牌，獲得1<b>時鐘</b>。",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "勇氣驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID37_DRIVER",
-            "Description": "在精英和核心看守戰中，每回合開始時，獲得1<b>時鐘</b>並生成4點<b>VIM</b>。"
+            "Description": "在精英和核心看守戰中，每回合開始時，獲得1<b>時鐘</b>並生成4點<b>VIM</b>。",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "提示驅動",
             "ImagePath": "Driver_05.png",
             "Code": "ID22_DRIVER",
-            "Description": "你每使用一次<b>指令</b>，抽1張牌。"
+            "Description": "你每使用一次<b>指令</b>，抽1張牌。",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "轉台驅動",
             "ImagePath": "Driver_05.png",
             "Code": "ID23_DRIVER",
-            "Description": "你每回合可以使用2次<b>小型指令</b>。"
+            "Description": "你每回合可以使用2次<b>小型指令</b>。",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "裝甲驅動",
             "ImagePath": "Driver_03.png",
             "Code": "ID24_DRIVER",
-            "Description": "你每打出一張<b>防禦</b>牌，獲得10層<b>屏障</b>。"
+            "Description": "你每打出一張<b>防禦</b>牌，獲得10層<b>屏障</b>。",
+            "ImageIcon": "Driver_Icon_Defense_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "原型驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID25_DRIVER",
-            "Description": "<b>協議</b>牌的費用減少1<b>時鐘</b>。"
+            "Description": "<b>協議</b>牌的費用減少1<b>時鐘</b>。",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "零驅動",
             "ImagePath": "Driver_05.png",
             "Code": "ID27_DRIVER",
-            "Description": "每次你的<b>VIM</b>為0時，生成4點<b>VIM</b>。"
+            "Description": "每次你的<b>VIM</b>為0時，生成4點<b>VIM</b>。",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "電擊驅動",
             "ImagePath": "Driver_02.png",
             "Code": "ID28_DRIVER",
-            "Description": "你每在回合內抽一張牌，對ICE造成4點<b>傷害</b>。"
+            "Description": "你每在回合內抽一張牌，對ICE造成4點<b>傷害</b>。",
+            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "煙霧驅動",
             "ImagePath": "Driver_02.png",
             "Code": "ID29_DRIVER",
-            "Description": "每次你施加<b>暴露</b>時，追加施加層<b>虛弱</b>。"
+            "Description": "每次你施加<b>暴露</b>時，追加施加層<b>虛弱</b>。",
+            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "多米諾驅動",
             "ImagePath": "Driver_02.png",
             "Code": "ID30_DRIVER",
-            "Description": "你每禁用一個<b>外圍設備</b>，獲得1層<b>超頻</b>和1層<b>快取</b>。"
+            "Description": "你每禁用一個<b>外圍設備</b>，獲得1層<b>超頻</b>和1層<b>快取</b>。",
+            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "更新驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID31_DRIVER",
-            "Description": "每場戰鬥開始時，隨機升級3張你代碼庫中的<b>新手</b>牌，直到戰鬥結束。"
+            "Description": "每場戰鬥開始時，隨機升級3張你代碼庫中的<b>新手</b>牌，直到戰鬥結束。",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "向日葵驅動",
             "ImagePath": "Driver_05.png",
             "Code": "ID1_DRIVER",
-            "Description": "每次你打出一張<b>生成器</b>卡牌，生成1點<b>VIM</b>。"
+            "Description": "每次你打出一張<b>生成器</b>卡牌，生成1點<b>VIM</b>。",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "雄雞驅動",
             "ImagePath": "Driver_05.png",
             "Code": "ID2_DRIVER",
-            "Description": "每場戰鬥開始時，生成5點<b>VIM</b>。"
+            "Description": "每場戰鬥開始時，生成5點<b>VIM</b>。",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "旋風驅動",
             "ImagePath": "Driver_05.png",
             "Code": "ID3_DRIVER",
-            "Description": "每次你將回收站洗入你的代碼庫中，生成3點<b>VIM</b>。"
+            "Description": "每次你將回收站洗入你的代碼庫中，生成3點<b>VIM</b>。",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "幽靈驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID4_DRIVER",
-            "Description": "每場戰鬥中，你打出的第一張將被<b>反編譯</b>的卡牌會被放入回收站中。"
+            "Description": "每場戰鬥中，你打出的第一張將被<b>反編譯</b>的卡牌會被放入回收站中。",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "磨坊驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID5_DRIVER",
-            "Description": "每打出第6張卡牌，抽1張牌。（0/6）"
+            "Description": "每打出第6張卡牌，抽1張牌。（0/6）",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "溪流驅動",
             "ImagePath": "Driver_02.png",
             "Code": "ID6_DRIVER",
-            "Description": "你每在同一回合內打出3張<b>攻擊</b>牌，抽1張牌。（0/3）"
+            "Description": "你每在同一回合內打出3張<b>攻擊</b>牌，抽1張牌。（0/3）",
+            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "黑膠驅動",
             "ImagePath": "Driver_05.png",
             "Code": "ID7_DRIVER",
-            "Description": "你每在同一回合內使用3次<b>指令</b>，獲得1<b>時鐘</b>。（0/3）"
+            "Description": "你每在同一回合內使用3次<b>指令</b>，獲得1<b>時鐘</b>。（0/3）",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "電池驅動",
             "ImagePath": "Driver_03.png",
             "Code": "ID8_DRIVER",
-            "Description": "你每在同一回合內打出3張<b>防禦</b>牌，獲得1層<b>超頻</b>。（0/3）"
+            "Description": "你每在同一回合內打出3張<b>防禦</b>牌，獲得1層<b>超頻</b>。（0/3）",
+            "ImageIcon": "Driver_Icon_Defense_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "燃燒瓶驅動",
             "ImagePath": "Driver_02.png",
             "Code": "ID9_DRIVER",
-            "Description": "每打出第6張<b>攻擊</b>牌，對所有目標造成15點<b>傷害</b>。（0/6）"
+            "Description": "每打出第6張<b>攻擊</b>牌，對所有目標造成15點<b>傷害</b>。（0/6）",
+            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "驚雷驅動",
             "ImagePath": "Driver_05.png",
             "Code": "ID10_DRIVER",
-            "Description": "你每達到<b>最大VIM</b>，對所有目標造成15點<b>傷害</b>。"
+            "Description": "你每達到<b>最大VIM</b>，對所有目標造成15點<b>傷害</b>。",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "氣泡驅動",
             "ImagePath": "Driver_05.png",
             "Code": "ID11_DRIVER",
-            "Description": "每場戰鬥中首次達到<b>最大VIM</b>時，獲得70層<b>屏障</b>。"
+            "Description": "每場戰鬥中首次達到<b>最大VIM</b>時，獲得70層<b>屏障</b>。",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "冬眠驅動",
             "ImagePath": "Driver_03.png",
             "Code": "ID12_DRIVER",
-            "Description": "每回合可保留最多30層<b>屏障</b>，而不是耗盡所有屏障。"
+            "Description": "每回合可保留最多30層<b>屏障</b>，而不是耗盡所有屏障。",
+            "ImageIcon": "Driver_Icon_Defense_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "加密驅動",
             "ImagePath": "Driver_03.png",
             "Code": "ID13_DRIVER",
-            "Description": "你每打出一張<b>協議</b>牌，獲得70層<b>屏障</b>。"
+            "Description": "你每打出一張<b>協議</b>牌，獲得70層<b>屏障</b>。",
+            "ImageIcon": "Driver_Icon_Defense_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "阿基里斯驅動",
             "ImagePath": "Driver_02.png",
             "Code": "ID14_DRIVER",
-            "Description": "每次你禁用一個<b>外圍設備</b>，對ICE造成30點<b>傷害</b>。"
+            "Description": "每次你禁用一個<b>外圍設備</b>，對ICE造成30點<b>傷害</b>。",
+            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "埋伏驅動",
             "ImagePath": "Driver_02.png",
             "Code": "ID15_DRIVER",
-            "Description": "每場戰鬥開始時，對所有目標施加2層<b>暴露</b>。"
+            "Description": "每場戰鬥開始時，對所有目標施加2層<b>暴露</b>。",
+            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "報復驅動",
             "ImagePath": "Driver_02.png",
             "Code": "ID16_DRIVER",
-            "Description": "每當你<b>暴露</b>，對ICE施加2層<b>暴露</b>。"
+            "Description": "每當你<b>暴露</b>，對ICE施加2層<b>暴露</b>。",
+            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "閃光驅動",
             "ImagePath": "Driver_02.png",
             "Code": "ID17_DRIVER",
-            "Description": "每場戰鬥開始時，對所有目標施加2層<b>虛弱</b>。"
+            "Description": "每場戰鬥開始時，對所有目標施加2層<b>虛弱</b>。",
+            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "修復驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID18_DRIVER",
-            "Description": "每場戰鬥開始時，恢復15點<b>完整性</b>。"
+            "Description": "每場戰鬥開始時，恢復15點<b>完整性</b>。",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "大炮驅動",
             "ImagePath": "Driver_05.png",
             "Code": "ID19_DRIVER",
-            "Description": "你每使用一次<b>關鍵指令</b>，對ICE造成40點<b>傷害</b>。"
+            "Description": "你每使用一次<b>關鍵指令</b>，對ICE造成40點<b>傷害</b>。",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "補給驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID20_DRIVER",
-            "Description": "每場戰鬥開始時，獲得3層<b>快取</b>。"
+            "Description": "每場戰鬥開始時，獲得3層<b>快取</b>。",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "沙漏驅動",
             "ImagePath": "Driver_05.png",
             "Code": "ID21_DRIVER",
-            "Description": "回合結束時，如果你還有剩餘<b>時鐘</b>，獲得1層<b>強電</b>。"
+            "Description": "回合結束時，如果你還有剩餘<b>時鐘</b>，獲得1層<b>強電</b>。",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "撬棍驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID100_DRIVER",
-            "Description": "打開沉重門扉時需要花費的<b>蹤跡</b>減1。"
+            "Description": "打開沉重門扉時需要花費的<b>蹤跡</b>減1。",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "扣鎖驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID101_DRIVER",
-            "Description": "每4次開啟<b>門扉</b>時，獲得1個<b>哈希金鑰</b>。（0/4）"
+            "Description": "每4次開啟<b>門扉</b>時，獲得1個<b>哈希金鑰</b>。（0/4）",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "開鎖驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID102_DRIVER",
-            "Description": "每4次<b>提取</b>節點時，在當前集群中隨機解鎖一扇<b>門扉</b>。（0/4）"
+            "Description": "每4次<b>提取</b>節點時，在當前集群中隨機解鎖一扇<b>門扉</b>。（0/4）",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "價簽驅動",
             "ImagePath": "Driver_01.png",
             "Code": "ID103_DRIVER",
-            "Description": "將<b>哈希金鑰</b>的<b>情報</b>價格降低50%。"
+            "Description": "將<b>哈希金鑰</b>的<b>情報</b>價格降低50%。",
+            "ImageIcon": "Driver_Icon_Intel_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "套疊驅動",
             "ImagePath": "Driver_01.png",
             "Code": "ID104_DRIVER",
-            "Description": "每禁用一個<b>守護者</b>，獲得1個<b>哈希金鑰</b>和80條<b>情報</b>。"
+            "Description": "每禁用一個<b>守護者</b>，獲得1個<b>哈希金鑰</b>和80條<b>情報</b>。",
+            "ImageIcon": "Driver_Icon_Intel_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "致盲驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID105_DRIVER",
-            "Description": "每7次使用<b>節點</b>時，禁用當前區域的<b>守護者</b>。（0/7）"
+            "Description": "每7次使用<b>節點</b>時，禁用當前區域的<b>守護者</b>。（0/7）",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "放大驅動",
             "ImagePath": "Driver_01.png",
             "Code": "ID106_DRIVER",
-            "Description": "每對一個節點<b>重算哈希</b>時，獲得80條<b>情報</b>。"
+            "Description": "每對一個節點<b>重算哈希</b>時，獲得80條<b>情報</b>。",
+            "ImageIcon": "Driver_Icon_Intel_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "全景驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID107_DRIVER",
-            "Description": "當蹤跡等級達到5或以上時，在每場戰鬥開始前，減少1<b>蹤跡</b>。"
+            "Description": "當蹤跡等級達到5或以上時，在每場戰鬥開始前，減少1<b>蹤跡</b>。",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "鬆懈驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID108_DRIVER",
-            "Description": "每3次使用<b>工具</b>時，隨機獲得一個<b>基礎工具</b>。（0/3）"
+            "Description": "每3次使用<b>工具</b>時，隨機獲得一個<b>基礎工具</b>。（0/3）",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "扳手驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID109_DRIVER",
-            "Description": "每5次<b>提取</b>節點時，隨機獲得一個<b>基礎工具</b>。（0/5）"
+            "Description": "每5次<b>提取</b>節點時，隨機獲得一個<b>基礎工具</b>。（0/5）",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "注射器驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID110_DRIVER",
-            "Description": "每次<b>提取</b>節點時，恢復15點<b>完整性</b>。"
+            "Description": "每次<b>提取</b>節點時，恢復15點<b>完整性</b>。",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "工具箱驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID111_DRIVER",
-            "Description": "每次使用<b>技能</b>時，隨機獲得一個<b>基礎工具</b>。"
+            "Description": "每次使用<b>技能</b>時，隨機獲得一個<b>基礎工具</b>。",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "冷卻器驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID112_DRIVER",
-            "Description": "每擊敗或禁用5個<b>哨衛</b>時，刷新你的<b>技能</b>。（0/5）"
+            "Description": "每擊敗或禁用5個<b>哨衛</b>時，刷新你的<b>技能</b>。（0/5）",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "紅外驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID113_DRIVER",
-            "Description": "每當<b>警報級別</b>提升時，隨機揭開2個區域。"
+            "Description": "每當<b>警報級別</b>提升時，隨機揭開2個區域。",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "隱身驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID114_DRIVER",
-            "Description": "當<b>蹤跡等級</b>為0時，你可以在<b>哨衛</b>未禁用的條件下進行穿越。"
+            "Description": "當<b>蹤跡等級</b>為0時，你可以在<b>哨衛</b>未禁用的條件下進行穿越。",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "接入驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID115_DRIVER",
-            "Description": "<b>門扉</b>在<b>警報級別</b>提升時不再關閉。"
+            "Description": "<b>門扉</b>在<b>警報級別</b>提升時不再關閉。",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "安全驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID116_DRIVER",
-            "Description": "<b>哨衛</b>在<b>警報級別</b>提升時不再生成。"
+            "Description": "<b>哨衛</b>在<b>警報級別</b>提升時不再生成。",
+            "ImageIcon": "Driver_Icon_Map_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "採集驅動",
             "ImagePath": "Driver_01.png",
             "Code": "ID117_DRIVER",
-            "Description": "當你擁有至少1200條<b>情報</b>時，提取節點獲得的情報增加30%。"
+            "Description": "當你擁有至少1200條<b>情報</b>時，提取節點獲得的情報增加30%。",
+            "ImageIcon": "Driver_Icon_Intel_01.png",
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "風暴驅動",
             "ImagePath": "Driver_04.png",
             "Code": "ID38_DRIVER",
-            "Description": "回合結束時，每擁有一點<b>VIM</b>，對所有目標造成3點<b>傷害</b>。（0點<b>傷害</b>）"
+            "Description": "回合結束時，每擁有一點<b>VIM</b>，對所有目標造成3點<b>傷害</b>。（0點<b>傷害</b>）",
+            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "日蝕驅動",
             "ImagePath": "Driver_04.png",
             "Code": "ID39_DRIVER",
-            "Description": "<b>野性</b>不再在每回合結束時衰減。"
+            "Description": "<b>野性</b>不再在每回合結束時衰減。",
+            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "先鋒驅動",
             "ImagePath": "Driver_04.png",
             "Code": "ID40_DRIVER",
-            "Description": "每回合開始時，按你擁有的<b>堅韌</b>層數，對所有目標造成3點<b>傷害</b>。(0點<b>傷害</b>)"
+            "Description": "每回合開始時，按你擁有的<b>堅韌</b>層數，對所有目標造成3點<b>傷害</b>。(0點<b>傷害</b>)",
+            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "疾速驅動",
             "ImagePath": "Driver_04.png",
             "Code": "ID26_URSA_DRIVER",
-            "Description": "每打出第6張卡牌，獲得1<b>時鐘</b>。（0/6）"
+            "Description": "每打出第6張卡牌，獲得1<b>時鐘</b>。（0/6）",
+            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "毒性驅動",
             "ImagePath": "Driver_04.png",
             "Code": "ID44_DRIVER",
-            "Description": "每回合首次打出一張<b>攻擊</b>牌，獲得2層<b>野性</b>。"
+            "Description": "每回合首次打出一張<b>攻擊</b>牌，獲得2層<b>野性</b>。",
+            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "紫葳驅動",
             "ImagePath": "Driver_04.png",
             "Code": "ID45_DRIVER",
-            "Description": "每回合首次獲得<b>堅韌</b>，獲得2層<b>堅韌</b>。"
+            "Description": "每回合首次獲得<b>堅韌</b>，獲得2層<b>堅韌</b>。",
+            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "原子驅動",
             "ImagePath": "Driver_04.png",
             "Code": "ID46_DRIVER",
-            "Description": "每回合開始時，如果你處於<b>最大VIM</b>，抽2張牌。"
+            "Description": "每回合開始時，如果你處於<b>最大VIM</b>，抽2張牌。",
+            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "利爪驅動",
             "ImagePath": "Driver_04.png",
             "Code": "ID47_DRIVER",
-            "Description": "帶有<b>“代碼斬”</b>的卡牌造成額外20%的<b>傷害</b>。"
+            "Description": "帶有<b>“代碼斬”</b>的卡牌造成額外20%的<b>傷害</b>。",
+            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "鉻驅動",
             "ImagePath": "Driver_04.png",
             "Code": "ID48_DRIVER",
-            "Description": "每場戰鬥開始時，隨機升級3張你代碼庫中帶有<b>“代碼斬”</b>的卡牌，直到戰鬥結束。"
+            "Description": "每場戰鬥開始時，隨機升級3張你代碼庫中帶有<b>“代碼斬”</b>的卡牌，直到戰鬥結束。",
+            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "Color": "#5AC7D6FF"
         }
     ]
 }
