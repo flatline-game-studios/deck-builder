@@ -5,8 +5,8 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK",
             "Descriptions": [
-                "20<b>ダメージ</b>を与える",
-                "<b>破棄した後</b>、ICEに20<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る"
+                "30<b>ダメージ</b>を与える",
+                "<b>破棄した後</b>、ICEに30<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -22,8 +22,8 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK_UPGRADED",
             "Descriptions": [
-                "20<b>ダメージ</b>を与える",
-                "<b>破棄した後</b>、ICEに35<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る"
+                "40<b>ダメージ</b>を与える",
+                "<b>破棄した後</b>、ICEに40<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -40,8 +40,8 @@
             "Code": "APEX_ARACHNID",
             "Descriptions": [
                 "70<b>ダメージ</b>を与える",
-                "<b>バイトスクリプト</b>を2枚得る",
-                "<b>アシスト3:</b> <b>バイトスクリプト</b>を2枚得る"
+                "<b>バイトスクリプト</b>を3枚得る",
+                "<b>アシスト3:</b> <b>バイトスクリプト</b>を3枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -57,8 +57,8 @@
             "ImagePath": "APEX_ARACHNID.jpg",
             "Code": "APEX_ARACHNID_UPGRADED",
             "Descriptions": [
-                "80<b>ダメージ</b>を与える",
-                "<b>バイトスクリプト</b>を4枚得る",
+                "120<b>ダメージ</b>を与える",
+                "<b>バイトスクリプト</b>を3枚得る",
                 "<b>アシスト3:</b> <b>バイトスクリプト</b>を3枚得る"
             ],
             "Conditional": "",
@@ -326,7 +326,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "C級",
+            "Rarity": "U級",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
@@ -343,11 +343,11 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "C級",
+            "Rarity": "U級",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -495,8 +495,8 @@
             "ImagePath": "LIQUEFACTION.jpg",
             "Code": "LIQUEFACTION",
             "Descriptions": [
-                "10<b>ダメージ</b>を与える",
-                "<b>命中した後</b>、<b>バイトスクリプト</b>を3枚得る"
+                "20<b>ダメージ</b>を与える",
+                "<b>命中した後</b>、<b>バイトスクリプト</b>を2枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -512,8 +512,8 @@
             "ImagePath": "LIQUEFACTION.jpg",
             "Code": "LIQUEFACTION_UPGRADED",
             "Descriptions": [
-                "10<b>ダメージ</b>を与える",
-                "<b>命中した後</b>、<b>バイトスクリプト</b>を4枚得る"
+                "20<b>ダメージ</b>を与える",
+                "<b>命中した後</b>、<b>バイトスクリプト</b>を3枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -608,7 +608,7 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "攻撃",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -616,8 +616,8 @@
             "ImagePath": "NEUROTOXIC_HARPOON.jpg",
             "Code": "NEUROTOXIC_HARPOON_UPGRADED",
             "Descriptions": [
-                "60<b>ダメージ</b>を与える",
-                "<b>命中した後</b>、戦闘終了まで<b>バイトスクリプト</b>の基礎ダメージを8上げる",
+                "80<b>ダメージ</b>を与える",
+                "<b>命中した後</b>、戦闘終了まで<b>バイトスクリプト</b>の基礎ダメージを5上げる",
                 "<b>デコンパイル</b>する"
             ],
             "Conditional": "",
@@ -626,7 +626,7 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "攻撃",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true
         },
         {
@@ -644,7 +644,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": false
         },
         {
@@ -662,7 +662,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -749,7 +749,7 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "攻撃",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": false
         },
         {
@@ -766,7 +766,7 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "攻撃",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -878,7 +878,7 @@
             "ImagePath": "SKITTERING_STRIKE.jpg",
             "Code": "SKITTERING_STRIKE",
             "Descriptions": [
-                "20<b>ダメージ</b>を与える"
+                "30<b>ダメージ</b>を与える"
             ],
             "Conditional": "<b>オーグメントされた</b>命令を持った場合、さらに：",
             "ConditionalDescriptions": [
@@ -906,7 +906,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -950,9 +950,9 @@
             "ImagePath": "SPAWNER.jpg",
             "Code": "SPAWNER",
             "Descriptions": [
-                "10<b>ダメージ</b>を与える",
+                "15<b>ダメージ</b>を与える",
                 "<b>バイトスクリプト</b>カードを1枚得る",
-                "<b>破棄した後</b>、<b>バイトスクリプト</b>を3枚得る"
+                "<b>破棄した後</b>、<b>バイトスクリプト</b>を2枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -960,7 +960,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
-            "Vim": 1,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -970,7 +970,7 @@
             "Descriptions": [
                 "20<b>ダメージ</b>を与える",
                 "<b>バイトスクリプト</b>カードを2枚得る",
-                "<b>破棄した後</b>、<b>バイトスクリプト</b>を4枚得る"
+                "<b>破棄した後</b>、<b>バイトスクリプト</b>を3枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -987,7 +987,7 @@
             "Code": "SPIDER_KING",
             "Descriptions": [
                 "60<b>ダメージ</b>を与える",
-                "<b>アシスト4:</b>ランダムな<b>スクリプト</b>カードを2枚得る",
+                "<b>アシスト2:</b>ランダムな<b>スクリプト</b>カードを2枚得る",
                 "<b>デコンパイル</b>する"
             ],
             "Conditional": "",
@@ -1005,7 +1005,7 @@
             "Code": "SPIDER_KING_UPGRADED",
             "Descriptions": [
                 "70<b>ダメージ</b>を与える",
-                "<b>アシスト4:</b>ランダムな<b>スクリプト</b>カードを3枚得る",
+                "<b>アシスト2:</b>ランダムな<b>スクリプト</b>カードを3枚得る",
                 "<b>デコンパイル</b>する"
             ],
             "Conditional": "",
@@ -1056,8 +1056,8 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "TEMP_AFTERSHOCK",
             "Descriptions": [
-                "20<b>ダメージ</b>を与える",
-                "<b>破棄した後</b>、ICEに20<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る",
+                "30<b>ダメージ</b>を与える",
+                "<b>破棄した後</b>、ICEに30<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る",
                 "<b>仮のコピー</b>。"
             ],
             "Conditional": "",
@@ -1074,8 +1074,8 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "TEMP_AFTERSHOCK_UPGRADED",
             "Descriptions": [
-                "20<b>ダメージ</b>を与える",
-                "<b>破棄した後</b>、ICEに35<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る",
+                "40<b>ダメージ</b>を与える",
+                "<b>破棄した後</b>、ICEに40<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る",
                 "<b>仮のコピー</b>。"
             ],
             "Conditional": "",
@@ -1400,7 +1400,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": true
         },
         {
@@ -1586,7 +1586,7 @@
             "ImagePath": "PATCHWORK.jpg",
             "Code": "PATCHWORK",
             "Descriptions": [
-                "カードを破棄する",
+                "最大で3枚までカードを破棄できる",
                 "破棄したカード1枚につき、20<b>バリア</b>を得る"
             ],
             "Conditional": "",
@@ -1595,7 +1595,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 1,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -1603,7 +1603,7 @@
             "ImagePath": "PATCHWORK.jpg",
             "Code": "PATCHWORK_UPGRADED",
             "Descriptions": [
-                "任意の枚数のカードを破棄する",
+                "最大で5枚までカードを破棄できる",
                 "破棄したカード1枚につき、25<b>バリア</b>を得る"
             ],
             "Conditional": "",
@@ -1612,7 +1612,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -1699,7 +1699,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 1,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -1716,7 +1716,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 1,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -1724,8 +1724,8 @@
             "ImagePath": "SILK_SHELL.jpg",
             "Code": "SILK_SHELL",
             "Descriptions": [
-                "35<b>バリア</b>を得る",
-                "<b>コクーンスクリプト</b>を3枚得る"
+                "40<b>バリア</b>を得る",
+                "<b>コクーンスクリプト</b>を2枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1741,8 +1741,8 @@
             "ImagePath": "SILK_SHELL.jpg",
             "Code": "SILK_SHELL_UPGRADED",
             "Descriptions": [
-                "35<b>バリア</b>を得る",
-                "<b>コクーンスクリプト</b>を5枚得る"
+                "50<b>バリア</b>を得る",
+                "<b>コクーンスクリプト</b>を3枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1760,7 +1760,7 @@
             "Descriptions": [
                 "50<b>バリア</b>を得る",
                 "クリティカル命令を<b>オーグメント</b>する",
-                "<b>コクーンスクリプト</b>を2枚得る"
+                "<b>コクーンスクリプト</b>を1枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1768,7 +1768,7 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "防御",
-            "Vim": 3,
+            "Vim": 4,
             "IsUpgrade": false
         },
         {
@@ -1778,7 +1778,7 @@
             "Descriptions": [
                 "60<b>バリア</b>を得る",
                 "クリティカル命令を<b>オーグメント</b>する",
-                "<b>コクーンスクリプト</b>を4枚得る"
+                "<b>コクーンスクリプト</b>を2枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1786,7 +1786,7 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "防御",
-            "Vim": 3,
+            "Vim": 5,
             "IsUpgrade": true
         },
         {
@@ -1906,7 +1906,7 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "防御",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": false
         },
         {
@@ -1924,7 +1924,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -2141,11 +2141,12 @@
             "ImagePath": "FORTUNE_COOKIE.jpg",
             "Code": "FORTUNE_COOKIE",
             "Descriptions": [
+                "カードを1枚破棄する",
                 "<b>破棄した後</b>、1枚引く。ランダムな<b>スクリプト</b>カードを1枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "U級",
+            "Rarity": "C級",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "生成元",
@@ -2157,11 +2158,12 @@
             "ImagePath": "FORTUNE_COOKIE.jpg",
             "Code": "FORTUNE_COOKIE_UPGRADED",
             "Descriptions": [
+                "カードを1枚破棄する",
                 "<b>破棄した後</b>、2枚引く。ランダムな<b>スクリプト</b>カードを1枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "U級",
+            "Rarity": "C級",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "生成元",
@@ -2311,17 +2313,16 @@
             "ImagePath": "PEAK_PERFORMANCE.jpg",
             "Code": "PEAK_PERFORMANCE",
             "Descriptions": [
-                "最大<b>VIM</b>まで<b>VIM</b>を得る",
-                "<b>デコンパイル</b>する",
-                "<b>破棄した後</b>、1<b>増幅</b>を得る"
+                "最大で3枚までカードを破棄できる",
+                "1枚のカードを引き、カードを1枚捨てるごとに1ポイントのVIMを生成します。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "R級",
             "Color": "#E9B705FF",
-            "Clock": 3,
+            "Clock": 1,
             "Type": "生成元",
-            "Vim": 0,
+            "Vim": 1,
             "IsUpgrade": false
         },
         {
@@ -2329,17 +2330,16 @@
             "ImagePath": "PEAK_PERFORMANCE.jpg",
             "Code": "PEAK_PERFORMANCE_UPGRADED",
             "Descriptions": [
-                "最大<b>VIM</b>まで<b>VIM</b>を得る",
-                "<b>デコンパイル</b>する",
-                "<b>破棄した後</b>、1<b>増幅</b>を得る"
+                "最大で3枚までカードを破棄できる",
+                "1枚のカードを引き、カードを1枚捨てるごとに1ポイントのVIMを生成します。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "R級",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 0,
             "Type": "生成元",
-            "Vim": 0,
+            "Vim": 1,
             "IsUpgrade": true
         },
         {
@@ -2391,7 +2391,7 @@
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "生成元",
-            "Vim": 1,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -2484,7 +2484,7 @@
             "Code": "SUDDEN_SPIN",
             "Descriptions": [
                 "カードを1枚破棄する",
-                "<b>コクーンスクリプト</b>を1枚得る"
+                "ランダムな<b>スクリプト</b>カードを1枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2501,7 +2501,7 @@
             "Code": "SUDDEN_SPIN_UPGRADED",
             "Descriptions": [
                 "カードを1枚破棄する",
-                "<b>コクーンスクリプト</b>を2枚得る"
+                "ランダムな<b>スクリプト</b>カードを2枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2585,16 +2585,16 @@
             "ImagePath": "THUNDERFLY.jpg",
             "Code": "THUNDERFLY",
             "Descriptions": [
-                "カードを2枚引く",
-                "<b>アシスト2:</b> 4<b>VIM</b>を得る"
+                "カードを1枚引く",
+                "<b>アシスト2:</b> 4<b>VIM</b>を生成します"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "R級",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "生成元",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -2602,16 +2602,16 @@
             "ImagePath": "THUNDERFLY.jpg",
             "Code": "THUNDERFLY_UPGRADED",
             "Descriptions": [
-                "カードを3枚引く",
-                "<b>アシスト2:</b> 6<b>VIM</b>を得る"
+                "カードを2枚引く",
+                "<b>アシスト2:</b> 5<b>VIM</b>を生成します"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "R級",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "生成元",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": true
         },
         {
@@ -2625,9 +2625,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "R級",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "プロトコル",
-            "Vim": 4,
+            "Vim": 0,
             "IsUpgrade": false
         },
         {
@@ -2641,7 +2641,7 @@
             "ConditionalDescriptions": [],
             "Rarity": "SR級",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 3,
             "Type": "プロトコル",
             "Vim": 4,
             "IsUpgrade": false
@@ -2737,9 +2737,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "R級",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "プロトコル",
-            "Vim": 3,
+            "Vim": 0,
             "IsUpgrade": false
         },
         {
@@ -2858,18 +2858,35 @@
             "CardName": "コア貫通",
             "ImagePath": "PIERCE_CORE.jpg",
             "Code": "PIERCE_CORE",
-            "Descriptions": [
+            "Descriptions": [],
+            "Conditional": "もしシールドの周辺機器が無効になっている場合：",
+            "ConditionalDescriptions": [
                 "コアの周辺機器に150ダメージを与える",
                 "<b>デコンパイル</b>する"
             ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
             "Rarity": "SR級",
             "Color": "#FFFFFFFF",
             "Clock": 2,
             "Type": "スペシャル",
             "Vim": 4,
             "IsUpgrade": false
+        },
+        {
+            "CardName": "<color=#971797>コア貫通</color>",
+            "ImagePath": "PIERCE_CORE.jpg",
+            "Code": "PIERCE_CORE_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "もしシールドの周辺機器が無効になっている場合：",
+            "ConditionalDescriptions": [
+                "コアの周辺機器に150ダメージを与える",
+                "<b>デコンパイル</b>する"
+            ],
+            "Rarity": "SR級",
+            "Color": "#FFFFFFFF",
+            "Clock": 1,
+            "Type": "スペシャル",
+            "Vim": 4,
+            "IsUpgrade": true
         },
         {
             "CardName": "",
@@ -3471,7 +3488,7 @@
             "ConditionalDescriptions": [
                 "90<b>ダメージ</b>を与える"
             ],
-            "Rarity": "U級",
+            "Rarity": "R級",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
@@ -3490,7 +3507,7 @@
             "ConditionalDescriptions": [
                 "90<b>ダメージ</b>を与える"
             ],
-            "Rarity": "U級",
+            "Rarity": "R級",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
@@ -4290,7 +4307,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": true
         },
         {

@@ -23,15 +23,15 @@
         },
         {
             "CommandName": "構築",
-            "Cost": 5,
-            "Description": "Create 1 copy of the last <b>Script</b> you played this turn.  ",
+            "Cost": 6,
+            "Description": "このターンに最後にプレイした<b>スクリプト</b>のコピーを1枚生成する。 ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND"
         },
         {
             "CommandName": "オーグ・構築",
-            "Cost": 5,
-            "Description": "Create 2 copies of the last <b>Script</b> you played this turn.  ",
+            "Cost": 6,
+            "Description": "このターンに最後にプレイした<b>スクリプト</b>のコピーを2枚生成する。 ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND_AUGMENTED"
         },
@@ -122,7 +122,7 @@
         {
             "CommandName": "再利用",
             "Cost": 6,
-            "Description": "ランダムに1枚を破棄して1枚を引く。",
+            "Description": "カードを1枚破棄する",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND"
         },
@@ -135,28 +135,28 @@
         },
         {
             "CommandName": "ラッシュ",
-            "Cost": 15,
+            "Cost": 16,
             "Description": "ランダムに<b>アシスト</b>効果を1回解き放つ。",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND"
         },
         {
             "CommandName": "オーグ・ラッシュ",
-            "Cost": 15,
+            "Cost": 16,
             "Description": "ランダムに<b>アシスト</b>効果を2回解き放つ。",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "プランニング",
-            "Cost": 10,
+            "Cost": 12,
             "Description": "このターン中、すべての<b>スクリプト</b>を次ターンの<b>手札に残す</b>。",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND"
         },
         {
             "CommandName": "オーグ・プランニング",
-            "Cost": 10,
+            "Cost": 12,
             "Description": "ランダムな<b>スクリプト</b>カードを1枚生成する。このターン中、すべての<b>スクリプト</b>を次ターンの<b>手札に残す</b>。",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND_AUGMENTED"
@@ -233,7 +233,7 @@
         },
         {
             "CommandName": "回収",
-            "Cost": 11,
+            "Cost": 12,
             "Description": "ゴミ箱から最大2枚のカードを選び、手札に加える。",
             "Tier": "Major",
             "Code": "RecollectCommand"

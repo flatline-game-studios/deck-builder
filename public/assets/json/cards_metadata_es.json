@@ -5,8 +5,8 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK",
             "Descriptions": [
-                "Haz 20 de daño.",
-                "<b>Al descartar:</b> Haz 20 de daño al ICE y crea una copia <b>Temporaria</b> de esta carta."
+                "Haz 30 de daño.",
+                "<b>Al descartar:</b> Haz 30 de daño al ICE y crea una copia <b>Temporaria</b> de esta carta."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -22,8 +22,8 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK_UPGRADED",
             "Descriptions": [
-                "Haz 20 de daño.",
-                "<b>Al descartar:</b> Haz 35 de daño al ICE y crea una copia <b>Temporaria</b> de esta carta."
+                "Haz 40 de daño.",
+                "<b>Al descartar:</b> Haz 40 de daño al ICE y crea una copia <b>Temporaria</b> de esta carta."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -40,8 +40,8 @@
             "Code": "APEX_ARACHNID",
             "Descriptions": [
                 "Haz 70 de daño.",
-                "Crea 2 <b>Scripts de Mordida</b>.",
-                "<b>Asistir 3:</b> Crea 2 <b>Scripts de Mordida</b>."
+                "Crea 3 <b>Scripts de Mordida</b>.",
+                "<b>Asistir 3:</b> Crea 3 <b>Scripts de Mordida</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -57,8 +57,8 @@
             "ImagePath": "APEX_ARACHNID.jpg",
             "Code": "APEX_ARACHNID_UPGRADED",
             "Descriptions": [
-                "Haz 80 de daño.",
-                "Crea 4 <b>Scripts de Mordida</b>.",
+                "Haz 120 de daño.",
+                "Crea 3 <b>Scripts de Mordida</b>.",
                 "<b>Asistir 3:</b> Crea 3 <b>Scripts de Mordida</b>."
             ],
             "Conditional": "",
@@ -326,7 +326,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "COMÚN",
+            "Rarity": "POCO COMÚN",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATAQUE",
@@ -343,11 +343,11 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "COMÚN",
+            "Rarity": "POCO COMÚN",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATAQUE",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -495,8 +495,8 @@
             "ImagePath": "LIQUEFACTION.jpg",
             "Code": "LIQUEFACTION",
             "Descriptions": [
-                "Haz 10 de daño.",
-                "<b>Si Impacta:</b> Crea 3 <b>Scripts de Mordida</b>."
+                "Haz 20 de daño.",
+                "<b>Si Impacta:</b> Crea 2 <b>Scripts de Mordida</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -512,8 +512,8 @@
             "ImagePath": "LIQUEFACTION.jpg",
             "Code": "LIQUEFACTION_UPGRADED",
             "Descriptions": [
-                "Haz 10 de daño.",
-                "<b>Si Impacta:</b> Crea 4 <b>Scripts de Mordida</b>."
+                "Haz 20 de daño.",
+                "<b>Si Impacta:</b> Crea 3 <b>Scripts de Mordida</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -608,7 +608,7 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "ATAQUE",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -616,8 +616,8 @@
             "ImagePath": "NEUROTOXIC_HARPOON.jpg",
             "Code": "NEUROTOXIC_HARPOON_UPGRADED",
             "Descriptions": [
-                "Haz 60 de daño.",
-                "<b>Si Impacta:</b> Aumenta el daño base de los <b>Scripts de Mordida</b> en 8 hasta el final de combate.",
+                "Haz 80 de daño.",
+                "<b>Si Impacta:</b> Aumenta el daño base de los <b>Scripts de Mordida</b> en 5 hasta el final de combate.",
                 "<b>DECOMPILAR</b>."
             ],
             "Conditional": "",
@@ -626,7 +626,7 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "ATAQUE",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true
         },
         {
@@ -644,7 +644,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATAQUE",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": false
         },
         {
@@ -662,7 +662,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATAQUE",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -749,7 +749,7 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "ATAQUE",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": false
         },
         {
@@ -766,7 +766,7 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "ATAQUE",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -878,7 +878,7 @@
             "ImagePath": "SKITTERING_STRIKE.jpg",
             "Code": "SKITTERING_STRIKE",
             "Descriptions": [
-                "Haz 20 de daño."
+                "Haz 30 de daño."
             ],
             "Conditional": "Si tienes un Comando <b>Augmentado </b>, también:",
             "ConditionalDescriptions": [
@@ -906,7 +906,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATAQUE",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -950,9 +950,9 @@
             "ImagePath": "SPAWNER.jpg",
             "Code": "SPAWNER",
             "Descriptions": [
-                "Haz 10 de daño.",
+                "Haz 15 de daño.",
                 "Crea 1 <b>Script de Mordida</b>.",
-                "<b>Al descartar:</b> Crea 3 <b>Scripts de Mordida</b>."
+                "<b>Al descartar:</b> Crea 2 <b>Scripts de Mordida</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -960,7 +960,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATAQUE",
-            "Vim": 1,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -970,7 +970,7 @@
             "Descriptions": [
                 "Haz 20 de daño.",
                 "Crea 2 <b>Script de Mordida</b>.",
-                "<b>Al descartar:</b> Crea 4 <b>Scripts de Mordida</b>."
+                "<b>Al descartar:</b> Crea 3 <b>Scripts de Mordida</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -987,7 +987,7 @@
             "Code": "SPIDER_KING",
             "Descriptions": [
                 "Haz 60 de daño.",
-                "<b>Asistir 4:</b> Crea 2 <b>Scripts</b> al azar.",
+                "<b>Asistir 2:</b> Crea 2 <b>Scripts</b> al azar.",
                 "<b>DECOMPILAR</b>."
             ],
             "Conditional": "",
@@ -1005,7 +1005,7 @@
             "Code": "SPIDER_KING_UPGRADED",
             "Descriptions": [
                 "Haz 70 de daño.",
-                "<b>Asistir 4:</b> Crea 3 <b>Scripts</b> al azar.",
+                "<b>Asistir 2:</b> Crea 3 <b>Scripts</b> al azar.",
                 "<b>DECOMPILAR</b>."
             ],
             "Conditional": "",
@@ -1056,8 +1056,8 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "TEMP_AFTERSHOCK",
             "Descriptions": [
-                "Haz 20 de daño.",
-                "<b>Al descartar:</b> Haz 20 de daño y crea una copia <b>Temporaria</b> de esta carta.",
+                "Haz 30 de daño.",
+                "<b>Al descartar:</b> Haz 30 de daño y crea una copia <b>Temporaria</b> de esta carta.",
                 "<b>Temporaria</b>."
             ],
             "Conditional": "",
@@ -1074,8 +1074,8 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "TEMP_AFTERSHOCK_UPGRADED",
             "Descriptions": [
-                "Haz 20 de daño.",
-                "<b>Al descartar:</b> Haz 35 de daño y crea una copia <b>Temporaria</b> de esta carta.",
+                "Haz 40 de daño.",
+                "<b>Al descartar:</b> Haz 40 de daño y crea una copia <b>Temporaria</b> de esta carta.",
                 "<b>Temporaria</b>."
             ],
             "Conditional": "",
@@ -1400,7 +1400,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSA",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": true
         },
         {
@@ -1586,7 +1586,7 @@
             "ImagePath": "PATCHWORK.jpg",
             "Code": "PATCHWORK",
             "Descriptions": [
-                "Descarta tu mano.",
+                "Descarta hasta 3 cartas.",
                 "Gana 20 de <b>Barrera</b> por carta descartada de esta forma."
             ],
             "Conditional": "",
@@ -1595,7 +1595,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSA",
-            "Vim": 1,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -1603,7 +1603,7 @@
             "ImagePath": "PATCHWORK.jpg",
             "Code": "PATCHWORK_UPGRADED",
             "Descriptions": [
-                "Descarta cualquier cantidad de cartas.",
+                "Descarta hasta 5 cartas.",
                 "Gana 25 de <b>Barrera</b> por carta descartada de esta forma."
             ],
             "Conditional": "",
@@ -1612,7 +1612,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSA",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -1699,7 +1699,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSA",
-            "Vim": 1,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -1716,7 +1716,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSA",
-            "Vim": 1,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -1724,8 +1724,8 @@
             "ImagePath": "SILK_SHELL.jpg",
             "Code": "SILK_SHELL",
             "Descriptions": [
-                "Gana 35 de <b>Barrera</b>.",
-                "Crea 3 <b>Scripts de Capullo</b>."
+                "Gana 40 de <b>Barrera</b>.",
+                "Crea 2 <b>Scripts de Capullo</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1741,8 +1741,8 @@
             "ImagePath": "SILK_SHELL.jpg",
             "Code": "SILK_SHELL_UPGRADED",
             "Descriptions": [
-                "Gana 35 de <b>Barrera</b>.",
-                "Crea 5 <b>Scripts de Capullo</b>."
+                "Gana 50 de <b>Barrera</b>.",
+                "Crea 3 <b>Scripts de Capullo</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1760,7 +1760,7 @@
             "Descriptions": [
                 "Gana 50 de <b>Barrera</b>.",
                 "<b>Augmenta</b> Crítico.",
-                "Crea 2 <b>Scripts de Capullo</b>."
+                "Crea 1 <b>Scripts de Capullo</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1768,7 +1768,7 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "DEFENSA",
-            "Vim": 3,
+            "Vim": 4,
             "IsUpgrade": false
         },
         {
@@ -1778,7 +1778,7 @@
             "Descriptions": [
                 "Gana 60 de <b>Barrera</b>.",
                 "<b>Augmenta</b> Crítico.",
-                "Crea 4 <b>Scripts de Capullo</b>."
+                "Crea 2 <b>Scripts de Capullo</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1786,7 +1786,7 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "DEFENSA",
-            "Vim": 3,
+            "Vim": 5,
             "IsUpgrade": true
         },
         {
@@ -1906,7 +1906,7 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "DEFENSA",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": false
         },
         {
@@ -1924,7 +1924,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSA",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -2141,11 +2141,12 @@
             "ImagePath": "FORTUNE_COOKIE.jpg",
             "Code": "FORTUNE_COOKIE",
             "Descriptions": [
+                "Descarta 1 carta.",
                 "<b>Al descartar:</b> Roba 1 carta y crea 1 <b>Script</b> al azar."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "POCO COMÚN",
+            "Rarity": "COMÚN",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "GENERADOR",
@@ -2157,11 +2158,12 @@
             "ImagePath": "FORTUNE_COOKIE.jpg",
             "Code": "FORTUNE_COOKIE_UPGRADED",
             "Descriptions": [
+                "Descarta 1 carta.",
                 "<b>Al descartar:</b> Roba 2 carta y crea 1 <b>Script</b> al azar."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "POCO COMÚN",
+            "Rarity": "COMÚN",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "GENERADOR",
@@ -2311,17 +2313,16 @@
             "ImagePath": "PEAK_PERFORMANCE.jpg",
             "Code": "PEAK_PERFORMANCE",
             "Descriptions": [
-                "Genera <b>VIM</b> hasta estar en MAX VIM.",
-                "<b>DECOMPILAR</b>.",
-                "<b>Al descartar:</b> Gana 1 de <b>Amplificación</b>."
+                "Descarta hasta 3 cartas.",
+                "Roba 1 carta y genera 1 VIM por carta descartada."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "RARO",
             "Color": "#E9B705FF",
-            "Clock": 3,
+            "Clock": 1,
             "Type": "GENERADOR",
-            "Vim": 0,
+            "Vim": 1,
             "IsUpgrade": false
         },
         {
@@ -2329,17 +2330,16 @@
             "ImagePath": "PEAK_PERFORMANCE.jpg",
             "Code": "PEAK_PERFORMANCE_UPGRADED",
             "Descriptions": [
-                "Genera <b>VIM</b> hasta estar en MAX VIM.",
-                "<b>DECOMPILAR</b>.",
-                "<b>Al descartar:</b> Gana 1 de <b>Amplificación</b>."
+                "Descarta hasta 3 cartas.",
+                "Roba 1 carta y genera 1 VIM por carta descartada."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "RARO",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 0,
             "Type": "GENERADOR",
-            "Vim": 0,
+            "Vim": 1,
             "IsUpgrade": true
         },
         {
@@ -2391,7 +2391,7 @@
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "GENERADOR",
-            "Vim": 1,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -2484,7 +2484,7 @@
             "Code": "SUDDEN_SPIN",
             "Descriptions": [
                 "Descarta 1 carta.",
-                "Crea 1 <b>Script de Mordida</b>."
+                "Crea 1 <b>Script</b> al azar."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2501,7 +2501,7 @@
             "Code": "SUDDEN_SPIN_UPGRADED",
             "Descriptions": [
                 "Descarta 1 carta.",
-                "Crea 2 <b>Script de Mordida</b>."
+                "Crea 2 <b>Script</b> al azar."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2585,16 +2585,16 @@
             "ImagePath": "THUNDERFLY.jpg",
             "Code": "THUNDERFLY",
             "Descriptions": [
-                "Roba 2 cartas.",
-                "<b>Asistir 2:</b> Gana 4 <b>VIM</b>."
+                "Roba 1 cartas.",
+                "<b>Asistir 2:</b> Genera 4 <b>VIM</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "RARO",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "GENERADOR",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -2602,16 +2602,16 @@
             "ImagePath": "THUNDERFLY.jpg",
             "Code": "THUNDERFLY_UPGRADED",
             "Descriptions": [
-                "Roba 3 cartas.",
-                "<b>Asistir 2:</b> Gana 6 <b>VIM</b>."
+                "Roba 2 cartas.",
+                "<b>Asistir 2:</b> Genera 5 <b>VIM</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "RARO",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "GENERADOR",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": true
         },
         {
@@ -2625,9 +2625,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "RARO",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "PROTOCOLO",
-            "Vim": 4,
+            "Vim": 0,
             "IsUpgrade": false
         },
         {
@@ -2641,7 +2641,7 @@
             "ConditionalDescriptions": [],
             "Rarity": "ÚNICO",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 3,
             "Type": "PROTOCOLO",
             "Vim": 4,
             "IsUpgrade": false
@@ -2737,9 +2737,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "RARO",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "PROTOCOLO",
-            "Vim": 3,
+            "Vim": 0,
             "IsUpgrade": false
         },
         {
@@ -2858,18 +2858,35 @@
             "CardName": "PERFORAR NÚCLEO",
             "ImagePath": "PIERCE_CORE.jpg",
             "Code": "PIERCE_CORE",
-            "Descriptions": [
+            "Descriptions": [],
+            "Conditional": "Si el Periférico Escudo está desactivado:",
+            "ConditionalDescriptions": [
                 "Hacer 150 de daño al Periférico Núcleo.",
                 "<b>DECOMPILAR</b>."
             ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
             "Rarity": "ÚNICO",
             "Color": "#FFFFFFFF",
             "Clock": 2,
             "Type": "ESPECIAL",
             "Vim": 4,
             "IsUpgrade": false
+        },
+        {
+            "CardName": "<color=#971797>PERFORAR NÚCLEO</color>",
+            "ImagePath": "PIERCE_CORE.jpg",
+            "Code": "PIERCE_CORE_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "Si el Periférico Escudo está desactivado:",
+            "ConditionalDescriptions": [
+                "Hacer 150 de daño al Periférico Núcleo.",
+                "<b>DECOMPILAR</b>."
+            ],
+            "Rarity": "ÚNICO",
+            "Color": "#FFFFFFFF",
+            "Clock": 1,
+            "Type": "ESPECIAL",
+            "Vim": 4,
+            "IsUpgrade": true
         },
         {
             "CardName": "WORK GUYS",
@@ -3471,7 +3488,7 @@
             "ConditionalDescriptions": [
                 "Haz 90 de daño."
             ],
-            "Rarity": "POCO COMÚN",
+            "Rarity": "RARO",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATAQUE",
@@ -3490,7 +3507,7 @@
             "ConditionalDescriptions": [
                 "Haz 90 de daño."
             ],
-            "Rarity": "POCO COMÚN",
+            "Rarity": "RARO",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATAQUE",
@@ -4290,7 +4307,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSA",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": true
         },
         {

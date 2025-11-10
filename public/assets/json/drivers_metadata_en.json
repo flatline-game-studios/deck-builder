@@ -2,7 +2,7 @@
     "Items": [
         {
             "DriverName": "AMBUSH DRIVER",
-            "ImagePath": "Red_ambush.png",
+            "ImagePath": "Driver_01.png",
             "Code": "AMBUSH_DRIVER",
             "Description": "At the start of each combat, inflict 1 <b>Exposed</b> to all targets."
         },
@@ -194,433 +194,433 @@
         },
         {
             "DriverName": "MAGNETRON DRIVER",
-            "ImagePath": "Boss Placeholder.png",
+            "ImagePath": "Driver_06.png",
             "Code": "ID41_DRIVER",
-            "Description": "Every time an <b>Assist</b> effect is triggered, generate 2 <b>VIM</b>."
+            "Description": "Every time an <b>Assist</b> effect is triggered at the start of your turn, generate 2 <b>VIM</b>."
         },
         {
             "DriverName": "SATELLITE DRIVER",
-            "ImagePath": "Boss Placeholder.png",
+            "ImagePath": "Driver_06.png",
             "Code": "ID42_DRIVER",
             "Description": "At the start of each combat, <b>Augment</b> all <b>Commands</b> and gain 1 <b>Clock</b>."
         },
         {
             "DriverName": "CHAIN DRIVER",
-            "ImagePath": "Boss Placeholder.png",
+            "ImagePath": "Driver_06.png",
             "Code": "ID52_DRIVER",
             "Description": "Every time you play 6 <b>SCRIPTS</b> in a row, gain 1 <b>Clock</b>. (0/6)"
         },
         {
             "DriverName": "AGILITY DRIVER",
-            "ImagePath": "Green R.png",
+            "ImagePath": "Driver_06.png",
             "Code": "ID26_DARWIN_DRIVER",
-            "Description": "Every 10th card you play, gain 1 <b>Clock</b>. (0/10)"
+            "Description": "Every 14th card you play, gain 1 <b>Clock</b>. (0/14)"
         },
         {
             "DriverName": "VIPER DRIVER",
-            "ImagePath": "Red R.png",
+            "ImagePath": "Driver_06.png",
             "Code": "ID43_DRIVER",
             "Description": "Increase the base <b>DMG</b> of <b>BITE SCRIPTS</b> by 4."
         },
         {
             "DriverName": "BOOMERANG DRIVER",
-            "ImagePath": "Green R.png",
+            "ImagePath": "Driver_06.png",
             "Code": "ID49_DRIVER",
             "Description": "Each turn, the first <b>Assist</b> effect that expires returns to your hand."
         },
         {
             "DriverName": "SHOCKWAVE DRIVER",
-            "ImagePath": "Red R.png",
+            "ImagePath": "Driver_06.png",
             "Code": "ID50_DRIVER",
             "Description": "Every time you use an <b>Augmented Command</b>, deal 20 <b>DMG</b> to all targets."
         },
         {
             "DriverName": "HUNGER DRIVER",
-            "ImagePath": "Red R.png",
+            "ImagePath": "Driver_06.png",
             "Code": "ID51_DRIVER",
             "Description": "All random <b>SCRIPTS</b> will be <b>BITE SCRIPTS</b>."
         },
         {
             "DriverName": "TRANSISTOR DRIVER",
-            "ImagePath": "Yellow R.png",
+            "ImagePath": "Driver_06.png",
             "Code": "ID53_DRIVER",
-            "Description": "Every time you discard a card, generate <b>VIM</b> equal to its cost."
+            "Description": "Every time you discard a card during your turn, generate its base <b>VIM</b>."
         },
         {
             "DriverName": "DYNAMO DRIVER",
-            "ImagePath": "Boss Placeholder.png",
+            "ImagePath": "Driver_05.png",
             "Code": "ID32_DRIVER",
             "Description": "Every time you play a card, generate 1 <b>VIM</b>."
         },
         {
             "DriverName": "MISSILE DRIVER",
-            "ImagePath": "Boss Placeholder.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID33_DRIVER",
             "Description": "Reduce the cost of all 3-cost cards by 1."
         },
         {
             "DriverName": "CRANIUM DRIVER",
-            "ImagePath": "Boss Placeholder.png",
+            "ImagePath": "Driver_05.png",
             "Code": "ID34_DRIVER",
             "Description": "Every 3rd <b>Command</b> you use, gain 1 <b>Clock</b> and draw 1 card. (0/3)"
         },
         {
             "DriverName": "PATIENCE DRIVER",
-            "ImagePath": "Boss Placeholder.png",
+            "ImagePath": "Driver_05.png",
             "Code": "ID35_DRIVER",
             "Description": "At the end of your turn, if you haven't used any <b>Commands</b>, gain 1 <b>Overclocked</b>."
         },
         {
             "DriverName": "PERFORMANCE DRIVER",
-            "ImagePath": "Boss Placeholder.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID36_DRIVER",
             "Description": "The first time you play a 2-cost card each turn, gain 1 <b>Clock</b>."
         },
         {
             "DriverName": "COURAGE DRIVER",
-            "ImagePath": "Boss Placeholder.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID37_DRIVER",
             "Description": "On Elite and Core Keeper combats, at the start of your turn, gain 1 <b>Clock</b> and generate 4 <b>VIM</b>."
         },
         {
             "DriverName": "PROMPT DRIVER",
-            "ImagePath": "Green R.png",
+            "ImagePath": "Driver_05.png",
             "Code": "ID22_DRIVER",
             "Description": "Every time you use a <b>Command</b>, draw 1 card."
         },
         {
             "DriverName": "TURNTABLE DRIVER",
-            "ImagePath": "Green R.png",
+            "ImagePath": "Driver_05.png",
             "Code": "ID23_DRIVER",
             "Description": "You can use <b>Minor Commands</b> 2 times per turn."
         },
         {
             "DriverName": "PLATING DRIVER",
-            "ImagePath": "Blue R.png",
+            "ImagePath": "Driver_03.png",
             "Code": "ID24_DRIVER",
             "Description": "Every time you play a <b>DEFENSE</b>, gain 10 <b>Barrier</b>."
         },
         {
             "DriverName": "PROTO DRIVER",
-            "ImagePath": "Purple R.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID25_DRIVER",
             "Description": "<b>PROTOCOLS</b> cost 1 less <b>Clock</b>."
         },
         {
             "DriverName": "ZERO DRIVER",
-            "ImagePath": "Yellow R.png",
+            "ImagePath": "Driver_05.png",
             "Code": "ID27_DRIVER",
             "Description": "Every time you reach 0 <b>VIM</b>, generate 4 <b>VIM</b>."
         },
         {
             "DriverName": "ZAP DRIVER",
-            "ImagePath": "Red R.png",
+            "ImagePath": "Driver_02.png",
             "Code": "ID28_DRIVER",
             "Description": "Every time you draw a card during your turn, deal 4 <b>DMG</b> to the ICE."
         },
         {
             "DriverName": "FUMES DRIVER",
-            "ImagePath": "Red R.png",
+            "ImagePath": "Driver_02.png",
             "Code": "ID29_DRIVER",
             "Description": "Every time you inflict <b>Exposed</b>, also inflict  <b>Debilitated</b>."
         },
         {
             "DriverName": "DOMINO DRIVER",
-            "ImagePath": "Red R.png",
+            "ImagePath": "Driver_02.png",
             "Code": "ID30_DRIVER",
             "Description": "Every time you disable a <b>Peripheral</b>, gain 1 <b>Overclocked</b> and 1 <b>Cached</b>."
         },
         {
             "DriverName": "UPDATE DRIVER",
-            "ImagePath": "Green R.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID31_DRIVER",
             "Description": "At the start of each combat, upgrade 3 random <b>STARTER</b> cards from your Repo until end of combat."
         },
         {
             "DriverName": "SUNFLOWER DRIVER",
-            "ImagePath": "Yellow U.png",
+            "ImagePath": "Driver_05.png",
             "Code": "ID1_DRIVER",
             "Description": "Every time you play a <b>GENERATOR</b> card, generate 1 <b>VIM</b>."
         },
         {
             "DriverName": "ROOSTER DRIVER",
-            "ImagePath": "Yellow U.png",
+            "ImagePath": "Driver_05.png",
             "Code": "ID2_DRIVER",
             "Description": "At the start of each combat, generate 5 <b>VIM</b>."
         },
         {
             "DriverName": "CYCLONE DRIVER",
-            "ImagePath": "Yellow U.png",
+            "ImagePath": "Driver_05.png",
             "Code": "ID3_DRIVER",
             "Description": "Every time you shuffle your Recycler into your Repo, generate 3 <b>VIM</b>."
         },
         {
             "DriverName": "GHOST DRIVER",
-            "ImagePath": "Green U.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID4_DRIVER",
-            "Description": "Each combat, the first card that you play that would be <b>DECOMPILED</b> gets discarded instead."
+            "Description": "Each combat, the first card that you play that would be <b>DECOMPILED</b> will go to the Recycler instead."
         },
         {
             "DriverName": "MILL DRIVER",
-            "ImagePath": "Green U.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID5_DRIVER",
             "Description": "Every 6th card you play, draw 1 card. (0/6)"
         },
         {
             "DriverName": "STREAM DRIVER",
-            "ImagePath": "Red U.png",
+            "ImagePath": "Driver_02.png",
             "Code": "ID6_DRIVER",
             "Description": "Every time you play 3 <b>ATTACKS</b> in a single turn, draw 1 card. (0/3)"
         },
         {
             "DriverName": "VINYL DRIVER",
-            "ImagePath": "Green U.png",
+            "ImagePath": "Driver_05.png",
             "Code": "ID7_DRIVER",
             "Description": "Every time you use 3 <b>Commands</b> in a single turn, gain 1 <b>Clock</b>. (0/3)"
         },
         {
             "DriverName": "BATTERY DRIVER",
-            "ImagePath": "Blue U.png",
+            "ImagePath": "Driver_03.png",
             "Code": "ID8_DRIVER",
             "Description": "Every time you play 3 <b>DEFENSES</b> in a single turn, gain 1 <b>Overclocked</b>. (0/3)"
         },
         {
             "DriverName": "MOLOTOV DRIVER",
-            "ImagePath": "Red U.png",
+            "ImagePath": "Driver_02.png",
             "Code": "ID9_DRIVER",
             "Description": "Every 6th <b>ATTACK</b> you play, deal 15 <b>DMG</b> to all targets. (0/6)"
         },
         {
             "DriverName": "THUNDER DRIVER",
-            "ImagePath": "Yellow U.png",
+            "ImagePath": "Driver_05.png",
             "Code": "ID10_DRIVER",
             "Description": "Every time you reach <b>MAX VIM</b>, deal 15 <b>DMG</b> to all targets."
         },
         {
             "DriverName": "BUBBLE DRIVER",
-            "ImagePath": "Yellow U.png",
+            "ImagePath": "Driver_05.png",
             "Code": "ID11_DRIVER",
             "Description": "The first time you reach <b>MAX VIM</b> each combat, gain 70 <b>Barrier</b>."
         },
         {
             "DriverName": "HIBERNATION DRIVER",
-            "ImagePath": "Blue U.png",
+            "ImagePath": "Driver_03.png",
             "Code": "ID12_DRIVER",
             "Description": "Each turn, preserve up to 30 <b>Barrier</b> instead of losing it all."
         },
         {
             "DriverName": "ENCRYPTION DRIVER",
-            "ImagePath": "Purple U.png",
+            "ImagePath": "Driver_03.png",
             "Code": "ID13_DRIVER",
             "Description": "Every time you play a <b>PROTOCOL</b>, gain 70 <b>Barrier</b>."
         },
         {
             "DriverName": "ACHILLES DRIVER",
-            "ImagePath": "Red U.png",
+            "ImagePath": "Driver_02.png",
             "Code": "ID14_DRIVER",
             "Description": "Every time you disable a <b>Peripheral</b>, deal 30 <b>DMG</b> to the ICE."
         },
         {
             "DriverName": "AMBUSH DRIVER",
-            "ImagePath": "Red U.png",
+            "ImagePath": "Driver_02.png",
             "Code": "ID15_DRIVER",
             "Description": "At the start of each combat, inflict 2 <b>Exposed</b> to all targets."
         },
         {
             "DriverName": "PAYBACK DRIVER",
-            "ImagePath": "Red U.png",
+            "ImagePath": "Driver_02.png",
             "Code": "ID16_DRIVER",
             "Description": "Every time you get <b>Exposed</b>, inflict 2 <b>Exposed</b> to the ICE."
         },
         {
             "DriverName": "FLASHBANG DRIVER",
-            "ImagePath": "Blue U.png",
+            "ImagePath": "Driver_02.png",
             "Code": "ID17_DRIVER",
             "Description": "At the start of each combat, inflict 2 <b>Debilitated</b> to all targets."
         },
         {
             "DriverName": "MEND DRIVER",
-            "ImagePath": "Blue U.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID18_DRIVER",
             "Description": "At the start of each combat, restore 15 <b>Integrity</b>."
         },
         {
             "DriverName": "CANNON DRIVER",
-            "ImagePath": "Red U.png",
+            "ImagePath": "Driver_05.png",
             "Code": "ID19_DRIVER",
             "Description": "Every time you use a <b>Critical Command</b>, deal 40 <b>DMG</b> to the ICE."
         },
         {
             "DriverName": "SUPPLY DRIVER",
-            "ImagePath": "Green U.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID20_DRIVER",
             "Description": "At the start of each combat, gain 3 <b>Cached</b>."
         },
         {
             "DriverName": "HOURGLASS DRIVER",
-            "ImagePath": "Yellow U.png",
+            "ImagePath": "Driver_05.png",
             "Code": "ID21_DRIVER",
             "Description": "At the end of your turn, if you have any unspent <b>Clock</b>, gain 1 <b>Amped</b>."
         },
         {
             "DriverName": "CROWBAR DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID100_DRIVER",
             "Description": "Heavy Gates cost 1 less <b>Trace</b> to open."
         },
         {
             "DriverName": "PADLOCK DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID101_DRIVER",
             "Description": "Every 4th <b>Gate</b> you open, gain 1 <b>Hashkey</b>. (0/4)"
         },
         {
             "DriverName": "LOCKPICK DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID102_DRIVER",
             "Description": "Every 4th Node you <b>Extract</b>, unlock a random <b>Gate</b> in the current Cluster. (0/4)"
         },
         {
             "DriverName": "PRICETAG DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "ImagePath": "Driver_01.png",
             "Code": "ID103_DRIVER",
             "Description": "Reduce the <b>Intel</b> price of <b>Hashkeys</b> by 50%."
         },
         {
             "DriverName": "TELESCOPIC DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "ImagePath": "Driver_01.png",
             "Code": "ID104_DRIVER",
             "Description": "Every time you disable a <b>Watcher</b>, gain 1 <b>Hashkey</b> and 80 <b>Intel</b>."
         },
         {
             "DriverName": "BLINDFOLD DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID105_DRIVER",
             "Description": "Every 7th <b>Node</b> you use, disable the <b>Watcher</b> in the current Cluster. (0/7)"
         },
         {
-            "DriverName": "DEMOLITION DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "DriverName": "MAGNIFIER DRIVER",
+            "ImagePath": "Driver_01.png",
             "Code": "ID106_DRIVER",
             "Description": "Every time you <b>Rehash<b> a Node, gain 80 <b>Intel</b>."
         },
         {
             "DriverName": "PANOPTIC DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID107_DRIVER",
             "Description": "While Trace Level is at 5 or more, before starting each combat, reduce <b>Trace</b> by 1."
         },
         {
             "DriverName": "FLOPPY DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID108_DRIVER",
             "Description": "Every 3rd <b>Tool</b> you use, obtain a random <b>Basic Tool</b>. (0/3)"
         },
         {
             "DriverName": "WRENCH DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID109_DRIVER",
             "Description": "Every 5th Node you <b>Extract</b>, obtain a random <b>Basic Tool</b>. (0/5)"
         },
         {
             "DriverName": "SYRINGE DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID110_DRIVER",
             "Description": "Every time you <b>Extract</b> a Node, restore 15 <b>Integrity</b>."
         },
         {
             "DriverName": "TOOLBOX DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID111_DRIVER",
             "Description": "Every time you use a <b>Skill</b>, obtain a random <b>Basic Tool</b>."
         },
         {
             "DriverName": "COOLER DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID112_DRIVER",
             "Description": "Every 5th <b>Sentinel</b> you defeat or disable, refresh your <b>Skills</b>. (0/5)"
         },
         {
             "DriverName": "INFRARED DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID113_DRIVER",
             "Description": "Every time <b>Alarm Level</b> is raised, reveal 2 random Clusters."
         },
         {
             "DriverName": "STEALTH DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID114_DRIVER",
             "Description": "While <b>Trace Level</b> is at 0, you can walk through Sentinels without having to disable them."
         },
         {
             "DriverName": "ACCESS DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID115_DRIVER",
             "Description": "<b>Gates</b> will no longer close when Alarm Level is raised."
         },
         {
             "DriverName": "SECURITY DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "ImagePath": "Driver_07.png",
             "Code": "ID116_DRIVER",
             "Description": "<b>Sentinels</b> will no longer spawn when Alarm Level is raised."
         },
         {
             "DriverName": "MINING DRIVER",
-            "ImagePath": "Shop Placeholder.png",
+            "ImagePath": "Driver_01.png",
             "Code": "ID117_DRIVER",
             "Description": "While you have at least 1200 <b>Intel</b>, increase Intel gained by 30% when <b>Extracting</b> any Nodes."
         },
         {
             "DriverName": "STORM DRIVER",
-            "ImagePath": "Boss Placeholder.png",
+            "ImagePath": "Driver_04.png",
             "Code": "ID38_DRIVER",
             "Description": "At the end of your turn, deal 3 <b>DMG</b> to all targets per point of <b>VIM</b> you have. (0 <b>DMG</b>)"
         },
         {
             "DriverName": "ECLIPSE DRIVER",
-            "ImagePath": "Boss Placeholder.png",
+            "ImagePath": "Driver_04.png",
             "Code": "ID39_DRIVER",
             "Description": "<b>Feral</b> does not decay anymore at the end of each round."
         },
         {
             "DriverName": "VANGUARD DRIVER",
-            "ImagePath": "Boss Placeholder.png",
+            "ImagePath": "Driver_04.png",
             "Code": "ID40_DRIVER",
             "Description": "At the start of your turn, deal 3 <b>DMG</b> per point of <b>Grit</b> you have to all targets. (0 <b>DMG</b>)"
         },
         {
             "DriverName": "VELOCITY DRIVER",
-            "ImagePath": "Green R.png",
+            "ImagePath": "Driver_04.png",
             "Code": "ID26_URSA_DRIVER",
             "Description": "Every 6th card you play, gain 1 <b>Clock</b>. (0/6)"
         },
         {
             "DriverName": "POPPY DRIVER",
-            "ImagePath": "Red R.png",
+            "ImagePath": "Driver_04.png",
             "Code": "ID44_DRIVER",
-            "Description": "The first time you play an <b>ATTACK</b> each turn, gain 1 <b>Feral</b>."
+            "Description": "The first time you play an <b>ATTACK</b> each turn, gain 2 <b>Feral</b>."
         },
         {
             "DriverName": "JACARANDA DRIVER",
-            "ImagePath": "Blue R.png",
+            "ImagePath": "Driver_04.png",
             "Code": "ID45_DRIVER",
-            "Description": "The first time you gain <b>Grit</b> each turn, gain 1 <b>Grit</b>."
+            "Description": "The first time you gain <b>Grit</b> each turn, gain 2 <b>Grit</b>."
         },
         {
             "DriverName": "ATOMIC DRIVER",
-            "ImagePath": "Yellow R.png",
+            "ImagePath": "Driver_04.png",
             "Code": "ID46_DRIVER",
             "Description": "At the start of your turn, if you are at <b>MAX VIM</b>, draw 2 cards."
         },
         {
             "DriverName": "CLAW DRIVER",
-            "ImagePath": "Red R.png",
+            "ImagePath": "Driver_04.png",
             "Code": "ID47_DRIVER",
             "Description": "Cards with <b>\"Codeslash\"</b> in their name deal 20% more <b>DMG</b>."
         },
         {
             "DriverName": "CHROME DRIVER",
-            "ImagePath": "Green R.png",
+            "ImagePath": "Driver_04.png",
             "Code": "ID48_DRIVER",
             "Description": "At the start of each combat, upgrade 3 random cards with <b>\"Codeslash\"</b> in their name from your Repo until end of combat."
         }

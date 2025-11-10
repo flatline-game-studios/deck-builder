@@ -23,15 +23,15 @@
         },
         {
             "CommandName": "CONSTRUIR",
-            "Cost": 5,
-            "Description": "Create 1 copy of the last <b>Script</b> you played this turn.  ",
+            "Cost": 6,
+            "Description": "Crea 1 copia del último <b>Script</b> que hayas jugado este turno.  ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND"
         },
         {
             "CommandName": "CONSTRUIR AUG.",
-            "Cost": 5,
-            "Description": "Create 2 copies of the last <b>Script</b> you played this turn.  ",
+            "Cost": 6,
+            "Description": "Crea 2 copias del último <b>Script</b> que hayas jugado este turno.  ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND_AUGMENTED"
         },
@@ -122,7 +122,7 @@
         {
             "CommandName": "RECONVERTIR",
             "Cost": 6,
-            "Description": "Descarta 1 carta al azar y roba 1.",
+            "Description": "Descarta 1 carta.",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND"
         },
@@ -135,28 +135,28 @@
         },
         {
             "CommandName": "APURAR",
-            "Cost": 15,
+            "Cost": 16,
             "Description": "Resuelve 1 de tus efectos de <b>Asistir</b> al azar.",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND"
         },
         {
             "CommandName": "APURAR AUG.",
-            "Cost": 15,
+            "Cost": 16,
             "Description": "Resuelve 2 de tus efectos de <b>Asistir</b> al azar.",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "PLANEAR",
-            "Cost": 10,
+            "Cost": 12,
             "Description": "<b>Conserva</b> todos tus <b>Scripts</b> este turno.",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND"
         },
         {
             "CommandName": "PLANEAR AUG.",
-            "Cost": 10,
+            "Cost": 12,
             "Description": "Crea 1 <b>Script</b> al azar. <b>Conserva</b> todos tus <b>Scripts</b> este turno.",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND_AUGMENTED"
@@ -233,7 +233,7 @@
         },
         {
             "CommandName": "REMEMORAR",
-            "Cost": 11,
+            "Cost": 12,
             "Description": "Elige hasta 2 cartas de tu Recicladora y ponlas en tu mano.",
             "Tier": "Major",
             "Code": "RecollectCommand"

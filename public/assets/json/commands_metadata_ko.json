@@ -23,15 +23,15 @@
         },
         {
             "CommandName": "구축",
-            "Cost": 5,
-            "Description": "Create 1 copy of the last <b>Script</b> you played this turn.  ",
+            "Cost": 6,
+            "Description": "이번 턴에 마지막으로 사용한 <b>스크립트</b>의 복사본 1장을 생성합니다. ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND"
         },
         {
             "CommandName": "보강·구축",
-            "Cost": 5,
-            "Description": "Create 2 copies of the last <b>Script</b> you played this turn.  ",
+            "Cost": 6,
+            "Description": "이번 턴에 마지막으로 사용한 <b>스크립트</b>의 복사본 2장을 생성합니다. ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND_AUGMENTED"
         },
@@ -122,7 +122,7 @@
         {
             "CommandName": "재활용",
             "Cost": 6,
-            "Description": "1장의 카드를 무작위으로 버린 후, 1장의 카드를 뽑습니다.",
+            "Description": "1장의 카드를 버립니다.",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND"
         },
@@ -135,28 +135,28 @@
         },
         {
             "CommandName": "돌진",
-            "Cost": 15,
+            "Cost": 16,
             "Description": "랜덤으로 <b>어시스트</b> 효과를 1회 발동합니다.",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND"
         },
         {
             "CommandName": "보강·돌진",
-            "Cost": 15,
+            "Cost": 16,
             "Description": "랜덤으로 <b>어시스트</b> 효과를 2회 발동합니다.",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "전략 수립",
-            "Cost": 10,
+            "Cost": 12,
             "Description": "이번 턴 모든 <b>스크립트</b>를 <b>보존</b>합니다.",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND"
         },
         {
             "CommandName": "보강: 전략 수립",
-            "Cost": 10,
+            "Cost": 12,
             "Description": "랜덤으로  1장의 <b>스크립트</b>를 생성합니다. 이번 턴 모든 <b>스크립트</b>를 <b>보존</b>합니다.",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND_AUGMENTED"
@@ -233,7 +233,7 @@
         },
         {
             "CommandName": "회수",
-            "Cost": 11,
+            "Cost": 12,
             "Description": "휴지통에서 최대 2장의 카드를 선택해 핸드에 추가합니다.",
             "Tier": "Major",
             "Code": "RecollectCommand"

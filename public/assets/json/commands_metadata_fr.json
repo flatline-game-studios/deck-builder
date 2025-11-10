@@ -23,15 +23,15 @@
         },
         {
             "CommandName": "",
-            "Cost": 5,
-            "Description": "Create 1 copy of the last <b>Script</b> you played this turn.  ",
+            "Cost": 6,
+            "Description": "",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND"
         },
         {
             "CommandName": "",
-            "Cost": 5,
-            "Description": "Create 2 copies of the last <b>Script</b> you played this turn.  ",
+            "Cost": 6,
+            "Description": "",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND_AUGMENTED"
         },
@@ -135,28 +135,28 @@
         },
         {
             "CommandName": "",
-            "Cost": 15,
+            "Cost": 16,
             "Description": "",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND"
         },
         {
             "CommandName": "",
-            "Cost": 15,
+            "Cost": 16,
             "Description": "",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "",
-            "Cost": 10,
+            "Cost": 12,
             "Description": "",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND"
         },
         {
             "CommandName": "",
-            "Cost": 10,
+            "Cost": 12,
             "Description": "",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND_AUGMENTED"
@@ -233,7 +233,7 @@
         },
         {
             "CommandName": "",
-            "Cost": 11,
+            "Cost": 12,
             "Description": "",
             "Tier": "Major",
             "Code": "RecollectCommand"

@@ -347,7 +347,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -608,7 +608,7 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -626,7 +626,7 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true
         },
         {
@@ -644,7 +644,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": false
         },
         {
@@ -662,7 +662,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -749,7 +749,7 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": false
         },
         {
@@ -766,7 +766,7 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -906,7 +906,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -960,7 +960,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 1,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -1400,7 +1400,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": true
         },
         {
@@ -1595,7 +1595,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 1,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -1612,7 +1612,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -1699,7 +1699,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 1,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -1716,7 +1716,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 1,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -1768,7 +1768,7 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "",
-            "Vim": 3,
+            "Vim": 4,
             "IsUpgrade": false
         },
         {
@@ -1786,7 +1786,7 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "",
-            "Vim": 3,
+            "Vim": 5,
             "IsUpgrade": true
         },
         {
@@ -1906,7 +1906,7 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": false
         },
         {
@@ -1924,7 +1924,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -2141,6 +2141,7 @@
             "ImagePath": "FORTUNE_COOKIE.jpg",
             "Code": "FORTUNE_COOKIE",
             "Descriptions": [
+                "",
                 ""
             ],
             "Conditional": "",
@@ -2157,6 +2158,7 @@
             "ImagePath": "FORTUNE_COOKIE.jpg",
             "Code": "FORTUNE_COOKIE_UPGRADED",
             "Descriptions": [
+                "",
                 ""
             ],
             "Conditional": "",
@@ -2312,16 +2314,15 @@
             "Code": "PEAK_PERFORMANCE",
             "Descriptions": [
                 "",
-                "",
                 ""
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#E9B705FF",
-            "Clock": 3,
+            "Clock": 1,
             "Type": "",
-            "Vim": 0,
+            "Vim": 1,
             "IsUpgrade": false
         },
         {
@@ -2330,16 +2331,15 @@
             "Code": "PEAK_PERFORMANCE_UPGRADED",
             "Descriptions": [
                 "",
-                "",
                 ""
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 0,
             "Type": "",
-            "Vim": 0,
+            "Vim": 1,
             "IsUpgrade": true
         },
         {
@@ -2391,7 +2391,7 @@
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "",
-            "Vim": 1,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -2592,9 +2592,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -2609,9 +2609,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": true
         },
         {
@@ -2625,9 +2625,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "",
-            "Vim": 4,
+            "Vim": 0,
             "IsUpgrade": false
         },
         {
@@ -2641,7 +2641,7 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 3,
             "Type": "",
             "Vim": 4,
             "IsUpgrade": false
@@ -2737,9 +2737,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "",
-            "Vim": 3,
+            "Vim": 0,
             "IsUpgrade": false
         },
         {
@@ -2858,18 +2858,35 @@
             "CardName": "",
             "ImagePath": "PIERCE_CORE.jpg",
             "Code": "PIERCE_CORE",
-            "Descriptions": [
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [
                 "",
                 ""
             ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#FFFFFFFF",
             "Clock": 2,
             "Type": "",
             "Vim": 4,
             "IsUpgrade": false
+        },
+        {
+            "CardName": "",
+            "ImagePath": "PIERCE_CORE.jpg",
+            "Code": "PIERCE_CORE_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "",
+            "ConditionalDescriptions": [
+                "",
+                ""
+            ],
+            "Rarity": "",
+            "Color": "#FFFFFFFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true
         },
         {
             "CardName": "",
@@ -4290,7 +4307,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": true
         },
         {

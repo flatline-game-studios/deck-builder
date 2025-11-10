@@ -5,8 +5,8 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK",
             "Descriptions": [
-                "Deal 20 <b>DMG</b>.",
-                "<b>On-Discard:</b> Deal 20 <b>DMG</b> to the ICE and create a <b>Temporary</b> copy of this."
+                "Deal 30 <b>DMG</b>.",
+                "<b>On-Discard:</b> Deal 30 <b>DMG</b> to the ICE and create a <b>Temporary</b> copy of this."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -22,8 +22,8 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK_UPGRADED",
             "Descriptions": [
-                "Deal 20 <b>DMG</b>.",
-                "<b>On-Discard:</b> Deal 35 <b>DMG</b> to the ICE and create a <b>Temporary</b> copy of this."
+                "Deal 40 <b>DMG</b>.",
+                "<b>On-Discard:</b> Deal 40 <b>DMG</b> to the ICE and create a <b>Temporary</b> copy of this."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -40,8 +40,8 @@
             "Code": "APEX_ARACHNID",
             "Descriptions": [
                 "Deal 70 <b>DMG</b>.",
-                "Create 2 <b>Bite Scripts</b>.",
-                "<b>Assist 3:</b> Create 2 <b>Bite Scripts</b>."
+                "Create 3 <b>Bite Scripts</b>.",
+                "<b>Assist 3:</b> Create 3 <b>Bite Scripts</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -57,8 +57,8 @@
             "ImagePath": "APEX_ARACHNID.jpg",
             "Code": "APEX_ARACHNID_UPGRADED",
             "Descriptions": [
-                "Deal 80 <b>DMG</b>.",
-                "Create 4 <b>Bite Scripts</b>.",
+                "Deal 120 <b>DMG</b>.",
+                "Create 3 <b>Bite Scripts</b>.",
                 "<b>Assist 3:</b> Create 3 <b>Bite Scripts</b>."
             ],
             "Conditional": "",
@@ -326,7 +326,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "COMMON",
+            "Rarity": "UNCOMMON",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
@@ -343,11 +343,11 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "COMMON",
+            "Rarity": "UNCOMMON",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -495,8 +495,8 @@
             "ImagePath": "LIQUEFACTION.jpg",
             "Code": "LIQUEFACTION",
             "Descriptions": [
-                "Deal 10 <b>DMG</b>.",
-                "<b>On-Hit:</b> Create 3 <b>Bite Scripts</b>."
+                "Deal 20 <b>DMG</b>.",
+                "<b>On-Hit:</b> Create 2 <b>Bite Scripts</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -512,8 +512,8 @@
             "ImagePath": "LIQUEFACTION.jpg",
             "Code": "LIQUEFACTION_UPGRADED",
             "Descriptions": [
-                "Deal 10 <b>DMG</b>.",
-                "<b>On-Hit:</b> Create 4 <b>Bite Scripts</b>."
+                "Deal 20 <b>DMG</b>.",
+                "<b>On-Hit:</b> Create 3 <b>Bite Scripts</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -608,7 +608,7 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "ATTACK",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -616,8 +616,8 @@
             "ImagePath": "NEUROTOXIC_HARPOON.jpg",
             "Code": "NEUROTOXIC_HARPOON_UPGRADED",
             "Descriptions": [
-                "Deal 60 <b>DMG</b>.",
-                "<b>On-Hit:</b> Increase the DMG of <b>Bite Scripts</b> by 8 until end of combat.",
+                "Deal 80 <b>DMG</b>.",
+                "<b>On-Hit:</b> Increase the DMG of <b>Bite Scripts</b> by 5 until end of combat.",
                 "<b>DECOMPILE</b>."
             ],
             "Conditional": "",
@@ -626,7 +626,7 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "ATTACK",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true
         },
         {
@@ -644,7 +644,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": false
         },
         {
@@ -662,7 +662,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -749,7 +749,7 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "ATTACK",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": false
         },
         {
@@ -766,7 +766,7 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "ATTACK",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -878,7 +878,7 @@
             "ImagePath": "SKITTERING_STRIKE.jpg",
             "Code": "SKITTERING_STRIKE",
             "Descriptions": [
-                "Deal 20 <b>DMG</b>."
+                "Deal 30 <b>DMG</b>."
             ],
             "Conditional": "If you have an <b>Augmented</b> Command, also:",
             "ConditionalDescriptions": [
@@ -906,7 +906,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -950,9 +950,9 @@
             "ImagePath": "SPAWNER.jpg",
             "Code": "SPAWNER",
             "Descriptions": [
-                "Deal 10 <b>DMG</b>.",
+                "Deal 15 <b>DMG</b>.",
                 "Create 1 <b>Bite Script</b>.",
-                "<b>On-Discard:</b> Create 3 <b>Bite Scripts</b>."
+                "<b>On-Discard:</b> Create 2 <b>Bite Scripts</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -960,7 +960,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
-            "Vim": 1,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -970,7 +970,7 @@
             "Descriptions": [
                 "Deal 20 <b>DMG</b>.",
                 "Create 2 <b>Bite Script</b>.",
-                "<b>On-Discard:</b> Create 4 <b>Bite Scripts</b>."
+                "<b>On-Discard:</b> Create 3 <b>Bite Scripts</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -987,7 +987,7 @@
             "Code": "SPIDER_KING",
             "Descriptions": [
                 "Deal 60 <b>DMG</b>.",
-                "<b>Assist 4:</b> Create 2 random <b>Scripts</b>.",
+                "<b>Assist 2:</b> Create 2 random <b>Scripts</b>.",
                 "<b>DECOMPILE</b>."
             ],
             "Conditional": "",
@@ -1005,7 +1005,7 @@
             "Code": "SPIDER_KING_UPGRADED",
             "Descriptions": [
                 "Deal 70 <b>DMG</b>.",
-                "<b>Assist 4:</b> Create 3 random <b>Scripts</b>.",
+                "<b>Assist 2:</b> Create 3 random <b>Scripts</b>.",
                 "<b>DECOMPILE</b>."
             ],
             "Conditional": "",
@@ -1056,8 +1056,8 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "TEMP_AFTERSHOCK",
             "Descriptions": [
-                "Deal 20 <b>DMG</b>.",
-                "<b>On-Discard:</b> Deal 20 <b>DMG</b> to the ICE and create a <b>Temporary</b> copy of this.",
+                "Deal 30 <b>DMG</b>.",
+                "<b>On-Discard:</b> Deal 30 <b>DMG</b> to the ICE and create a <b>Temporary</b> copy of this.",
                 "<b>Temporary</b>."
             ],
             "Conditional": "",
@@ -1074,8 +1074,8 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "TEMP_AFTERSHOCK_UPGRADED",
             "Descriptions": [
-                "Deal 20 <b>DMG</b>.",
-                "<b>On-Discard:</b> Deal 35 <b>DMG</b> to the ICE and create a <b>Temporary</b> copy of this.",
+                "Deal 40 <b>DMG</b>.",
+                "<b>On-Discard:</b> Deal 40 <b>DMG</b> to the ICE and create a <b>Temporary</b> copy of this.",
                 "<b>Temporary</b>."
             ],
             "Conditional": "",
@@ -1400,7 +1400,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": true
         },
         {
@@ -1586,7 +1586,7 @@
             "ImagePath": "PATCHWORK.jpg",
             "Code": "PATCHWORK",
             "Descriptions": [
-                "Discard your hand.",
+                "Discard up to 3 cards.",
                 "Gain 20 <b>Barrier</b> per card discarded by this."
             ],
             "Conditional": "",
@@ -1595,7 +1595,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 1,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -1603,7 +1603,7 @@
             "ImagePath": "PATCHWORK.jpg",
             "Code": "PATCHWORK_UPGRADED",
             "Descriptions": [
-                "Discard any amount of cards.",
+                "Discard up to 5 cards.",
                 "Gain 25 <b>Barrier</b> per card discarded by this."
             ],
             "Conditional": "",
@@ -1612,7 +1612,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -1699,7 +1699,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 1,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -1716,7 +1716,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 1,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -1724,8 +1724,8 @@
             "ImagePath": "SILK_SHELL.jpg",
             "Code": "SILK_SHELL",
             "Descriptions": [
-                "Gain 35 <b>Barrier</b>.",
-                "Create 3 <b>Cocoon Scripts</b>."
+                "Gain 40 <b>Barrier</b>.",
+                "Create 2 <b>Cocoon Scripts</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1741,8 +1741,8 @@
             "ImagePath": "SILK_SHELL.jpg",
             "Code": "SILK_SHELL_UPGRADED",
             "Descriptions": [
-                "Gain 35 <b>Barrier</b>.",
-                "Create 5 <b>Cocoon Scripts</b>."
+                "Gain 50 <b>Barrier</b>.",
+                "Create 3 <b>Cocoon Scripts</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1760,7 +1760,7 @@
             "Descriptions": [
                 "Gain 50 <b>Barrier</b>.",
                 "<b>Augment</b> Critical.",
-                "Create 2 <b>Cocoon Scripts</b>."
+                "Create 1 <b>Cocoon Scripts</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1768,7 +1768,7 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "DEFENSE",
-            "Vim": 3,
+            "Vim": 4,
             "IsUpgrade": false
         },
         {
@@ -1778,7 +1778,7 @@
             "Descriptions": [
                 "Gain 60 <b>Barrier</b>.",
                 "<b>Augment</b> Critical.",
-                "Create 4 <b>Cocoon Scripts</b>."
+                "Create 2 <b>Cocoon Scripts</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1786,7 +1786,7 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "DEFENSE",
-            "Vim": 3,
+            "Vim": 5,
             "IsUpgrade": true
         },
         {
@@ -1906,7 +1906,7 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "DEFENSE",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": false
         },
         {
@@ -1924,7 +1924,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true
         },
         {
@@ -2141,11 +2141,12 @@
             "ImagePath": "FORTUNE_COOKIE.jpg",
             "Code": "FORTUNE_COOKIE",
             "Descriptions": [
+                "Discard 1 card.",
                 "<b>On-Discard:</b> Draw 1 card and create 1 random <b>Script</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "UNCOMMON",
+            "Rarity": "COMMON",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "GENERATOR",
@@ -2157,11 +2158,12 @@
             "ImagePath": "FORTUNE_COOKIE.jpg",
             "Code": "FORTUNE_COOKIE_UPGRADED",
             "Descriptions": [
+                "Discard 1 card.",
                 "<b>On-Discard:</b> Draw 2 card and create 1 random <b>Script</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "UNCOMMON",
+            "Rarity": "COMMON",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "GENERATOR",
@@ -2311,17 +2313,16 @@
             "ImagePath": "PEAK_PERFORMANCE.jpg",
             "Code": "PEAK_PERFORMANCE",
             "Descriptions": [
-                "Generate <b>VIM</b> until you reach MAX VIM.",
-                "<b>DECOMPILE</b>.",
-                "<b>On-Discard:</b> Gain 1 <b>Amped</b>."
+                "Discard up to 3 cards.",
+                "Draw 1 card and generate 1 VIM per card discarded."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "RARE",
             "Color": "#E9B705FF",
-            "Clock": 3,
+            "Clock": 1,
             "Type": "GENERATOR",
-            "Vim": 0,
+            "Vim": 1,
             "IsUpgrade": false
         },
         {
@@ -2329,17 +2330,16 @@
             "ImagePath": "PEAK_PERFORMANCE.jpg",
             "Code": "PEAK_PERFORMANCE_UPGRADED",
             "Descriptions": [
-                "Generate <b>VIM</b> until you reach MAX VIM.",
-                "<b>DECOMPILE</b>.",
-                "<b>On-Discard:</b> Gain 1 <b>Amped</b>."
+                "Discard up to 3 cards.",
+                "Draw 1 card and generate 1 VIM per card discarded."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "RARE",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 0,
             "Type": "GENERATOR",
-            "Vim": 0,
+            "Vim": 1,
             "IsUpgrade": true
         },
         {
@@ -2391,7 +2391,7 @@
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "GENERATOR",
-            "Vim": 1,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -2484,7 +2484,7 @@
             "Code": "SUDDEN_SPIN",
             "Descriptions": [
                 "Discard 1 card.",
-                "Create 1 <b>Bite Script</b>."
+                "Create 1 random <b>Script</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2501,7 +2501,7 @@
             "Code": "SUDDEN_SPIN_UPGRADED",
             "Descriptions": [
                 "Discard 1 card.",
-                "Create 2 <b>Bite Script</b>."
+                "Create 2 random <b>Script</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2585,16 +2585,16 @@
             "ImagePath": "THUNDERFLY.jpg",
             "Code": "THUNDERFLY",
             "Descriptions": [
-                "Draw 2 cards.",
-                "<b>Assist 2:</b> Gain 4 <b>VIM</b>."
+                "Draw 1 cards.",
+                "<b>Assist 2:</b> Generate 4 <b>VIM</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "RARE",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "GENERATOR",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false
         },
         {
@@ -2602,16 +2602,16 @@
             "ImagePath": "THUNDERFLY.jpg",
             "Code": "THUNDERFLY_UPGRADED",
             "Descriptions": [
-                "Draw 3 cards.",
-                "<b>Assist 2:</b> Gain 6 <b>VIM</b>."
+                "Draw 2 cards.",
+                "<b>Assist 2:</b> Generate 5 <b>VIM</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "RARE",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "GENERATOR",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": true
         },
         {
@@ -2625,9 +2625,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "RARE",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 4,
+            "Vim": 0,
             "IsUpgrade": false
         },
         {
@@ -2641,7 +2641,7 @@
             "ConditionalDescriptions": [],
             "Rarity": "UNIQUE",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 3,
             "Type": "PROTOCOL",
             "Vim": 4,
             "IsUpgrade": false
@@ -2737,9 +2737,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "RARE",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 3,
+            "Vim": 0,
             "IsUpgrade": false
         },
         {
@@ -2858,18 +2858,35 @@
             "CardName": "PIERCE CORE",
             "ImagePath": "PIERCE_CORE.jpg",
             "Code": "PIERCE_CORE",
-            "Descriptions": [
+            "Descriptions": [],
+            "Conditional": "If Shield Peripheral is disabled:",
+            "ConditionalDescriptions": [
                 "Deal 150 DMG to the Core Peripheral.",
                 "<b>DECOMPILE</b>."
             ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
             "Rarity": "UNIQUE",
             "Color": "#FFFFFFFF",
             "Clock": 2,
             "Type": "SPECIAL",
             "Vim": 4,
             "IsUpgrade": false
+        },
+        {
+            "CardName": "<color=#971797>PIERCE CORE</color>",
+            "ImagePath": "PIERCE_CORE.jpg",
+            "Code": "PIERCE_CORE_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "If Shield Peripheral is disabled:",
+            "ConditionalDescriptions": [
+                "Deal 150 DMG to the Core Peripheral.",
+                "<b>DECOMPILE</b>."
+            ],
+            "Rarity": "UNIQUE",
+            "Color": "#FFFFFFFF",
+            "Clock": 1,
+            "Type": "SPECIAL",
+            "Vim": 4,
+            "IsUpgrade": true
         },
         {
             "CardName": "WORK GUYS",
@@ -3471,7 +3488,7 @@
             "ConditionalDescriptions": [
                 "Deal 90 <b>DMG</b>."
             ],
-            "Rarity": "UNCOMMON",
+            "Rarity": "RARE",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
@@ -3490,7 +3507,7 @@
             "ConditionalDescriptions": [
                 "Deal 90 <b>DMG</b>."
             ],
-            "Rarity": "UNCOMMON",
+            "Rarity": "RARE",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
@@ -4290,7 +4307,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": true
         },
         {

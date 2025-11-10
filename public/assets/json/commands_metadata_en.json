@@ -23,14 +23,14 @@
         },
         {
             "CommandName": "CONSTRUCT",
-            "Cost": 5,
+            "Cost": 6,
             "Description": "Create 1 copy of the last <b>Script</b> you played this turn.  ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND"
         },
         {
             "CommandName": "AUG. CONSTRUCT",
-            "Cost": 5,
+            "Cost": 6,
             "Description": "Create 2 copies of the last <b>Script</b> you played this turn.  ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND_AUGMENTED"
@@ -122,7 +122,7 @@
         {
             "CommandName": "REPURPOSE",
             "Cost": 6,
-            "Description": "Discard 1 random card and then draw 1.",
+            "Description": "Discard 1 card.",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND"
         },
@@ -135,28 +135,28 @@
         },
         {
             "CommandName": "RUSH",
-            "Cost": 15,
+            "Cost": 16,
             "Description": "Resolve 1 of your <b>Assist</b> effects randomly.",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND"
         },
         {
             "CommandName": "AUG. RUSH",
-            "Cost": 15,
+            "Cost": 16,
             "Description": "Resolve 2 of your <b>Assist</b> effects randomly.",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "STRATEGIZE",
-            "Cost": 10,
+            "Cost": 12,
             "Description": "<b>Preserve</b> all <b>Scripts</b> this turn.",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND"
         },
         {
             "CommandName": "AUG. STRATEGIZE",
-            "Cost": 10,
+            "Cost": 12,
             "Description": "Create 1 random <b>Script</b>. <b>Preserve</b> all <b>Script</b> cards this turn.",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND_AUGMENTED"
@@ -233,7 +233,7 @@
         },
         {
             "CommandName": "RECOLLECT",
-            "Cost": 11,
+            "Cost": 12,
             "Description": "Choose up to 2 cards from your Recycler and place them in your hand.",
             "Tier": "Major",
             "Code": "RecollectCommand"
