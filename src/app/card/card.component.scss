@@ -28,10 +28,10 @@
     align-items: center;
     color: white;
     font-family: 'BlenderPro-Medium', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    //transition: transform 1000ms cubic-bezier(0.22, 1, 0.36, 1), box-shadow 260ms cubic-bezier(0.22, 1, 0.36, 1);
-    //will-change: transform, box-shadow;
+    transition: transform 1000ms cubic-bezier(0.22, 1, 0.36, 1), box-shadow 260ms cubic-bezier(0.22, 1, 0.36, 1);
+    will-change: transform, box-shadow;
     transform-origin: center;
-    //transform: translateZ(0);
+    transform: translateZ(0);
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 
