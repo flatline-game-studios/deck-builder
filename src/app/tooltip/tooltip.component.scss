@@ -1,0 +1,52 @@
+// file: src/app/tooltip/tooltip.component.scss
+.tooltip-container {
+    position: absolute;
+    z-index: 100000;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    width: auto;
+    max-width: 350px;
+    pointer-events: auto;
+    font-family: 'BlenderPro-BoldItalic', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.tooltip-item {
+    margin-top: 5px;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    padding: 6px;
+    //border-radius: 4px;
+    max-width: 350px;
+    word-break: break-word;
+
+    //border: 1px solid #F7D249;
+}
+
+.tooltip-title {
+    font-weight: bold;
+    margin-bottom: 4px;
+    color: #F7D249;
+    text-transform: uppercase;
+}
+.tooltip-desc {
+
+}
+
+/* clases para flechas/ajustes externos */
+.tooltip-container.align-right {
+    /* el tooltip empieza fuera a la derecha del ancla */
+    .tooltip-item {
+        border-left: 3px solid #F7D249;
+        padding-left: 9px;
+    }
+}
+
+.tooltip-container.align-left {
+
+    /* el tooltip empieza fuera a la izquierda del ancla */
+    .tooltip-item {
+        border-right: 3px solid #F7D249;
+        padding-right: 9px;
+    }
+}

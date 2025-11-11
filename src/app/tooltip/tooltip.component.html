@@ -1,0 +1,6 @@
+<div #tooltipContainer class="tooltip-container" *ngIf="displayedTooltips.length > 0 && show"  >
+    <div class="tooltip-item" *ngFor="let item of displayedTooltips">
+        <div class="tooltip-title">{{ item.Title }}</div>
+        <div class="tooltip-desc" [innerHTML]="sanitizeHtml(item.Description)"></div>
+    </div>
+</div>
