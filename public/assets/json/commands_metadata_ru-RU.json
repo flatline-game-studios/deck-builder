@@ -5,266 +5,325 @@
             "Cost": 6,
             "Description": "",
             "Tier": "Minor",
-            "Code": "AUGMENTED"
+            "Code": "AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 10,
             "Description": "",
             "Tier": "Major",
-            "Code": "CloneCommand_NotImplemented"
+            "Code": "CloneCommand_NotImplemented",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 6,
             "Description": "",
             "Tier": "Minor",
-            "Code": "DareCommand"
+            "Code": "DareCommand",
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CommandName": "",
-            "Cost": 5,
-            "Description": "Create 1 copy of the last <b>Script</b> you played this turn.  ",
+            "Cost": 6,
+            "Description": "",
             "Tier": "Minor",
-            "Code": "CONSTRUCT_COMMAND"
+            "Code": "CONSTRUCT_COMMAND",
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CommandName": "",
-            "Cost": 5,
-            "Description": "Create 2 copies of the last <b>Script</b> you played this turn.  ",
+            "Cost": 6,
+            "Description": "",
             "Tier": "Minor",
-            "Code": "CONSTRUCT_COMMAND_AUGMENTED"
+            "Code": "CONSTRUCT_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 16,
             "Description": "",
             "Tier": "Critical",
-            "Code": "DIVE_COMMAND"
+            "Code": "DIVE_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 16,
             "Description": "",
             "Tier": "Critical",
-            "Code": "DIVE_COMMAND_AUGMENTED"
+            "Code": "DIVE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 5,
             "Description": "",
             "Tier": "Minor",
-            "Code": "MANTAIN_COMMAND"
+            "Code": "MANTAIN_COMMAND",
+            "Tooltips": [
+                "PreserveTooltip"
+            ]
         },
         {
             "CommandName": "",
             "Cost": 5,
             "Description": "",
             "Tier": "Minor",
-            "Code": "MANTAIN_COMMAND_AUGMENTED"
+            "Code": "MANTAIN_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 12,
             "Description": "",
             "Tier": "Major",
-            "Code": "PREPARE_COMMAND"
+            "Code": "PREPARE_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 12,
             "Description": "",
             "Tier": "Major",
-            "Code": "PREPARE_COMMAND_AUGMENTED"
+            "Code": "PREPARE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 12,
             "Description": "",
             "Tier": "Major",
-            "Code": "RALLY_COMMAND"
+            "Code": "RALLY_COMMAND",
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CommandName": "",
             "Cost": 12,
             "Description": "",
             "Tier": "Major",
-            "Code": "RALLY_COMMAND_AUGMENTED"
+            "Code": "RALLY_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 10,
             "Description": "",
             "Tier": "Major",
-            "Code": "REBOUND_COMMAND"
+            "Code": "REBOUND_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 10,
             "Description": "",
             "Tier": "Major",
-            "Code": "REBOUND_COMMAND_AUGMENTED"
+            "Code": "REBOUND_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 20,
             "Description": "",
             "Tier": "Critical",
-            "Code": "REPLICATE_COMMAND"
+            "Code": "REPLICATE_COMMAND",
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CommandName": "",
             "Cost": 15,
             "Description": "",
             "Tier": "Critical",
-            "Code": "REPLICATE_COMMAND_AUGMENTED"
+            "Code": "REPLICATE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 6,
             "Description": "",
             "Tier": "Minor",
-            "Code": "REPURPOSE_COMMAND"
+            "Code": "REPURPOSE_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 6,
             "Description": "",
             "Tier": "Minor",
-            "Code": "REPURPOSE_COMMAND_AUGMENTED"
-        },
-        {
-            "CommandName": "",
-            "Cost": 15,
-            "Description": "",
-            "Tier": "Critical",
-            "Code": "RUSH_COMMAND"
-        },
-        {
-            "CommandName": "",
-            "Cost": 15,
-            "Description": "",
-            "Tier": "Critical",
-            "Code": "RUSH_COMMAND_AUGMENTED"
-        },
-        {
-            "CommandName": "",
-            "Cost": 10,
-            "Description": "",
-            "Tier": "Major",
-            "Code": "STRATEGIZE_COMMAND"
-        },
-        {
-            "CommandName": "",
-            "Cost": 10,
-            "Description": "",
-            "Tier": "Major",
-            "Code": "STRATEGIZE_COMMAND_AUGMENTED"
-        },
-        {
-            "CommandName": "",
-            "Cost": 6,
-            "Description": "",
-            "Tier": "Minor",
-            "Code": "TOUCH_COMMAND"
-        },
-        {
-            "CommandName": "",
-            "Cost": 6,
-            "Description": "",
-            "Tier": "Minor",
-            "Code": "TOUCH_COMMAND_AUGMENTED"
-        },
-        {
-            "CommandName": "",
-            "Cost": 17,
-            "Description": "",
-            "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND"
-        },
-        {
-            "CommandName": "",
-            "Cost": 17,
-            "Description": "",
-            "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND_AUGMENTED"
-        },
-        {
-            "CommandName": "",
-            "Cost": 10,
-            "Description": "",
-            "Tier": "Major",
-            "Code": "DIG"
-        },
-        {
-            "CommandName": "",
-            "Cost": 15,
-            "Description": "",
-            "Tier": "Critical",
-            "Code": "EchoCommand"
-        },
-        {
-            "CommandName": "",
-            "Cost": 18,
-            "Description": "",
-            "Tier": "Critical",
-            "Code": "Energize"
-        },
-        {
-            "CommandName": "",
-            "Cost": 17,
-            "Description": "",
-            "Tier": "Critical",
-            "Code": "ExecuteCommand"
-        },
-        {
-            "CommandName": "",
-            "Cost": 5,
-            "Description": "",
-            "Tier": "Minor",
-            "Code": "FarmCommand"
+            "Code": "REPURPOSE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 16,
             "Description": "",
             "Tier": "Critical",
-            "Code": "OPTIMIZE"
+            "Code": "RUSH_COMMAND",
+            "Tooltips": [
+                "ResolveAssistTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CommandName": "",
-            "Cost": 11,
+            "Cost": 16,
             "Description": "",
-            "Tier": "Major",
-            "Code": "RecollectCommand"
+            "Tier": "Critical",
+            "Code": "RUSH_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "",
-            "Cost": 10,
+            "Cost": 12,
             "Description": "",
             "Tier": "Major",
-            "Code": "RecurCommand"
+            "Code": "STRATEGIZE_COMMAND",
+            "Tooltips": [
+                "PreserveTooltip",
+                "ScriptTooltip"
+            ]
+        },
+        {
+            "CommandName": "",
+            "Cost": 12,
+            "Description": "",
+            "Tier": "Major",
+            "Code": "STRATEGIZE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 6,
             "Description": "",
             "Tier": "Minor",
-            "Code": "RoarCommand"
+            "Code": "TOUCH_COMMAND",
+            "Tooltips": [
+                "TriggerAssistTooltip",
+                "AssistTooltip"
+            ]
+        },
+        {
+            "CommandName": "",
+            "Cost": 6,
+            "Description": "",
+            "Tier": "Minor",
+            "Code": "TOUCH_COMMAND_AUGMENTED",
+            "Tooltips": []
+        },
+        {
+            "CommandName": "",
+            "Cost": 17,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "TRANSCEND_COMMAND",
+            "Tooltips": []
+        },
+        {
+            "CommandName": "",
+            "Cost": 17,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "TRANSCEND_COMMAND_AUGMENTED",
+            "Tooltips": []
+        },
+        {
+            "CommandName": "",
+            "Cost": 10,
+            "Description": "",
+            "Tier": "Major",
+            "Code": "DIG",
+            "Tooltips": []
+        },
+        {
+            "CommandName": "",
+            "Cost": 15,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "EchoCommand",
+            "Tooltips": []
+        },
+        {
+            "CommandName": "",
+            "Cost": 18,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "Energize",
+            "Tooltips": []
+        },
+        {
+            "CommandName": "",
+            "Cost": 17,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "ExecuteCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 5,
             "Description": "",
             "Tier": "Minor",
-            "Code": "ScoutCommand"
+            "Code": "FarmCommand",
+            "Tooltips": []
+        },
+        {
+            "CommandName": "",
+            "Cost": 16,
+            "Description": "",
+            "Tier": "Critical",
+            "Code": "OPTIMIZE",
+            "Tooltips": []
+        },
+        {
+            "CommandName": "",
+            "Cost": 12,
+            "Description": "",
+            "Tier": "Major",
+            "Code": "RecollectCommand",
+            "Tooltips": []
+        },
+        {
+            "CommandName": "",
+            "Cost": 10,
+            "Description": "",
+            "Tier": "Major",
+            "Code": "RecurCommand",
+            "Tooltips": []
+        },
+        {
+            "CommandName": "",
+            "Cost": 6,
+            "Description": "",
+            "Tier": "Minor",
+            "Code": "RoarCommand",
+            "Tooltips": [
+                "FeralTooltip"
+            ]
+        },
+        {
+            "CommandName": "",
+            "Cost": 5,
+            "Description": "",
+            "Tier": "Minor",
+            "Code": "ScoutCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 9,
             "Description": "",
             "Tier": "Major",
-            "Code": "TutorCommand"
+            "Code": "TutorCommand",
+            "Tooltips": []
         }
     ]
 }

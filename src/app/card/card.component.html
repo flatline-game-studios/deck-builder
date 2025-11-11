@@ -1,7 +1,11 @@
 <!-- src/app/card/card.component.html -->
-<div id="{{card.Code}}" (mouseenter)="show(true)" (mouseleave)="show(false)" class="itg-card" [style.--itg-accent]="card.Color || '#ff0000'" [style.--itg-card-name]="getColor() || '#ffffff'">
+<div #cardRef id="{{card.Code}}" (mouseenter)="show(true)" (mouseleave)="show(false)" class="itg-card" [style.--itg-accent]="card.Color || '#ff0000'" [style.--itg-card-name]="getColor() || '#ffffff'">
 
-    <div class="download-button no-capture" *ngIf="showDowload" title="Download Card as Image"  (click)="saveAsImage()">
+    <app-tooltip
+        [anchor]="cardRef"
+        [items]="card.Tooltips" [show]="showDownload">
+    </app-tooltip>
+    <div class="download-button no-capture" *ngIf="showDownload" title="Download Card as Image" (click)="saveAsImage()">
         DOWNLOAD
     </div>
 

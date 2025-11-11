@@ -9,28 +9,32 @@ import {DriverComponent} from './driver/driver.component';
 import {CommandComponent} from './command/command.component';
 import {FormsModule} from '@angular/forms';
 import { map, distinctUntilChanged, switchMap, filter, take } from 'rxjs/operators';
+import {TooltipsService} from './Services/tooltips.service';
 
 export class CardData {
-  CardName: string = '';
-  ImagePath: string = '';
-  Code: string = '';
-  Descriptions: Array<string> = [ ];
-  Conditional: string = '';
-  ConditionalDescriptions: Array<string> = [ ];
-  Rarity: string = '';
-  Color: string = '';
-  Clock: number = 0;
-  Type: string = '';
-  Vim: number = 0;
-  IsUpgrade: boolean = false;
+    CardName: string = '';
+    ImagePath: string = '';
+    Code: string = '';
+    Descriptions: Array<string> = [ ];
+    Conditional: string = '';
+    ConditionalDescriptions: Array<string> = [ ];
+    Rarity: string = '';
+    Color: string = '';
+    Clock: number = 0;
+    Type: string = '';
+    Vim: number = 0;
+    IsUpgrade: boolean = false;
+    Tooltips: Array<string> = [];
 }
 
 export class DriverData {
     DriverName: string = '';
     Description: string = '';
     ImagePath: string = '';
+    ImageIcon: string = '';
     Code: string = '';
     Color: string = "";
+    Tooltips: Array<string> = [];
 }
 
 export class CommandData {
@@ -39,12 +43,20 @@ export class CommandData {
     Code: string = '';
     Cost: number = 0;
     Tier: string = "";
+    Tooltips: Array<string> = [];
+}
+
+export class Tooltip {
+    Title: string = '';
+    Description: string = '';
+    Code: string = '';
 }
 
 
 
-class Response<T> {
-  Items: Array<T> = [] ;
+
+export class Response<T> {
+    Items: Array<T> = [] ;
 }
 
 
@@ -89,7 +101,7 @@ export class AppComponent {
     showCards : Array<CardData> = [];
     showDrivers : Array<DriverData> = [];
     showCommands: Array<CommandData> = [];
-    constructor(private http: HttpClient, private route: ActivatedRoute, private router: Router) {
+    constructor(private http: HttpClient, private route: ActivatedRoute, private router: Router, private  tooltipService: TooltipsService) {
 
     }
 
@@ -107,7 +119,7 @@ export class AppComponent {
                         map(params => ({ d: params['d'], language: params['language'] })),
                         distinctUntilChanged((a, b) => a.d === b.d && a.language === b.language),
                         switchMap(async ({ d, language }) => {
-                            await Promise.all([this.LoadCards(language), this.LoadDrivers(language), this.LoadCommands(language)]);
+                            await Promise.all([this.LoadCards(language), this.LoadDrivers(language), this.LoadCommands(language), this.tooltipService.LoadTooltips(language)]);
                             // if (!d) {
                             //     this.showCards = this.GetCards();
                             //     this.showDrivers = this.drivers.Items;
@@ -145,7 +157,7 @@ export class AppComponent {
     public ParseData(elements: Query<Item>): void {
 
         elements.i.forEach( (item) => {
-            const card = this.GetCards().find(c => c.Code === item.c);
+            const card = this.GetCards().find(c => c.Code === item.c && c.Tooltips?.length > 0);
 
             for (let i = 0; i < item.a; i++) {
                 if (card) {
@@ -212,6 +224,16 @@ export class AppComponent {
         try {
             this.commands = await firstValueFrom(
                 this.http.get<Response<CommandData>>(`public/assets/json/commands_metadata_${language}.json`)
+            );
+        } catch (err) {
+            console.error('HTTP error', err);
+        }
+    }
+
+    private async LoadTooltips(language: string = 'en') {
+        try {
+            this.commands = await firstValueFrom(
+                this.http.get<Response<CommandData>>(`public/assets/json/tooltips_metadata_${language}.json`)
             );
         } catch (err) {
             console.error('HTTP error', err);

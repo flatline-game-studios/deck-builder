@@ -5,266 +5,325 @@
             "Cost": 6,
             "Description": "Cada vez que juegues una carta este turno, genera 1 <b>VIM</b>.",
             "Tier": "Minor",
-            "Code": "AUGMENTED"
+            "Code": "AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "CLONAR",
             "Cost": 10,
             "Description": "Elige una carta <b>no Protocolo</b> de tu mano. El próximo turno, crea una copia en tu mano.",
             "Tier": "Major",
-            "Code": "CloneCommand_NotImplemented"
+            "Code": "CloneCommand_NotImplemented",
+            "Tooltips": []
         },
         {
             "CommandName": "PROVOCAR",
             "Cost": 6,
             "Description": "Gana 2 de <b>Firmeza</b>.",
             "Tier": "Minor",
-            "Code": "DareCommand"
+            "Code": "DareCommand",
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CommandName": "CONSTRUIR",
-            "Cost": 5,
-            "Description": "Create 1 copy of the last <b>Script</b> you played this turn.  ",
+            "Cost": 6,
+            "Description": "Crea 1 copia del último <b>Script</b> que hayas jugado este turno.  ",
             "Tier": "Minor",
-            "Code": "CONSTRUCT_COMMAND"
+            "Code": "CONSTRUCT_COMMAND",
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CommandName": "CONSTRUIR AUG.",
-            "Cost": 5,
-            "Description": "Create 2 copies of the last <b>Script</b> you played this turn.  ",
+            "Cost": 6,
+            "Description": "Crea 2 copias del último <b>Script</b> que hayas jugado este turno.  ",
             "Tier": "Minor",
-            "Code": "CONSTRUCT_COMMAND_AUGMENTED"
+            "Code": "CONSTRUCT_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "BUCEAR",
             "Cost": 16,
             "Description": "Roba 4 cartas.",
             "Tier": "Critical",
-            "Code": "DIVE_COMMAND"
+            "Code": "DIVE_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "BUCEAR",
             "Cost": 16,
             "Description": "Roba 5 cartas.",
             "Tier": "Critical",
-            "Code": "DIVE_COMMAND_AUGMENTED"
+            "Code": "DIVE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "MANTENER",
             "Cost": 5,
             "Description": "Elige 1 carta de tu mano para <b>Preservarla</b> este turno.",
             "Tier": "Minor",
-            "Code": "MANTAIN_COMMAND"
+            "Code": "MANTAIN_COMMAND",
+            "Tooltips": [
+                "PreserveTooltip"
+            ]
         },
         {
             "CommandName": "MANTENER AUG.",
             "Cost": 5,
             "Description": "Elige hasta 2 cartas de tu mano para <b>Preservarlas</b> este turno.",
             "Tier": "Minor",
-            "Code": "MANTAIN_COMMAND_AUGMENTED"
+            "Code": "MANTAIN_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "PREPARAR",
             "Cost": 12,
             "Description": "Al principio de tu próximo turno, gana 1 de <b>Clock</b>.",
             "Tier": "Major",
-            "Code": "PREPARE_COMMAND"
+            "Code": "PREPARE_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "PREPARAR AUG.",
             "Cost": 12,
             "Description": "Al principio de tu próximo turno, gana 2 de <b>Clock</b>.",
             "Tier": "Major",
-            "Code": "PREPARE_COMMAND_AUGMENTED"
+            "Code": "PREPARE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "ANIMAR",
             "Cost": 12,
             "Description": "Prolonga todos tus efectos de <b>Asistir</b> por 1.",
             "Tier": "Major",
-            "Code": "RALLY_COMMAND"
+            "Code": "RALLY_COMMAND",
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CommandName": "ANIMAR AUG.",
             "Cost": 12,
             "Description": "Prolonga todos tus efectos de <b>Asistir</b> por 2.",
             "Tier": "Major",
-            "Code": "RALLY_COMMAND_AUGMENTED"
+            "Code": "RALLY_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "RECUPERAR",
             "Cost": 10,
             "Description": "Devuelve a tu mano la última carta descartada este turno.",
             "Tier": "Major",
-            "Code": "REBOUND_COMMAND"
+            "Code": "REBOUND_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "RECUPERAR AUG.",
             "Cost": 10,
             "Description": "Devuelve a tu mano la última carta descartada este turno y roba 1 carta.",
             "Tier": "Major",
-            "Code": "REBOUND_COMMAND_AUGMENTED"
+            "Code": "REBOUND_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "REPLICAR",
             "Cost": 20,
             "Description": "Crea 1 copia de cada <b>Script</b> en tu mano.",
             "Tier": "Critical",
-            "Code": "REPLICATE_COMMAND"
+            "Code": "REPLICATE_COMMAND",
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CommandName": "REPLICAR AUG.",
             "Cost": 15,
             "Description": "Crea 1 copia de cada <b>Script</b> en tu mano.",
             "Tier": "Critical",
-            "Code": "REPLICATE_COMMAND_AUGMENTED"
+            "Code": "REPLICATE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "RECONVERTIR",
             "Cost": 6,
-            "Description": "Descarta 1 carta al azar y roba 1.",
+            "Description": "Descarta 1 carta.",
             "Tier": "Minor",
-            "Code": "REPURPOSE_COMMAND"
+            "Code": "REPURPOSE_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "RECONVERTIR AUG.",
             "Cost": 6,
             "Description": "Descarta 1 carta y roba 1.",
             "Tier": "Minor",
-            "Code": "REPURPOSE_COMMAND_AUGMENTED"
+            "Code": "REPURPOSE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "APURAR",
-            "Cost": 15,
+            "Cost": 16,
             "Description": "Resuelve 1 de tus efectos de <b>Asistir</b> al azar.",
             "Tier": "Critical",
-            "Code": "RUSH_COMMAND"
+            "Code": "RUSH_COMMAND",
+            "Tooltips": [
+                "ResolveAssistTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CommandName": "APURAR AUG.",
-            "Cost": 15,
+            "Cost": 16,
             "Description": "Resuelve 2 de tus efectos de <b>Asistir</b> al azar.",
             "Tier": "Critical",
-            "Code": "RUSH_COMMAND_AUGMENTED"
+            "Code": "RUSH_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "PLANEAR",
-            "Cost": 10,
+            "Cost": 12,
             "Description": "<b>Conserva</b> todos tus <b>Scripts</b> este turno.",
             "Tier": "Major",
-            "Code": "STRATEGIZE_COMMAND"
+            "Code": "STRATEGIZE_COMMAND",
+            "Tooltips": [
+                "PreserveTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CommandName": "PLANEAR AUG.",
-            "Cost": 10,
+            "Cost": 12,
             "Description": "Crea 1 <b>Script</b> al azar. <b>Conserva</b> todos tus <b>Scripts</b> este turno.",
             "Tier": "Major",
-            "Code": "STRATEGIZE_COMMAND_AUGMENTED"
+            "Code": "STRATEGIZE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "TOCAR",
             "Cost": 6,
             "Description": "Activa 1 de tus efectos de <b>Asistir</b> al azar.",
             "Tier": "Minor",
-            "Code": "TOUCH_COMMAND"
+            "Code": "TOUCH_COMMAND",
+            "Tooltips": [
+                "TriggerAssistTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CommandName": "TOCAR AUG.",
             "Cost": 6,
             "Description": "Activa 2 de tus efectos de <b>Asistir</b> al azar.",
             "Tier": "Minor",
-            "Code": "TOUCH_COMMAND_AUGMENTED"
+            "Code": "TOUCH_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "TRASCENDER",
             "Cost": 17,
             "Description": "Descarta 3 cartas para ganar 2 de <b>Clock</b>.",
             "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND"
+            "Code": "TRANSCEND_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "TRASCENDER AUG.",
             "Cost": 17,
             "Description": "Descarta 3 cartas para ganar 3 de <b>Clock</b>.",
             "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND_AUGMENTED"
+            "Code": "TRANSCEND_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "CAVAR",
             "Cost": 10,
             "Description": "Roba 3 cartas y luego descarta 1.",
             "Tier": "Major",
-            "Code": "DIG"
+            "Code": "DIG",
+            "Tooltips": []
         },
         {
             "CommandName": "ECO",
             "Cost": 15,
             "Description": "El próxima carta <b>no Protocolo</b> que juegues este turno se jugará dos veces.",
             "Tier": "Critical",
-            "Code": "EchoCommand"
+            "Code": "EchoCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "ENERGIZAR",
             "Cost": 18,
             "Description": "Roba 1 carta y gana 2 de <b>Clock</b>.",
             "Tier": "Critical",
-            "Code": "Energize"
+            "Code": "Energize",
+            "Tooltips": []
         },
         {
             "CommandName": "EJECUTAR",
             "Cost": 17,
             "Description": "Elige una carta de tu Repositorio y juegala gratis.",
             "Tier": "Critical",
-            "Code": "ExecuteCommand"
+            "Code": "ExecuteCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "CULTIVAR",
             "Cost": 5,
             "Description": "Cada vez que juegues una carta este turno, genera 1 <b>VIM</b>.",
             "Tier": "Minor",
-            "Code": "FarmCommand"
+            "Code": "FarmCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "OPTIMIZAR",
             "Cost": 16,
             "Description": "Descarta una carta de tu mano y reduce su <b>costo de Clock</b> por 1 hasta el fin del combate.",
             "Tier": "Critical",
-            "Code": "OPTIMIZE"
+            "Code": "OPTIMIZE",
+            "Tooltips": []
         },
         {
             "CommandName": "REMEMORAR",
-            "Cost": 11,
+            "Cost": 12,
             "Description": "Elige hasta 2 cartas de tu Recicladora y ponlas en tu mano.",
             "Tier": "Major",
-            "Code": "RecollectCommand"
+            "Code": "RecollectCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "REITERAR",
             "Cost": 10,
             "Description": "El próxima carta <b>no Protocolo</b> y no Decompilable que juegues este turno volverá a tu mano.",
             "Tier": "Major",
-            "Code": "RecurCommand"
+            "Code": "RecurCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "RUGIR",
             "Cost": 6,
             "Description": "Gana 2 de <b>Fiereza</b>.",
             "Tier": "Minor",
-            "Code": "RoarCommand"
+            "Code": "RoarCommand",
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CommandName": "EXPLORAR",
             "Cost": 5,
             "Description": "Roba 1 carta.",
             "Tier": "Minor",
-            "Code": "ScoutCommand"
+            "Code": "ScoutCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "TUTELAR",
             "Cost": 9,
             "Description": "Elige 1 carta de tu Repositorio y ponla en tu mano.",
             "Tier": "Major",
-            "Code": "TutorCommand"
+            "Code": "TutorCommand",
+            "Tooltips": []
         }
     ]
 }

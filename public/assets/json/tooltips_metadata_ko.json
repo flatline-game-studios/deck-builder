@@ -1,0 +1,314 @@
+{
+    "Items": [
+        {
+            "Code": "AmpedTooltip",
+            "Title": "증폭",
+            "Description": "이번 턴이 끝날 때까지 카드를 낼 때마다 <b>VIM</b>을 1 얻습니다. 숫자는 지속되는 턴 수를 나타냅니다."
+        },
+        {
+            "Code": "AssistTooltip",
+            "Title": "어시스트",
+            "Description": "전투 중 유지되며 매 턴 시작 시 발동되는 효과입니다.<br> 각 턴마다 카운터가 1씩 감소합니다.<br> 카운터가 0이 되면, 해당 카드는 리사이클러로 이동하거나 디컴파일 처리됩니다."
+        },
+        {
+            "Code": "AugmentTooltip",
+            "Title": "보강 커맨드",
+            "Description": "보강 커맨드는 은 기본 커맨드의 강화된 형태입니다. 사용 후에는 다시 기본 커맨드로 되돌아갑니다."
+        },
+        {
+            "Code": "BiteScriptTooltip",
+            "Title": "바이트 스크립트",
+            "Description": "<b>피해</b>를 주는 스크립트 카드입니다."
+        },
+        {
+            "Code": "BufferTooltip",
+            "Title": "장벽",
+            "Description": "받을 <b>피해</b>를 흡수합니다. 턴 종료 시 사라집니다."
+        },
+        {
+            "Code": "ClockTooltip",
+            "Title": "시계",
+            "Description": "카드를 사용하는 데 필요한 자원입니다."
+        },
+        {
+            "Code": "CocoonScriptTooltip",
+            "Title": "코쿤 스크립트",
+            "Description": "<b>방어막</b>을 부여하는 스크립트 카드입니다."
+        },
+        {
+            "Code": "CommandTooltip",
+            "Title": "커먼드",
+            "Description": "<b>VIM</b>을 소모하여 활성화할 수 있는 능력입니다."
+        },
+        {
+            "Code": "ConditionalTooltip",
+            "Title": "조건",
+            "Description": "설명된 선행 요건을 총족할 경우 추가 효과가 발동하거나 효과가 변경됩니다."
+        },
+        {
+            "Code": "CorruptedDataTooltip",
+            "Title": "손상된 데어터",
+            "Description": "효과가 없는 <b>손상된</b> 카드. 전투 종료 시 코드 저장소에서 제거됩니다."
+        },
+        {
+            "Code": "CorruptedTooltip",
+            "Title": "손상됨",
+            "Description": "유해한 카드 유형. 기본적으로 전투 종료 시 코드 저장소에서 제거됩니다."
+        },
+        {
+            "Code": "DebilitatedTooltip",
+            "Title": "쇠약",
+            "Description": "가하는 <b>피해</b>가 25% 감소합니다. 숫자는 지속될 턴 수를 나타냅니다."
+        },
+        {
+            "Code": "DecompileTooltip",
+            "Title": "디컴파일",
+            "Description": "<b>디컴파일</b>된 카드는 현재 전투에서 다시 코드 저장소로 섞이지 않습니다."
+        },
+        {
+            "Code": "DepletedTooltip",
+            "Title": "소진",
+            "Description": "턴 시작 시 카드를 1장 덜 뽑습니다. 숫자는 지속될 턴 수를 나타냅니다."
+        },
+        {
+            "Code": "ExposedTooltip",
+            "Title": "폭로",
+            "Description": "받는 <b>피해</b>가 25% 증가합니다. 숫자는 지속될 턴 수를 나타냅니다."
+        },
+        {
+            "Code": "FeralTooltip",
+            "Title": "야성",
+            "Description": "가하는 <b>피해</b>가 1포인트당 5% 증가합니다. 매 턴 1포인트씩 감소합니다."
+        },
+        {
+            "Code": "FragmentedDataTooltip",
+            "Title": "파편화된 데이터",
+            "Description": "효과가 없는 <b>손상된</b> 카드. 카드 덱에 남아 있을 경우 턴 종료 시 <b>디컴파일</b>됩니다."
+        },
+        {
+            "Code": "GeneratorTooltip",
+            "Title": "생성기",
+            "Description": "<b>VIM</b>을 생성하는 카드 유형입니다."
+        },
+        {
+            "Code": "GlitchedCardsTooltip",
+            "Title": "버그 카드",
+            "Description": "버그 카드는 바리어, 데미지 또는 VIM 출력에 디버프를 겪습니다. 이 상태는 카드가 사용되거나 버려지면 제거됩니다."
+        },
+        {
+            "Code": "GlitchingMatrixTooltip",
+            "Title": "글리칭 매트릭스",
+            "Description": "이번 턴에서 공격 카드가 사용될 때마다, 그 카드는 버그 카드가 됩니다."
+        },
+        {
+            "Code": "GritTooltip",
+            "Title": "투지",
+            "Description": "획득하는 <b>방어막</b>이 1포인트당 5% 증가합니다. 매 턴 1포인트씩 감소합니다."
+        },
+        {
+            "Code": "HackTooltip",
+            "Title": "공격 패",
+            "Description": "공격적인 카드 유형입니다."
+        },
+        {
+            "Code": "IndexedTooltip",
+            "Title": "캐시",
+            "Description": "턴 시작 시 카드를 1장 추가로 뽑습니다. 숫자는 지속될 턴 수를 나타냅니다."
+        },
+        {
+            "Code": "JammedTooltip",
+            "Title": "오버클럭",
+            "Description": "<b>생성기</b> 카드는 이번 턴이 끝날 때까지 비용이 <b>시계</b> 1만큼 추가됩니다. 숫자는 지속되는 턴 수를 나타냅니다."
+        },
+        {
+            "Code": "MaxVimTooltip",
+            "Title": "최대 VIM",
+            "Description": "<b>VIM</b> 최대치 도달 (현재 VIM: 20)."
+        },
+        {
+            "Code": "MemoryFumbleTooltip",
+            "Title": "메모리 실수",
+            "Description": "턴 시작 시, 손에 있는 모든 카드의 기본 VIM이 무작위로 변경됩니다. 각 포인트는 라운드 수를 나타냅니다."
+        },
+        {
+            "Code": "MuzzledTooltip",
+            "Title": "억제",
+            "Description": "<b>공격</b> 카드는 이번 턴이 끝날 때까지 비용이 <b>시계</b> 1만큼 추가됩니다. 숫자는 지속되는 턴 수를 나타냅니다."
+        },
+        {
+            "Code": "OnDiscardTooltip",
+            "Title": "버리기 시",
+            "Description": "턴 중 해당 카드를 버릴 때마다 발동하는 효과입니다."
+        },
+        {
+            "Code": "OnHitTooltip",
+            "Title": "명중 시 발동 조건",
+            "Description": "공격의 <b>피해</b>가 대상의 <b>무결성</b>에 영향을 미칠 경우 명중으로 간주합니다."
+        },
+        {
+            "Code": "OverheatedTooltip",
+            "Title": "작동 불능",
+            "Description": "매 턴에 <b>커맨드</b>는 1번만 사용할 수 있습니다. 숫자는 지속되는 턴 수를 나타냅니다."
+        },
+        {
+            "Code": "PierceCoreTooltip",
+            "Title": "코어 관통",
+            "Description": "코어 주변 장치에 큰 피해를 주는 비용 2의 공격 카드."
+        },
+        {
+            "Code": "PreserveTooltip",
+            "Title": "보존",
+            "Description": "보존된 카드는 턴 종료 시 버려지지 않습니다."
+        },
+        {
+            "Code": "ProtocolTooltip",
+            "Title": "프로토콜",
+            "Description": "프로토콜 효과는 플레이 즉시 전투 내내 유지되며, 카드 자체는 전투 종료까지 사라집니다. 동일한 프로토콜이 여러 장 있어도 효과가 중첩되지 않습니다."
+        },
+        {
+            "Code": "QuickenTooltip",
+            "Title": "오버클럭",
+            "Description": "턴 시작 시 1 <b>시계</b>를 추가로 획득합니다. 숫자는 지속될 턴 수를 나타냅니다."
+        },
+        {
+            "Code": "ResolveAssistTooltip",
+            "Title": "어시스트 발동",
+            "Description": "<b>어시스트</b> 효과를 발동하면, 남은 모든 지속 카운터를 한 번에 활성화하고 즉시 만료됩니다."
+        },
+        {
+            "Code": "ScriptTooltip",
+            "Title": "스크립트 카드",
+            "Description": "스크립트는 특정 효과로 생성되며, 버려지거나 디컴파일되는 대신 게임에서 사라집니다."
+        },
+        {
+            "Code": "ShellTooltip",
+            "Title": "방어 패",
+            "Description": "방어적인 패 유형입니다."
+        },
+        {
+            "Code": "ShutdownTooltip",
+            "Title": "종료",
+            "Description": "이번 턴에 <b>커맨드</b>를 사용할 수 없습니다. 숫자는 지속될 턴 수를 나타냅니다."
+        },
+        {
+            "Code": "SlowedTooltip",
+            "Title": "언더클럭",
+            "Description": "턴 시작 시 1 <b>시계</b>를 덜 획득합니다. 숫자는 지속될 턴 수를 나타냅니다."
+        },
+        {
+            "Code": "StunTooltip",
+            "Title": "일시 정지",
+            "Description": "다음 턴을 건너뜁니다."
+        },
+        {
+            "Code": "TaggedTooltip",
+            "Title": "표시",
+            "Description": "<b>방어</b> 카드는 이번 턴이 끝날 때까지 비용이 <b>시계</b> 1만큼 추가됩니다. 숫자는 지속되는 턴 수를 나타냅니다."
+        },
+        {
+            "Code": "TemporaryTooltip",
+            "Title": "임시 카드",
+            "Description": "임시 카드는 버려지거나 디컴파일되는 대신 게임에서 사라집니다."
+        },
+        {
+            "Code": "TempVimTooltip",
+            "Title": "임시 VIM",
+            "Description": "<b>커맨드</b> 활성화에 사용되며, 턴 종료 시 사라집니다. 조건부 효과에 계산되지 않습니다."
+        },
+        {
+            "Code": "Tooltip_Hashkeys",
+            "Title": "해시 키",
+            "Description": "이 자원은 일부 문지기를 제거하거나 노드 해시 재계산에 사용됩니다."
+        },
+        {
+            "Code": "Tooltip_Inventory_Concealer",
+            "Title": "스텔스",
+            "Description": "빈 칸에 설치하면 해당 클러스터 내 모든 행동의 추적을 0으로 감소시킵니다."
+        },
+        {
+            "Code": "Tooltip_Inventory_GateBreaker",
+            "Title": "게이트 브레이커",
+            "Description": "유닛 게이트를 잠금해제합니다."
+        },
+        {
+            "Code": "Tooltip_Inventory_Harvester",
+            "Title": "하베스터",
+            "Description": "20 정보를 획득합니다. 추적 레벨이 상승할 때마다, 인벤토리에 있을 경우 이 도구로 획득하는 정보가 증가합니다."
+        },
+        {
+            "Code": "Tooltip_Inventory_IceBreaker",
+            "Title": "ICE 브레이커",
+            "Description": "보초병, 감시자 또는 문 하나를 파괴하세요."
+        },
+        {
+            "Code": "Tooltip_Inventory_LogScrubber",
+            "Title": "로그 스크러버",
+            "Description": "추적을 4만큼 감소시킵니다."
+        },
+        {
+            "Code": "Tooltip_Inventory_LogWiper",
+            "Title": "로그 와이퍼",
+            "Description": "추적을 0으로 만듭니다."
+        },
+        {
+            "Code": "Tooltip_Inventory_Refresher",
+            "Title": "리프레셔",
+            "Description": "스킬을 새로고침합니다."
+        },
+        {
+            "Code": "Tooltip_Inventory_ScoutProbe",
+            "Title": "정찰 탐사기",
+            "Description": "그리드 내 한 구역을 공개합니다."
+        },
+        {
+            "Code": "Tooltip_Inventory_SentinelBreaker",
+            "Title": "보초병 파괴자",
+            "Description": "보초병을 비활성화합니다."
+        },
+        {
+            "Code": "Tooltip_Inventory_Teleporter",
+            "Title": "텔레포터",
+            "Description": "무작위 클러스터로 순간이동 (미공개 클러스터 우선)."
+        },
+        {
+            "Code": "Tooltip_Shards",
+            "Title": "정보",
+            "Description": "이 자원은 카드, 도구 구매 및 업그레이드에 사용됩니다."
+        },
+        {
+            "Code": "TriggerAssistTooltip",
+            "Title": "어시스트 활성화",
+            "Description": "턴 시작이 아닌 타이밍에 <b>어시스트</b> 효과가 활성화될 경우, 지속 카운터를 소모하지 않고 효과만 발동합니다."
+        },
+        {
+            "Code": "UnstableTooltip",
+            "Title": "불안정",
+            "Description": "이번 턴이 끝날 때까지 카드를 낼 때마다 <b>VIM</b>을 1 잃습니다. 숫자는 지속되는 턴 수를 나타냅니다."
+        },
+        {
+            "Code": "UntargetableTooltip",
+            "Title": "불가",
+            "Description": "이 유닛은 단일 공격으로 선택할 수 없습니다."
+        },
+        {
+            "Code": "VimTooltip",
+            "Title": "VIM（비주얼 메모리）",
+            "Description": "<b>커맨드</b>를 활성화하는 데 사용되는 자원입니다."
+        },
+        {
+            "Code": "WeaveScriptTooltip",
+            "Title": "위브 스크립트",
+            "Description": "카드를 1장 뽑고 <b>VIM</b>을 생성하는 스크립트 카드입니다."
+        },
+        {
+            "Code": "RecyclerTooltip",
+            "Title": "휴지통",
+            "Description": "<b>코드 저장소</b>가 비어 있을 때 당신이 카드를 뽑으려 하면, 여기 있는 카드가 다시 코드 저장소에 섞여 들어갑니다."
+        },
+        {
+            "Code": "RepositoryTooltip",
+            "Title": "저장소",
+            "Description": "뽑는 모든 카드가 포함됩니다."
+        }
+    ]
+}

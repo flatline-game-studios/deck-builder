@@ -5,266 +5,325 @@
             "Cost": 6,
             "Description": "このターン中、カードをプレイするたびに1点の<b>VIM</b>を生成。",
             "Tier": "Minor",
-            "Code": "AUGMENTED"
+            "Code": "AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "クローン",
             "Cost": 10,
             "Description": "自分の手札から<b>非プロトコル</b>カードを1枚選び、次のターンでそのカードのコピーを手札に生成する。",
             "Tier": "Major",
-            "Code": "CloneCommand_NotImplemented"
+            "Code": "CloneCommand_NotImplemented",
+            "Tooltips": []
         },
         {
             "CommandName": "勇気",
             "Cost": 6,
             "Description": "2スタックの<b>剛毅</b>を獲得する。",
             "Tier": "Minor",
-            "Code": "DareCommand"
+            "Code": "DareCommand",
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CommandName": "構築",
-            "Cost": 5,
-            "Description": "Create 1 copy of the last <b>Script</b> you played this turn.  ",
+            "Cost": 6,
+            "Description": "このターンに最後にプレイした<b>スクリプト</b>のコピーを1枚生成する。 ",
             "Tier": "Minor",
-            "Code": "CONSTRUCT_COMMAND"
+            "Code": "CONSTRUCT_COMMAND",
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CommandName": "オーグ・構築",
-            "Cost": 5,
-            "Description": "Create 2 copies of the last <b>Script</b> you played this turn.  ",
+            "Cost": 6,
+            "Description": "このターンに最後にプレイした<b>スクリプト</b>のコピーを2枚生成する。 ",
             "Tier": "Minor",
-            "Code": "CONSTRUCT_COMMAND_AUGMENTED"
+            "Code": "CONSTRUCT_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "ダイビング",
             "Cost": 16,
             "Description": "カードを4枚引く。",
             "Tier": "Critical",
-            "Code": "DIVE_COMMAND"
+            "Code": "DIVE_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "オーグ・ダイビング",
             "Cost": 16,
             "Description": "カードを5枚引く。",
             "Tier": "Critical",
-            "Code": "DIVE_COMMAND_AUGMENTED"
+            "Code": "DIVE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "メンテ",
             "Cost": 5,
             "Description": "手札からカードを1枚選んで、このターン中<b>手札に残す</b>。",
             "Tier": "Minor",
-            "Code": "MANTAIN_COMMAND"
+            "Code": "MANTAIN_COMMAND",
+            "Tooltips": [
+                "PreserveTooltip"
+            ]
         },
         {
             "CommandName": "オーグ・メンテ",
             "Cost": 5,
             "Description": "手札からカードを最大2枚選んで、このターン中<b>手札に残す</b>。",
             "Tier": "Minor",
-            "Code": "MANTAIN_COMMAND_AUGMENTED"
+            "Code": "MANTAIN_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "下準備",
             "Cost": 12,
             "Description": "次のターン開始時、1の<b>クロック</b>を獲得する。",
             "Tier": "Major",
-            "Code": "PREPARE_COMMAND"
+            "Code": "PREPARE_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "オーグ・下準備",
             "Cost": 12,
             "Description": "次のターン開始時、2の<b>クロック</b>を獲得する。",
             "Tier": "Major",
-            "Code": "PREPARE_COMMAND_AUGMENTED"
+            "Code": "PREPARE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "ラリー",
             "Cost": 12,
             "Description": "<b>アシスト</b>効果をすべて1延長する。",
             "Tier": "Major",
-            "Code": "RALLY_COMMAND"
+            "Code": "RALLY_COMMAND",
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CommandName": "オーグ・ラリー",
             "Cost": 12,
             "Description": "<b>アシスト</b>効果をすべて2延長する。",
             "Tier": "Major",
-            "Code": "RALLY_COMMAND_AUGMENTED"
+            "Code": "RALLY_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "リバウンド",
             "Cost": 10,
             "Description": "このターンに最後に破棄したカードを手札に戻す。",
             "Tier": "Major",
-            "Code": "REBOUND_COMMAND"
+            "Code": "REBOUND_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "オーグ・リバウンド",
             "Cost": 10,
             "Description": "このターンに最後に破棄したカードを手札に戻して、1枚を引く。",
             "Tier": "Major",
-            "Code": "REBOUND_COMMAND_AUGMENTED"
+            "Code": "REBOUND_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "コピー",
             "Cost": 20,
             "Description": "手札の<b>スクリプト</b>に、そのコピーを1枚生成する。",
             "Tier": "Critical",
-            "Code": "REPLICATE_COMMAND"
+            "Code": "REPLICATE_COMMAND",
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CommandName": "オーグ・コピー",
             "Cost": 15,
             "Description": "手札の<b>スクリプト</b>に、そのコピーを1枚生成する。",
             "Tier": "Critical",
-            "Code": "REPLICATE_COMMAND_AUGMENTED"
+            "Code": "REPLICATE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "再利用",
             "Cost": 6,
-            "Description": "ランダムに1枚を破棄して1枚を引く。",
+            "Description": "カードを1枚破棄する",
             "Tier": "Minor",
-            "Code": "REPURPOSE_COMMAND"
+            "Code": "REPURPOSE_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "",
             "Cost": 6,
             "Description": "1枚を破棄して1枚を引く。",
             "Tier": "Minor",
-            "Code": "REPURPOSE_COMMAND_AUGMENTED"
+            "Code": "REPURPOSE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "ラッシュ",
-            "Cost": 15,
+            "Cost": 16,
             "Description": "ランダムに<b>アシスト</b>効果を1回解き放つ。",
             "Tier": "Critical",
-            "Code": "RUSH_COMMAND"
+            "Code": "RUSH_COMMAND",
+            "Tooltips": [
+                "ResolveAssistTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CommandName": "オーグ・ラッシュ",
-            "Cost": 15,
+            "Cost": 16,
             "Description": "ランダムに<b>アシスト</b>効果を2回解き放つ。",
             "Tier": "Critical",
-            "Code": "RUSH_COMMAND_AUGMENTED"
+            "Code": "RUSH_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "プランニング",
-            "Cost": 10,
+            "Cost": 12,
             "Description": "このターン中、すべての<b>スクリプト</b>を次ターンの<b>手札に残す</b>。",
             "Tier": "Major",
-            "Code": "STRATEGIZE_COMMAND"
+            "Code": "STRATEGIZE_COMMAND",
+            "Tooltips": [
+                "PreserveTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CommandName": "オーグ・プランニング",
-            "Cost": 10,
+            "Cost": 12,
             "Description": "ランダムな<b>スクリプト</b>カードを1枚生成する。このターン中、すべての<b>スクリプト</b>を次ターンの<b>手札に残す</b>。",
             "Tier": "Major",
-            "Code": "STRATEGIZE_COMMAND_AUGMENTED"
+            "Code": "STRATEGIZE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "タッチ",
             "Cost": 6,
             "Description": "ランダムに<b>アシスト</b>効果を1回発動させる。",
             "Tier": "Minor",
-            "Code": "TOUCH_COMMAND"
+            "Code": "TOUCH_COMMAND",
+            "Tooltips": [
+                "TriggerAssistTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CommandName": "オーグ・タッチ",
             "Cost": 6,
             "Description": "ランダムに<b>アシスト</b>効果を2回発動させる。",
             "Tier": "Minor",
-            "Code": "TOUCH_COMMAND_AUGMENTED"
+            "Code": "TOUCH_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "アセンション",
             "Cost": 17,
             "Description": "3枚を破棄し、2の<b>クロック</b>を獲得する。",
             "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND"
+            "Code": "TRANSCEND_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "オーグ・アセンション",
             "Cost": 17,
             "Description": "3枚を破棄し、3の<b>クロック</b>を獲得する。",
             "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND_AUGMENTED"
+            "Code": "TRANSCEND_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "掘り下げ",
             "Cost": 10,
             "Description": "3枚のカードを引き、その後1枚のカードを選んで捨てる。",
             "Tier": "Major",
-            "Code": "DIG"
+            "Code": "DIG",
+            "Tooltips": []
         },
         {
             "CommandName": "エコー",
             "Cost": 15,
             "Description": "次の<b>非プロトコル</b>カードは、このターンで2回発動する。",
             "Tier": "Critical",
-            "Code": "EchoCommand"
+            "Code": "EchoCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "チャージ",
             "Cost": 18,
             "Description": "1枚のカードを引き、2の<b>クロック</b>を獲得。",
             "Tier": "Critical",
-            "Code": "Energize"
+            "Code": "Energize",
+            "Tooltips": []
         },
         {
             "CommandName": "実行",
             "Cost": 17,
             "Description": "コードデッキから1枚のカードを選び、無料でプレイする。",
             "Tier": "Critical",
-            "Code": "ExecuteCommand"
+            "Code": "ExecuteCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "儲け",
             "Cost": 5,
             "Description": "このターン中、カードをプレイするたびに1点の<b>VIM</b>を生成。",
             "Tier": "Minor",
-            "Code": "FarmCommand"
+            "Code": "FarmCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "最適化",
             "Cost": 16,
             "Description": "手札からカードを1枚捨てる。その<b>クロックコスト</b>は戦闘終了まで1削減する。",
             "Tier": "Critical",
-            "Code": "OPTIMIZE"
+            "Code": "OPTIMIZE",
+            "Tooltips": []
         },
         {
             "CommandName": "回収",
-            "Cost": 11,
+            "Cost": 12,
             "Description": "ゴミ箱から最大2枚のカードを選び、手札に加える。",
             "Tier": "Major",
-            "Code": "RecollectCommand"
+            "Code": "RecollectCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "再帰",
             "Cost": 10,
             "Description": "次のデコンパイルされない<b>非プロトコル</b>カードをプレイした後、手札に戻される。",
             "Tier": "Major",
-            "Code": "RecurCommand"
+            "Code": "RecurCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "怒号",
             "Cost": 6,
             "Description": "2スタックの<b>野性</b>を獲得する。",
             "Tier": "Minor",
-            "Code": "RoarCommand"
+            "Code": "RoarCommand",
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CommandName": "スカウト",
             "Cost": 5,
             "Description": "1枚のカードを引く。",
             "Tier": "Minor",
-            "Code": "ScoutCommand"
+            "Code": "ScoutCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "選択",
             "Cost": 9,
             "Description": "コードデッキから1枚のカードを選び、手札に加える。",
             "Tier": "Major",
-            "Code": "TutorCommand"
+            "Code": "TutorCommand",
+            "Tooltips": []
         }
     ]
 }

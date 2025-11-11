@@ -2,11 +2,13 @@ import {Component, Input, SimpleChanges} from '@angular/core';
 import {CommandData} from '../app.component';
 import {DomSanitizer, SafeHtml} from '@angular/platform-browser';
 import {UpperCasePipe} from '@angular/common';
+import {TooltipComponent} from '../tooltip/tooltip.component';
 
 @Component({
   selector: 'app-command',
     imports: [
-        UpperCasePipe
+        UpperCasePipe,
+        TooltipComponent
     ],
   templateUrl: './command.component.html',
   styleUrl: './command.component.scss'
@@ -14,6 +16,7 @@ import {UpperCasePipe} from '@angular/common';
 export class CommandComponent {
     @Input() command!: CommandData;
     public sanitizedDescription: SafeHtml = '';
+    public isHover: boolean  = false;
     public constructor(private sanitizer: DomSanitizer) {}
 
     public ngOnChanges(changes: SimpleChanges) {
@@ -23,4 +26,7 @@ export class CommandComponent {
         }
     }
 
+    show(b: boolean) {
+        this.isHover = b;
+    }
 }

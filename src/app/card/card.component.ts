@@ -4,6 +4,7 @@ import {NgForOf, NgIf, NgOptimizedImage} from '@angular/common';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import html2canvas from 'html2canvas';
 import { AutoFitTextDirective } from '../directives/auto-fit-text.directive';
+import {TooltipComponent} from '../tooltip/tooltip.component';
 
 @Component({
     standalone: true,
@@ -12,7 +13,9 @@ import { AutoFitTextDirective } from '../directives/auto-fit-text.directive';
         NgForOf,
         NgIf,
         AutoFitTextDirective,
-        NgOptimizedImage
+        NgOptimizedImage,
+        TooltipComponent,
+
     ],
     templateUrl: './card.component.html',
     styleUrl: './card.component.scss'
@@ -24,7 +27,7 @@ export class CardComponent {
     public sanitizedConditional: SafeHtml = '';
     public sanitizedConditionalDescriptions: SafeHtml[] = [];
     private processing: boolean = false;
-    showDowload: any;
+    public showDownload: boolean = false;
     public constructor(private sanitizer: DomSanitizer) {}
 
     public ngOnChanges(changes: SimpleChanges) {
@@ -79,6 +82,6 @@ export class CardComponent {
     }
 
     show(b: boolean) {
-        this.showDowload = b;
+        this.showDownload = b;
     }
 }

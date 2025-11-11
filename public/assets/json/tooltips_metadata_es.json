@@ -1,0 +1,314 @@
+{
+    "Items": [
+        {
+            "Code": "AmpedTooltip",
+            "Title": "Amplificación",
+            "Description": "Este turno, todas las cartas generan 1 <b>VIM</b> más hasta que son jugadas. Cada punto representa duración en número de rondas."
+        },
+        {
+            "Code": "AssistTooltip",
+            "Title": "ASISTIR",
+            "Description": "Efecto que permanece en combate y se activa al principio de cada turno.<br>\nCada turno, su contador decae por 1.<br>\nCuando expira, la carta se mueve a la Recicladora o se Decompila según corresponda."
+        },
+        {
+            "Code": "AugmentTooltip",
+            "Title": "AUGMENTAR COMANDOS",
+            "Description": "Los Comandos Augmentados son versiones mejoradas de los Comandos base. Se revierten al Comando base una vez usados."
+        },
+        {
+            "Code": "BiteScriptTooltip",
+            "Title": "SCRIPT DE MORDIDA",
+            "Description": "Carta Script que hace daño."
+        },
+        {
+            "Code": "BufferTooltip",
+            "Title": "BARRERA",
+            "Description": "Absorbe el daño entrante. Expira al finalizar la ronda."
+        },
+        {
+            "Code": "ClockTooltip",
+            "Title": "CLOCK",
+            "Description": "Recurso utilizado para jugar cartas."
+        },
+        {
+            "Code": "CocoonScriptTooltip",
+            "Title": "SCRIPT DE CAPULLO",
+            "Description": "Carta Script que produce <b>Barrera</b>."
+        },
+        {
+            "Code": "CommandTooltip",
+            "Title": "COMANDO",
+            "Description": "Habilidad que puede activarse gastando <b>VIM</b>."
+        },
+        {
+            "Code": "ConditionalTooltip",
+            "Title": "CONDICIONAL",
+            "Description": "Efecto adicional o alternativo que se activará si los requerimientos enunciados se cumplen."
+        },
+        {
+            "Code": "CorruptedDataTooltip",
+            "Title": "DATOS CORRUPTOS",
+            "Description": "Carta de tipo <b>CORRUPTA</b> que no tiene efecto y se elimina de tu Repo al final del combate."
+        },
+        {
+            "Code": "CorruptedTooltip",
+            "Title": "CORRUPTA",
+            "Description": "Tipo de carta dañino. Normalmente, se eliminan de tu Repo al final el combate."
+        },
+        {
+            "Code": "DebilitatedTooltip",
+            "Title": "Debilidad",
+            "Description": "Reduce el daño saliente un 25%. Cada punto representa duración en número de rondas."
+        },
+        {
+            "Code": "DecompileTooltip",
+            "Title": "DECOMPILAR",
+            "Description": "Las cartas <b>Decompiladas</b> no vuelven a formar parte de tu Repo durante el resto del combate."
+        },
+        {
+            "Code": "DepletedTooltip",
+            "Title": "Agotamiento",
+            "Description": "Al principio de tu turno, roba una carta menos. Cada punto representa duración en número de rondas."
+        },
+        {
+            "Code": "ExposedTooltip",
+            "Title": "Exposición",
+            "Description": "Incrementa el daño entrante un 25%. Cada punto representa duración en número de rondas."
+        },
+        {
+            "Code": "FeralTooltip",
+            "Title": "Fiereza",
+            "Description": "Cada punto incrementa 5% el daño saliente. Decae un punto cada turno."
+        },
+        {
+            "Code": "FragmentedDataTooltip",
+            "Title": "DATOS FRAGMENTADOS",
+            "Description": "Carta de tipo <b>CORRUPTA</b> que no tiene efecto y se <b>Decompila</b> al final del turno si está en tu mano."
+        },
+        {
+            "Code": "GeneratorTooltip",
+            "Title": "GENERADOR",
+            "Description": "Tipo de carta generadora de <b>VIM</b>."
+        },
+        {
+            "Code": "GlitchedCardsTooltip",
+            "Title": "Cartas Glicheadas",
+            "Description": "Las cartas Glicheadas sufren una penalización en su generación de Barrera, daño o VIM. Este estado es purgado cuando la carta es jugada o descartada."
+        },
+        {
+            "Code": "GlitchingMatrixTooltip",
+            "Title": "Matrix Glitcheada",
+            "Description": "Cada vez que un Ataque es jugado este turno, se vuelve Glitcheado."
+        },
+        {
+            "Code": "GritTooltip",
+            "Title": "Firmeza",
+            "Description": "Cada punto incrementa 5% la <b>Barrera</b> ganada. Decae un punto cada turno."
+        },
+        {
+            "Code": "HackTooltip",
+            "Title": "ATAQUE",
+            "Description": "Tipo de carta ofensivo. "
+        },
+        {
+            "Code": "IndexedTooltip",
+            "Title": "Acumulación",
+            "Description": "Al principio de tu turno, roba una carta adicional. Cada punto representa duración en número de rondas."
+        },
+        {
+            "Code": "JammedTooltip",
+            "Title": "Sobrecarga",
+            "Description": "Este turno, los <b>Generadores</b> cuestan 1 de <b>Clock</b> extra hasta que son jugados. Cada punto representa duración en número de rondas."
+        },
+        {
+            "Code": "MaxVimTooltip",
+            "Title": "MAX VIM",
+            "Description": "Estado de tener tu barra de <b>VIM</b> llena (actualmente en 20)."
+        },
+        {
+            "Code": "MemoryFumbleTooltip",
+            "Title": "Falla de Memoria",
+            "Description": "Al principio de tu turno, aleatoriza el VIM base de todas las en tu mano. Cada punto representa duración entre rondas."
+        },
+        {
+            "Code": "MuzzledTooltip",
+            "Title": "Supresión",
+            "Description": "Este turno, los <b>Ataques</b> cuestan 1 de <b>Clock</b> extra hasta que son jugados. Cada punto representa duración en número de rondas."
+        },
+        {
+            "Code": "OnDiscardTooltip",
+            "Title": "AL DESCARTAR",
+            "Description": "Efecto que se activa cada vez que la carta es descartada durante tu turno."
+        },
+        {
+            "Code": "OnHitTooltip",
+            "Title": "CONDICIONAL DE IMPACTO",
+            "Description": "Se considera que un ataque impacta si su daño impacta en la <b>Integridad</b> del objetivo."
+        },
+        {
+            "Code": "OverheatedTooltip",
+            "Title": "Interferencia",
+            "Description": "Solo puedes usar 1 <b>Comando</b> por turno. Cada punto representa duración en número de rondas."
+        },
+        {
+            "Code": "PierceCoreTooltip",
+            "Title": "PERFORAR NÚCLEO",
+            "Description": "Ataque de costo 2 que hace mucho daño al Periférico Núcleo."
+        },
+        {
+            "Code": "PreserveTooltip",
+            "Title": "CONSERVAR",
+            "Description": "Las cartas conservadas no se descartan al final de tu turno"
+        },
+        {
+            "Code": "ProtocolTooltip",
+            "Title": "PROTOCOLO",
+            "Description": "Una vez jugados, los efectos de los Protocolos permanecen activos, mientras que la carta desaparece hasta el final del combate. Jugar más de una copia del mismo Protocolo no acumula sus efectos.\n"
+        },
+        {
+            "Code": "QuickenTooltip",
+            "Title": "Overclocked",
+            "Description": "Al principio de tu turno, gana 1 de <b>Clock</b> adicional. Cada punto representa duración en número de rondas."
+        },
+        {
+            "Code": "ResolveAssistTooltip",
+            "Title": "RESOLVER ASISTIR",
+            "Description": "Cuando un efecto de Asistir se resuelve, consume todos sus contadores de duración al mismo tiempo y luego expira."
+        },
+        {
+            "Code": "ScriptTooltip",
+            "Title": "CARTAS SCRIPT",
+            "Description": "Los Scripts son creados por algunos efectos y desaparecen del juego después de ser descartadas o decompiladas."
+        },
+        {
+            "Code": "ShellTooltip",
+            "Title": "DEFENSA",
+            "Description": "Tipo de carta defensivo."
+        },
+        {
+            "Code": "ShutdownTooltip",
+            "Title": "Parálisis",
+            "Description": "No puedes usar <b>Comandos</b> durante este turno. Cada punto representa duración en número de rondas."
+        },
+        {
+            "Code": "SlowedTooltip",
+            "Title": "Underclocked",
+            "Description": "Al principio de tu turno, pierde 1 de <b>Clock</b>. Cada punto representa duración en número de rondas."
+        },
+        {
+            "Code": "StunTooltip",
+            "Title": "Aturdido",
+            "Description": "Saltea su próximo turno."
+        },
+        {
+            "Code": "TaggedTooltip",
+            "Title": "Marcación",
+            "Description": "Este turno, las <b>Defensas</b> cuestan 1 de <b>Clock</b> extra hasta que son jugadas. Cada punto representa duración en número de rondas."
+        },
+        {
+            "Code": "TemporaryTooltip",
+            "Title": "TEMPORARIA",
+            "Description": "Las cartas temporarias desaparecen del juego en vez de ser descartadas o decompiladas."
+        },
+        {
+            "Code": "TempVimTooltip",
+            "Title": "TEMP VIM",
+            "Description": "Recurso utilizado para activar <b>Comandos</b>. Expira al final de tu turno. No cuenta para Efectos Condicionales."
+        },
+        {
+            "Code": "Tooltip_Hashkeys",
+            "Title": "HASHKEYS",
+            "Description": "Recurso utilizado para desbloquear algunas Puertas y Reestructurar Nodos."
+        },
+        {
+            "Code": "Tooltip_Inventory_Concealer",
+            "Title": "OCULTADOR",
+            "Description": "Se instala en un espacio vacío y reduce el costo de Rastro de todas tus acciones en ese Clúster a 0."
+        },
+        {
+            "Code": "Tooltip_Inventory_GateBreaker",
+            "Title": "ROMPEPUERTAS",
+            "Description": "Desbloquea una Puerta."
+        },
+        {
+            "Code": "Tooltip_Inventory_Harvester",
+            "Title": "COSECHADOR",
+            "Description": "Gana 20 de Intel. Cada vez que aumenta el Nivel de Rastro, aumenta la Intel que ridne esta herramienta mientras esté en tu inventario."
+        },
+        {
+            "Code": "Tooltip_Inventory_IceBreaker",
+            "Title": "ROMPEHIELOS",
+            "Description": "Rompe un Centinela, Vigía o Puerta."
+        },
+        {
+            "Code": "Tooltip_Inventory_LogScrubber",
+            "Title": "LIMPIA REGISTROS",
+            "Description": "Reduce tu Rastro por 4."
+        },
+        {
+            "Code": "Tooltip_Inventory_LogWiper",
+            "Title": "BORRA REGISTROS",
+            "Description": "Lleva tu Rastro a 0."
+        },
+        {
+            "Code": "Tooltip_Inventory_Refresher",
+            "Title": "ACTUALIZADOR",
+            "Description": "Refresca tus Habilidades."
+        },
+        {
+            "Code": "Tooltip_Inventory_ScoutProbe",
+            "Title": "SONDA EXPLORADORA",
+            "Description": "Revela un área de la Grid."
+        },
+        {
+            "Code": "Tooltip_Inventory_SentinelBreaker",
+            "Title": "ROMPE-CENTINELAS",
+            "Description": "Desactiva un Centinela."
+        },
+        {
+            "Code": "Tooltip_Inventory_Teleporter",
+            "Title": "TELEPORTADOR",
+            "Description": "Telepórtate a un Clúster al azar (priorizando los que no están revelados)."
+        },
+        {
+            "Code": "Tooltip_Shards",
+            "Title": "INTEL",
+            "Description": "Recurso utilizado para comprar cartas, herramientas y más."
+        },
+        {
+            "Code": "TriggerAssistTooltip",
+            "Title": "ACTIVAR ASISTIR",
+            "Description": "Cuando un efecto de Asistir se activa fuera del comienzo de tu turno, su efecto se activa sin reducir su contador de duración"
+        },
+        {
+            "Code": "UnstableTooltip",
+            "Title": "Inestabilidad",
+            "Description": "Este turno, todas las cartas generan 1 <b>VIM</b> menos hasta que son jugadas. Cada punto representa duración en número de rondas."
+        },
+        {
+            "Code": "UntargetableTooltip",
+            "Title": "Inalcanzable",
+            "Description": "Esta entidad no puede ser alcanzada por ataques de un solo objetivo."
+        },
+        {
+            "Code": "VimTooltip",
+            "Title": "VIM (MEMORIA VIRTUAL)",
+            "Description": "Recurso utilizado para activar <b>Comandos</b>."
+        },
+        {
+            "Code": "WeaveScriptTooltip",
+            "Title": "SCRIPT DE TEJIDO",
+            "Description": "Carta Script que roba una carta y genera VIM"
+        },
+        {
+            "Code": "RecyclerTooltip",
+            "Title": "RECICLADORA",
+            "Description": "Contiene las cartas que serán mezcladas y constituirán tu <b>Repo</b> la próxima vez que debas robar cartas y tu <b>Repo</b> esté vacío."
+        },
+        {
+            "Code": "RepositoryTooltip",
+            "Title": "REPOSITORIO",
+            "Description": "Contiene las cartas que todavía puedes robar."
+        }
+    ]
+}

@@ -5,8 +5,8 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK",
             "Descriptions": [
-                "Deal 20 <b>DMG</b>.",
-                "<b>On-Discard:</b> Deal 20 <b>DMG</b> to the ICE and create a <b>Temporary</b> copy of this."
+                "Deal 30 <b>DMG</b>.",
+                "<b>On-Discard:</b> Deal 30 <b>DMG</b> to the ICE and create a <b>Temporary</b> copy of this."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -15,15 +15,19 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "TemporaryTooltip"
+            ]
         },
         {
             "CardName": "AFTERSHOCK",
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK_UPGRADED",
             "Descriptions": [
-                "Deal 20 <b>DMG</b>.",
-                "<b>On-Discard:</b> Deal 35 <b>DMG</b> to the ICE and create a <b>Temporary</b> copy of this."
+                "Deal 40 <b>DMG</b>.",
+                "<b>On-Discard:</b> Deal 40 <b>DMG</b> to the ICE and create a <b>Temporary</b> copy of this."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -32,7 +36,11 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "TemporaryTooltip"
+            ]
         },
         {
             "CardName": "APEX ARACHNID",
@@ -40,25 +48,7 @@
             "Code": "APEX_ARACHNID",
             "Descriptions": [
                 "Deal 70 <b>DMG</b>.",
-                "Create 2 <b>Bite Scripts</b>.",
-                "<b>Assist 3:</b> Create 2 <b>Bite Scripts</b>."
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "UNIQUE",
-            "Color": "#E9042AFF",
-            "Clock": 3,
-            "Type": "ATTACK",
-            "Vim": 4,
-            "IsUpgrade": false
-        },
-        {
-            "CardName": "APEX ARACHNID",
-            "ImagePath": "APEX_ARACHNID.jpg",
-            "Code": "APEX_ARACHNID_UPGRADED",
-            "Descriptions": [
-                "Deal 80 <b>DMG</b>.",
-                "Create 4 <b>Bite Scripts</b>.",
+                "Create 3 <b>Bite Scripts</b>.",
                 "<b>Assist 3:</b> Create 3 <b>Bite Scripts</b>."
             ],
             "Conditional": "",
@@ -68,7 +58,33 @@
             "Clock": 3,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "AssistTooltip"
+            ]
+        },
+        {
+            "CardName": "APEX ARACHNID",
+            "ImagePath": "APEX_ARACHNID.jpg",
+            "Code": "APEX_ARACHNID_UPGRADED",
+            "Descriptions": [
+                "Deal 120 <b>DMG</b>.",
+                "Create 3 <b>Bite Scripts</b>.",
+                "<b>Assist 3:</b> Create 3 <b>Bite Scripts</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "UNIQUE",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "ATTACK",
+            "Vim": 4,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "CALIBRATE",
@@ -86,7 +102,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "CALIBRATE",
@@ -104,7 +123,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "CAPTAIN COMMANDOGS",
@@ -121,7 +143,11 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "CAPTAIN COMMANDOGS",
@@ -138,7 +164,11 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "CODECRUNCH",
@@ -154,7 +184,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "CODECRUNCH",
@@ -170,7 +201,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "CODESMASH",
@@ -188,7 +220,11 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "QuickenTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "CODESMASH",
@@ -206,7 +242,11 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "QuickenTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "DEADLY THREADING",
@@ -224,7 +264,11 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "WeaveScriptTooltip"
+            ]
         },
         {
             "CardName": "DEADLY THREADING",
@@ -242,7 +286,11 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "WeaveScriptTooltip"
+            ]
         },
         {
             "CardName": "ERRATIC WEAVING",
@@ -260,7 +308,11 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ExposedTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "ERRATIC WEAVING",
@@ -278,7 +330,11 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ExposedTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "EXTRAPOLATE",
@@ -296,7 +352,10 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "EXTRAPOLATE",
@@ -314,7 +373,10 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "FEEDING FRENZY",
@@ -326,12 +388,16 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "COMMON",
+            "Rarity": "UNCOMMON",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "FEEDING FRENZY",
@@ -343,12 +409,16 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "COMMON",
+            "Rarity": "UNCOMMON",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
-            "Vim": 4,
-            "IsUpgrade": true
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "FRACTAL FANG",
@@ -364,7 +434,8 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "FRACTAL FANG",
@@ -380,7 +451,8 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "GLASS CANNON",
@@ -398,7 +470,11 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "GLASS CANNON",
@@ -416,7 +492,11 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "HOTFIX",
@@ -434,7 +514,11 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "HOTFIX",
@@ -452,7 +536,11 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "JUMPSTART",
@@ -470,7 +558,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "JUMPSTART",
@@ -488,15 +579,18 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "LIQUEFACTION",
             "ImagePath": "LIQUEFACTION.jpg",
             "Code": "LIQUEFACTION",
             "Descriptions": [
-                "Deal 10 <b>DMG</b>.",
-                "<b>On-Hit:</b> Create 3 <b>Bite Scripts</b>."
+                "Deal 20 <b>DMG</b>.",
+                "<b>On-Hit:</b> Create 2 <b>Bite Scripts</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -505,15 +599,18 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "LIQUEFACTION",
             "ImagePath": "LIQUEFACTION.jpg",
             "Code": "LIQUEFACTION_UPGRADED",
             "Descriptions": [
-                "Deal 10 <b>DMG</b>.",
-                "<b>On-Hit:</b> Create 4 <b>Bite Scripts</b>."
+                "Deal 20 <b>DMG</b>.",
+                "<b>On-Hit:</b> Create 3 <b>Bite Scripts</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -522,7 +619,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "MAGGIE THE MAGPIE",
@@ -539,7 +639,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "MAGGIE THE MAGPIE",
@@ -556,7 +659,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "MOSQUITO INCOGNITO",
@@ -574,7 +680,11 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "MOSQUITO INCOGNITO",
@@ -591,7 +701,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "NEUROTOXIC HARPOON",
@@ -608,16 +721,20 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "ATTACK",
-            "Vim": 3,
-            "IsUpgrade": false
+            "Vim": 2,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "NEUROTOXIC HARPOON",
             "ImagePath": "NEUROTOXIC_HARPOON.jpg",
             "Code": "NEUROTOXIC_HARPOON_UPGRADED",
             "Descriptions": [
-                "Deal 60 <b>DMG</b>.",
-                "<b>On-Hit:</b> Increase the DMG of <b>Bite Scripts</b> by 8 until end of combat.",
+                "Deal 80 <b>DMG</b>.",
+                "<b>On-Hit:</b> Increase the DMG of <b>Bite Scripts</b> by 5 until end of combat.",
                 "<b>DECOMPILE</b>."
             ],
             "Conditional": "",
@@ -626,8 +743,12 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "ATTACK",
-            "Vim": 3,
-            "IsUpgrade": true
+            "Vim": 2,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "DISPOSABLE UNITS",
@@ -644,8 +765,12 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
-            "Vim": 2,
-            "IsUpgrade": false
+            "Vim": 3,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "QuickenTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "DISPOSABLE UNITS",
@@ -662,8 +787,12 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
-            "Vim": 2,
-            "IsUpgrade": true
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "QuickenTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "OVERHAUL",
@@ -681,7 +810,11 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ExposedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "OVERHAUL",
@@ -699,7 +832,11 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ExposedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "OX HOAX",
@@ -716,7 +853,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "OX HOAX",
@@ -733,7 +873,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "PIÑATA BOMB",
@@ -749,8 +892,11 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "ATTACK",
-            "Vim": 2,
-            "IsUpgrade": false
+            "Vim": 3,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "PIÑATA BOMB",
@@ -766,8 +912,11 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "ATTACK",
-            "Vim": 2,
-            "IsUpgrade": true
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "RAVENOUS SCREECH",
@@ -785,7 +934,11 @@
             "Clock": 0,
             "Type": "ATTACK",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "RAVENOUS SCREECH",
@@ -803,7 +956,11 @@
             "Clock": 0,
             "Type": "ATTACK",
             "Vim": 0,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "READJUST",
@@ -820,7 +977,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "READJUST",
@@ -837,7 +997,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "SINGULARITY",
@@ -854,7 +1017,10 @@
             "Clock": 3,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "SINGULARITY",
@@ -871,14 +1037,17 @@
             "Clock": 3,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "SKITTERING STRIKE",
             "ImagePath": "SKITTERING_STRIKE.jpg",
             "Code": "SKITTERING_STRIKE",
             "Descriptions": [
-                "Deal 20 <b>DMG</b>."
+                "Deal 30 <b>DMG</b>."
             ],
             "Conditional": "If you have an <b>Augmented</b> Command, also:",
             "ConditionalDescriptions": [
@@ -889,7 +1058,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "SKITTERING STRIKE",
@@ -906,8 +1078,11 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
-            "Vim": 2,
-            "IsUpgrade": true
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "MUTATE",
@@ -925,7 +1100,11 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "MUTATE",
@@ -943,34 +1122,20 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "SPAWNER",
             "ImagePath": "SPAWNER.jpg",
             "Code": "SPAWNER",
             "Descriptions": [
-                "Deal 10 <b>DMG</b>.",
+                "Deal 15 <b>DMG</b>.",
                 "Create 1 <b>Bite Script</b>.",
-                "<b>On-Discard:</b> Create 3 <b>Bite Scripts</b>."
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "COMMON",
-            "Color": "#E9042AFF",
-            "Clock": 1,
-            "Type": "ATTACK",
-            "Vim": 1,
-            "IsUpgrade": false
-        },
-        {
-            "CardName": "SPAWNER",
-            "ImagePath": "SPAWNER.jpg",
-            "Code": "SPAWNER_UPGRADED",
-            "Descriptions": [
-                "Deal 20 <b>DMG</b>.",
-                "Create 2 <b>Bite Script</b>.",
-                "<b>On-Discard:</b> Create 4 <b>Bite Scripts</b>."
+                "<b>On-Discard:</b> Create 2 <b>Bite Scripts</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -979,7 +1144,33 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "OnDiscardTooltip"
+            ]
+        },
+        {
+            "CardName": "SPAWNER",
+            "ImagePath": "SPAWNER.jpg",
+            "Code": "SPAWNER_UPGRADED",
+            "Descriptions": [
+                "Deal 20 <b>DMG</b>.",
+                "Create 2 <b>Bite Script</b>.",
+                "<b>On-Discard:</b> Create 3 <b>Bite Scripts</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "COMMON",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "ATTACK",
+            "Vim": 2,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "SPIDER KING",
@@ -987,7 +1178,7 @@
             "Code": "SPIDER_KING",
             "Descriptions": [
                 "Deal 60 <b>DMG</b>.",
-                "<b>Assist 4:</b> Create 2 random <b>Scripts</b>.",
+                "<b>Assist 2:</b> Create 2 random <b>Scripts</b>.",
                 "<b>DECOMPILE</b>."
             ],
             "Conditional": "",
@@ -997,7 +1188,12 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "SPIDER KING",
@@ -1005,7 +1201,7 @@
             "Code": "SPIDER_KING_UPGRADED",
             "Descriptions": [
                 "Deal 70 <b>DMG</b>.",
-                "<b>Assist 4:</b> Create 3 random <b>Scripts</b>.",
+                "<b>Assist 2:</b> Create 3 random <b>Scripts</b>.",
                 "<b>DECOMPILE</b>."
             ],
             "Conditional": "",
@@ -1015,7 +1211,12 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip",
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "TECHNO BADGER",
@@ -1032,7 +1233,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "TECHNO BADGER",
@@ -1049,15 +1253,18 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "TEMP AFTERSHOCK",
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "TEMP_AFTERSHOCK",
             "Descriptions": [
-                "Deal 20 <b>DMG</b>.",
-                "<b>On-Discard:</b> Deal 20 <b>DMG</b> to the ICE and create a <b>Temporary</b> copy of this.",
+                "Deal 30 <b>DMG</b>.",
+                "<b>On-Discard:</b> Deal 30 <b>DMG</b> to the ICE and create a <b>Temporary</b> copy of this.",
                 "<b>Temporary</b>."
             ],
             "Conditional": "",
@@ -1067,15 +1274,19 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "TemporaryTooltip"
+            ]
         },
         {
             "CardName": "TEMP AFTERSHOCK",
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "TEMP_AFTERSHOCK_UPGRADED",
             "Descriptions": [
-                "Deal 20 <b>DMG</b>.",
-                "<b>On-Discard:</b> Deal 35 <b>DMG</b> to the ICE and create a <b>Temporary</b> copy of this.",
+                "Deal 40 <b>DMG</b>.",
+                "<b>On-Discard:</b> Deal 40 <b>DMG</b> to the ICE and create a <b>Temporary</b> copy of this.",
                 "<b>Temporary</b>."
             ],
             "Conditional": "",
@@ -1085,7 +1296,11 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "TemporaryTooltip"
+            ]
         },
         {
             "CardName": "THREEDRA",
@@ -1103,7 +1318,11 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ExposedTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "THREEDRA",
@@ -1121,7 +1340,11 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ExposedTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "VENOM STRIKE",
@@ -1139,7 +1362,11 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "VENOM STRIKE",
@@ -1157,7 +1384,11 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "ZIP GUN",
@@ -1175,7 +1406,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "ZIP GUN",
@@ -1193,7 +1427,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "ZOMBIE HOPLITE",
@@ -1209,7 +1446,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "ZOMBIE HOPLITE",
@@ -1225,7 +1463,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "AFTERIMAGE",
@@ -1243,7 +1482,11 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "AFTERIMAGE",
@@ -1261,7 +1504,11 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "BARRY CADE",
@@ -1279,7 +1526,11 @@
             "Clock": 3,
             "Type": "DEFENSE",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "IndexedTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "BARRY CADE",
@@ -1297,7 +1548,11 @@
             "Clock": 2,
             "Type": "DEFENSE",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "IndexedTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "BIG PAPPA",
@@ -1315,7 +1570,11 @@
             "Clock": 2,
             "Type": "DEFENSE",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "BIG PAPPA",
@@ -1333,7 +1592,11 @@
             "Clock": 2,
             "Type": "DEFENSE",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "ECHO CHAMBER",
@@ -1351,7 +1614,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "ECHO CHAMBER",
@@ -1369,7 +1635,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "FORCEFIELD",
@@ -1385,7 +1654,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "FORCEFIELD",
@@ -1400,8 +1670,9 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 2,
-            "IsUpgrade": true
+            "Vim": 1,
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "HOLY TOASTER",
@@ -1418,7 +1689,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "HOLY TOASTER",
@@ -1435,7 +1709,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "LOOSE GEARS",
@@ -1453,7 +1730,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "LOOSE GEARS",
@@ -1471,7 +1751,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "MOLT",
@@ -1489,7 +1772,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "MOLT",
@@ -1507,7 +1793,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "MUMMIFY",
@@ -1524,7 +1813,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "MUMMIFY",
@@ -1541,7 +1833,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "PAPER CRANE",
@@ -1560,7 +1855,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "PAPER CRANE",
@@ -1579,14 +1877,17 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "PATCHWORK",
             "ImagePath": "PATCHWORK.jpg",
             "Code": "PATCHWORK",
             "Descriptions": [
-                "Discard your hand.",
+                "Discard up to 3 cards.",
                 "Gain 20 <b>Barrier</b> per card discarded by this."
             ],
             "Conditional": "",
@@ -1595,15 +1896,16 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 1,
-            "IsUpgrade": false
+            "Vim": 2,
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "PATCHWORK",
             "ImagePath": "PATCHWORK.jpg",
             "Code": "PATCHWORK_UPGRADED",
             "Descriptions": [
-                "Discard any amount of cards.",
+                "Discard up to 5 cards.",
                 "Gain 25 <b>Barrier</b> per card discarded by this."
             ],
             "Conditional": "",
@@ -1612,8 +1914,9 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 2,
-            "IsUpgrade": true
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "QUICK THREADING",
@@ -1630,7 +1933,11 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CocoonScriptTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "QUICK THREADING",
@@ -1647,7 +1954,11 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "CocoonScriptTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "REWIRE",
@@ -1665,7 +1976,11 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "IndexedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "REWIRE",
@@ -1683,7 +1998,11 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "IndexedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "SCRAP FIELD",
@@ -1699,8 +2018,11 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 1,
-            "IsUpgrade": false
+            "Vim": 2,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "SCRAP FIELD",
@@ -1716,16 +2038,19 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 1,
-            "IsUpgrade": true
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "SILK SHELL",
             "ImagePath": "SILK_SHELL.jpg",
             "Code": "SILK_SHELL",
             "Descriptions": [
-                "Gain 35 <b>Barrier</b>.",
-                "Create 3 <b>Cocoon Scripts</b>."
+                "Gain 40 <b>Barrier</b>.",
+                "Create 2 <b>Cocoon Scripts</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1734,15 +2059,18 @@
             "Clock": 2,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "SILK SHELL",
             "ImagePath": "SILK_SHELL.jpg",
             "Code": "SILK_SHELL_UPGRADED",
             "Descriptions": [
-                "Gain 35 <b>Barrier</b>.",
-                "Create 5 <b>Cocoon Scripts</b>."
+                "Gain 50 <b>Barrier</b>.",
+                "Create 3 <b>Cocoon Scripts</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1751,7 +2079,10 @@
             "Clock": 2,
             "Type": "DEFENSE",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "SILKEN RETREAT",
@@ -1759,6 +2090,28 @@
             "Code": "SILKEN_RETREAT",
             "Descriptions": [
                 "Gain 50 <b>Barrier</b>.",
+                "<b>Augment</b> Critical.",
+                "Create 1 <b>Cocoon Scripts</b>."
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "UNCOMMON",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "DEFENSE",
+            "Vim": 4,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "CocoonScriptTooltip"
+            ]
+        },
+        {
+            "CardName": "SILKEN RETREAT",
+            "ImagePath": "SILKEN_RETREAT.jpg",
+            "Code": "SILKEN_RETREAT_UPGRADED",
+            "Descriptions": [
+                "Gain 60 <b>Barrier</b>.",
                 "<b>Augment</b> Critical.",
                 "Create 2 <b>Cocoon Scripts</b>."
             ],
@@ -1768,26 +2121,12 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "DEFENSE",
-            "Vim": 3,
-            "IsUpgrade": false
-        },
-        {
-            "CardName": "SILKEN RETREAT",
-            "ImagePath": "SILKEN_RETREAT.jpg",
-            "Code": "SILKEN_RETREAT_UPGRADED",
-            "Descriptions": [
-                "Gain 60 <b>Barrier</b>.",
-                "<b>Augment</b> Critical.",
-                "Create 4 <b>Cocoon Scripts</b>."
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "UNCOMMON",
-            "Color": "#047BEAFF",
-            "Clock": 2,
-            "Type": "DEFENSE",
-            "Vim": 3,
-            "IsUpgrade": true
+            "Vim": 5,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "SUNSCREEN SAVER",
@@ -1804,7 +2143,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "SUNSCREEN SAVER",
@@ -1821,7 +2163,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "TITANIUM WEB",
@@ -1838,7 +2183,11 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "TITANIUM WEB",
@@ -1855,7 +2204,11 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "TURBO KETTLE",
@@ -1872,7 +2225,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "TURBO KETTLE",
@@ -1889,7 +2245,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "UNSTABLE SHELTER",
@@ -1906,8 +2265,9 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "DEFENSE",
-            "Vim": 2,
-            "IsUpgrade": false
+            "Vim": 3,
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "UNSTABLE SHELTER",
@@ -1924,8 +2284,9 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 2,
-            "IsUpgrade": true
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "WAX WINGS",
@@ -1942,7 +2303,10 @@
             "Clock": 4,
             "Type": "DEFENSE",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "WAX WINGS",
@@ -1959,7 +2323,10 @@
             "Clock": 3,
             "Type": "DEFENSE",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "AIR SUPERIORITY",
@@ -1976,7 +2343,11 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "AIR SUPERIORITY",
@@ -1993,7 +2364,11 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "CODE REFACTOR",
@@ -2011,7 +2386,11 @@
             "Clock": 3,
             "Type": "GENERATOR",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "CODE REFACTOR",
@@ -2029,7 +2408,11 @@
             "Clock": 2,
             "Type": "GENERATOR",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "CREEP",
@@ -2045,7 +2428,10 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "CREEP",
@@ -2061,7 +2447,10 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "ENLIGHTEN",
@@ -2078,7 +2467,10 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "ENLIGHTEN",
@@ -2096,7 +2488,10 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "EVOLUTION THEORY",
@@ -2115,7 +2510,11 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "EVOLUTION THEORY",
@@ -2134,39 +2533,53 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "FORTUNE COOKIE",
             "ImagePath": "FORTUNE_COOKIE.jpg",
             "Code": "FORTUNE_COOKIE",
             "Descriptions": [
+                "Discard 1 card.",
                 "<b>On-Discard:</b> Draw 1 card and create 1 random <b>Script</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "UNCOMMON",
+            "Rarity": "COMMON",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "FORTUNE COOKIE",
             "ImagePath": "FORTUNE_COOKIE.jpg",
             "Code": "FORTUNE_COOKIE_UPGRADED",
             "Descriptions": [
+                "Discard 1 card.",
                 "<b>On-Discard:</b> Draw 2 card and create 1 random <b>Script</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "UNCOMMON",
+            "Rarity": "COMMON",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "ITSY BITSY",
@@ -2183,7 +2596,12 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "AssistTooltip",
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "ITSY BITSY",
@@ -2200,7 +2618,12 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "AssistTooltip",
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "KINETIC MEMORY",
@@ -2218,7 +2641,10 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "KINETIC MEMORY",
@@ -2236,7 +2662,10 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "LAST CALL",
@@ -2253,7 +2682,12 @@
             "Clock": 2,
             "Type": "GENERATOR",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "ResolveAssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "LAST CALL",
@@ -2270,7 +2704,12 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip",
+                "ResolveAssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "NITRO EEL",
@@ -2287,7 +2726,10 @@
             "Clock": 2,
             "Type": "GENERATOR",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "NITRO EEL",
@@ -2304,43 +2746,50 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "PEAK PERFORMANCE",
             "ImagePath": "PEAK_PERFORMANCE.jpg",
             "Code": "PEAK_PERFORMANCE",
             "Descriptions": [
-                "Generate <b>VIM</b> until you reach MAX VIM.",
-                "<b>DECOMPILE</b>.",
-                "<b>On-Discard:</b> Gain 1 <b>Amped</b>."
+                "Discard up to 3 cards.",
+                "Draw 1 card and generate 1 VIM per card discarded."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "RARE",
             "Color": "#E9B705FF",
-            "Clock": 3,
+            "Clock": 1,
             "Type": "GENERATOR",
-            "Vim": 0,
-            "IsUpgrade": false
+            "Vim": 1,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "PEAK PERFORMANCE",
             "ImagePath": "PEAK_PERFORMANCE.jpg",
             "Code": "PEAK_PERFORMANCE_UPGRADED",
             "Descriptions": [
-                "Generate <b>VIM</b> until you reach MAX VIM.",
-                "<b>DECOMPILE</b>.",
-                "<b>On-Discard:</b> Gain 1 <b>Amped</b>."
+                "Discard up to 3 cards.",
+                "Draw 1 card and generate 1 VIM per card discarded."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "RARE",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 0,
             "Type": "GENERATOR",
-            "Vim": 0,
-            "IsUpgrade": true
+            "Vim": 1,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "SCOUTING SCUTTLE",
@@ -2357,7 +2806,10 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "SCOUTING SCUTTLE",
@@ -2374,7 +2826,10 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "KARAGUCHI MENU",
@@ -2391,8 +2846,13 @@
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "GENERATOR",
-            "Vim": 1,
-            "IsUpgrade": false
+            "Vim": 2,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "KARAGUCHI MENU",
@@ -2410,7 +2870,12 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "SELF-GENERATING CODE",
@@ -2426,7 +2891,10 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "SELF-GENERATING CODE",
@@ -2442,7 +2910,10 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "SMALL PAPPA",
@@ -2459,7 +2930,11 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "SMALL PAPPA",
@@ -2476,7 +2951,11 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "SUDDEN SPIN",
@@ -2484,7 +2963,7 @@
             "Code": "SUDDEN_SPIN",
             "Descriptions": [
                 "Discard 1 card.",
-                "Create 1 <b>Bite Script</b>."
+                "Create 1 random <b>Script</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2493,7 +2972,10 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "SUDDEN SPIN",
@@ -2501,7 +2983,7 @@
             "Code": "SUDDEN_SPIN_UPGRADED",
             "Descriptions": [
                 "Discard 1 card.",
-                "Create 2 <b>Bite Script</b>."
+                "Create 2 random <b>Script</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2510,7 +2992,10 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "SURVIVAL OF THE FITTEST",
@@ -2528,7 +3013,11 @@
             "Clock": 2,
             "Type": "GENERATOR",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "SURVIVAL OF THE FITTEST",
@@ -2546,7 +3035,11 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "TEMPER CODE",
@@ -2562,7 +3055,8 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "TEMPER CODE",
@@ -2578,41 +3072,48 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "THUNDERFLY",
             "ImagePath": "THUNDERFLY.jpg",
             "Code": "THUNDERFLY",
             "Descriptions": [
-                "Draw 2 cards.",
-                "<b>Assist 2:</b> Gain 4 <b>VIM</b>."
+                "Draw 1 cards.",
+                "<b>Assist 2:</b> Generate 4 <b>VIM</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "RARE",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "GENERATOR",
-            "Vim": 4,
-            "IsUpgrade": false
+            "Vim": 2,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "THUNDERFLY",
             "ImagePath": "THUNDERFLY.jpg",
             "Code": "THUNDERFLY_UPGRADED",
             "Descriptions": [
-                "Draw 3 cards.",
-                "<b>Assist 2:</b> Gain 6 <b>VIM</b>."
+                "Draw 2 cards.",
+                "<b>Assist 2:</b> Generate 5 <b>VIM</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "RARE",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "GENERATOR",
-            "Vim": 4,
-            "IsUpgrade": true
+            "Vim": 2,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "ADAPTATION PROTOCOL",
@@ -2625,10 +3126,14 @@
             "ConditionalDescriptions": [],
             "Rarity": "RARE",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 4,
-            "IsUpgrade": false
+            "Vim": 0,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "BOOST PROTOCOL",
@@ -2641,10 +3146,14 @@
             "ConditionalDescriptions": [],
             "Rarity": "UNIQUE",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 3,
             "Type": "PROTOCOL",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "DIGEST PROTOCOL",
@@ -2660,7 +3169,11 @@
             "Clock": 3,
             "Type": "PROTOCOL",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "EXPIRATION PROTOCOL",
@@ -2676,7 +3189,11 @@
             "Clock": 3,
             "Type": "PROTOCOL",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "HATCH PROTOCOL",
@@ -2692,7 +3209,11 @@
             "Clock": 3,
             "Type": "PROTOCOL",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "JUNK PROTOCOL",
@@ -2708,7 +3229,10 @@
             "Clock": 3,
             "Type": "PROTOCOL",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "LOOP PROTOCOL",
@@ -2724,7 +3248,11 @@
             "Clock": 2,
             "Type": "PROTOCOL",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "PATCH PROTOCOL",
@@ -2737,10 +3265,13 @@
             "ConditionalDescriptions": [],
             "Rarity": "RARE",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 3,
-            "IsUpgrade": false
+            "Vim": 0,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "BITE SCRIPT",
@@ -2756,7 +3287,10 @@
             "Clock": 0,
             "Type": "SCRIPT",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "COCOON SCRIPT",
@@ -2772,7 +3306,10 @@
             "Clock": 0,
             "Type": "SCRIPT",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "WEAVE SCRIPT",
@@ -2788,7 +3325,10 @@
             "Clock": 0,
             "Type": "SCRIPT",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "CORRUPTED DATA",
@@ -2802,7 +3342,11 @@
             "Clock": 9,
             "Type": "CORRUPTED",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CorruptedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "FRAGMENTED DATA",
@@ -2818,7 +3362,11 @@
             "Clock": 9,
             "Type": "CORRUPTED",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CorruptedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "INFECTED DATA",
@@ -2835,7 +3383,11 @@
             "Clock": 0,
             "Type": "CORRUPTED",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CorruptedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "JUDICATOR'S GAZE",
@@ -2852,24 +3404,47 @@
             "Clock": 0,
             "Type": "CORRUPTED",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CorruptedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "PIERCE CORE",
             "ImagePath": "PIERCE_CORE.jpg",
             "Code": "PIERCE_CORE",
-            "Descriptions": [
+            "Descriptions": [],
+            "Conditional": "If Shield Peripheral is disabled:",
+            "ConditionalDescriptions": [
                 "Deal 150 DMG to the Core Peripheral.",
                 "<b>DECOMPILE</b>."
             ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
             "Rarity": "UNIQUE",
             "Color": "#FFFFFFFF",
             "Clock": 2,
             "Type": "SPECIAL",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
+        },
+        {
+            "CardName": "<color=#971797>PIERCE CORE</color>",
+            "ImagePath": "PIERCE_CORE.jpg",
+            "Code": "PIERCE_CORE_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "If Shield Peripheral is disabled:",
+            "ConditionalDescriptions": [
+                "Deal 150 DMG to the Core Peripheral.",
+                "<b>DECOMPILE</b>."
+            ],
+            "Rarity": "UNIQUE",
+            "Color": "#FFFFFFFF",
+            "Clock": 1,
+            "Type": "SPECIAL",
+            "Vim": 4,
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "WORK GUYS",
@@ -2886,7 +3461,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "TempVimTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2904,7 +3482,10 @@
             "Clock": 0,
             "Type": "SCRIPT",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "TempVimTooltip"
+            ]
         },
         {
             "CardName": "ALPHA CODESLASH",
@@ -2920,7 +3501,8 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "ALPHA CODESLASH",
@@ -2936,7 +3518,8 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "AMPED CODESLASH",
@@ -2955,7 +3538,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "AMPED CODESLASH",
@@ -2974,7 +3560,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "BECOME THE BEAST",
@@ -2991,7 +3580,11 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "BECOME THE BEAST",
@@ -3008,7 +3601,11 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "BRUTAL MAULING",
@@ -3025,7 +3622,10 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "BRUTAL MAULING",
@@ -3042,7 +3642,10 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "CHARGED CODESLASH",
@@ -3058,7 +3661,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "CHARGED CODESLASH",
@@ -3074,7 +3678,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 6,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "CODESLASH",
@@ -3090,7 +3695,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "CODESLASH",
@@ -3106,7 +3712,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "CONSOLE PRODIGY",
@@ -3124,7 +3731,8 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "CONSOLE PRODIGY",
@@ -3142,7 +3750,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "CRIMSON ASSAULT",
@@ -3160,7 +3769,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "CRIMSON ASSAULT",
@@ -3178,7 +3790,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "DATA DRAIN",
@@ -3196,7 +3811,10 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "DATA DRAIN",
@@ -3214,7 +3832,10 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "EPHEMERAL EDGE",
@@ -3231,7 +3852,8 @@
             "Clock": 0,
             "Type": "ATTACK",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "EPHEMERAL EDGE",
@@ -3247,7 +3869,8 @@
             "Clock": 0,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "FANG STRIKE",
@@ -3264,7 +3887,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "FANG STRIKE",
@@ -3281,7 +3907,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "CRACKED CODESLASH",
@@ -3298,7 +3927,11 @@
             "Clock": 0,
             "Type": "ATTACK",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FragmentedDataTooltip",
+                "CorruptedTooltip"
+            ]
         },
         {
             "CardName": "CRACKED CODESLASH",
@@ -3314,7 +3947,8 @@
             "Clock": 0,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "HOPLITE",
@@ -3331,7 +3965,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "HOPLITE",
@@ -3348,7 +3983,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "MEM DAGGER",
@@ -3366,7 +4002,8 @@
             "Clock": 0,
             "Type": "ATTACK",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "MEM DAGGER",
@@ -3384,7 +4021,8 @@
             "Clock": 0,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "MEM LEAP",
@@ -3402,7 +4040,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "MEM LEAP",
@@ -3420,7 +4059,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "MEM SABER",
@@ -3439,7 +4079,11 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "MEM SABER",
@@ -3458,7 +4102,11 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "MEM SCYTHE",
@@ -3471,12 +4119,15 @@
             "ConditionalDescriptions": [
                 "Deal 90 <b>DMG</b>."
             ],
-            "Rarity": "UNCOMMON",
+            "Rarity": "RARE",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "MEM SCYTHE",
@@ -3490,12 +4141,16 @@
             "ConditionalDescriptions": [
                 "Deal 90 <b>DMG</b>."
             ],
-            "Rarity": "UNCOMMON",
+            "Rarity": "RARE",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "MaxVimTooltip",
+                "AmpedTooltip"
+            ]
         },
         {
             "CardName": "OVERKILL",
@@ -3514,7 +4169,11 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "MaxVimTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "OVERKILL",
@@ -3533,7 +4192,11 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "MaxVimTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "PACK HUNT",
@@ -3550,7 +4213,10 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "PACK HUNT",
@@ -3567,7 +4233,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "PRIMAL HOWL",
@@ -3585,7 +4254,11 @@
             "Clock": 9,
             "Type": "ATTACK",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "PRIMAL HOWL",
@@ -3603,7 +4276,11 @@
             "Clock": 9,
             "Type": "ATTACK",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "RECURSIVE NIGHTMARE",
@@ -3620,7 +4297,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "RECURSIVE NIGHTMARE",
@@ -3637,7 +4315,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "RENDING CODESLASH",
@@ -3654,7 +4333,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "RENDING CODESLASH",
@@ -3671,7 +4353,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "SUN BURST X",
@@ -3688,7 +4373,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "SUN BURST X",
@@ -3705,7 +4391,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "THE CYPHER'S GAMBIT",
@@ -3723,7 +4410,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "THE CYPHER'S GAMBIT",
@@ -3741,7 +4429,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "THE GUILD'S HEIST",
@@ -3758,7 +4447,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "THE GUILD'S HEIST",
@@ -3775,7 +4465,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "THE MAKER'S TOUCH",
@@ -3793,7 +4484,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "THE MAKER'S TOUCH",
@@ -3811,7 +4503,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "THE PUNK'S GIFT",
@@ -3828,7 +4521,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "THE PUNK'S GIFT",
@@ -3845,7 +4541,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "THE STRAY'S AMBUSH",
@@ -3863,7 +4562,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "THE STRAY'S AMBUSH",
@@ -3881,7 +4583,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "TOP OF THE FOOD CHAIN",
@@ -3898,7 +4603,11 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "TOP OF THE FOOD CHAIN",
@@ -3914,7 +4623,10 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "ULYSSES' TOY",
@@ -3931,7 +4643,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "ULYSSES' TOY",
@@ -3948,7 +4663,10 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "VOID CODESLASH",
@@ -3965,7 +4683,10 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "VOID CODESLASH",
@@ -3982,7 +4703,10 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 0,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "WARDLORD KISS",
@@ -3998,7 +4722,8 @@
             "Clock": 3,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "WARDLORD KISS",
@@ -4014,7 +4739,8 @@
             "Clock": 2,
             "Type": "ATTACK",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "ADONIS AD BLOCKER",
@@ -4031,7 +4757,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "ADONIS AD BLOCKER",
@@ -4048,7 +4775,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "AMPED CYBERSHELL",
@@ -4067,7 +4795,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "AMPED CYBERSHELL",
@@ -4085,7 +4816,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "ANIMAL INSTINCT",
@@ -4103,7 +4835,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "ANIMAL INSTINCT",
@@ -4121,7 +4854,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "BEND REALITY",
@@ -4138,7 +4872,10 @@
             "Clock": 2,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "BEND REALITY",
@@ -4155,7 +4892,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "COLD STARE",
@@ -4173,7 +4913,11 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "COLD STARE",
@@ -4191,7 +4935,11 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "CONSOLE BACKUP",
@@ -4208,7 +4956,8 @@
             "Clock": 2,
             "Type": "DEFENSE",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "CONSOLE BACKUP",
@@ -4225,7 +4974,8 @@
             "Clock": 2,
             "Type": "DEFENSE",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "CYBERHIDE",
@@ -4242,7 +4992,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "CYBERHIDE",
@@ -4259,7 +5010,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "CYBERSHELL",
@@ -4275,7 +5027,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "CYBERSHELL",
@@ -4290,8 +5043,9 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 2,
-            "IsUpgrade": true
+            "Vim": 1,
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "ENERGY COAT",
@@ -4308,7 +5062,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "ENERGY COAT",
@@ -4325,7 +5080,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "EPHEMERAL WALL",
@@ -4343,7 +5099,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "EPHEMERAL WALL",
@@ -4361,7 +5120,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 6,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "CRACKED BLOCKADE",
@@ -4378,7 +5140,11 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FragmentedDataTooltip",
+                "CorruptedTooltip"
+            ]
         },
         {
             "CardName": "CRACKED BLOCKADE",
@@ -4394,7 +5160,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "INPUT ASSISTANT",
@@ -4412,7 +5179,10 @@
             "Clock": 0,
             "Type": "DEFENSE",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "INPUT ASSISTANT",
@@ -4430,7 +5200,8 @@
             "Clock": 0,
             "Type": "DEFENSE",
             "Vim": 0,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "KENNEL LAW",
@@ -4448,7 +5219,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "KENNEL LAW",
@@ -4466,7 +5240,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "MEM CLOAK",
@@ -4484,7 +5261,8 @@
             "Clock": 0,
             "Type": "DEFENSE",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "MEM CLOAK",
@@ -4502,7 +5280,8 @@
             "Clock": 0,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "OWN THE STREETS",
@@ -4519,7 +5298,10 @@
             "Clock": 2,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "OWN THE STREETS",
@@ -4536,7 +5318,10 @@
             "Clock": 2,
             "Type": "DEFENSE",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "PET Z-BOT",
@@ -4553,7 +5338,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "PET Z-BOT",
@@ -4570,7 +5356,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "POWER ARMOR",
@@ -4588,7 +5375,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "POWER ARMOR",
@@ -4606,7 +5396,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "STREET RESOLVE",
@@ -4623,7 +5416,10 @@
             "Clock": 2,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "STREET RESOLVE",
@@ -4640,7 +5436,10 @@
             "Clock": 2,
             "Type": "DEFENSE",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "SYRINX BLESSING",
@@ -4657,7 +5456,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "SYRINX BLESSING",
@@ -4674,7 +5474,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "THE STRAY'S GUILE",
@@ -4691,7 +5492,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "THE STRAY'S GUILE",
@@ -4708,7 +5512,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "THE WOLVES' DEN",
@@ -4725,7 +5532,11 @@
             "Clock": 2,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "THE WOLVES' DEN",
@@ -4742,7 +5553,11 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "THUNDER Z-BOT",
@@ -4759,7 +5574,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AmpedTooltip"
+            ]
         },
         {
             "CardName": "THUNDER Z-BOT",
@@ -4776,7 +5594,10 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AmpedTooltip"
+            ]
         },
         {
             "CardName": "CODESLASH",
@@ -4792,7 +5613,8 @@
             "Clock": 1,
             "Type": "ATTACK",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "ADONIS AD BLOCKER",
@@ -4808,7 +5630,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "ADONIS AD BLOCKER",
@@ -4824,7 +5647,8 @@
             "Clock": 1,
             "Type": "DEFENSE",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "BATTLE OPTIMIZER",
@@ -4843,7 +5667,13 @@
             "Clock": 3,
             "Type": "GENERATOR",
             "Vim": 5,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ExposedTooltip",
+                "DebilitatedTooltip",
+                "IndexedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "BATTLE OPTIMIZER",
@@ -4862,7 +5692,13 @@
             "Clock": 2,
             "Type": "GENERATOR",
             "Vim": 5,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ExposedTooltip",
+                "DebilitatedTooltip",
+                "IndexedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "BURNER",
@@ -4880,7 +5716,10 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "BURNER",
@@ -4897,7 +5736,10 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "CAT ALYST",
@@ -4913,7 +5755,8 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "CAT ALYST",
@@ -4930,7 +5773,10 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "CONSOLE REBOOTER",
@@ -4947,7 +5793,10 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 8,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "CONSOLE REBOOTER",
@@ -4964,7 +5813,10 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 10,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "CRANIUM RUSH",
@@ -4983,7 +5835,11 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "QuickenTooltip",
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "CRANIUM RUSH",
@@ -5002,7 +5858,11 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "QuickenTooltip",
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "FUN GUYS",
@@ -5018,7 +5878,8 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "FUN GUYS",
@@ -5034,7 +5895,8 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "MAGIC FINGERS",
@@ -5050,7 +5912,8 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "MAGIC FINGERS",
@@ -5066,7 +5929,8 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "MEM BEACON",
@@ -5085,7 +5949,10 @@
             "Clock": 2,
             "Type": "GENERATOR",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "MEM BEACON",
@@ -5104,7 +5971,10 @@
             "Clock": 2,
             "Type": "GENERATOR",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "MOONLIGHT",
@@ -5121,7 +5991,10 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "MOONLIGHT",
@@ -5138,7 +6011,10 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "PREY DRIVE",
@@ -5155,7 +6031,11 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip",
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "PREY DRIVE",
@@ -5172,7 +6052,11 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip",
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "RAM DOWNLOADER",
@@ -5190,7 +6074,10 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "RAM DOWNLOADER",
@@ -5208,7 +6095,10 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "RECURSIVE DREAM",
@@ -5224,7 +6114,8 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "RECURSIVE DREAM",
@@ -5240,7 +6131,8 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 6,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "SCHÄFER BLOOD SAMPLE",
@@ -5259,7 +6151,11 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "IndexedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "SCHÄFER BLOOD SAMPLE",
@@ -5278,7 +6174,11 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 0,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "IndexedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "UNRESTRAINED GROWTH",
@@ -5294,7 +6194,10 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 5,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "UNRESTRAINED GROWTH",
@@ -5311,7 +6214,11 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 5,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AmpedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "UNSTABLE CHARGE",
@@ -5327,7 +6234,8 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "UNSTABLE CHARGE",
@@ -5344,7 +6252,8 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "CORNUCOPIA PROTOCOL",
@@ -5360,7 +6269,10 @@
             "Clock": 2,
             "Type": "PROTOCOL",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "CUNNING PROTOCOL",
@@ -5376,7 +6288,11 @@
             "Clock": 3,
             "Type": "PROTOCOL",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "GREED PROTOCOL",
@@ -5392,7 +6308,10 @@
             "Clock": 2,
             "Type": "PROTOCOL",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "IGNITION PROTOCOL",
@@ -5408,7 +6327,10 @@
             "Clock": 3,
             "Type": "PROTOCOL",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "MOMENTUM PROTOCOL",
@@ -5424,7 +6346,10 @@
             "Clock": 2,
             "Type": "PROTOCOL",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "MOON PROTOCOL",
@@ -5440,7 +6365,11 @@
             "Clock": 3,
             "Type": "PROTOCOL",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "NIRVANA PROTOCOL",
@@ -5456,7 +6385,11 @@
             "Clock": 2,
             "Type": "PROTOCOL",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "OVERFLOW PROTOCOL",
@@ -5472,7 +6405,11 @@
             "Clock": 2,
             "Type": "PROTOCOL",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "PING-U PROTOCOL",
@@ -5488,7 +6425,11 @@
             "Clock": 2,
             "Type": "PROTOCOL",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "QUANTUM PROTOCOL",
@@ -5504,7 +6445,10 @@
             "Clock": 2,
             "Type": "PROTOCOL",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "RECON PROTOCOL",
@@ -5520,7 +6464,10 @@
             "Clock": 2,
             "Type": "PROTOCOL",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "NULL",
@@ -5534,7 +6481,8 @@
             "Clock": 0,
             "Type": "GENERATOR",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "NULL",
@@ -5548,7 +6496,8 @@
             "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "NULL",
@@ -5562,7 +6511,8 @@
             "Clock": 0,
             "Type": "ATTACK",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         }
     ]
 }

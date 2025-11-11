@@ -5,8 +5,8 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK",
             "Descriptions": [
-                "20<b>ダメージ</b>を与える",
-                "<b>破棄した後</b>、ICEに20<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る"
+                "30<b>ダメージ</b>を与える",
+                "<b>破棄した後</b>、ICEに30<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -15,15 +15,19 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "TemporaryTooltip"
+            ]
         },
         {
             "CardName": "アフターショック",
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK_UPGRADED",
             "Descriptions": [
-                "20<b>ダメージ</b>を与える",
-                "<b>破棄した後</b>、ICEに35<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る"
+                "40<b>ダメージ</b>を与える",
+                "<b>破棄した後</b>、ICEに40<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -32,7 +36,11 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "TemporaryTooltip"
+            ]
         },
         {
             "CardName": "トップスパイダー",
@@ -40,25 +48,7 @@
             "Code": "APEX_ARACHNID",
             "Descriptions": [
                 "70<b>ダメージ</b>を与える",
-                "<b>バイトスクリプト</b>を2枚得る",
-                "<b>アシスト3:</b> <b>バイトスクリプト</b>を2枚得る"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "SR級",
-            "Color": "#E9042AFF",
-            "Clock": 3,
-            "Type": "攻撃",
-            "Vim": 4,
-            "IsUpgrade": false
-        },
-        {
-            "CardName": "トップスパイダー",
-            "ImagePath": "APEX_ARACHNID.jpg",
-            "Code": "APEX_ARACHNID_UPGRADED",
-            "Descriptions": [
-                "80<b>ダメージ</b>を与える",
-                "<b>バイトスクリプト</b>を4枚得る",
+                "<b>バイトスクリプト</b>を3枚得る",
                 "<b>アシスト3:</b> <b>バイトスクリプト</b>を3枚得る"
             ],
             "Conditional": "",
@@ -68,7 +58,33 @@
             "Clock": 3,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "AssistTooltip"
+            ]
+        },
+        {
+            "CardName": "トップスパイダー",
+            "ImagePath": "APEX_ARACHNID.jpg",
+            "Code": "APEX_ARACHNID_UPGRADED",
+            "Descriptions": [
+                "120<b>ダメージ</b>を与える",
+                "<b>バイトスクリプト</b>を3枚得る",
+                "<b>アシスト3:</b> <b>バイトスクリプト</b>を3枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "SR級",
+            "Color": "#E9042AFF",
+            "Clock": 3,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "較正",
@@ -86,7 +102,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "較正",
@@ -104,7 +123,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "ドッグキャプテン",
@@ -121,7 +143,11 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "ドッグキャプテン",
@@ -138,7 +164,11 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "コードクラッシュ",
@@ -154,7 +184,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "コードクラッシュ",
@@ -170,7 +201,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "コードスマッシュ",
@@ -188,7 +220,11 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "QuickenTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "コードスマッシュ",
@@ -206,7 +242,11 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "QuickenTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "リーサルスレッド",
@@ -224,7 +264,11 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "WeaveScriptTooltip"
+            ]
         },
         {
             "CardName": "リーサルスレッド",
@@ -242,7 +286,11 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "WeaveScriptTooltip"
+            ]
         },
         {
             "CardName": "不安定なウェーブ",
@@ -260,7 +308,11 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ExposedTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "不安定なウェーブ",
@@ -278,7 +330,11 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ExposedTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "外挿法",
@@ -296,7 +352,10 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "外挿法",
@@ -314,7 +373,10 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "狂乱索餌",
@@ -326,12 +388,16 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "C級",
+            "Rarity": "U級",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "狂乱索餌",
@@ -343,12 +409,16 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "C級",
+            "Rarity": "U級",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
-            "Vim": 4,
-            "IsUpgrade": true
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "フラクタルファング",
@@ -364,7 +434,8 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "フラクタルファング",
@@ -380,7 +451,8 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "グラスキャノン",
@@ -398,7 +470,11 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "グラスキャノン",
@@ -416,7 +492,11 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "ホットフィックス",
@@ -434,7 +514,11 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "ホットフィックス",
@@ -452,7 +536,11 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "ジャンプスタート",
@@ -470,7 +558,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "ジャンプスタート",
@@ -488,15 +579,18 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "液状化",
             "ImagePath": "LIQUEFACTION.jpg",
             "Code": "LIQUEFACTION",
             "Descriptions": [
-                "10<b>ダメージ</b>を与える",
-                "<b>命中した後</b>、<b>バイトスクリプト</b>を3枚得る"
+                "20<b>ダメージ</b>を与える",
+                "<b>命中した後</b>、<b>バイトスクリプト</b>を2枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -505,15 +599,18 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "液状化",
             "ImagePath": "LIQUEFACTION.jpg",
             "Code": "LIQUEFACTION_UPGRADED",
             "Descriptions": [
-                "10<b>ダメージ</b>を与える",
-                "<b>命中した後</b>、<b>バイトスクリプト</b>を4枚得る"
+                "20<b>ダメージ</b>を与える",
+                "<b>命中した後</b>、<b>バイトスクリプト</b>を3枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -522,7 +619,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "カササギマギー",
@@ -539,7 +639,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "カササギマギー",
@@ -556,7 +659,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "ステルスモスキート",
@@ -574,7 +680,11 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "ステルスモスキート",
@@ -591,7 +701,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "神経毒ハープーン",
@@ -608,16 +721,20 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "攻撃",
-            "Vim": 3,
-            "IsUpgrade": false
+            "Vim": 2,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "神経毒ハープーン",
             "ImagePath": "NEUROTOXIC_HARPOON.jpg",
             "Code": "NEUROTOXIC_HARPOON_UPGRADED",
             "Descriptions": [
-                "60<b>ダメージ</b>を与える",
-                "<b>命中した後</b>、戦闘終了まで<b>バイトスクリプト</b>の基礎ダメージを8上げる",
+                "80<b>ダメージ</b>を与える",
+                "<b>命中した後</b>、戦闘終了まで<b>バイトスクリプト</b>の基礎ダメージを5上げる",
                 "<b>デコンパイル</b>する"
             ],
             "Conditional": "",
@@ -626,8 +743,12 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "攻撃",
-            "Vim": 3,
-            "IsUpgrade": true
+            "Vim": 2,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "使い捨てユニット",
@@ -644,8 +765,12 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
-            "Vim": 2,
-            "IsUpgrade": false
+            "Vim": 3,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "QuickenTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "使い捨てユニット",
@@ -662,8 +787,12 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
-            "Vim": 2,
-            "IsUpgrade": true
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "QuickenTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "オーバーホール",
@@ -681,7 +810,11 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ExposedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "オーバーホール",
@@ -699,7 +832,11 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ExposedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "ブル・フェイク",
@@ -716,7 +853,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "ブル・フェイク",
@@ -733,7 +873,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "ピニャータ・ボム",
@@ -749,8 +892,11 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "攻撃",
-            "Vim": 2,
-            "IsUpgrade": false
+            "Vim": 3,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "ピニャータ・ボム",
@@ -766,8 +912,11 @@
             "Color": "#E9042AFF",
             "Clock": 2,
             "Type": "攻撃",
-            "Vim": 2,
-            "IsUpgrade": true
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "貪欲な叫び声",
@@ -785,7 +934,11 @@
             "Clock": 0,
             "Type": "攻撃",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "貪欲な叫び声",
@@ -803,7 +956,11 @@
             "Clock": 0,
             "Type": "攻撃",
             "Vim": 0,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "再調整",
@@ -820,7 +977,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "再調整",
@@ -837,7 +997,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "シンギュラリティ",
@@ -854,7 +1017,10 @@
             "Clock": 3,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "シンギュラリティ",
@@ -871,14 +1037,17 @@
             "Clock": 3,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "クリーンストライク",
             "ImagePath": "SKITTERING_STRIKE.jpg",
             "Code": "SKITTERING_STRIKE",
             "Descriptions": [
-                "20<b>ダメージ</b>を与える"
+                "30<b>ダメージ</b>を与える"
             ],
             "Conditional": "<b>オーグメントされた</b>命令を持った場合、さらに：",
             "ConditionalDescriptions": [
@@ -889,7 +1058,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "クリーンストライク",
@@ -906,8 +1078,11 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
-            "Vim": 2,
-            "IsUpgrade": true
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "ミューテーション",
@@ -925,7 +1100,11 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "ミューテーション",
@@ -943,34 +1122,20 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "スポーナー",
             "ImagePath": "SPAWNER.jpg",
             "Code": "SPAWNER",
             "Descriptions": [
-                "10<b>ダメージ</b>を与える",
+                "15<b>ダメージ</b>を与える",
                 "<b>バイトスクリプト</b>カードを1枚得る",
-                "<b>破棄した後</b>、<b>バイトスクリプト</b>を3枚得る"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "C級",
-            "Color": "#E9042AFF",
-            "Clock": 1,
-            "Type": "攻撃",
-            "Vim": 1,
-            "IsUpgrade": false
-        },
-        {
-            "CardName": "スポーナー",
-            "ImagePath": "SPAWNER.jpg",
-            "Code": "SPAWNER_UPGRADED",
-            "Descriptions": [
-                "20<b>ダメージ</b>を与える",
-                "<b>バイトスクリプト</b>カードを2枚得る",
-                "<b>破棄した後</b>、<b>バイトスクリプト</b>を4枚得る"
+                "<b>破棄した後</b>、<b>バイトスクリプト</b>を2枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -979,7 +1144,33 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "OnDiscardTooltip"
+            ]
+        },
+        {
+            "CardName": "スポーナー",
+            "ImagePath": "SPAWNER.jpg",
+            "Code": "SPAWNER_UPGRADED",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "<b>バイトスクリプト</b>カードを2枚得る",
+                "<b>破棄した後</b>、<b>バイトスクリプト</b>を3枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "スパイダー・キング",
@@ -987,7 +1178,7 @@
             "Code": "SPIDER_KING",
             "Descriptions": [
                 "60<b>ダメージ</b>を与える",
-                "<b>アシスト4:</b>ランダムな<b>スクリプト</b>カードを2枚得る",
+                "<b>アシスト2:</b>ランダムな<b>スクリプト</b>カードを2枚得る",
                 "<b>デコンパイル</b>する"
             ],
             "Conditional": "",
@@ -997,7 +1188,12 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "スパイダー・キング",
@@ -1005,7 +1201,7 @@
             "Code": "SPIDER_KING_UPGRADED",
             "Descriptions": [
                 "70<b>ダメージ</b>を与える",
-                "<b>アシスト4:</b>ランダムな<b>スクリプト</b>カードを3枚得る",
+                "<b>アシスト2:</b>ランダムな<b>スクリプト</b>カードを3枚得る",
                 "<b>デコンパイル</b>する"
             ],
             "Conditional": "",
@@ -1015,7 +1211,12 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip",
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "テクノバジャー",
@@ -1032,7 +1233,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "テクノバジャー",
@@ -1049,15 +1253,18 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "仮アフターショック",
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "TEMP_AFTERSHOCK",
             "Descriptions": [
-                "20<b>ダメージ</b>を与える",
-                "<b>破棄した後</b>、ICEに20<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る",
+                "30<b>ダメージ</b>を与える",
+                "<b>破棄した後</b>、ICEに30<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る",
                 "<b>仮のコピー</b>。"
             ],
             "Conditional": "",
@@ -1067,15 +1274,19 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "TemporaryTooltip"
+            ]
         },
         {
             "CardName": "仮アフターショック",
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "TEMP_AFTERSHOCK_UPGRADED",
             "Descriptions": [
-                "20<b>ダメージ</b>を与える",
-                "<b>破棄した後</b>、ICEに35<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る",
+                "40<b>ダメージ</b>を与える",
+                "<b>破棄した後</b>、ICEに40<b>ダメージ</b>を与え、<b>仮に</b>このカードのコピーを得る",
                 "<b>仮のコピー</b>。"
             ],
             "Conditional": "",
@@ -1085,7 +1296,11 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "TemporaryTooltip"
+            ]
         },
         {
             "CardName": "オールクラッシュ",
@@ -1103,7 +1318,11 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ExposedTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "オールクラッシュ",
@@ -1121,7 +1340,11 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ExposedTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "ヴェノムストライク",
@@ -1139,7 +1362,11 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "ヴェノムストライク",
@@ -1157,7 +1384,11 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "ジップガン",
@@ -1175,7 +1406,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "ジップガン",
@@ -1193,7 +1427,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "重武装ゾンビ",
@@ -1209,7 +1446,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "重武装ゾンビ",
@@ -1225,7 +1463,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "残像",
@@ -1243,7 +1482,11 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "残像",
@@ -1261,7 +1504,11 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "バリ・ケイド",
@@ -1279,7 +1526,11 @@
             "Clock": 3,
             "Type": "防御",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "IndexedTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "バリ・ケイド",
@@ -1297,7 +1548,11 @@
             "Clock": 2,
             "Type": "防御",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "IndexedTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "ビッグパパ",
@@ -1315,7 +1570,11 @@
             "Clock": 2,
             "Type": "防御",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "ビッグパパ",
@@ -1333,7 +1592,11 @@
             "Clock": 2,
             "Type": "防御",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "エコーチェンバー",
@@ -1351,7 +1614,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "エコーチェンバー",
@@ -1369,7 +1635,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "力場",
@@ -1385,7 +1654,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "力場",
@@ -1400,8 +1670,9 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 2,
-            "IsUpgrade": true
+            "Vim": 1,
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "ホリー・トースター",
@@ -1418,7 +1689,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "ホリー・トースター",
@@ -1435,7 +1709,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "ガタガタギア",
@@ -1453,7 +1730,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "ガタガタギア",
@@ -1471,7 +1751,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "脱皮",
@@ -1489,7 +1772,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "脱皮",
@@ -1507,7 +1793,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "ミイラ化",
@@ -1524,7 +1813,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "ミイラ化",
@@ -1541,7 +1833,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "折り鶴",
@@ -1560,7 +1855,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "折り鶴",
@@ -1579,14 +1877,17 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "パッチワーク",
             "ImagePath": "PATCHWORK.jpg",
             "Code": "PATCHWORK",
             "Descriptions": [
-                "カードを破棄する",
+                "最大で3枚までカードを破棄できる",
                 "破棄したカード1枚につき、20<b>バリア</b>を得る"
             ],
             "Conditional": "",
@@ -1595,15 +1896,16 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 1,
-            "IsUpgrade": false
+            "Vim": 2,
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "パッチワーク",
             "ImagePath": "PATCHWORK.jpg",
             "Code": "PATCHWORK_UPGRADED",
             "Descriptions": [
-                "任意の枚数のカードを破棄する",
+                "最大で5枚までカードを破棄できる",
                 "破棄したカード1枚につき、25<b>バリア</b>を得る"
             ],
             "Conditional": "",
@@ -1612,8 +1914,9 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 2,
-            "IsUpgrade": true
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "高速スレッド",
@@ -1630,7 +1933,11 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CocoonScriptTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "高速スレッド",
@@ -1647,7 +1954,11 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "CocoonScriptTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "メンテナンス",
@@ -1665,7 +1976,11 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "IndexedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "メンテナンス",
@@ -1683,7 +1998,11 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "IndexedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "ごみ処理センター",
@@ -1699,8 +2018,11 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 1,
-            "IsUpgrade": false
+            "Vim": 2,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "ごみ処理センター",
@@ -1716,16 +2038,19 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 1,
-            "IsUpgrade": true
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "シルクシェル",
             "ImagePath": "SILK_SHELL.jpg",
             "Code": "SILK_SHELL",
             "Descriptions": [
-                "35<b>バリア</b>を得る",
-                "<b>コクーンスクリプト</b>を3枚得る"
+                "40<b>バリア</b>を得る",
+                "<b>コクーンスクリプト</b>を2枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1734,15 +2059,18 @@
             "Clock": 2,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "シルクシェル",
             "ImagePath": "SILK_SHELL.jpg",
             "Code": "SILK_SHELL_UPGRADED",
             "Descriptions": [
-                "35<b>バリア</b>を得る",
-                "<b>コクーンスクリプト</b>を5枚得る"
+                "50<b>バリア</b>を得る",
+                "<b>コクーンスクリプト</b>を3枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1751,7 +2079,10 @@
             "Clock": 2,
             "Type": "防御",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "スパイダーストラテジー",
@@ -1759,6 +2090,28 @@
             "Code": "SILKEN_RETREAT",
             "Descriptions": [
                 "50<b>バリア</b>を得る",
+                "クリティカル命令を<b>オーグメント</b>する",
+                "<b>コクーンスクリプト</b>を1枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "U級",
+            "Color": "#047BEAFF",
+            "Clock": 2,
+            "Type": "防御",
+            "Vim": 4,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "CocoonScriptTooltip"
+            ]
+        },
+        {
+            "CardName": "スパイダーストラテジー",
+            "ImagePath": "SILKEN_RETREAT.jpg",
+            "Code": "SILKEN_RETREAT_UPGRADED",
+            "Descriptions": [
+                "60<b>バリア</b>を得る",
                 "クリティカル命令を<b>オーグメント</b>する",
                 "<b>コクーンスクリプト</b>を2枚得る"
             ],
@@ -1768,26 +2121,12 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "防御",
-            "Vim": 3,
-            "IsUpgrade": false
-        },
-        {
-            "CardName": "スパイダーストラテジー",
-            "ImagePath": "SILKEN_RETREAT.jpg",
-            "Code": "SILKEN_RETREAT_UPGRADED",
-            "Descriptions": [
-                "60<b>バリア</b>を得る",
-                "クリティカル命令を<b>オーグメント</b>する",
-                "<b>コクーンスクリプト</b>を4枚得る"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "U級",
-            "Color": "#047BEAFF",
-            "Clock": 2,
-            "Type": "防御",
-            "Vim": 3,
-            "IsUpgrade": true
+            "Vim": 5,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "日焼け対策",
@@ -1804,7 +2143,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "日焼け対策",
@@ -1821,7 +2163,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "チタンウェブ",
@@ -1838,7 +2183,11 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "チタンウェブ",
@@ -1855,7 +2204,11 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "ターボケトル",
@@ -1872,7 +2225,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "ターボケトル",
@@ -1889,7 +2245,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "危ういシェルター",
@@ -1906,8 +2265,9 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "防御",
-            "Vim": 2,
-            "IsUpgrade": false
+            "Vim": 3,
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "危ういシェルター",
@@ -1924,8 +2284,9 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 2,
-            "IsUpgrade": true
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "ワックスウィング",
@@ -1942,7 +2303,10 @@
             "Clock": 4,
             "Type": "防御",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "ワックスウィング",
@@ -1959,7 +2323,10 @@
             "Clock": 3,
             "Type": "防御",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "制空権",
@@ -1976,7 +2343,11 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "制空権",
@@ -1993,7 +2364,11 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "リファクタリング",
@@ -2011,7 +2386,11 @@
             "Clock": 3,
             "Type": "生成元",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "リファクタリング",
@@ -2029,7 +2408,11 @@
             "Clock": 2,
             "Type": "生成元",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "クリープ",
@@ -2045,7 +2428,10 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "クリープ",
@@ -2061,7 +2447,10 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "インスピレーション",
@@ -2078,7 +2467,10 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "インスピレーション",
@@ -2096,7 +2488,10 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "進化論",
@@ -2115,7 +2510,11 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "進化論",
@@ -2134,39 +2533,53 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "ラッキークッキー",
             "ImagePath": "FORTUNE_COOKIE.jpg",
             "Code": "FORTUNE_COOKIE",
             "Descriptions": [
+                "カードを1枚破棄する",
                 "<b>破棄した後</b>、1枚引く。ランダムな<b>スクリプト</b>カードを1枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "U級",
+            "Rarity": "C級",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "生成元",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "ラッキークッキー",
             "ImagePath": "FORTUNE_COOKIE.jpg",
             "Code": "FORTUNE_COOKIE_UPGRADED",
             "Descriptions": [
+                "カードを1枚破棄する",
                 "<b>破棄した後</b>、2枚引く。ランダムな<b>スクリプト</b>カードを1枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "U級",
+            "Rarity": "C級",
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "生成元",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "ミニスパイダー",
@@ -2183,7 +2596,12 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "AssistTooltip",
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "ミニスパイダー",
@@ -2200,7 +2618,12 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "AssistTooltip",
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "ダイナミックメモリー",
@@ -2218,7 +2641,10 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "ダイナミックメモリー",
@@ -2236,7 +2662,10 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "ラストコール",
@@ -2253,7 +2682,12 @@
             "Clock": 2,
             "Type": "生成元",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "ResolveAssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "ラストコール",
@@ -2270,7 +2704,12 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip",
+                "ResolveAssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "ニトロウナギ",
@@ -2287,7 +2726,10 @@
             "Clock": 2,
             "Type": "生成元",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "ニトロウナギ",
@@ -2304,43 +2746,50 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "パーフェクトショー",
             "ImagePath": "PEAK_PERFORMANCE.jpg",
             "Code": "PEAK_PERFORMANCE",
             "Descriptions": [
-                "最大<b>VIM</b>まで<b>VIM</b>を得る",
-                "<b>デコンパイル</b>する",
-                "<b>破棄した後</b>、1<b>増幅</b>を得る"
+                "最大で3枚までカードを破棄できる",
+                "1枚のカードを引き、カードを1枚捨てるごとに1ポイントのVIMを生成します。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "R級",
             "Color": "#E9B705FF",
-            "Clock": 3,
+            "Clock": 1,
             "Type": "生成元",
-            "Vim": 0,
-            "IsUpgrade": false
+            "Vim": 1,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "パーフェクトショー",
             "ImagePath": "PEAK_PERFORMANCE.jpg",
             "Code": "PEAK_PERFORMANCE_UPGRADED",
             "Descriptions": [
-                "最大<b>VIM</b>まで<b>VIM</b>を得る",
-                "<b>デコンパイル</b>する",
-                "<b>破棄した後</b>、1<b>増幅</b>を得る"
+                "最大で3枚までカードを破棄できる",
+                "1枚のカードを引き、カードを1枚捨てるごとに1ポイントのVIMを生成します。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "R級",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 0,
             "Type": "生成元",
-            "Vim": 0,
-            "IsUpgrade": true
+            "Vim": 1,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "クイックスカウト",
@@ -2357,7 +2806,10 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "クイックスカウト",
@@ -2374,7 +2826,10 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "辛口献立",
@@ -2391,8 +2846,13 @@
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "生成元",
-            "Vim": 1,
-            "IsUpgrade": false
+            "Vim": 2,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "辛口献立",
@@ -2410,7 +2870,12 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "自動生成コード",
@@ -2426,7 +2891,10 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "自動生成コード",
@@ -2442,7 +2910,10 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "スモールパパ",
@@ -2459,7 +2930,11 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "スモールパパ",
@@ -2476,7 +2951,11 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "スピン",
@@ -2484,7 +2963,7 @@
             "Code": "SUDDEN_SPIN",
             "Descriptions": [
                 "カードを1枚破棄する",
-                "<b>コクーンスクリプト</b>を1枚得る"
+                "ランダムな<b>スクリプト</b>カードを1枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2493,7 +2972,10 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "スピン",
@@ -2501,7 +2983,7 @@
             "Code": "SUDDEN_SPIN_UPGRADED",
             "Descriptions": [
                 "カードを1枚破棄する",
-                "<b>コクーンスクリプト</b>を2枚得る"
+                "ランダムな<b>スクリプト</b>カードを2枚得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2510,7 +2992,10 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "自然選択説",
@@ -2528,7 +3013,11 @@
             "Clock": 2,
             "Type": "生成元",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "自然選択説",
@@ -2546,7 +3035,11 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "テンパーコード",
@@ -2562,7 +3055,8 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "テンパーコード",
@@ -2578,41 +3072,48 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "サンダーフライ",
             "ImagePath": "THUNDERFLY.jpg",
             "Code": "THUNDERFLY",
             "Descriptions": [
-                "カードを2枚引く",
-                "<b>アシスト2:</b> 4<b>VIM</b>を得る"
+                "カードを1枚引く",
+                "<b>アシスト2:</b> 4<b>VIM</b>を生成します"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "R級",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "生成元",
-            "Vim": 4,
-            "IsUpgrade": false
+            "Vim": 2,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "サンダーフライ",
             "ImagePath": "THUNDERFLY.jpg",
             "Code": "THUNDERFLY_UPGRADED",
             "Descriptions": [
-                "カードを3枚引く",
-                "<b>アシスト2:</b> 6<b>VIM</b>を得る"
+                "カードを2枚引く",
+                "<b>アシスト2:</b> 5<b>VIM</b>を生成します"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "R級",
             "Color": "#E9B705FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "生成元",
-            "Vim": 4,
-            "IsUpgrade": true
+            "Vim": 2,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "適応プロトコル",
@@ -2625,10 +3126,14 @@
             "ConditionalDescriptions": [],
             "Rarity": "R級",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "プロトコル",
-            "Vim": 4,
-            "IsUpgrade": false
+            "Vim": 0,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "ブーストプロトコル",
@@ -2641,10 +3146,14 @@
             "ConditionalDescriptions": [],
             "Rarity": "SR級",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 3,
             "Type": "プロトコル",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "ダイジェストプロトコル",
@@ -2660,7 +3169,11 @@
             "Clock": 3,
             "Type": "プロトコル",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "期限切れプロトコル",
@@ -2676,7 +3189,11 @@
             "Clock": 3,
             "Type": "プロトコル",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "ハッチプロトコル",
@@ -2692,7 +3209,11 @@
             "Clock": 3,
             "Type": "プロトコル",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "ジャンクプロトコル",
@@ -2708,7 +3229,10 @@
             "Clock": 3,
             "Type": "プロトコル",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "ルッププロトコル",
@@ -2724,7 +3248,11 @@
             "Clock": 2,
             "Type": "プロトコル",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "パッチプロトコル",
@@ -2737,10 +3265,13 @@
             "ConditionalDescriptions": [],
             "Rarity": "R級",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "プロトコル",
-            "Vim": 3,
-            "IsUpgrade": false
+            "Vim": 0,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "バイトスクリプト",
@@ -2756,7 +3287,10 @@
             "Clock": 0,
             "Type": "スクリプト",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "コクーンスクリプト",
@@ -2772,7 +3306,10 @@
             "Clock": 0,
             "Type": "スクリプト",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "ウェーブスクリプト",
@@ -2788,7 +3325,10 @@
             "Clock": 0,
             "Type": "スクリプト",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "データ破損",
@@ -2802,7 +3342,11 @@
             "Clock": 9,
             "Type": "破損",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CorruptedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "フラグメントデータ",
@@ -2818,7 +3362,11 @@
             "Clock": 9,
             "Type": "破損",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CorruptedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "感染データ",
@@ -2835,7 +3383,11 @@
             "Clock": 0,
             "Type": "破損",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CorruptedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "裁判官の視線",
@@ -2852,24 +3404,47 @@
             "Clock": 0,
             "Type": "破損",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CorruptedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "コア貫通",
             "ImagePath": "PIERCE_CORE.jpg",
             "Code": "PIERCE_CORE",
-            "Descriptions": [
+            "Descriptions": [],
+            "Conditional": "もしシールドの周辺機器が無効になっている場合：",
+            "ConditionalDescriptions": [
                 "コアの周辺機器に150ダメージを与える",
                 "<b>デコンパイル</b>する"
             ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
             "Rarity": "SR級",
             "Color": "#FFFFFFFF",
             "Clock": 2,
             "Type": "スペシャル",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
+        },
+        {
+            "CardName": "<color=#971797>コア貫通</color>",
+            "ImagePath": "PIERCE_CORE.jpg",
+            "Code": "PIERCE_CORE_UPGRADED",
+            "Descriptions": [],
+            "Conditional": "もしシールドの周辺機器が無効になっている場合：",
+            "ConditionalDescriptions": [
+                "コアの周辺機器に150ダメージを与える",
+                "<b>デコンパイル</b>する"
+            ],
+            "Rarity": "SR級",
+            "Color": "#FFFFFFFF",
+            "Clock": 1,
+            "Type": "スペシャル",
+            "Vim": 4,
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -2886,7 +3461,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "TempVimTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2904,7 +3482,10 @@
             "Clock": 0,
             "Type": "スクリプト",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "TempVimTooltip"
+            ]
         },
         {
             "CardName": "アルファコード斬り",
@@ -2920,7 +3501,8 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "アルファコード斬り",
@@ -2936,7 +3518,8 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "増幅コード斬り",
@@ -2955,7 +3538,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "増幅コード斬り",
@@ -2974,7 +3560,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "獣の化身",
@@ -2991,7 +3580,11 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "獣の化身",
@@ -3008,7 +3601,11 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "引き裂き攻撃",
@@ -3025,7 +3622,10 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "引き裂き攻撃",
@@ -3042,7 +3642,10 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "溜めコード斬り",
@@ -3058,7 +3661,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "溜めコード斬り",
@@ -3074,7 +3678,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 6,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "コード斬り",
@@ -3090,7 +3695,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "コード斬り",
@@ -3106,7 +3712,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "コンソールの天才",
@@ -3124,7 +3731,8 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "コンソールの天才",
@@ -3142,7 +3750,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "クリムゾンアサルト",
@@ -3160,7 +3769,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "クリムゾンアサルト",
@@ -3178,7 +3790,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "データドレイン",
@@ -3196,7 +3811,10 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "データドレイン",
@@ -3214,7 +3832,10 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "儚い刃",
@@ -3231,7 +3852,8 @@
             "Clock": 0,
             "Type": "攻撃",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "儚い刃",
@@ -3247,7 +3869,8 @@
             "Clock": 0,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "牙の一撃",
@@ -3264,7 +3887,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "牙の一撃",
@@ -3281,7 +3907,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "破損コード斬り",
@@ -3298,7 +3927,11 @@
             "Clock": 0,
             "Type": "攻撃",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FragmentedDataTooltip",
+                "CorruptedTooltip"
+            ]
         },
         {
             "CardName": "破損コード斬り",
@@ -3314,7 +3947,8 @@
             "Clock": 0,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "重装歩兵",
@@ -3331,7 +3965,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "重装歩兵",
@@ -3348,7 +3983,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "メモリナイフ",
@@ -3366,7 +4002,8 @@
             "Clock": 0,
             "Type": "攻撃",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "メモリナイフ",
@@ -3384,7 +4021,8 @@
             "Clock": 0,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "メモリジャンプ",
@@ -3402,7 +4040,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "メモリジャンプ",
@@ -3420,7 +4059,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "メモリサーベル",
@@ -3439,7 +4079,11 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "メモリサーベル",
@@ -3458,7 +4102,11 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "メモリサイス",
@@ -3471,12 +4119,15 @@
             "ConditionalDescriptions": [
                 "90<b>ダメージ</b>を与える"
             ],
-            "Rarity": "U級",
+            "Rarity": "R級",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "メモリサイス",
@@ -3490,12 +4141,16 @@
             "ConditionalDescriptions": [
                 "90<b>ダメージ</b>を与える"
             ],
-            "Rarity": "U級",
+            "Rarity": "R級",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "MaxVimTooltip",
+                "AmpedTooltip"
+            ]
         },
         {
             "CardName": "オーバーキル",
@@ -3514,7 +4169,11 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "MaxVimTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "オーバーキル",
@@ -3533,7 +4192,11 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "MaxVimTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "群れ狩り",
@@ -3550,7 +4213,10 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "群れ狩り",
@@ -3567,7 +4233,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "原初の咆哮",
@@ -3585,7 +4254,11 @@
             "Clock": 9,
             "Type": "攻撃",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "原初の咆哮",
@@ -3603,7 +4276,11 @@
             "Clock": 9,
             "Type": "攻撃",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "繰り返す悪夢",
@@ -3620,7 +4297,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "繰り返す悪夢",
@@ -3637,7 +4315,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "引き裂くコード斬り",
@@ -3654,7 +4333,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "引き裂くコード斬り",
@@ -3671,7 +4353,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "太陽フレアX",
@@ -3688,7 +4373,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "太陽フレアX",
@@ -3705,7 +4391,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "暗号結社の捨て駒",
@@ -3723,7 +4410,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "暗号結社の捨て駒",
@@ -3741,7 +4429,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "ギルドの窃盗",
@@ -3758,7 +4447,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "ギルドの窃盗",
@@ -3775,7 +4465,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "メーカーのタッチ",
@@ -3793,7 +4484,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "メーカーのタッチ",
@@ -3811,7 +4503,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "パンクのギフト",
@@ -3828,7 +4521,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "パンクのギフト",
@@ -3845,7 +4541,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "ストレイの待ち伏せ",
@@ -3863,7 +4562,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "ストレイの待ち伏せ",
@@ -3881,7 +4583,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "頂点捕食者",
@@ -3898,7 +4603,11 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "頂点捕食者",
@@ -3914,7 +4623,10 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "ユリシーズのおもちゃ",
@@ -3931,7 +4643,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "ユリシーズのおもちゃ",
@@ -3948,7 +4663,10 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "ボイドコード斬り",
@@ -3965,7 +4683,10 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "ボイドコード斬り",
@@ -3982,7 +4703,10 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 0,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "ウォーロードのキス",
@@ -3998,7 +4722,8 @@
             "Clock": 3,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "ウォーロードのキス",
@@ -4014,7 +4739,8 @@
             "Clock": 2,
             "Type": "攻撃",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "アドーニス広告ブロッカー",
@@ -4031,7 +4757,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "アドーニス広告ブロッカー",
@@ -4048,7 +4775,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "アンプドサイバーシェル",
@@ -4067,7 +4795,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "アンプドサイバーシェル",
@@ -4085,7 +4816,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "獣の本能",
@@ -4103,7 +4835,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "獣の本能",
@@ -4121,7 +4854,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "現実の歪み",
@@ -4138,7 +4872,10 @@
             "Clock": 2,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "現実の歪み",
@@ -4155,7 +4892,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "冷たい視線",
@@ -4173,7 +4913,11 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "冷たい視線",
@@ -4191,7 +4935,11 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "コンソールバックアップ",
@@ -4208,7 +4956,8 @@
             "Clock": 2,
             "Type": "防御",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "コンソールバックアップ",
@@ -4225,7 +4974,8 @@
             "Clock": 2,
             "Type": "防御",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "サイバーカバー",
@@ -4242,7 +4992,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "サイバーカバー",
@@ -4259,7 +5010,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "サイバーシェル",
@@ -4275,7 +5027,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "サイバーシェル",
@@ -4290,8 +5043,9 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 2,
-            "IsUpgrade": true
+            "Vim": 1,
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "エネルギーコート",
@@ -4308,7 +5062,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "エネルギーコート",
@@ -4325,7 +5080,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "エフェメラルバリア",
@@ -4343,7 +5099,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "エフェメラルバリア",
@@ -4361,7 +5120,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 6,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "破損バリア",
@@ -4378,7 +5140,11 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FragmentedDataTooltip",
+                "CorruptedTooltip"
+            ]
         },
         {
             "CardName": "破損バリア",
@@ -4394,7 +5160,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "入力アシスタンス",
@@ -4412,7 +5179,10 @@
             "Clock": 0,
             "Type": "防御",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "入力アシスタンス",
@@ -4430,7 +5200,8 @@
             "Clock": 0,
             "Type": "防御",
             "Vim": 0,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "ケンネル法",
@@ -4448,7 +5219,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "ケンネル法",
@@ -4466,7 +5240,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "メモリクローク",
@@ -4484,7 +5261,8 @@
             "Clock": 0,
             "Type": "防御",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "メモリクローク",
@@ -4502,7 +5280,8 @@
             "Clock": 0,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "街の支配者",
@@ -4519,7 +5298,10 @@
             "Clock": 2,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "街の支配者",
@@ -4536,7 +5318,10 @@
             "Clock": 2,
             "Type": "防御",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "ペットZロボット",
@@ -4553,7 +5338,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "ペットZロボット",
@@ -4570,7 +5356,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "パワーアーマー",
@@ -4588,7 +5375,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "パワーアーマー",
@@ -4606,7 +5396,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "ストリートリゾルブ",
@@ -4623,7 +5416,10 @@
             "Clock": 2,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "ストリートリゾルブ",
@@ -4640,7 +5436,10 @@
             "Clock": 2,
             "Type": "防御",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "スリンクスの祝福",
@@ -4657,7 +5456,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "スリンクスの祝福",
@@ -4674,7 +5474,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "ストレイの悪知恵",
@@ -4691,7 +5492,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "ストレイの悪知恵",
@@ -4708,7 +5512,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "狼の巣",
@@ -4725,7 +5532,11 @@
             "Clock": 2,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "狼の巣",
@@ -4742,7 +5553,11 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "雷電Zロボット",
@@ -4759,7 +5574,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AmpedTooltip"
+            ]
         },
         {
             "CardName": "雷電Zロボット",
@@ -4776,7 +5594,10 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AmpedTooltip"
+            ]
         },
         {
             "CardName": "コード斬り",
@@ -4792,7 +5613,8 @@
             "Clock": 1,
             "Type": "攻撃",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "アドーニス広告ブロッカー",
@@ -4808,7 +5630,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "アドーニス広告ブロッカー",
@@ -4824,7 +5647,8 @@
             "Clock": 1,
             "Type": "防御",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "バトルオプティマイザー",
@@ -4843,7 +5667,13 @@
             "Clock": 3,
             "Type": "生成元",
             "Vim": 5,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ExposedTooltip",
+                "DebilitatedTooltip",
+                "IndexedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "バトルオプティマイザー",
@@ -4862,7 +5692,13 @@
             "Clock": 2,
             "Type": "生成元",
             "Vim": 5,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ExposedTooltip",
+                "DebilitatedTooltip",
+                "IndexedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "焼却",
@@ -4880,7 +5716,10 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "焼却",
@@ -4897,7 +5736,10 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "キャタリスト",
@@ -4913,7 +5755,8 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "キャタリスト",
@@ -4930,7 +5773,10 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "コンソール再起動器",
@@ -4947,7 +5793,10 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 8,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "コンソール再起動器",
@@ -4964,7 +5813,10 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 10,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "ブレインラッシュ",
@@ -4983,7 +5835,11 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "QuickenTooltip",
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "ブレインラッシュ",
@@ -5002,7 +5858,11 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "QuickenTooltip",
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "エンタ菌",
@@ -5018,7 +5878,8 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "エンタ菌",
@@ -5034,7 +5895,8 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "マジックフィンガー",
@@ -5050,7 +5912,8 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "マジックフィンガー",
@@ -5066,7 +5929,8 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "メモリビーコン",
@@ -5085,7 +5949,10 @@
             "Clock": 2,
             "Type": "生成元",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "メモリビーコン",
@@ -5104,7 +5971,10 @@
             "Clock": 2,
             "Type": "生成元",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "月の光",
@@ -5121,7 +5991,10 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "月の光",
@@ -5138,7 +6011,10 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "プレイドライブ",
@@ -5155,7 +6031,11 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip",
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "プレイドライブ",
@@ -5172,7 +6052,11 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip",
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "メモリダウンローダー",
@@ -5190,7 +6074,10 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "メモリダウンローダー",
@@ -5208,7 +6095,10 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "繰り返す夢",
@@ -5224,7 +6114,8 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "繰り返す夢",
@@ -5240,7 +6131,8 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 6,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "シェーファーの血液サンプル",
@@ -5259,7 +6151,11 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "IndexedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "シェーファーの血液サンプル",
@@ -5278,7 +6174,11 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 0,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "IndexedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "制御不能な成長",
@@ -5294,7 +6194,10 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 5,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "制御不能な成長",
@@ -5311,7 +6214,11 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 5,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AmpedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "不安定放電",
@@ -5327,7 +6234,8 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "不安定放電",
@@ -5344,7 +6252,8 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "豊饒の角プロトコル",
@@ -5360,7 +6269,10 @@
             "Clock": 2,
             "Type": "プロトコル",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "カンニングプロトコル",
@@ -5376,7 +6288,11 @@
             "Clock": 3,
             "Type": "プロトコル",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "グリードプロトコル",
@@ -5392,7 +6308,10 @@
             "Clock": 2,
             "Type": "プロトコル",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "点火プロトコル",
@@ -5408,7 +6327,10 @@
             "Clock": 3,
             "Type": "プロトコル",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "運動量プロトコル",
@@ -5424,7 +6346,10 @@
             "Clock": 2,
             "Type": "プロトコル",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "ムーンプロトコル",
@@ -5440,7 +6365,11 @@
             "Clock": 3,
             "Type": "プロトコル",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "ニルヴァーナプロトコル",
@@ -5456,7 +6385,11 @@
             "Clock": 2,
             "Type": "プロトコル",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "オーバーフロープロトコル",
@@ -5472,7 +6405,11 @@
             "Clock": 2,
             "Type": "プロトコル",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "PING-Uプロトコル",
@@ -5488,7 +6425,11 @@
             "Clock": 2,
             "Type": "プロトコル",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "量子プロトコル",
@@ -5504,7 +6445,10 @@
             "Clock": 2,
             "Type": "プロトコル",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "偵察プロトコル",
@@ -5520,7 +6464,10 @@
             "Clock": 2,
             "Type": "プロトコル",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "NULL",
@@ -5534,7 +6481,8 @@
             "Clock": 0,
             "Type": "生成元",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "NULL",
@@ -5548,7 +6496,8 @@
             "Clock": 1,
             "Type": "生成元",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "NULL",
@@ -5562,7 +6511,8 @@
             "Clock": 0,
             "Type": "攻撃",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         }
     ]
 }

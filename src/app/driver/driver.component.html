@@ -1,9 +1,14 @@
-<div class="driver-box d-flex flex-row" *ngIf="driver" >
+<div #driverRef  class="driver-box d-flex flex-row" *ngIf="driver"  [style.--itg-driver-color]="driver.Color" (mouseenter)="show(true)" (mouseleave)="show(false)">
     <div>
-        <img [src]=" imageSrc" alt="{{ driver.DriverName }}" class="driver-image"/>
+        <img [src]="imageSrc" class="driver-image" [style.filter]="'drop-shadow(0 0 0 ' + driver.Color + ') saturate(800%)'" />
+        <img [src]=" imageIcon"  [style.filter]="'drop-shadow(0 0 0 ' + driver.Color + ') saturate(580%)'" alt="{{ driver.DriverName }}" class="driver-icon"/>
     </div>
     <div class="d-flex flex-column driver-info">
         <div class="driver-name">{{ driver.DriverName }}</div>
         <div class="driver-description" [innerHTML]="sanitizedDescription"></div>
     </div>
+    <app-tooltip
+        [anchor]="driverRef"
+        [items]="driver.Tooltips" [show]="isHover">
+    </app-tooltip>
 </div>

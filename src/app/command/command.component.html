@@ -1,4 +1,4 @@
-<div class="d-flex flex-row itg-command-container">
+<div #commandRef class="d-flex flex-row itg-command-container" (mouseenter)="show(true)" (mouseleave)="show(false)">
     <div class="itg-command">
 
         <div class="inner-command">
@@ -19,6 +19,8 @@
             </div>
         </div>
     </div>
-<!--    <div class="itg-command-r"></div>-->
-<!--    <div class="itg-command-rr"></div>-->
+    <app-tooltip
+        [anchor]="commandRef"
+        [items]="command.Tooltips" [show]="isHover">
+    </app-tooltip>
 </div>
