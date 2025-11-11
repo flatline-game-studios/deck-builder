@@ -157,7 +157,7 @@ export class AppComponent {
     public ParseData(elements: Query<Item>): void {
 
         elements.i.forEach( (item) => {
-            const card = this.GetCards().find(c => c.Code === item.c && c.Tooltips?.length > 0);
+            const card = this.GetCards().find(c => c.Code === item.c);
 
             for (let i = 0; i < item.a; i++) {
                 if (card) {
