@@ -5,266 +5,325 @@
             "Cost": 6,
             "Description": "Every time you play a card this turn, generate 1 <b>VIM</b>.",
             "Tier": "Minor",
-            "Code": "AUGMENTED"
+            "Code": "AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "CLONE",
             "Cost": 10,
             "Description": "Choose a <b>non-Protocol</b> card from your hand. Next turn create a copy of it in your hand.",
             "Tier": "Major",
-            "Code": "CloneCommand_NotImplemented"
+            "Code": "CloneCommand_NotImplemented",
+            "Tooltips": []
         },
         {
             "CommandName": "DARE",
             "Cost": 6,
             "Description": "Gain 2 <b>Grit</b>.",
             "Tier": "Minor",
-            "Code": "DareCommand"
+            "Code": "DareCommand",
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CommandName": "CONSTRUCT",
             "Cost": 6,
             "Description": "Create 1 copy of the last <b>Script</b> you played this turn.  ",
             "Tier": "Minor",
-            "Code": "CONSTRUCT_COMMAND"
+            "Code": "CONSTRUCT_COMMAND",
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CommandName": "AUG. CONSTRUCT",
             "Cost": 6,
             "Description": "Create 2 copies of the last <b>Script</b> you played this turn.  ",
             "Tier": "Minor",
-            "Code": "CONSTRUCT_COMMAND_AUGMENTED"
+            "Code": "CONSTRUCT_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "DIVE",
             "Cost": 16,
             "Description": "Draw 4 cards.",
             "Tier": "Critical",
-            "Code": "DIVE_COMMAND"
+            "Code": "DIVE_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "AUG. DIVE",
             "Cost": 16,
             "Description": "Draw 5 cards.",
             "Tier": "Critical",
-            "Code": "DIVE_COMMAND_AUGMENTED"
+            "Code": "DIVE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "MANTAIN",
             "Cost": 5,
             "Description": "Choose 1 card in hand to <b>Preserve</b> this turn.",
             "Tier": "Minor",
-            "Code": "MANTAIN_COMMAND"
+            "Code": "MANTAIN_COMMAND",
+            "Tooltips": [
+                "PreserveTooltip"
+            ]
         },
         {
             "CommandName": "AUG. MANTAIN",
             "Cost": 5,
             "Description": "Choose up to 2 cards in hand to <b>Preserve</b> this turn.",
             "Tier": "Minor",
-            "Code": "MANTAIN_COMMAND_AUGMENTED"
+            "Code": "MANTAIN_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "PREPARE",
             "Cost": 12,
             "Description": "At the start of next turn, gain 1 <b>Clock</b>.",
             "Tier": "Major",
-            "Code": "PREPARE_COMMAND"
+            "Code": "PREPARE_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "AUG. PREPARE",
             "Cost": 12,
             "Description": "At the start of next turn, gain 2 <b>Clock</b>.",
             "Tier": "Major",
-            "Code": "PREPARE_COMMAND_AUGMENTED"
+            "Code": "PREPARE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "RALLY",
             "Cost": 12,
             "Description": "Extend all your <b>Assist</b> effects by 1.",
             "Tier": "Major",
-            "Code": "RALLY_COMMAND"
+            "Code": "RALLY_COMMAND",
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CommandName": "AUG. RALLY",
             "Cost": 12,
             "Description": "Extend all your <b>Assist</b> effects by 2.",
             "Tier": "Major",
-            "Code": "RALLY_COMMAND_AUGMENTED"
+            "Code": "RALLY_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "REBOUND",
             "Cost": 10,
             "Description": "Return to your hand the last card discarded this turn.",
             "Tier": "Major",
-            "Code": "REBOUND_COMMAND"
+            "Code": "REBOUND_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "AUG. REBOUND",
             "Cost": 10,
             "Description": "Return to your hand the last card discarded this turn and then draw 1 card.",
             "Tier": "Major",
-            "Code": "REBOUND_COMMAND_AUGMENTED"
+            "Code": "REBOUND_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "REPLICATE",
             "Cost": 20,
             "Description": "Create 1 copy of each <b>Script</b> in your hand.",
             "Tier": "Critical",
-            "Code": "REPLICATE_COMMAND"
+            "Code": "REPLICATE_COMMAND",
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CommandName": "AUG. REPLICATE",
             "Cost": 15,
             "Description": "Create 1 copy of each <b>Script</b> in your hand.",
             "Tier": "Critical",
-            "Code": "REPLICATE_COMMAND_AUGMENTED"
+            "Code": "REPLICATE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "REPURPOSE",
             "Cost": 6,
             "Description": "Discard 1 card.",
             "Tier": "Minor",
-            "Code": "REPURPOSE_COMMAND"
+            "Code": "REPURPOSE_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "AUG. REPURPOSE",
             "Cost": 6,
             "Description": "Discard 1 card and then draw 1.",
             "Tier": "Minor",
-            "Code": "REPURPOSE_COMMAND_AUGMENTED"
+            "Code": "REPURPOSE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "RUSH",
             "Cost": 16,
             "Description": "Resolve 1 of your <b>Assist</b> effects randomly.",
             "Tier": "Critical",
-            "Code": "RUSH_COMMAND"
+            "Code": "RUSH_COMMAND",
+            "Tooltips": [
+                "ResolveAssistTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CommandName": "AUG. RUSH",
             "Cost": 16,
             "Description": "Resolve 2 of your <b>Assist</b> effects randomly.",
             "Tier": "Critical",
-            "Code": "RUSH_COMMAND_AUGMENTED"
+            "Code": "RUSH_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "STRATEGIZE",
             "Cost": 12,
             "Description": "<b>Preserve</b> all <b>Scripts</b> this turn.",
             "Tier": "Major",
-            "Code": "STRATEGIZE_COMMAND"
+            "Code": "STRATEGIZE_COMMAND",
+            "Tooltips": [
+                "PreserveTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CommandName": "AUG. STRATEGIZE",
             "Cost": 12,
             "Description": "Create 1 random <b>Script</b>. <b>Preserve</b> all <b>Script</b> cards this turn.",
             "Tier": "Major",
-            "Code": "STRATEGIZE_COMMAND_AUGMENTED"
+            "Code": "STRATEGIZE_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "TOUCH",
             "Cost": 6,
             "Description": "Trigger 1 of your <b>Assist</b> effects randomly.",
             "Tier": "Minor",
-            "Code": "TOUCH_COMMAND"
+            "Code": "TOUCH_COMMAND",
+            "Tooltips": [
+                "TriggerAssistTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CommandName": "AUG. TOUCH",
             "Cost": 6,
             "Description": "Trigger 2 of your <b>Assist</b> effects randomly.",
             "Tier": "Minor",
-            "Code": "TOUCH_COMMAND_AUGMENTED"
+            "Code": "TOUCH_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "TRANSCEND",
             "Cost": 17,
             "Description": "Discard 3 cards to gain 2 <b>Clock</b>.",
             "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND"
+            "Code": "TRANSCEND_COMMAND",
+            "Tooltips": []
         },
         {
             "CommandName": "AUG. TRANSCEND",
             "Cost": 17,
             "Description": "Discard 3 cards to gain 3 <b>Clock</b>.",
             "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND_AUGMENTED"
+            "Code": "TRANSCEND_COMMAND_AUGMENTED",
+            "Tooltips": []
         },
         {
             "CommandName": "DIG",
             "Cost": 10,
             "Description": "Draw 3 cards and then choose 1 to discard.",
             "Tier": "Major",
-            "Code": "DIG"
+            "Code": "DIG",
+            "Tooltips": []
         },
         {
             "CommandName": "ECHO",
             "Cost": 15,
             "Description": "The next <b>non-Protocol</b> card you play this turn will be played twice.",
             "Tier": "Critical",
-            "Code": "EchoCommand"
+            "Code": "EchoCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "ENERGIZE",
             "Cost": 18,
             "Description": "Draw 1 card and gain 2 <b>Clock</b>.",
             "Tier": "Critical",
-            "Code": "Energize"
+            "Code": "Energize",
+            "Tooltips": []
         },
         {
             "CommandName": "EXECUTE",
             "Cost": 17,
             "Description": "Choose a card from your Repo and play it for free.",
             "Tier": "Critical",
-            "Code": "ExecuteCommand"
+            "Code": "ExecuteCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "FARM",
             "Cost": 5,
             "Description": "Every time you play a card this turn, generate 1 <b>VIM</b>.",
             "Tier": "Minor",
-            "Code": "FarmCommand"
+            "Code": "FarmCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "OPTIMIZE",
             "Cost": 16,
             "Description": "Discard a card from your hand and reduce its <b>Clock cost</b> by 1 until end of combat.",
             "Tier": "Critical",
-            "Code": "OPTIMIZE"
+            "Code": "OPTIMIZE",
+            "Tooltips": []
         },
         {
             "CommandName": "RECOLLECT",
             "Cost": 12,
             "Description": "Choose up to 2 cards from your Recycler and place them in your hand.",
             "Tier": "Major",
-            "Code": "RecollectCommand"
+            "Code": "RecollectCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "RECUR",
             "Cost": 10,
             "Description": "The next <b>non-Protocol</b> non-Decompile card you play this turn will be returned to your hand.",
             "Tier": "Major",
-            "Code": "RecurCommand"
+            "Code": "RecurCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "ROAR",
             "Cost": 6,
             "Description": "Gain 2 <b>Feral</b>.",
             "Tier": "Minor",
-            "Code": "RoarCommand"
+            "Code": "RoarCommand",
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CommandName": "SCOUT",
             "Cost": 5,
             "Description": "Draw 1 card.",
             "Tier": "Minor",
-            "Code": "ScoutCommand"
+            "Code": "ScoutCommand",
+            "Tooltips": []
         },
         {
             "CommandName": "TUTOR",
             "Cost": 9,
             "Description": "Choose 1 card from your Repo and place it in your hand.",
             "Tier": "Major",
-            "Code": "TutorCommand"
+            "Code": "TutorCommand",
+            "Tooltips": []
         }
     ]
 }

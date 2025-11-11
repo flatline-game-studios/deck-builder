@@ -1,0 +1,314 @@
+{
+    "Items": [
+        {
+            "Code": "AmpedTooltip",
+            "Title": "増幅",
+            "Description": "このターンで、カードをプレイするたび、1点の<b>VIM</b>を生成する。数字は持続ターン数を示す。"
+        },
+        {
+            "Code": "AssistTooltip",
+            "Title": "アシスト",
+            "Description": "戦闘中に継続する効果。各ターン開始時に発動する。<br>持続カウントが1ずつ減少する。<br>切れるとカードはコードデッキに戻るかデコンパイルされる。"
+        },
+        {
+            "Code": "AugmentTooltip",
+            "Title": "オーグメント命令",
+            "Description": "強化された命令。使用後は元の命令に戻る。"
+        },
+        {
+            "Code": "BiteScriptTooltip",
+            "Title": "バイトスクリプト",
+            "Description": "<b>ダメージ</b>を与えるスクリプトカード。"
+        },
+        {
+            "Code": "BufferTooltip",
+            "Title": "バリア",
+            "Description": "受ける<b>ダメージ</b>を吸収する。ターン終了時に消える。"
+        },
+        {
+            "Code": "ClockTooltip",
+            "Title": "クロック",
+            "Description": "カードをプレイするためのリソース。"
+        },
+        {
+            "Code": "CocoonScriptTooltip",
+            "Title": "コクーンスクリプト",
+            "Description": "<b>バリア</b>を付与するスクリプトカード。"
+        },
+        {
+            "Code": "CommandTooltip",
+            "Title": "命令",
+            "Description": "<b>VIM</b>を消費して実行できる能力。"
+        },
+        {
+            "Code": "ConditionalTooltip",
+            "Title": "条件",
+            "Description": "指定された前提条件を満たす場合、追加または代わる効果が発動する。"
+        },
+        {
+            "Code": "CorruptedDataTooltip",
+            "Title": "データ破損",
+            "Description": "効果無しの<b>破損</b>タイプのカードがバトル終了時にコードデッキから削除される。"
+        },
+        {
+            "Code": "CorruptedTooltip",
+            "Title": "破損",
+            "Description": "妨害カード。通常、バトル終了後にコードデッキから削除される。"
+        },
+        {
+            "Code": "DebilitatedTooltip",
+            "Title": "弱体化",
+            "Description": "与<b>ダメージ</b>が25%減少する。数字は持続ターン数を示す。"
+        },
+        {
+            "Code": "DecompileTooltip",
+            "Title": "デコンパイル",
+            "Description": "<b>デコンパイル</b>されたカードは、バトル中は再びコードデッキに戻されない。"
+        },
+        {
+            "Code": "DepletedTooltip",
+            "Title": "劣化",
+            "Description": "自分ターン開始時、引くカードが1枚減少。数字は持続ターン数を示す。"
+        },
+        {
+            "Code": "ExposedTooltip",
+            "Title": "暴露",
+            "Description": "被<b>ダメージ</b>が25%増加する。数字は持続ターン数を示す。"
+        },
+        {
+            "Code": "FeralTooltip",
+            "Title": "野性",
+            "Description": "1スタックにつき、<b>与ダメージ</b>が5%アップ。毎ターン1スタックずつ減少する。"
+        },
+        {
+            "Code": "FragmentedDataTooltip",
+            "Title": "フラグメントデータ",
+            "Description": "効果無しの<b>破損</b>タイプのカードが手札にある場合、ターン終了時に<b>デコンパイル</b>される。"
+        },
+        {
+            "Code": "GeneratorTooltip",
+            "Title": "生成元",
+            "Description": "<b>VIM</b>を生成できるカードタイプ。"
+        },
+        {
+            "Code": "GlitchedCardsTooltip",
+            "Title": "バグカード",
+            "Description": "バグカードはバリア、ダメージ、またはVIM出力にデバフを受けます。この状態はカードがプレイされるか、捨てられると解除されます。"
+        },
+        {
+            "Code": "GlitchingMatrixTooltip",
+            "Title": "グリッチングマトリックス",
+            "Description": "このターンで攻撃カードがプレイされるたびに、そのカードはバグカードになります。"
+        },
+        {
+            "Code": "GritTooltip",
+            "Title": "剛毅",
+            "Description": "1スタックにつき、<b>バリア</b>が5%アップ。毎ターン1スタックずつ減少する。"
+        },
+        {
+            "Code": "HackTooltip",
+            "Title": "攻撃カード",
+            "Description": "攻撃型のカード。"
+        },
+        {
+            "Code": "IndexedTooltip",
+            "Title": "キャッシュ",
+            "Description": "自分のターン開始時、追加で1枚のカードを引く。数字は持続ターン数を示す。"
+        },
+        {
+            "Code": "JammedTooltip",
+            "Title": "過負荷",
+            "Description": "このターンで、<b>生成元</b>カードは、追加で1の<b>クロック</b>をコストする。数字は持続ターン数を示す。"
+        },
+        {
+            "Code": "MaxVimTooltip",
+            "Title": "最大VIM",
+            "Description": "<b>VIM</b>の上限（現在は20）"
+        },
+        {
+            "Code": "MemoryFumbleTooltip",
+            "Title": "メモリーファンブル",
+            "Description": "ターン開始時、手札のすべてのカードの基本VIMがランダム化されます。各ポイントはターン数を表します。"
+        },
+        {
+            "Code": "MuzzledTooltip",
+            "Title": "抑制",
+            "Description": "このターンで、<b>攻撃</b>カードは、追加で1の<b>クロック</b>をコストする。数字は持続ターン数を示す。"
+        },
+        {
+            "Code": "OnDiscardTooltip",
+            "Title": "破棄時効果",
+            "Description": "自ターン中にカードが破棄された際に発動する効果。"
+        },
+        {
+            "Code": "OnHitTooltip",
+            "Title": "ヒット判定",
+            "Description": "攻撃の<b>ダメージ</b>が目標の<b>完全性</b>に作用した場合、その攻撃はヒットと判定される。"
+        },
+        {
+            "Code": "OverheatedTooltip",
+            "Title": "妨害",
+            "Description": "1ターンに、<b>命令</b>を1回のみ実行可能。数字は持続ターン数を示す。"
+        },
+        {
+            "Code": "PierceCoreTooltip",
+            "Title": "コア貫通",
+            "Description": "2コストの攻撃カード。コア周辺機器に大ダメージを与える。"
+        },
+        {
+            "Code": "PreserveTooltip",
+            "Title": "保留",
+            "Description": "カードはターン終了時に破棄されず、次のターンへ持ち越される。"
+        },
+        {
+            "Code": "ProtocolTooltip",
+            "Title": "プロトコル",
+            "Description": "プロトコルカードはプレイしたら無くなるが、その効果はバトル終了まで持続する。コピーのプロトコル効果の重ねがけはできない。"
+        },
+        {
+            "Code": "QuickenTooltip",
+            "Title": "オーバークロック",
+            "Description": "ターン開始時に、1の<b>クロック</b>を獲得する。数字は持続ターン数を示す。"
+        },
+        {
+            "Code": "ResolveAssistTooltip",
+            "Title": "アシスト（解き放つ）",
+            "Description": "アシスト効果が解き放たれた場合、持続カウントはまとめて発動し、そしてゼロになる。"
+        },
+        {
+            "Code": "ScriptTooltip",
+            "Title": "スクリプトカード",
+            "Description": "特定の効果によって生成されるカード。破棄やデコンパイルの対象にならず、使用後はゲームから消滅する。"
+        },
+        {
+            "Code": "ShellTooltip",
+            "Title": "防御カード",
+            "Description": "防御型のカード。"
+        },
+        {
+            "Code": "ShutdownTooltip",
+            "Title": "シャットダウン",
+            "Description": "このターンで、<b>命令</b>を実行できない。数字は持続ターン数を示す。"
+        },
+        {
+            "Code": "SlowedTooltip",
+            "Title": "アンダークロック",
+            "Description": "ターン開始時に、獲得する<b>クロック</b>が1減少する。数字は持続ターン数を示す。"
+        },
+        {
+            "Code": "StunTooltip",
+            "Title": "気絶",
+            "Description": "次のターンの間、行動不能となる。"
+        },
+        {
+            "Code": "TaggedTooltip",
+            "Title": "タグ",
+            "Description": "このターンで、<b>防御</b>カードは、追加で1の<b>クロック</b>をコストする。数字は持続ターン数を示す。"
+        },
+        {
+            "Code": "TemporaryTooltip",
+            "Title": "仮のカード",
+            "Description": "破棄やデコンパイルの対象にならず、使用後はゲームから消滅する。"
+        },
+        {
+            "Code": "TempVimTooltip",
+            "Title": "仮VIM",
+            "Description": "<b>命令</b>を実行するためのリソース。ターン終了時に消える。条件効果には算入されない。"
+        },
+        {
+            "Code": "Tooltip_Hashkeys",
+            "Title": "ハッシュキー",
+            "Description": "一部の警備員を無効化して、ノードをハッシュ再構築するためのリソース。"
+        },
+        {
+            "Code": "Tooltip_Inventory_Concealer",
+            "Title": "ステルス",
+            "Description": "空きマスに設置した後、クラスタで行動しても追跡が上がらない。"
+        },
+        {
+            "Code": "Tooltip_Inventory_GateBreaker",
+            "Title": "ゲートブレイカー",
+            "Description": "ゲートのロックを解除する。"
+        },
+        {
+            "Code": "Tooltip_Inventory_Harvester",
+            "Title": "ハーヴェスター",
+            "Description": "情報を20つ獲得する。ハーヴェスターをインベントリに収めた場合、インベントリ追跡レベルが上昇するたびに、<b>情報</b>獲得量が上がる。"
+        },
+        {
+            "Code": "Tooltip_Inventory_IceBreaker",
+            "Title": "ICEブレーカー",
+            "Description": "監視者、守衛ICE、またはゲートを無効化する。"
+        },
+        {
+            "Code": "Tooltip_Inventory_LogScrubber",
+            "Title": "ログ消しゴム",
+            "Description": "追跡を4減少させる。"
+        },
+        {
+            "Code": "Tooltip_Inventory_LogWiper",
+            "Title": "ログワイパー",
+            "Description": "追跡を0にする。"
+        },
+        {
+            "Code": "Tooltip_Inventory_Refresher",
+            "Title": "リセット道具",
+            "Description": "スキルのクールタイムをリセットする。"
+        },
+        {
+            "Code": "Tooltip_Inventory_ScoutProbe",
+            "Title": "偵察プローブ",
+            "Description": "グリッドエリア内の1エリアを見えるようにする。"
+        },
+        {
+            "Code": "Tooltip_Inventory_SentinelBreaker",
+            "Title": "守衛ブレーカー",
+            "Description": "1体の守衛を無効化する。"
+        },
+        {
+            "Code": "Tooltip_Inventory_Teleporter",
+            "Title": "テレポート道具を1個入手する。",
+            "Description": "ランダムなクラスターにテレポートする。（優先的に未発見のクラスターを選ぶ）"
+        },
+        {
+            "Code": "Tooltip_Shards",
+            "Title": "情報",
+            "Description": "カードと道具などの購入に使えるリソース。"
+        },
+        {
+            "Code": "TriggerAssistTooltip",
+            "Title": "アシスト（発動）",
+            "Description": "自ターン開始時以外のタイミングでアシスト効果が発動した場合、その効果のみ実行され、持続カウントは減らない。"
+        },
+        {
+            "Code": "UnstableTooltip",
+            "Title": "不安定",
+            "Description": "このターンで、カードをプレイするたび、1点の<b>VIM</b>を失う。数字は持続ターン数を示す。"
+        },
+        {
+            "Code": "UntargetableTooltip",
+            "Title": "対象外",
+            "Description": "単体選択攻撃の対象にならない。"
+        },
+        {
+            "Code": "VimTooltip",
+            "Title": "VIM（仮想メモリ）",
+            "Description": "<b>命令</b>を実行するためのリソース。"
+        },
+        {
+            "Code": "WeaveScriptTooltip",
+            "Title": "ウェーブスクリプト",
+            "Description": "カードを引き、VIMを生成するスクリプトカード。"
+        },
+        {
+            "Code": "RecyclerTooltip",
+            "Title": "ゴミ箱",
+            "Description": "<b>コードデッキ</b>にはカードのない場合、引くとゴミ箱の中のカードがコードデッキに戻される。"
+        },
+        {
+            "Code": "RepositoryTooltip",
+            "Title": "コードデッキ",
+            "Description": "引く可能の全てのカード。"
+        }
+    ]
+}

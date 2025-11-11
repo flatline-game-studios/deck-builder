@@ -6,7 +6,10 @@
             "Code": "AMBUSH_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Intel_01.png",
-            "Color": "#FF0000FF"
+            "Color": "#FF0000FF",
+            "Tooltips": [
+                "ExposedTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -14,7 +17,8 @@
             "Code": "BACKUP_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -22,7 +26,10 @@
             "Code": "BARRICADE_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -30,7 +37,11 @@
             "Code": "BERSERK_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "FeralTooltip",
+                "ExposedTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -38,7 +49,10 @@
             "Code": "BLUE_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -46,7 +60,11 @@
             "Code": "CHASE_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "FeralTooltip",
+                "ClockTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -54,7 +72,10 @@
             "Code": "CLICKER_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "TempVimTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -62,7 +83,10 @@
             "Code": "CLOUD_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "TempVimTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -70,7 +94,10 @@
             "Code": "CODEX_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -78,7 +105,8 @@
             "Code": "DYNAMO_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -86,7 +114,10 @@
             "Code": "ECLIPSE_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -94,7 +125,8 @@
             "Code": "EDGE_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -102,7 +134,8 @@
             "Code": "FEINT_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -110,7 +143,8 @@
             "Code": "MEND_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -118,7 +152,10 @@
             "Code": "MOON_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -126,7 +163,10 @@
             "Code": "ORCHESTRA_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "TempVimTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -134,7 +174,10 @@
             "Code": "PROMPT_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "ClockTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -142,7 +185,8 @@
             "Code": "PROTO_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -150,7 +194,10 @@
             "Code": "RED_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -158,7 +205,8 @@
             "Code": "ROOSTER_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -166,7 +214,10 @@
             "Code": "SHELTER_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -174,7 +225,10 @@
             "Code": "SNARE_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "DebilitatedTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -182,7 +236,8 @@
             "Code": "STABILIZER_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -190,7 +245,8 @@
             "Code": "STREAM_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -198,7 +254,10 @@
             "Code": "STREET_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -206,7 +265,10 @@
             "Code": "THUNDER_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -214,7 +276,10 @@
             "Code": "TRANSISTOR_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "TempVimTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -222,7 +287,8 @@
             "Code": "TUNRTABLE_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -230,7 +296,10 @@
             "Code": "VANGUARD_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -238,7 +307,10 @@
             "Code": "VINYL_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "ClockTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -246,7 +318,10 @@
             "Code": "WOLF_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -254,7 +329,8 @@
             "Code": "YELLOW_DRIVER",
             "Description": "",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -262,7 +338,10 @@
             "Code": "ID41_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#A85DDAFF"
+            "Color": "#A85DDAFF",
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -270,7 +349,10 @@
             "Code": "ID42_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#A85DDAFF"
+            "Color": "#A85DDAFF",
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -278,7 +360,8 @@
             "Code": "ID52_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#A85DDAFF"
+            "Color": "#A85DDAFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -286,7 +369,8 @@
             "Code": "ID26_DARWIN_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -294,7 +378,10 @@
             "Code": "ID43_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": [
+                "BiteScriptTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -302,7 +389,8 @@
             "Code": "ID49_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -310,7 +398,8 @@
             "Code": "ID50_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -318,7 +407,8 @@
             "Code": "ID51_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -326,7 +416,8 @@
             "Code": "ID53_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -334,7 +425,8 @@
             "Code": "ID32_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#A85DDAFF"
+            "Color": "#A85DDAFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -342,7 +434,8 @@
             "Code": "ID33_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#A85DDAFF"
+            "Color": "#A85DDAFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -350,7 +443,8 @@
             "Code": "ID34_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#A85DDAFF"
+            "Color": "#A85DDAFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -358,7 +452,10 @@
             "Code": "ID35_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#A85DDAFF"
+            "Color": "#A85DDAFF",
+            "Tooltips": [
+                "QuickenTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -366,7 +463,8 @@
             "Code": "ID36_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#A85DDAFF"
+            "Color": "#A85DDAFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -374,7 +472,8 @@
             "Code": "ID37_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#A85DDAFF"
+            "Color": "#A85DDAFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -382,7 +481,8 @@
             "Code": "ID22_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -390,7 +490,8 @@
             "Code": "ID23_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -398,7 +499,8 @@
             "Code": "ID24_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Defense_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -406,7 +508,8 @@
             "Code": "ID25_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -414,7 +517,8 @@
             "Code": "ID27_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -422,7 +526,8 @@
             "Code": "ID28_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -430,7 +535,11 @@
             "Code": "ID29_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": [
+                "ExposedTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -438,7 +547,11 @@
             "Code": "ID30_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": [
+                "QuickenTooltip",
+                "IndexedTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -446,7 +559,8 @@
             "Code": "ID31_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -454,7 +568,8 @@
             "Code": "ID1_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -462,7 +577,8 @@
             "Code": "ID2_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -470,7 +586,8 @@
             "Code": "ID3_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -478,7 +595,10 @@
             "Code": "ID4_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -486,7 +606,8 @@
             "Code": "ID5_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -494,7 +615,8 @@
             "Code": "ID6_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -502,7 +624,8 @@
             "Code": "ID7_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -510,7 +633,8 @@
             "Code": "ID8_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Defense_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -518,7 +642,8 @@
             "Code": "ID9_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -526,7 +651,10 @@
             "Code": "ID10_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -534,7 +662,10 @@
             "Code": "ID11_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -542,7 +673,8 @@
             "Code": "ID12_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Defense_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -550,7 +682,8 @@
             "Code": "ID13_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Defense_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -558,7 +691,8 @@
             "Code": "ID14_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -566,7 +700,10 @@
             "Code": "ID15_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": [
+                "ExposedTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -574,7 +711,10 @@
             "Code": "ID16_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": [
+                "ExposedTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -582,7 +722,10 @@
             "Code": "ID17_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": [
+                "DebilitatedTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -590,7 +733,8 @@
             "Code": "ID18_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -598,7 +742,8 @@
             "Code": "ID19_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -606,7 +751,10 @@
             "Code": "ID20_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -614,7 +762,10 @@
             "Code": "ID21_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5BD683FF"
+            "Color": "#5BD683FF",
+            "Tooltips": [
+                "AmpedTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -622,7 +773,8 @@
             "Code": "ID100_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -630,7 +782,8 @@
             "Code": "ID101_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -638,7 +791,8 @@
             "Code": "ID102_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -646,7 +800,8 @@
             "Code": "ID103_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Intel_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -654,7 +809,8 @@
             "Code": "ID104_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Intel_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -662,7 +818,8 @@
             "Code": "ID105_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -670,7 +827,8 @@
             "Code": "ID106_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Intel_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -678,7 +836,8 @@
             "Code": "ID107_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -686,7 +845,8 @@
             "Code": "ID108_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -694,7 +854,8 @@
             "Code": "ID109_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -702,7 +863,8 @@
             "Code": "ID110_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -710,7 +872,8 @@
             "Code": "ID111_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -718,7 +881,8 @@
             "Code": "ID112_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -726,7 +890,8 @@
             "Code": "ID113_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -734,7 +899,8 @@
             "Code": "ID114_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -742,7 +908,8 @@
             "Code": "ID115_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -750,7 +917,8 @@
             "Code": "ID116_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -758,7 +926,8 @@
             "Code": "ID117_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Intel_01.png",
-            "Color": "#FFFFFFFF"
+            "Color": "#FFFFFFFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -766,7 +935,8 @@
             "Code": "ID38_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#A85DDAFF"
+            "Color": "#A85DDAFF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -774,7 +944,10 @@
             "Code": "ID39_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#A85DDAFF"
+            "Color": "#A85DDAFF",
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -782,7 +955,10 @@
             "Code": "ID40_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#A85DDAFF"
+            "Color": "#A85DDAFF",
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -790,7 +966,8 @@
             "Code": "ID26_URSA_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -798,7 +975,10 @@
             "Code": "ID44_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -806,7 +986,10 @@
             "Code": "ID45_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -814,7 +997,10 @@
             "Code": "ID46_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "DriverName": "",
@@ -822,7 +1008,8 @@
             "Code": "ID47_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
         },
         {
             "DriverName": "",
@@ -830,7 +1017,8 @@
             "Code": "ID48_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#5AC7D6FF"
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
         }
     ]
 }

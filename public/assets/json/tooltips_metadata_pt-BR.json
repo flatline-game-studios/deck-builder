@@ -1,0 +1,314 @@
+{
+    "Items": [
+        {
+            "Code": "AmpedTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "AssistTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "AugmentTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "BiteScriptTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "BufferTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "ClockTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "CocoonScriptTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "CommandTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "ConditionalTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "CorruptedDataTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "CorruptedTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "DebilitatedTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "DecompileTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "DepletedTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "ExposedTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "FeralTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "FragmentedDataTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "GeneratorTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "GlitchedCardsTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "GlitchingMatrixTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "GritTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "HackTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "IndexedTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "JammedTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "MaxVimTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "MemoryFumbleTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "MuzzledTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "OnDiscardTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "OnHitTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "OverheatedTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "PierceCoreTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "PreserveTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "ProtocolTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "QuickenTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "ResolveAssistTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "ScriptTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "ShellTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "ShutdownTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "SlowedTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "StunTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "TaggedTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "TemporaryTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "TempVimTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "Tooltip_Hashkeys",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "Tooltip_Inventory_Concealer",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "Tooltip_Inventory_GateBreaker",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "Tooltip_Inventory_Harvester",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "Tooltip_Inventory_IceBreaker",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "Tooltip_Inventory_LogScrubber",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "Tooltip_Inventory_LogWiper",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "Tooltip_Inventory_Refresher",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "Tooltip_Inventory_ScoutProbe",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "Tooltip_Inventory_SentinelBreaker",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "Tooltip_Inventory_Teleporter",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "Tooltip_Shards",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "TriggerAssistTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "UnstableTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "UntargetableTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "VimTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "WeaveScriptTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "RecyclerTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
+            "Code": "RepositoryTooltip",
+            "Title": "",
+            "Description": ""
+        }
+    ]
+}

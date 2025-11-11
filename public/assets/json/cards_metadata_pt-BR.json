@@ -15,7 +15,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "TemporaryTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -32,7 +36,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "TemporaryTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -50,7 +58,11 @@
             "Clock": 3,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -68,7 +80,11 @@
             "Clock": 3,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -86,7 +102,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -104,7 +123,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -121,7 +143,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -138,7 +164,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -154,7 +184,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -170,7 +201,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -188,7 +220,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "QuickenTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -206,7 +242,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "QuickenTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -224,7 +264,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "WeaveScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -242,7 +286,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "WeaveScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -260,7 +308,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ExposedTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -278,7 +330,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ExposedTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -296,7 +352,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -314,7 +373,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -331,7 +393,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -348,7 +414,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -364,7 +434,8 @@
             "Clock": 2,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -380,7 +451,8 @@
             "Clock": 2,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -398,7 +470,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -416,7 +492,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -434,7 +514,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -452,7 +536,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -470,7 +558,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -488,7 +579,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -505,7 +599,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -522,7 +619,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -539,7 +639,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -556,7 +659,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -574,7 +680,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -591,7 +701,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -609,7 +722,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -627,7 +744,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -645,7 +766,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "QuickenTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -663,7 +788,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "QuickenTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -681,7 +810,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ExposedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -699,7 +832,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ExposedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -716,7 +853,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -733,7 +873,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -750,7 +893,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -767,7 +913,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -785,7 +934,11 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -803,7 +956,11 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -820,7 +977,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -837,7 +997,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -854,7 +1017,10 @@
             "Clock": 3,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -871,7 +1037,10 @@
             "Clock": 3,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -889,7 +1058,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -907,7 +1079,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -925,7 +1100,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -943,7 +1122,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -961,7 +1144,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -979,7 +1166,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -997,7 +1188,12 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1015,7 +1211,12 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip",
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1032,7 +1233,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1049,7 +1253,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1067,7 +1274,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "TemporaryTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1085,7 +1296,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "TemporaryTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1103,7 +1318,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ExposedTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1121,7 +1340,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ExposedTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1139,7 +1362,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1157,7 +1384,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1175,7 +1406,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1193,7 +1427,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1209,7 +1446,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -1225,7 +1463,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -1243,7 +1482,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1261,7 +1504,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1279,7 +1526,11 @@
             "Clock": 3,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "IndexedTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1297,7 +1548,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "IndexedTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1315,7 +1570,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1333,7 +1592,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1351,7 +1614,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1369,7 +1635,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1385,7 +1654,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -1401,7 +1671,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -1418,7 +1689,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1435,7 +1709,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1453,7 +1730,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1471,7 +1751,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1489,7 +1772,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1507,7 +1793,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1524,7 +1813,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1541,7 +1833,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1560,7 +1855,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1579,7 +1877,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1596,7 +1897,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -1613,7 +1915,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -1630,7 +1933,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CocoonScriptTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1647,7 +1954,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "CocoonScriptTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1665,7 +1976,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "IndexedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1683,7 +1998,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "IndexedTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1700,7 +2019,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1717,7 +2039,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1734,7 +2059,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1751,7 +2079,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1769,7 +2100,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1787,7 +2122,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 5,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1804,7 +2143,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1821,7 +2163,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1838,7 +2183,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1855,7 +2204,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "CocoonScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1872,7 +2225,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1889,7 +2245,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1907,7 +2266,8 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -1925,7 +2285,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -1942,7 +2303,10 @@
             "Clock": 4,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1959,7 +2323,10 @@
             "Clock": 3,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1976,7 +2343,11 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -1993,7 +2364,11 @@
             "Clock": 0,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2011,7 +2386,11 @@
             "Clock": 3,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2029,7 +2408,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2045,7 +2428,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2061,7 +2447,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2078,7 +2467,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2096,7 +2488,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2115,7 +2510,11 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2134,7 +2533,11 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2151,7 +2554,11 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2168,7 +2575,11 @@
             "Clock": 0,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2185,7 +2596,12 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "AssistTooltip",
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2202,7 +2618,12 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "AssistTooltip",
+                "BiteScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2220,7 +2641,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2238,7 +2662,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2255,7 +2682,12 @@
             "Clock": 2,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "ResolveAssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2272,7 +2704,12 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip",
+                "ResolveAssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2289,7 +2726,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2306,7 +2746,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2323,7 +2766,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2340,7 +2786,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2357,7 +2806,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2374,7 +2826,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2392,7 +2847,12 @@
             "Clock": 0,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2410,7 +2870,12 @@
             "Clock": 0,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2426,7 +2891,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2442,7 +2910,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2459,7 +2930,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2476,7 +2951,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2493,7 +2972,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2510,7 +2992,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2528,7 +3013,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2546,7 +3035,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2562,7 +3055,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -2578,7 +3072,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -2595,7 +3090,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2612,7 +3110,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2628,7 +3129,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2644,7 +3149,11 @@
             "Clock": 3,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "AugmentTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2660,7 +3169,11 @@
             "Clock": 3,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2676,7 +3189,11 @@
             "Clock": 3,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2692,7 +3209,11 @@
             "Clock": 3,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2708,7 +3229,10 @@
             "Clock": 3,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2724,7 +3248,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "AssistTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2740,7 +3268,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2756,7 +3287,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2772,7 +3306,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2788,7 +3325,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2802,7 +3342,11 @@
             "Clock": 9,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CorruptedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2818,7 +3362,11 @@
             "Clock": 9,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CorruptedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2835,7 +3383,11 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CorruptedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2852,7 +3404,11 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "CorruptedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2869,7 +3425,8 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -2886,7 +3443,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -2903,7 +3461,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "TempVimTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2921,7 +3482,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "TempVimTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2937,7 +3501,8 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -2953,7 +3518,8 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -2972,7 +3538,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -2991,7 +3560,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3008,7 +3580,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3025,7 +3601,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3042,7 +3622,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3059,7 +3642,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3075,7 +3661,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3091,7 +3678,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 6,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3107,7 +3695,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3123,7 +3712,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3141,7 +3731,8 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3159,7 +3750,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3177,7 +3769,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3195,7 +3790,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3213,7 +3811,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3231,7 +3832,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3248,7 +3852,8 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3264,7 +3869,8 @@
             "Clock": 0,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3281,7 +3887,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3298,7 +3907,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3315,7 +3927,11 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FragmentedDataTooltip",
+                "CorruptedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3331,7 +3947,8 @@
             "Clock": 0,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3348,7 +3965,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3365,7 +3983,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3383,7 +4002,8 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3401,7 +4021,8 @@
             "Clock": 0,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3419,7 +4040,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3437,7 +4059,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3456,7 +4079,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3475,7 +4102,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DebilitatedTooltip",
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3493,7 +4124,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3512,7 +4146,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "MaxVimTooltip",
+                "AmpedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3531,7 +4169,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "MaxVimTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3550,7 +4192,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "MaxVimTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3567,7 +4213,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3584,7 +4233,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3602,7 +4254,11 @@
             "Clock": 9,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3620,7 +4276,11 @@
             "Clock": 9,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3637,7 +4297,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3654,7 +4315,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3671,7 +4333,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3688,7 +4353,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3705,7 +4373,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3722,7 +4391,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3740,7 +4410,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3758,7 +4429,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3775,7 +4447,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3792,7 +4465,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3810,7 +4484,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3828,7 +4503,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -3845,7 +4521,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3862,7 +4541,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3880,7 +4562,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3898,7 +4583,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3915,7 +4603,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3931,7 +4623,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3948,7 +4643,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3965,7 +4663,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3982,7 +4683,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -3999,7 +4703,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ExposedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4015,7 +4722,8 @@
             "Clock": 3,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4031,7 +4739,8 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4048,7 +4757,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4065,7 +4775,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4084,7 +4795,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4102,7 +4816,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4120,7 +4835,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4138,7 +4854,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4155,7 +4872,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4172,7 +4892,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4190,7 +4913,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4208,7 +4935,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip",
+                "DebilitatedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4225,7 +4956,8 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4242,7 +4974,8 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4259,7 +4992,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4276,7 +5010,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4292,7 +5027,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4308,7 +5044,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4325,7 +5062,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4342,7 +5080,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4360,7 +5099,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4378,7 +5120,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 6,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4395,7 +5140,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FragmentedDataTooltip",
+                "CorruptedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4411,7 +5160,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4429,7 +5179,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4447,7 +5200,8 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4465,7 +5219,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4483,7 +5240,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4501,7 +5261,8 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4519,7 +5280,8 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4536,7 +5298,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4553,7 +5318,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4570,7 +5338,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4587,7 +5356,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4605,7 +5375,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4623,7 +5396,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4640,7 +5416,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4657,7 +5436,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4674,7 +5456,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4691,7 +5474,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4708,7 +5492,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4725,7 +5512,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4742,7 +5532,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4759,7 +5553,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4776,7 +5574,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "AmpedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4793,7 +5594,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AmpedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4809,7 +5613,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4825,7 +5630,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4841,7 +5647,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4860,7 +5667,13 @@
             "Clock": 3,
             "Type": "",
             "Vim": 5,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ExposedTooltip",
+                "DebilitatedTooltip",
+                "IndexedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4879,7 +5692,13 @@
             "Clock": 2,
             "Type": "",
             "Vim": 5,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ExposedTooltip",
+                "DebilitatedTooltip",
+                "IndexedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "ola amigo",
@@ -4897,7 +5716,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "ola amigo",
@@ -4914,7 +5736,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4930,7 +5755,8 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4947,7 +5773,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4964,7 +5793,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 8,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4981,7 +5813,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 10,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5000,7 +5835,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "QuickenTooltip",
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5019,7 +5858,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "QuickenTooltip",
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5035,7 +5878,8 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -5051,7 +5895,8 @@
             "Clock": 0,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -5067,7 +5912,8 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -5083,7 +5929,8 @@
             "Clock": 0,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -5102,7 +5949,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5121,7 +5971,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5138,7 +5991,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5155,7 +6011,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5172,7 +6031,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "GritTooltip",
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5189,7 +6052,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "GritTooltip",
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5207,7 +6074,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5225,7 +6095,10 @@
             "Clock": 1,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5241,7 +6114,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -5257,7 +6131,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 6,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -5276,7 +6151,11 @@
             "Clock": 1,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "IndexedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5295,7 +6174,11 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "IndexedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5311,7 +6194,10 @@
             "Clock": 0,
             "Type": "",
             "Vim": 5,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5328,7 +6214,11 @@
             "Clock": 0,
             "Type": "",
             "Vim": 5,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": [
+                "AmpedTooltip",
+                "DecompileTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5344,7 +6234,8 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -5361,7 +6252,8 @@
             "Clock": 0,
             "Type": "",
             "Vim": 1,
-            "IsUpgrade": true
+            "IsUpgrade": true,
+            "Tooltips": []
         },
         {
             "CardName": "",
@@ -5377,7 +6269,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5393,7 +6288,11 @@
             "Clock": 3,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "GritTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5409,7 +6308,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5425,7 +6327,10 @@
             "Clock": 3,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5441,7 +6346,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5457,7 +6365,11 @@
             "Clock": 3,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "FeralTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5473,7 +6385,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5489,7 +6405,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5505,7 +6425,11 @@
             "Clock": 2,
             "Type": "",
             "Vim": 4,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip",
+                "MaxVimTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5521,7 +6445,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5537,7 +6464,10 @@
             "Clock": 2,
             "Type": "",
             "Vim": 3,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ProtocolTooltip"
+            ]
         },
         {
             "CardName": "NULL",
@@ -5551,7 +6481,8 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "NULL",
@@ -5565,7 +6496,8 @@
             "Clock": 1,
             "Type": "",
             "Vim": 2,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         },
         {
             "CardName": "NULL",
@@ -5579,7 +6511,8 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false
+            "IsUpgrade": false,
+            "Tooltips": []
         }
     ]
 }

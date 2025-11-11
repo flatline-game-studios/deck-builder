@@ -1,0 +1,314 @@
+{
+    "Items": [
+        {
+            "Code": "AmpedTooltip",
+            "Title": "强电",
+            "Description": "你在本回合进行完前每打出一张牌都生成1点<b>VIM</b>。数字代表持续的回合数。"
+        },
+        {
+            "Code": "AssistTooltip",
+            "Title": "协助",
+            "Description": "在战斗中会持续存在的效果，每回合开始时触发一次。<br>它的计数会随每一回合衰减1点。<br>当计数耗尽时，卡牌会被移动到代码库或被反编译。"
+        },
+        {
+            "Code": "AugmentTooltip",
+            "Title": "增强指令",
+            "Description": "增强指令是基础指令的强化版本。使用后，它们会变回基础指令。"
+        },
+        {
+            "Code": "BiteScriptTooltip",
+            "Title": "噬咬脚本",
+            "Description": "一种造成<b>伤害</b>的脚本牌。"
+        },
+        {
+            "Code": "BufferTooltip",
+            "Title": "屏障",
+            "Description": "吸收将要受到的<b>伤害</b>。回合结束时消失。"
+        },
+        {
+            "Code": "ClockTooltip",
+            "Title": "时钟",
+            "Description": "用来打出卡牌的资源。"
+        },
+        {
+            "Code": "CocoonScriptTooltip",
+            "Title": "结茧脚本",
+            "Description": "一种提供<b>屏障</b>的脚本牌。"
+        },
+        {
+            "Code": "CommandTooltip",
+            "Title": "指令",
+            "Description": "可以通过花费<b>VIM</b>来激活的能力。"
+        },
+        {
+            "Code": "ConditionalTooltip",
+            "Title": "条件",
+            "Description": "满足描述的前置需求时，会额外触发或改为触发这类效果。"
+        },
+        {
+            "Code": "CorruptedDataTooltip",
+            "Title": "损坏数据牌",
+            "Description": "没有效果的<b>数据损坏</b>牌，会在战斗结束时从代码库中移除。"
+        },
+        {
+            "Code": "CorruptedTooltip",
+            "Title": "数据损坏",
+            "Description": "有害的卡牌类型。默认情况下会在战斗结束后从你的代码库中移除。"
+        },
+        {
+            "Code": "DebilitatedTooltip",
+            "Title": "虚弱",
+            "Description": "减少造成的<b>伤害</b>25%。数字代表持续的回合数。"
+        },
+        {
+            "Code": "DecompileTooltip",
+            "Title": "反编译",
+            "Description": "被<b>反编译</b>的卡牌不会再在当前的战斗中重新洗入你的代码库。"
+        },
+        {
+            "Code": "DepletedTooltip",
+            "Title": "消耗",
+            "Description": "在你的回合开始时少抽1张牌。数字代表持续的回合数。"
+        },
+        {
+            "Code": "ExposedTooltip",
+            "Title": "暴露",
+            "Description": "增加25%受到的<b>伤害</b>。数字代表持续的回合数。"
+        },
+        {
+            "Code": "FeralTooltip",
+            "Title": "野性",
+            "Description": "每一点增加5%造成的<b>伤害</b>，每回合衰减一点。"
+        },
+        {
+            "Code": "FragmentedDataTooltip",
+            "Title": "碎片数据牌",
+            "Description": "没有效果的<b>数据损坏</b>牌，留在手牌中时，会在回合结束时<b>反编译</b>。"
+        },
+        {
+            "Code": "GeneratorTooltip",
+            "Title": "生成器",
+            "Description": "生成<b>VIM</b>的卡牌类型。"
+        },
+        {
+            "Code": "GlitchedCardsTooltip",
+            "Title": "故障卡牌",
+            "Description": "故障卡片会在屏障、伤害或VIM方面的输出上受到减益影响。此效果会在卡片被打出或弃置时移除。"
+        },
+        {
+            "Code": "GlitchingMatrixTooltip",
+            "Title": "故障矩阵",
+            "Description": "每当在本回合中打出攻击牌时，该卡片会变为故障卡牌。"
+        },
+        {
+            "Code": "GritTooltip",
+            "Title": "坚毅",
+            "Description": "每一点增加获得的<b>屏障</b>5%，每回合衰减一点。"
+        },
+        {
+            "Code": "HackTooltip",
+            "Title": "攻击牌",
+            "Description": "攻击性的卡牌类型。"
+        },
+        {
+            "Code": "IndexedTooltip",
+            "Title": "缓存",
+            "Description": "在你的回合开始时多抽1张牌。数字代表持续的回合数。"
+        },
+        {
+            "Code": "JammedTooltip",
+            "Title": "超频",
+            "Description": "<b>生成器</b>牌在本回合进行完前的费用额外增加1<b>时钟</b>。数字代表持续的回合数。"
+        },
+        {
+            "Code": "MaxVimTooltip",
+            "Title": "最大VIM",
+            "Description": "<b>VIM</b>到达最大值（当前为20）。"
+        },
+        {
+            "Code": "MemoryFumbleTooltip",
+            "Title": "记忆错误",
+            "Description": "在你的回合开始时，随机化手牌中所有卡牌的基础VIM。每点表示持续回合数。"
+        },
+        {
+            "Code": "MuzzledTooltip",
+            "Title": "封禁",
+            "Description": "<b>攻击</b>牌在本回合进行完前的费用额外增加1<b>时钟</b>。数字代表持续的回合数。"
+        },
+        {
+            "Code": "OnDiscardTooltip",
+            "Title": "弃置后",
+            "Description": "每当卡牌在回合中被弃置时会触发的效果。"
+        },
+        {
+            "Code": "OnHitTooltip",
+            "Title": "命中条件",
+            "Description": "攻击的<b>伤害</b>如果影响到了目标的<b>完整性</b>，则算作命中。"
+        },
+        {
+            "Code": "OverheatedTooltip",
+            "Title": "堵塞",
+            "Description": "每回合只能使用1次<b>指令</b>。数字代表持续的回合数。"
+        },
+        {
+            "Code": "PierceCoreTooltip",
+            "Title": "核心穿刺",
+            "Description": "这张攻击牌费用为2，可对核心外围设备造成大量伤害。"
+        },
+        {
+            "Code": "PreserveTooltip",
+            "Title": "保留",
+            "Description": "保留的卡牌在回合结束时不会被弃置。"
+        },
+        {
+            "Code": "ProtocolTooltip",
+            "Title": "协议",
+            "Description": "协议效果会在卡牌打出后保持激活状态，而卡牌本身则会消失，直到战斗结束。同一协议的多个副本不会叠加。"
+        },
+        {
+            "Code": "QuickenTooltip",
+            "Title": "超频",
+            "Description": "在你的回合开始时额外获得1<b>时钟</b>。数字代表持续的回合数。"
+        },
+        {
+            "Code": "ResolveAssistTooltip",
+            "Title": "释放协助",
+            "Description": "当协助效果被释放时，它会一次性触发全部剩余的持续时间计数，然后过期。"
+        },
+        {
+            "Code": "ScriptTooltip",
+            "Title": "脚本牌",
+            "Description": "脚本牌是通过某些效果生成的卡牌，会从游戏中消失，而不是被弃置或反编译。"
+        },
+        {
+            "Code": "ShellTooltip",
+            "Title": "防御牌",
+            "Description": "防御性的卡牌类型。"
+        },
+        {
+            "Code": "ShutdownTooltip",
+            "Title": "关机",
+            "Description": "本回合无法使用<b>指令</b>。数字代表持续的回合数。"
+        },
+        {
+            "Code": "SlowedTooltip",
+            "Title": "降频",
+            "Description": "在你的回合开始时少获得1<b>时钟</b>。数字代表持续的回合数。"
+        },
+        {
+            "Code": "StunTooltip",
+            "Title": "卡死",
+            "Description": "跳过本回合。"
+        },
+        {
+            "Code": "TaggedTooltip",
+            "Title": "标记",
+            "Description": "<b>防御</b>牌在本回合进行完前的费用额外增加1<b>时钟</b>。数字代表持续的回合数。"
+        },
+        {
+            "Code": "TemporaryTooltip",
+            "Title": "临时牌",
+            "Description": "临时牌会从游戏中消失，而不是被弃置或反编译。"
+        },
+        {
+            "Code": "TempVimTooltip",
+            "Title": "临时VIM",
+            "Description": "用来激活<b>指令</b>的资源。会在你的回合结束时消失。不被计入条件性效果中。"
+        },
+        {
+            "Code": "Tooltip_Hashkeys",
+            "Title": "哈希密钥",
+            "Description": "这种资源能够解锁部分门扉，也能对节点进行哈希重算。"
+        },
+        {
+            "Code": "Tooltip_Inventory_Concealer",
+            "Title": "隐匿器",
+            "Description": "安装在空白格子中，可将该集群中每个行动的踪迹降低至0。"
+        },
+        {
+            "Code": "Tooltip_Inventory_GateBreaker",
+            "Title": "门扉破坏器",
+            "Description": "解锁目标门扉"
+        },
+        {
+            "Code": "Tooltip_Inventory_Harvester",
+            "Title": "收割器",
+            "Description": "获得20个情报。每当踪迹等级增加时，该工具在背包中产出的情报随之增加。"
+        },
+        {
+            "Code": "Tooltip_Inventory_IceBreaker",
+            "Title": "ICE破坏器",
+            "Description": "破坏一个守护、哨卫或一扇门扉。"
+        },
+        {
+            "Code": "Tooltip_Inventory_LogScrubber",
+            "Title": "日志清理器",
+            "Description": "踪迹减4。"
+        },
+        {
+            "Code": "Tooltip_Inventory_LogWiper",
+            "Title": "日志擦除器",
+            "Description": "踪迹降至0。"
+        },
+        {
+            "Code": "Tooltip_Inventory_Refresher",
+            "Title": "刷新器",
+            "Description": "刷新你的技能。"
+        },
+        {
+            "Code": "Tooltip_Inventory_ScoutProbe",
+            "Title": "侦查探测器",
+            "Description": "揭开矩阵中的一片区域。"
+        },
+        {
+            "Code": "Tooltip_Inventory_SentinelBreaker",
+            "Title": "哨卫破坏器",
+            "Description": "禁用一个哨卫。"
+        },
+        {
+            "Code": "Tooltip_Inventory_Teleporter",
+            "Title": "传送器",
+            "Description": "随机传送到一个集群（优先传送至未被揭开的）。"
+        },
+        {
+            "Code": "Tooltip_Shards",
+            "Title": "情报",
+            "Description": "这种资源能够购买卡牌、工具等。"
+        },
+        {
+            "Code": "TriggerAssistTooltip",
+            "Title": "触发协助",
+            "Description": "当协助的效果在你回合开始前被触发时，它会执行效果，但不会减少代表其持续时间的计数。"
+        },
+        {
+            "Code": "UnstableTooltip",
+            "Title": "不稳定",
+            "Description": "你在本回合进行完前每打出一张牌都失去1点<b>VIM</b>。数字代表持续的回合数。"
+        },
+        {
+            "Code": "UntargetableTooltip",
+            "Title": "不可选",
+            "Description": "这个单位无法被单体攻击选中。"
+        },
+        {
+            "Code": "VimTooltip",
+            "Title": "VIM（虚拟内存）",
+            "Description": "用来激活<b>指令</b>的资源。"
+        },
+        {
+            "Code": "WeaveScriptTooltip",
+            "Title": "编织脚本",
+            "Description": "一种可以抽卡并生成VIM的脚本牌。"
+        },
+        {
+            "Code": "RecyclerTooltip",
+            "Title": "回收站",
+            "Description": "<b>代码库</b>为空时，你若抽牌，这里的卡牌就会重新洗入代码库。"
+        },
+        {
+            "Code": "RepositoryTooltip",
+            "Title": "代码库",
+            "Description": "包含所有将会抽到的卡牌。"
+        }
+    ]
+}
