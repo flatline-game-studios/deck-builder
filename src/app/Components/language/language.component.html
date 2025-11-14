@@ -1,0 +1,17 @@
+<!-- src/app/Components/language/language.component.html -->
+<div class="lang-root" [attr.data-open]="open ? '1' : '0'">
+    <button type="button" class="lang-toggle" (click)="toggle()" aria-haspopup="listbox" [attr.aria-expanded]="open">
+        <span class="caret">▾ {{ selectLangDisplay }}</span>
+    </button>
+
+    <ul *ngIf="open" class="lang-list" role="listbox">
+<!--        <li class="lang-item" role="option" (click)="choose('')" [class.selected]="selected === ''">Auto</li>-->
+        <li *ngFor="let l of languages"
+            class="lang-item"
+            role="option"
+            (click)="choose(l.code)"
+            [class.selected]="selected === l.code">
+            {{ l.label }}
+        </li>
+    </ul>
+</div>

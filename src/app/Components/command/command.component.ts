@@ -1,8 +1,8 @@
 import {Component, Input, SimpleChanges} from '@angular/core';
-import {CommandData} from '../app.component';
 import {DomSanitizer, SafeHtml} from '@angular/platform-browser';
 import {UpperCasePipe} from '@angular/common';
 import {TooltipComponent} from '../tooltip/tooltip.component';
+import {CommandData} from '../../app.component';
 
 @Component({
   selector: 'app-command',

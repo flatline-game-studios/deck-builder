@@ -1,8 +1,8 @@
 import {Component, Input, SimpleChanges} from '@angular/core';
 import {DomSanitizer, SafeHtml} from '@angular/platform-browser';
-import {DriverData} from '../app.component';
 import {NgIf} from '@angular/common';
 import {TooltipComponent} from '../tooltip/tooltip.component';
+import {DriverData} from '../../app.component';
 @Component({
   selector: 'app-driver',
     imports: [
@@ -18,6 +18,7 @@ export class DriverComponent {
     public imageSrc: string = '';
     public imageIcon: string = '';
     public isHover: boolean  = false;
+    public showImageIcon = true;
 
     public constructor(private sanitizer: DomSanitizer) {}
 
@@ -28,6 +29,7 @@ export class DriverComponent {
     public ngOnChanges(changes: SimpleChanges) {
 
         if (changes['driver'] && this.driver?.Description) {
+            this.showImageIcon = true;
             this.sanitizedDescription =  this.sanitizer.bypassSecurityTrustHtml( this.driver?.Description.toUpperCase())
         }
     }

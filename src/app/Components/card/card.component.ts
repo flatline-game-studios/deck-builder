@@ -1,10 +1,10 @@
 import {Component, Input, SimpleChanges} from '@angular/core';
-import {CardData} from '../app.component';
 import {NgForOf, NgIf, NgOptimizedImage} from '@angular/common';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import html2canvas from 'html2canvas';
-import { AutoFitTextDirective } from '../directives/auto-fit-text.directive';
 import {TooltipComponent} from '../tooltip/tooltip.component';
+import {AutoFitTextDirective} from '../../directives/auto-fit-text.directive';
+import {CardData} from '../../app.component';
 
 @Component({
     standalone: true,

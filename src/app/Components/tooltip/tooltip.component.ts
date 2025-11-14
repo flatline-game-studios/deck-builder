@@ -11,10 +11,11 @@ import {
     HostListener,
     ViewChild, SecurityContext
 } from '@angular/core';
-import { Tooltip } from '../app.component';
-import { TooltipsService } from '../Services/tooltips.service';
+
 import {NgForOf, NgIf} from '@angular/common';
 import {DomSanitizer} from '@angular/platform-browser';
+import {Tooltip} from '../../app.component';
+import {TooltipsService} from '../../Services/tooltips.service';
 
 @Component({
     selector: 'app-tooltip',

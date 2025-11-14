@@ -1,0 +1,51 @@
+
+
+
+<div class="itg-container d-flex align-items-start flex-column flex-md-row">
+
+
+    <!-- izquierda -->
+    <div class="d-flex flex-column ms-md-3 w-100-below-md" style="max-width: 350px;">
+
+        <div class="itg-navbar d-flex justify-content-center align-items-center justify-content-center" *ngIf="query.m">
+            <span *ngIf="query?.m" style="font-size: 1em">{{query.m}}  </span>
+            <span *ngIf="query?.r" style="font-size: 15px; padding-left: 5px"> [{{query.r.currentLayer}}/{{query.r.totalLayers}}]</span>
+            <span *ngIf="query?.s" class="badge " [style.--win-color]="query.s.toLowerCase() === 'lose' ?  '#ff0000' :  '#00c8ab' "> {{query.s}} </span>
+        </div>
+
+        <div class="d-flex flex-row flex-grow-1 m-1" *ngIf="query?.t?.trace !== null" >
+            <div class="itg-navbar d-flex  flex-grow-1 justify-content-center align-items-center justify-content-center" >
+                <span > TRACE > {{query.t.trace}}  </span>
+
+            </div>
+            <div class="itg-navbar d-flex flex-grow-1 justify-content-center align-items-center justify-content-center" style="background-color: red; color: white" >
+                <span >  {{query.t.alarm}} < ALARM</span>
+
+            </div>
+        </div>
+
+
+        <div class="d-flex flex-column" *ngIf="showCommands.length">
+            <app-command *ngFor="let command of showCommands"   [command]="command"></app-command>
+
+        </div>
+
+        <div class="d-flex flex-wrap justify-content-center" *ngIf="showDrivers.length">
+            <div *ngFor="let driver of showDrivers" class="driver-box ">
+                <app-driver [driver]="driver"></app-driver>
+            </div>
+        </div>
+    </div>
+
+    <!-- derecha  -->
+    <div class="d-flex flex-row card-container flex-grow-1 w-100-below-md">
+        <div class="d-flex flex-grow-1 flex-row flex-wrap justify-content-center" *ngIf="showCards.length">
+            <div *ngFor="let card of showCards" class="card-box">
+                <app-card [card]="card"></app-card>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+

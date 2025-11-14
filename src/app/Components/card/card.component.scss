@@ -36,9 +36,7 @@
     backface-visibility: hidden;
 
     &:hover {
-        //box-shadow: 0 0 15px var(--itg-accent, #ff0000);
         transform: scale(1.02);
-        //cursor: pointer;
     }
 }
 
@@ -83,7 +81,7 @@
     font-size: 25px;
 }
 
-.itg-card-title{
+.itg-card-title {
     background-color: var(--itg-accent, #ff0000);
     color: var(--itg-card-name, #ffffff);
     margin-top: -5px;
@@ -96,7 +94,6 @@
     overflow: hidden;
     text-overflow: ellipsis;
     font-size: 18px; /* tamaño por defecto */
-
 }
 
 .itg-card-type {
@@ -123,9 +120,6 @@
     margin-top: 2px;
     width: 20px;
     height: 23px;
-    //background-color: #F7D249; /* color dinámico */
-    //-webkit-mask: url('../../assets/images/vim_icon.png') center / contain no-repeat;
-    //mask: url('../../assets/images/vim_icon.png') center / contain no-repeat;
     background-size: contain;
     background-repeat: no-repeat;
     display: inline-block;

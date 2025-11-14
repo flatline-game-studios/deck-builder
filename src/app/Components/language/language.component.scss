@@ -1,0 +1,61 @@
+/* src/app/Components/language/language.component.scss */
+:host {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+    font-family: 'BlenderPro-Bold', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* raíz customizable: fondo amarillo y texto negro */
+.lang-root {
+    background: #ffd400;
+    color: black;
+    border-radius: 6px;
+    padding: 6px;
+    display: inline-block;
+    font-family: inherit;
+}
+
+/* botón visible */
+.lang-toggle {
+    background: transparent;
+    border: none;
+    color: inherit;
+    font-size: 14px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+/* lista desplegable */
+.lang-list {
+    margin: 6px 0 0 0;
+    padding: 4px;
+    list-style: none;
+    background: #ffd400;
+    color: black;
+    max-height: 240px;
+    overflow: auto;
+}
+
+/* items */
+.lang-item {
+    padding: 6px 10px;
+    cursor: pointer;
+}
+
+/* hover/focus se aplica sin problemas */
+.lang-item:hover,
+.lang-item:focus {
+    background: black;
+    color: #ffd400;
+}
+
+/* item seleccionado */
+.lang-item.selected {
+    font-weight: 600;
+    background: black;
+    color: #ffd400;
+}
