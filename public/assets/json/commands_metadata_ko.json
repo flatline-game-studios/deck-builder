@@ -5,325 +5,266 @@
             "Cost": 6,
             "Description": "이번 턴에 카드를 사용할 때마다 1의 <b>VIM</b>을 생성합니다.",
             "Tier": "Minor",
-            "Code": "AUGMENTED",
-            "Tooltips": []
+            "Code": "AUGMENTED"
         },
         {
             "CommandName": "클론",
             "Cost": 10,
             "Description": "카드 덱에서 <b>비프로토콜 카드</b> 1장을 선택하세요. 다음 턴에 해당 카드의 복사본을 카드 덱에 생성합니다.",
             "Tier": "Major",
-            "Code": "CloneCommand_NotImplemented",
-            "Tooltips": []
+            "Code": "CloneCommand_NotImplemented"
         },
         {
             "CommandName": "용기",
             "Cost": 6,
             "Description": "<b>투지</b> 2중첩을 획득합니다.",
             "Tier": "Minor",
-            "Code": "DareCommand",
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "Code": "DareCommand"
         },
         {
             "CommandName": "구축",
             "Cost": 6,
             "Description": "이번 턴에 마지막으로 사용한 <b>스크립트</b>의 복사본 1장을 생성합니다. ",
             "Tier": "Minor",
-            "Code": "CONSTRUCT_COMMAND",
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "Code": "CONSTRUCT_COMMAND"
         },
         {
             "CommandName": "보강·구축",
             "Cost": 6,
             "Description": "이번 턴에 마지막으로 사용한 <b>스크립트</b>의 복사본 2장을 생성합니다. ",
             "Tier": "Minor",
-            "Code": "CONSTRUCT_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "CONSTRUCT_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "다이브",
             "Cost": 16,
             "Description": "4장의 카드를 뽑습니다.",
             "Tier": "Critical",
-            "Code": "DIVE_COMMAND",
-            "Tooltips": []
+            "Code": "DIVE_COMMAND"
         },
         {
             "CommandName": "보강: 다이브",
             "Cost": 16,
             "Description": "5장의 카드를 뽑습니다.",
             "Tier": "Critical",
-            "Code": "DIVE_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "DIVE_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "유지",
             "Cost": 5,
             "Description": "패에서 카드 1장을 선택하여 이번 턴 <b>보존</b>합니다.",
             "Tier": "Minor",
-            "Code": "MANTAIN_COMMAND",
-            "Tooltips": [
-                "PreserveTooltip"
-            ]
+            "Code": "MANTAIN_COMMAND"
         },
         {
             "CommandName": "보강: 유지",
             "Cost": 5,
             "Description": "패에서 최대 2장의 카드를 선택하여 이번 턴 <b>보존</b>합니다.",
             "Tier": "Minor",
-            "Code": "MANTAIN_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "MANTAIN_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "준비",
             "Cost": 12,
             "Description": "다음 턴이 시작 시, 1<b>시계</b>를 획득합니다.",
             "Tier": "Major",
-            "Code": "PREPARE_COMMAND",
-            "Tooltips": []
+            "Code": "PREPARE_COMMAND"
         },
         {
             "CommandName": "보강: 준비",
             "Cost": 12,
             "Description": "다음 턴이 시작 시, 2<b>시계</b>를 획득합니다.",
             "Tier": "Major",
-            "Code": "PREPARE_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "PREPARE_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "집결",
             "Cost": 12,
             "Description": "모든 <b>어시스트</b> 효과를 1포인트 연장합니다.",
             "Tier": "Major",
-            "Code": "RALLY_COMMAND",
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "Code": "RALLY_COMMAND"
         },
         {
             "CommandName": "보강·집결",
             "Cost": 12,
             "Description": "모든 <b>어시스트</b> 효과를 2포인트 연장합니다.",
             "Tier": "Major",
-            "Code": "RALLY_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "RALLY_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "반등",
             "Cost": 10,
             "Description": "이번 턴에 마지막으로 버린 카드를 자신의 패로 되돌립니다.",
             "Tier": "Major",
-            "Code": "REBOUND_COMMAND",
-            "Tooltips": []
+            "Code": "REBOUND_COMMAND"
         },
         {
             "CommandName": "보강: 반등",
             "Cost": 10,
             "Description": "이번 턴에 마지막으로 버린 카드를 자신의 패로 되돌린 후, 카드를 1장 뽑습니다.",
             "Tier": "Major",
-            "Code": "REBOUND_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "REBOUND_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "복제",
             "Cost": 20,
             "Description": "패에 있는 모든 <b>스크립트</b>마다 복사본 1장을 생성합니다.",
             "Tier": "Critical",
-            "Code": "REPLICATE_COMMAND",
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "Code": "REPLICATE_COMMAND"
         },
         {
             "CommandName": "보강: 복제",
             "Cost": 15,
             "Description": "패에 있는 모든 <b>스크립트</b>마다 복사본 1장을 생성합니다.",
             "Tier": "Critical",
-            "Code": "REPLICATE_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "REPLICATE_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "재활용",
             "Cost": 6,
             "Description": "1장의 카드를 버립니다.",
             "Tier": "Minor",
-            "Code": "REPURPOSE_COMMAND",
-            "Tooltips": []
+            "Code": "REPURPOSE_COMMAND"
         },
         {
             "CommandName": "보강: 재활용",
             "Cost": 6,
             "Description": "1장의 카드를 버린 후, 1장의 카드를 뽑습니다.",
             "Tier": "Minor",
-            "Code": "REPURPOSE_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "REPURPOSE_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "돌진",
             "Cost": 16,
             "Description": "랜덤으로 <b>어시스트</b> 효과를 1회 발동합니다.",
             "Tier": "Critical",
-            "Code": "RUSH_COMMAND",
-            "Tooltips": [
-                "ResolveAssistTooltip",
-                "AssistTooltip"
-            ]
+            "Code": "RUSH_COMMAND"
         },
         {
             "CommandName": "보강·돌진",
             "Cost": 16,
             "Description": "랜덤으로 <b>어시스트</b> 효과를 2회 발동합니다.",
             "Tier": "Critical",
-            "Code": "RUSH_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "RUSH_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "전략 수립",
             "Cost": 12,
             "Description": "이번 턴 모든 <b>스크립트</b>를 <b>보존</b>합니다.",
             "Tier": "Major",
-            "Code": "STRATEGIZE_COMMAND",
-            "Tooltips": [
-                "PreserveTooltip",
-                "ScriptTooltip"
-            ]
+            "Code": "STRATEGIZE_COMMAND"
         },
         {
             "CommandName": "보강: 전략 수립",
             "Cost": 12,
             "Description": "랜덤으로  1장의 <b>스크립트</b>를 생성합니다. 이번 턴 모든 <b>스크립트</b>를 <b>보존</b>합니다.",
             "Tier": "Major",
-            "Code": "STRATEGIZE_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "STRATEGIZE_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "터치",
             "Cost": 6,
             "Description": "랜덤으로 <b>어시스트</b> 효과를 1회 발동합니다.",
             "Tier": "Minor",
-            "Code": "TOUCH_COMMAND",
-            "Tooltips": [
-                "TriggerAssistTooltip",
-                "AssistTooltip"
-            ]
+            "Code": "TOUCH_COMMAND"
         },
         {
             "CommandName": "보강·터치",
             "Cost": 6,
             "Description": "랜덤으로 <b>어시스트</b> 효과를 2회 발동합니다.",
             "Tier": "Minor",
-            "Code": "TOUCH_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "TOUCH_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "초월",
             "Cost": 17,
             "Description": "3장의 카드를 버리고, 2<b>시계</b>를 획득합니다.",
             "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND",
-            "Tooltips": []
+            "Code": "TRANSCEND_COMMAND"
         },
         {
             "CommandName": "보강: 초월",
             "Cost": 17,
             "Description": "3장의 카드를 버리고, 3<b>시계</b>를 획득합니다.",
             "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "TRANSCEND_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "발굴",
             "Cost": 10,
             "Description": "카드 3장을 뽑은 후, 카드 1장을 선택해 버리세요.",
             "Tier": "Major",
-            "Code": "DIG",
-            "Tooltips": []
+            "Code": "DIG"
         },
         {
             "CommandName": "메아리",
             "Cost": 15,
             "Description": "이번 턴에 다음으로 사용하는 <b>비프로토콜 카드</b> 는 두 번 사용됩니다.",
             "Tier": "Critical",
-            "Code": "EchoCommand",
-            "Tooltips": []
+            "Code": "EchoCommand"
         },
         {
             "CommandName": "차지",
             "Cost": 18,
             "Description": "카드 1장을 뽑고 <b>시계</b> 2 획득합니다.",
             "Tier": "Critical",
-            "Code": "Energize",
-            "Tooltips": []
+            "Code": "Energize"
         },
         {
             "CommandName": "집행",
             "Cost": 17,
             "Description": "코드 저장소에서 카드 1장을 선택해 무료로 사용합니다.",
             "Tier": "Critical",
-            "Code": "ExecuteCommand",
-            "Tooltips": []
+            "Code": "ExecuteCommand"
         },
         {
             "CommandName": "부당 이득",
             "Cost": 5,
             "Description": "이번 턴에 카드를 사용할 때마다 1의 <b>VIM</b>을 생성합니다.",
             "Tier": "Minor",
-            "Code": "FarmCommand",
-            "Tooltips": []
+            "Code": "FarmCommand"
         },
         {
             "CommandName": "최적화",
             "Cost": 16,
             "Description": "패 1장을 버리고, 해당 카드의 <b>시계 코스트</b>를 전투 종료 시까지 1만큼 감소시킵니다.",
             "Tier": "Critical",
-            "Code": "OPTIMIZE",
-            "Tooltips": []
+            "Code": "OPTIMIZE"
         },
         {
             "CommandName": "회수",
             "Cost": 12,
             "Description": "휴지통에서 최대 2장의 카드를 선택해 핸드에 추가합니다.",
             "Tier": "Major",
-            "Code": "RecollectCommand",
-            "Tooltips": []
+            "Code": "RecollectCommand"
         },
         {
             "CommandName": "재귀",
             "Cost": 10,
             "Description": "이번 턴에 사용하는 다음 <b>비프로토콜 카드</b> 및 <b>디컴파일이 아닌</b> 카드는 카드 덱으로 되돌아올 수 있습니다.",
             "Tier": "Major",
-            "Code": "RecurCommand",
-            "Tooltips": []
+            "Code": "RecurCommand"
         },
         {
             "CommandName": "포호",
             "Cost": 6,
             "Description": "<b>야성</b> 2중첩을 획득합니다.",
             "Tier": "Minor",
-            "Code": "RoarCommand",
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "Code": "RoarCommand"
         },
         {
             "CommandName": "정찰",
             "Cost": 5,
             "Description": "카드 1장을 뽑습니다.",
             "Tier": "Minor",
-            "Code": "ScoutCommand",
-            "Tooltips": []
+            "Code": "ScoutCommand"
         },
         {
             "CommandName": "선택",
             "Cost": 9,
             "Description": "코드 저장소에서 카드 1장을 선택해 카드 덱에 추가합니다.",
             "Tier": "Major",
-            "Code": "TutorCommand",
-            "Tooltips": []
+            "Code": "TutorCommand"
         }
     ]
 }

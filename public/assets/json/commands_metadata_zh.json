@@ -5,325 +5,266 @@
             "Cost": 6,
             "Description": "本回合你每次打出一张牌时，生成1点<b>VIM</b>。",
             "Tier": "Minor",
-            "Code": "AUGMENTED",
-            "Tooltips": []
+            "Code": "AUGMENTED"
         },
         {
             "CommandName": "克隆",
             "Cost": 10,
             "Description": "选择一张手牌中的<b>非协议牌</b>，在下个回合生成一张副本到你的手牌。",
             "Tier": "Major",
-            "Code": "CloneCommand_NotImplemented",
-            "Tooltips": []
+            "Code": "CloneCommand_NotImplemented"
         },
         {
             "CommandName": "勇毅",
             "Cost": 6,
             "Description": "获得2层<b>坚毅</b>。",
             "Tier": "Minor",
-            "Code": "DareCommand",
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "Code": "DareCommand"
         },
         {
             "CommandName": "构建",
             "Cost": 6,
             "Description": "生成1张你在本回合最后打出的<b>脚本</b> 牌副本。 ",
             "Tier": "Minor",
-            "Code": "CONSTRUCT_COMMAND",
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "Code": "CONSTRUCT_COMMAND"
         },
         {
             "CommandName": "增强·构建",
             "Cost": 6,
             "Description": "生成2张你在本回合最后打出的<b>脚本</b> 牌副本。 ",
             "Tier": "Minor",
-            "Code": "CONSTRUCT_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "CONSTRUCT_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "潜入",
             "Cost": 16,
             "Description": "抽4张牌。",
             "Tier": "Critical",
-            "Code": "DIVE_COMMAND",
-            "Tooltips": []
+            "Code": "DIVE_COMMAND"
         },
         {
             "CommandName": "增强·潜入",
             "Cost": 16,
             "Description": "抽5张牌。",
             "Tier": "Critical",
-            "Code": "DIVE_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "DIVE_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "维持",
             "Cost": 5,
             "Description": "选择1张手牌，在本回合<b>保留</b>。",
             "Tier": "Minor",
-            "Code": "MANTAIN_COMMAND",
-            "Tooltips": [
-                "PreserveTooltip"
-            ]
+            "Code": "MANTAIN_COMMAND"
         },
         {
             "CommandName": "增强·维持",
             "Cost": 5,
             "Description": "选择至多2张手牌，在本回合<b>保留</b>。",
             "Tier": "Minor",
-            "Code": "MANTAIN_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "MANTAIN_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "准备",
             "Cost": 12,
             "Description": "在下一回合开始时，获得 1<b>时钟</b>。",
             "Tier": "Major",
-            "Code": "PREPARE_COMMAND",
-            "Tooltips": []
+            "Code": "PREPARE_COMMAND"
         },
         {
             "CommandName": "增强·准备",
             "Cost": 12,
             "Description": "在下一回合开始时，获得 2<b>时钟</b>。",
             "Tier": "Major",
-            "Code": "PREPARE_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "PREPARE_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "集结",
             "Cost": 12,
             "Description": "延长1点你所有的<b>协助</b>效果 。",
             "Tier": "Major",
-            "Code": "RALLY_COMMAND",
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "Code": "RALLY_COMMAND"
         },
         {
             "CommandName": "增强·集结",
             "Cost": 12,
             "Description": "延长2点你所有的<b>协助</b>效果 。",
             "Tier": "Major",
-            "Code": "RALLY_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "RALLY_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "反弹",
             "Cost": 10,
             "Description": "将本回合最后弃掉的卡牌返回至你的手牌中。",
             "Tier": "Major",
-            "Code": "REBOUND_COMMAND",
-            "Tooltips": []
+            "Code": "REBOUND_COMMAND"
         },
         {
             "CommandName": "增强·反弹",
             "Cost": 10,
             "Description": "将本回合最后弃掉的卡牌返回至你的手牌后，再抽1张牌。",
             "Tier": "Major",
-            "Code": "REBOUND_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "REBOUND_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "复制",
             "Cost": 20,
             "Description": "为你的手牌中每张<b>脚本</b>牌生成1张副本。",
             "Tier": "Critical",
-            "Code": "REPLICATE_COMMAND",
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "Code": "REPLICATE_COMMAND"
         },
         {
             "CommandName": "增强·复制",
             "Cost": 15,
             "Description": "为你的手牌中每张<b>脚本</b>牌生成1张副本。",
             "Tier": "Critical",
-            "Code": "REPLICATE_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "REPLICATE_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "重新利用",
             "Cost": 6,
             "Description": "弃置1张牌。",
             "Tier": "Minor",
-            "Code": "REPURPOSE_COMMAND",
-            "Tooltips": []
+            "Code": "REPURPOSE_COMMAND"
         },
         {
             "CommandName": "增强·重新利用",
             "Cost": 6,
             "Description": "弃掉 1 张卡牌后抽取 1 张卡牌。",
             "Tier": "Minor",
-            "Code": "REPURPOSE_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "REPURPOSE_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "冲刺",
             "Cost": 16,
             "Description": "随机释放1次你的<b>协助</b>效果。",
             "Tier": "Critical",
-            "Code": "RUSH_COMMAND",
-            "Tooltips": [
-                "ResolveAssistTooltip",
-                "AssistTooltip"
-            ]
+            "Code": "RUSH_COMMAND"
         },
         {
             "CommandName": "增强·冲刺",
             "Cost": 16,
             "Description": "随机释放2次你的<b>协助</b>效果。",
             "Tier": "Critical",
-            "Code": "RUSH_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "RUSH_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "策划",
             "Cost": 12,
             "Description": "<b>保留</b>本回合所有<b>脚本</b>牌。",
             "Tier": "Major",
-            "Code": "STRATEGIZE_COMMAND",
-            "Tooltips": [
-                "PreserveTooltip",
-                "ScriptTooltip"
-            ]
+            "Code": "STRATEGIZE_COMMAND"
         },
         {
             "CommandName": "增强·策划",
             "Cost": 12,
             "Description": "随机生成1张随机<b>脚本</b>牌。<b>保留</b>本回合所有<b>脚本</b>牌。",
             "Tier": "Major",
-            "Code": "STRATEGIZE_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "STRATEGIZE_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "接触",
             "Cost": 6,
             "Description": "随机触发1次你的<b>协助</b>效果。",
             "Tier": "Minor",
-            "Code": "TOUCH_COMMAND",
-            "Tooltips": [
-                "TriggerAssistTooltip",
-                "AssistTooltip"
-            ]
+            "Code": "TOUCH_COMMAND"
         },
         {
             "CommandName": "增强·接触",
             "Cost": 6,
             "Description": "随机触发2次你的<b>协助</b>效果。",
             "Tier": "Minor",
-            "Code": "TOUCH_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "TOUCH_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "超越",
             "Cost": 17,
             "Description": "弃置3张牌，获得 2<b>时钟</b>。",
             "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND",
-            "Tooltips": []
+            "Code": "TRANSCEND_COMMAND"
         },
         {
             "CommandName": "增强·超越",
             "Cost": 17,
             "Description": "弃置3张牌，获得 3<b>时钟</b>。",
             "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND_AUGMENTED",
-            "Tooltips": []
+            "Code": "TRANSCEND_COMMAND_AUGMENTED"
         },
         {
             "CommandName": "挖掘",
             "Cost": 10,
             "Description": "抽3张牌，然后选择1张牌弃置。",
             "Tier": "Major",
-            "Code": "DIG",
-            "Tooltips": []
+            "Code": "DIG"
         },
         {
             "CommandName": "回响",
             "Cost": 15,
             "Description": "你在本回合中打出的下一张<b>非协议牌</b>将会被打出两次。",
             "Tier": "Critical",
-            "Code": "EchoCommand",
-            "Tooltips": []
+            "Code": "EchoCommand"
         },
         {
             "CommandName": "充能",
             "Cost": 18,
             "Description": "抽1张牌并获得2<b>时钟</b>。",
             "Tier": "Critical",
-            "Code": "Energize",
-            "Tooltips": []
+            "Code": "Energize"
         },
         {
             "CommandName": "执行",
             "Cost": 17,
             "Description": "从你的代码库中选择一张牌并免费打出。",
             "Tier": "Critical",
-            "Code": "ExecuteCommand",
-            "Tooltips": []
+            "Code": "ExecuteCommand"
         },
         {
             "CommandName": "牟利",
             "Cost": 5,
             "Description": "本回合你每次打出一张牌时，生成1点<b>VIM</b>。",
             "Tier": "Minor",
-            "Code": "FarmCommand",
-            "Tooltips": []
+            "Code": "FarmCommand"
         },
         {
             "CommandName": "优化",
             "Cost": 16,
             "Description": "从你的手牌中弃置一张牌并为它降低1<b>时钟费用</b>，直到战斗结束。",
             "Tier": "Critical",
-            "Code": "OPTIMIZE",
-            "Tooltips": []
+            "Code": "OPTIMIZE"
         },
         {
             "CommandName": "回忆",
             "Cost": 12,
             "Description": "从你的回收站中选择最多2张牌放入你的手牌。",
             "Tier": "Major",
-            "Code": "RecollectCommand",
-            "Tooltips": []
+            "Code": "RecollectCommand"
         },
         {
             "CommandName": "递归",
             "Cost": 10,
             "Description": "本回合你打出的下一张<b>非协议</b>且未被反编程的牌会返回你的手牌。",
             "Tier": "Major",
-            "Code": "RecurCommand",
-            "Tooltips": []
+            "Code": "RecurCommand"
         },
         {
             "CommandName": "怒吼",
             "Cost": 6,
             "Description": "获得2层<b>野性</b>。",
             "Tier": "Minor",
-            "Code": "RoarCommand",
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "Code": "RoarCommand"
         },
         {
             "CommandName": "侦测",
             "Cost": 5,
             "Description": "抽1张牌。",
             "Tier": "Minor",
-            "Code": "ScoutCommand",
-            "Tooltips": []
+            "Code": "ScoutCommand"
         },
         {
             "CommandName": "自选",
             "Cost": 9,
             "Description": "从你的代码库中选择1张牌放入你的手牌。",
             "Tier": "Major",
-            "Code": "TutorCommand",
-            "Tooltips": []
+            "Code": "TutorCommand"
         }
     ]
 }
