@@ -15,11 +15,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip",
-                "TemporaryTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "餘震",
@@ -36,11 +32,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip",
-                "TemporaryTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "至高蜘蛛",
@@ -58,11 +50,7 @@
             "Clock": 3,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "至高蜘蛛",
@@ -80,11 +68,7 @@
             "Clock": 3,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "校準",
@@ -102,10 +86,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "校準",
@@ -123,10 +104,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "狗狗密令",
@@ -143,11 +121,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "狗狗密令",
@@ -164,11 +138,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "代碼粉碎",
@@ -184,8 +154,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "代碼粉碎",
@@ -201,8 +170,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "代碼穿刺",
@@ -220,11 +188,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "QuickenTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "代碼穿刺",
@@ -242,11 +206,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "QuickenTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "致命穿行",
@@ -264,11 +224,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip",
-                "WeaveScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "致命穿行",
@@ -286,11 +242,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip",
-                "WeaveScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "編織不穩定",
@@ -308,11 +260,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ExposedTooltip",
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "編織不穩定",
@@ -330,11 +278,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ExposedTooltip",
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "外推",
@@ -352,10 +296,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "外推",
@@ -373,10 +314,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "暴食盛宴",
@@ -393,11 +331,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip",
-                "BiteScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "暴食盛宴",
@@ -414,11 +348,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip",
-                "BiteScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "分形獠牙",
@@ -434,8 +364,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "分形獠牙",
@@ -451,15 +380,14 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "玻璃大炮",
             "ImagePath": "GLASS_CANNON.jpg",
             "Code": "GLASS_CANNON",
             "Descriptions": [
-                "造成0點<b>傷害</b>。",
+                "造成100點<b>傷害</b>。",
                 "<b>反編譯</b>。",
                 "<b>棄置後：</b>生成 4點<b>VIM</b>。"
             ],
@@ -470,11 +398,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip",
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "玻璃大炮",
@@ -492,11 +416,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip",
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "熱修復",
@@ -514,11 +434,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip",
-                "DebilitatedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "熱修復",
@@ -536,11 +452,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip",
-                "DebilitatedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "全力啟動",
@@ -558,10 +470,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "全力啟動",
@@ -579,10 +488,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "液化",
@@ -599,10 +505,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "BiteScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "液化",
@@ -619,10 +522,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "BiteScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "喜鵲瑪吉",
@@ -639,10 +539,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "喜鵲瑪吉",
@@ -659,10 +556,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "蚊形偽裝",
@@ -680,11 +574,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "蚊形偽裝",
@@ -701,10 +591,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "神經毒刺",
@@ -722,11 +609,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "神經毒刺",
@@ -744,11 +627,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "一次性單元",
@@ -766,11 +645,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "QuickenTooltip",
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "一次性單元",
@@ -788,11 +663,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "QuickenTooltip",
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "全面檢修",
@@ -810,11 +681,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ExposedTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "全面檢修",
@@ -832,11 +699,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ExposedTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "蠻牛騙局",
@@ -853,10 +716,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "蠻牛騙局",
@@ -873,10 +733,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "糖果炸彈",
@@ -893,10 +750,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "糖果炸彈",
@@ -913,10 +767,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "貪婪尖叫",
@@ -934,11 +785,7 @@
             "Clock": 0,
             "Type": "攻擊",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DebilitatedTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "貪婪尖叫",
@@ -956,11 +803,7 @@
             "Clock": 0,
             "Type": "攻擊",
             "Vim": 0,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DebilitatedTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "再適應",
@@ -977,10 +820,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "再適應",
@@ -997,10 +837,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "奇點",
@@ -1017,10 +854,7 @@
             "Clock": 3,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "奇點",
@@ -1037,10 +871,7 @@
             "Clock": 3,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "輕巧襲擊",
@@ -1058,10 +889,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "輕巧襲擊",
@@ -1079,10 +907,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "突變",
@@ -1100,11 +925,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "突變",
@@ -1122,11 +943,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "生成器",
@@ -1144,11 +961,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "生成器",
@@ -1166,11 +979,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "蛛王",
@@ -1188,12 +997,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip",
-                "ScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "蛛王",
@@ -1211,12 +1015,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip",
-                "ScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "科技獾",
@@ -1233,10 +1032,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "科技獾",
@@ -1253,10 +1049,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "臨時餘震",
@@ -1274,11 +1067,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip",
-                "TemporaryTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "臨時餘震",
@@ -1296,11 +1085,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip",
-                "TemporaryTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "三維毀滅",
@@ -1318,11 +1103,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ExposedTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "三維毀滅",
@@ -1340,11 +1121,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ExposedTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "毒液打擊",
@@ -1362,11 +1139,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "ExposedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "毒液打擊",
@@ -1384,11 +1157,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "ExposedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "鏈槍",
@@ -1406,10 +1175,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "鏈槍",
@@ -1427,10 +1193,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "重裝喪屍",
@@ -1446,8 +1209,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "重裝喪屍",
@@ -1463,8 +1225,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "殘影",
@@ -1482,11 +1243,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "殘影",
@@ -1504,11 +1261,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "巴瑞屏障",
@@ -1526,11 +1279,7 @@
             "Clock": 3,
             "Type": "防禦",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "IndexedTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "巴瑞屏障",
@@ -1548,11 +1297,7 @@
             "Clock": 2,
             "Type": "防禦",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "IndexedTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "大老爹",
@@ -1570,11 +1315,7 @@
             "Clock": 2,
             "Type": "防禦",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "大老爹",
@@ -1592,11 +1333,7 @@
             "Clock": 2,
             "Type": "防禦",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "回聲室",
@@ -1614,10 +1351,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "回聲室",
@@ -1635,10 +1369,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "力場",
@@ -1654,8 +1385,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "力場",
@@ -1671,8 +1401,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "神聖吐司機",
@@ -1689,10 +1418,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "神聖吐司機",
@@ -1709,10 +1435,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "鬆散齒輪",
@@ -1730,10 +1453,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "鬆散齒輪",
@@ -1751,10 +1471,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "脫殼",
@@ -1772,10 +1489,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "脫殼",
@@ -1793,10 +1507,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "木乃伊化",
@@ -1813,10 +1524,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "CocoonScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "木乃伊化",
@@ -1833,10 +1541,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "CocoonScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "紙鶴",
@@ -1855,10 +1560,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "紙鶴",
@@ -1877,10 +1579,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "拼拼湊湊",
@@ -1897,8 +1596,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "拼拼湊湊",
@@ -1915,8 +1613,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "快速編織",
@@ -1933,11 +1630,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "CocoonScriptTooltip",
-                "DebilitatedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "快速編織",
@@ -1954,11 +1647,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "CocoonScriptTooltip",
-                "DebilitatedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "重連",
@@ -1976,11 +1665,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "IndexedTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "重連",
@@ -1998,11 +1683,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "IndexedTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "廢料場",
@@ -2019,10 +1700,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "廢料場",
@@ -2039,10 +1717,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "絲之殼",
@@ -2059,10 +1734,7 @@
             "Clock": 2,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "CocoonScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "絲之殼",
@@ -2079,10 +1751,7 @@
             "Clock": 2,
             "Type": "防禦",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "CocoonScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "絲滑後撤",
@@ -2100,11 +1769,7 @@
             "Clock": 2,
             "Type": "防禦",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip",
-                "CocoonScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "絲滑後撤",
@@ -2122,11 +1787,7 @@
             "Clock": 2,
             "Type": "防禦",
             "Vim": 5,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip",
-                "CocoonScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "謹防曬傷",
@@ -2143,10 +1804,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "謹防曬傷",
@@ -2163,10 +1821,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "鈦絲網",
@@ -2183,11 +1838,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip",
-                "CocoonScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "鈦絲網",
@@ -2204,11 +1855,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip",
-                "CocoonScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "渦輪水壺",
@@ -2225,10 +1872,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "渦輪水壺",
@@ -2245,10 +1889,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "危險庇護",
@@ -2266,8 +1907,7 @@
             "Clock": 2,
             "Type": "防禦",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "危險庇護",
@@ -2285,8 +1925,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "蠟翼",
@@ -2303,10 +1942,7 @@
             "Clock": 4,
             "Type": "防禦",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "蠟翼",
@@ -2323,10 +1959,7 @@
             "Clock": 3,
             "Type": "防禦",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "空中優勢",
@@ -2343,11 +1976,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "空中優勢",
@@ -2364,11 +1993,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "代碼重構",
@@ -2386,11 +2011,7 @@
             "Clock": 3,
             "Type": "生成器",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "代碼重構",
@@ -2408,11 +2029,7 @@
             "Clock": 2,
             "Type": "生成器",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "蠕動",
@@ -2428,10 +2045,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "蠕動",
@@ -2447,10 +2061,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "啟蒙",
@@ -2467,10 +2078,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "啟蒙",
@@ -2488,10 +2096,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "進化論",
@@ -2510,11 +2115,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "進化論",
@@ -2533,11 +2134,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "幸運餅乾",
@@ -2554,11 +2151,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip",
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "幸運餅乾",
@@ -2575,11 +2168,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip",
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "迷你蜘蛛",
@@ -2596,12 +2185,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DebilitatedTooltip",
-                "AssistTooltip",
-                "BiteScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "迷你蜘蛛",
@@ -2618,12 +2202,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DebilitatedTooltip",
-                "AssistTooltip",
-                "BiteScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "動能記憶",
@@ -2641,10 +2220,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "動能記憶",
@@ -2662,10 +2238,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "最後呼叫",
@@ -2682,12 +2255,7 @@
             "Clock": 2,
             "Type": "生成器",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip",
-                "ResolveAssistTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "最後呼叫",
@@ -2704,12 +2272,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip",
-                "ResolveAssistTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "氮氣鰻",
@@ -2726,10 +2289,7 @@
             "Clock": 2,
             "Type": "生成器",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "氮氣鰻",
@@ -2746,18 +2306,15 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "巔峰表演",
             "ImagePath": "PEAK_PERFORMANCE.jpg",
             "Code": "PEAK_PERFORMANCE",
             "Descriptions": [
-                "棄掉最多3張牌。",
-                "抽1張牌，且每棄掉一張牌，生成1點VIM。"
+                "棄掉最多2張牌。",
+                "每棄掉一張牌生成2點<b>VIM</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2765,11 +2322,8 @@
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "生成器",
-            "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "Vim": 2,
+            "IsUpgrade": false
         },
         {
             "CardName": "巔峰表演",
@@ -2777,19 +2331,16 @@
             "Code": "PEAK_PERFORMANCE_UPGRADED",
             "Descriptions": [
                 "棄掉最多3張牌。",
-                "抽1張牌，且每棄掉一張牌，生成1點VIM。"
+                "每棄掉一張牌生成2點<b>VIM</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "稀有",
             "Color": "#E9B705FF",
-            "Clock": 0,
+            "Clock": 1,
             "Type": "生成器",
-            "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "Vim": 3,
+            "IsUpgrade": true
         },
         {
             "CardName": "極速偵查",
@@ -2806,10 +2357,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "極速偵查",
@@ -2826,10 +2374,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "空洞菜單",
@@ -2847,12 +2392,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip",
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "空洞菜單",
@@ -2870,12 +2410,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip",
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "自生成代碼",
@@ -2891,10 +2426,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "自生成代碼",
@@ -2910,10 +2442,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "小老爹",
@@ -2930,11 +2459,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "小老爹",
@@ -2951,11 +2476,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "唐突旋轉",
@@ -2972,10 +2493,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "唐突旋轉",
@@ -2992,10 +2510,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "適者生存",
@@ -3013,11 +2528,7 @@
             "Clock": 2,
             "Type": "生成器",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "適者生存",
@@ -3035,11 +2546,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "溫度代碼",
@@ -3055,8 +2562,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "溫度代碼",
@@ -3072,8 +2578,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "雷電飛蛾",
@@ -3090,10 +2595,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "雷電飛蛾",
@@ -3110,10 +2612,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "適應協議",
@@ -3129,11 +2628,7 @@
             "Clock": 2,
             "Type": "協議",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "提升協議",
@@ -3149,11 +2644,7 @@
             "Clock": 3,
             "Type": "協議",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "消化協議",
@@ -3169,11 +2660,7 @@
             "Clock": 3,
             "Type": "協議",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "過期協議",
@@ -3189,11 +2676,7 @@
             "Clock": 3,
             "Type": "協議",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "孵化協議",
@@ -3209,11 +2692,7 @@
             "Clock": 3,
             "Type": "協議",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "垃圾協議",
@@ -3229,10 +2708,7 @@
             "Clock": 3,
             "Type": "協議",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "循環協議",
@@ -3248,11 +2724,7 @@
             "Clock": 2,
             "Type": "協議",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "補丁協議",
@@ -3268,10 +2740,7 @@
             "Clock": 2,
             "Type": "協議",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "噬咬腳本",
@@ -3287,10 +2756,7 @@
             "Clock": 0,
             "Type": "腳本",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "結繭腳本",
@@ -3306,10 +2772,7 @@
             "Clock": 0,
             "Type": "腳本",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "編織腳本",
@@ -3325,10 +2788,7 @@
             "Clock": 0,
             "Type": "腳本",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "損壞數據",
@@ -3342,11 +2802,7 @@
             "Clock": 9,
             "Type": "數據損壞",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "CorruptedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "碎片化數據",
@@ -3362,11 +2818,7 @@
             "Clock": 9,
             "Type": "數據損壞",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "CorruptedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "感染數據",
@@ -3383,11 +2835,7 @@
             "Clock": 0,
             "Type": "數據損壞",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "CorruptedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "律法官的凝視",
@@ -3404,11 +2852,7 @@
             "Clock": 0,
             "Type": "數據損壞",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "CorruptedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "核心穿刺",
@@ -3425,8 +2869,7 @@
             "Clock": 2,
             "Type": "特殊",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "<color=#971797>核心穿刺</color>",
@@ -3443,8 +2886,7 @@
             "Clock": 1,
             "Type": "特殊",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "",
@@ -3461,10 +2903,7 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "TempVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "",
@@ -3482,10 +2921,7 @@
             "Clock": 0,
             "Type": "腳本",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "TempVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "阿爾法代碼斬",
@@ -3501,8 +2937,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "阿爾法代碼斬",
@@ -3518,8 +2953,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "聚能代碼斬",
@@ -3538,10 +2972,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "聚能代碼斬",
@@ -3560,10 +2991,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "化身為獸",
@@ -3580,11 +3008,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FeralTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "化身為獸",
@@ -3601,11 +3025,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "FeralTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "兇殘撕扯",
@@ -3622,10 +3042,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "兇殘撕扯",
@@ -3642,10 +3059,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "蓄力代碼斬",
@@ -3661,8 +3075,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "蓄力代碼斬",
@@ -3678,8 +3091,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 6,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "代碼斬",
@@ -3695,8 +3107,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "代碼斬",
@@ -3712,8 +3123,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "控制台天才",
@@ -3731,8 +3141,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "控制台天才",
@@ -3750,8 +3159,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "深紅突擊",
@@ -3769,10 +3177,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "深紅突擊",
@@ -3790,10 +3195,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "數據汲取",
@@ -3811,10 +3213,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "數據汲取",
@@ -3832,10 +3231,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "瞬息優勢",
@@ -3852,8 +3248,7 @@
             "Clock": 0,
             "Type": "攻擊",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "瞬息優勢",
@@ -3869,8 +3264,7 @@
             "Clock": 0,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "利齒攻擊",
@@ -3887,10 +3281,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "利齒攻擊",
@@ -3907,10 +3298,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "碎裂代碼斬",
@@ -3927,11 +3315,7 @@
             "Clock": 0,
             "Type": "攻擊",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FragmentedDataTooltip",
-                "CorruptedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "碎裂代碼斬",
@@ -3947,8 +3331,7 @@
             "Clock": 0,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "重裝步兵",
@@ -3965,8 +3348,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "重裝步兵",
@@ -3983,8 +3365,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "記憶體匕首",
@@ -4002,8 +3383,7 @@
             "Clock": 0,
             "Type": "攻擊",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "記憶體匕首",
@@ -4021,8 +3401,7 @@
             "Clock": 0,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "記憶體跳躍",
@@ -4040,8 +3419,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "記憶體跳躍",
@@ -4059,8 +3437,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "記憶體彎刀",
@@ -4079,11 +3456,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DebilitatedTooltip",
-                "ExposedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "記憶體彎刀",
@@ -4102,11 +3475,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DebilitatedTooltip",
-                "ExposedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "記憶體鐮刀",
@@ -4124,10 +3493,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "記憶體鐮刀",
@@ -4146,11 +3512,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "MaxVimTooltip",
-                "AmpedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "過度殺戮",
@@ -4169,11 +3531,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "MaxVimTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "過度殺戮",
@@ -4192,11 +3550,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "MaxVimTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "集群狩獵",
@@ -4213,10 +3567,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "集群狩獵",
@@ -4233,10 +3584,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "原始嚎叫",
@@ -4254,11 +3602,7 @@
             "Clock": 9,
             "Type": "攻擊",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FeralTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "原始嚎叫",
@@ -4276,11 +3620,7 @@
             "Clock": 9,
             "Type": "攻擊",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "FeralTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "遞迴噩夢",
@@ -4297,8 +3637,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "遞迴噩夢",
@@ -4315,8 +3654,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "撕裂代碼斬",
@@ -4332,11 +3670,8 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻擊",
-            "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DebilitatedTooltip"
-            ]
+            "Vim": 2,
+            "IsUpgrade": false
         },
         {
             "CardName": "撕裂代碼斬",
@@ -4352,11 +3687,8 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻擊",
-            "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DebilitatedTooltip"
-            ]
+            "Vim": 3,
+            "IsUpgrade": true
         },
         {
             "CardName": "太陽爆發X",
@@ -4373,8 +3705,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "太陽爆發X",
@@ -4391,8 +3722,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "密文會的詭計",
@@ -4410,8 +3740,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "密文會的詭計",
@@ -4429,8 +3758,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "聯合會的盜竊",
@@ -4447,8 +3775,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "聯合會的盜竊",
@@ -4465,8 +3792,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "造物者的觸碰",
@@ -4484,8 +3810,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "造物者的觸碰",
@@ -4503,8 +3828,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "朋克黨的饋贈",
@@ -4521,10 +3845,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "朋克黨的饋贈",
@@ -4541,10 +3862,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "野犬幫的伏擊",
@@ -4562,10 +3880,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "野犬幫的伏擊",
@@ -4583,10 +3898,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "食物鏈頂層",
@@ -4603,11 +3915,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "GritTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "食物鏈頂層",
@@ -4623,10 +3931,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "尤利西斯的玩具",
@@ -4643,10 +3948,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "尤利西斯的玩具",
@@ -4663,10 +3965,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "空類代碼斬",
@@ -4683,10 +3982,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ExposedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "空類代碼斬",
@@ -4703,10 +3999,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 0,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ExposedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "守護軍主之吻",
@@ -4722,8 +4015,7 @@
             "Clock": 3,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "守護軍主之吻",
@@ -4739,8 +4031,7 @@
             "Clock": 2,
             "Type": "攻擊",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "阿多尼斯廣告攔截器",
@@ -4757,8 +4048,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "阿多尼斯廣告攔截器",
@@ -4775,8 +4065,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "聚能賽博殼",
@@ -4795,10 +4084,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "聚能賽博殼",
@@ -4816,8 +4102,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "動物本能",
@@ -4835,8 +4120,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "動物本能",
@@ -4854,8 +4138,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "扭曲現實",
@@ -4872,10 +4155,7 @@
             "Clock": 2,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "扭曲現實",
@@ -4892,10 +4172,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "冰冷凝視",
@@ -4913,11 +4190,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "GritTooltip",
-                "DebilitatedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "冰冷凝視",
@@ -4935,11 +4208,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "GritTooltip",
-                "DebilitatedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "控制台備份",
@@ -4956,8 +4225,7 @@
             "Clock": 2,
             "Type": "防禦",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "控制台備份",
@@ -4974,8 +4242,7 @@
             "Clock": 2,
             "Type": "防禦",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "賽博外皮",
@@ -4992,8 +4259,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "賽博外皮",
@@ -5010,8 +4276,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "賽博殼",
@@ -5027,8 +4292,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "賽博殼",
@@ -5044,8 +4308,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "能量外衣",
@@ -5062,8 +4325,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "能量外衣",
@@ -5080,8 +4342,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "瞬息圍牆",
@@ -5099,10 +4360,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "瞬息圍牆",
@@ -5120,10 +4378,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 6,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "碎裂封鎖",
@@ -5140,11 +4395,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FragmentedDataTooltip",
-                "CorruptedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "碎裂封鎖",
@@ -5160,8 +4411,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "輸入助手",
@@ -5179,10 +4429,7 @@
             "Clock": 0,
             "Type": "防禦",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "IndexedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "輸入助手",
@@ -5200,8 +4447,7 @@
             "Clock": 0,
             "Type": "防禦",
             "Vim": 0,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "犬舍律法",
@@ -5219,10 +4465,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "犬舍律法",
@@ -5240,10 +4483,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "記憶體斗篷",
@@ -5261,8 +4501,7 @@
             "Clock": 0,
             "Type": "防禦",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "記憶體斗篷",
@@ -5280,8 +4519,7 @@
             "Clock": 0,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "橫行街頭",
@@ -5298,10 +4536,7 @@
             "Clock": 2,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "橫行街頭",
@@ -5318,10 +4553,7 @@
             "Clock": 2,
             "Type": "防禦",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "寵物Z機器人",
@@ -5338,8 +4570,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "寵物Z機器人",
@@ -5356,8 +4587,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "能量裝甲",
@@ -5375,10 +4605,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "能量裝甲",
@@ -5396,10 +4623,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "街頭意志",
@@ -5416,10 +4640,7 @@
             "Clock": 2,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "街頭意志",
@@ -5436,10 +4657,7 @@
             "Clock": 2,
             "Type": "防禦",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "斯林克斯的祝福",
@@ -5456,8 +4674,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "斯林克斯的祝福",
@@ -5474,8 +4691,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "野犬幫的狡詐",
@@ -5492,10 +4708,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "野犬幫的狡詐",
@@ -5512,10 +4725,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "狼窟",
@@ -5532,11 +4742,7 @@
             "Clock": 2,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "GritTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "狼窟",
@@ -5553,11 +4759,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "GritTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "雷電Z機器人",
@@ -5574,10 +4776,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AmpedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "雷電Z機器人",
@@ -5594,10 +4793,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AmpedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "代碼斬",
@@ -5613,8 +4809,7 @@
             "Clock": 1,
             "Type": "攻擊",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "阿多尼斯廣告攔截器",
@@ -5630,8 +4825,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "阿多尼斯廣告攔截器",
@@ -5647,8 +4841,7 @@
             "Clock": 1,
             "Type": "防禦",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "戰鬥最佳化器",
@@ -5667,13 +4860,7 @@
             "Clock": 3,
             "Type": "生成器",
             "Vim": 5,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ExposedTooltip",
-                "DebilitatedTooltip",
-                "IndexedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "戰鬥最佳化器",
@@ -5692,13 +4879,7 @@
             "Clock": 2,
             "Type": "生成器",
             "Vim": 5,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ExposedTooltip",
-                "DebilitatedTooltip",
-                "IndexedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "燒毀",
@@ -5716,10 +4897,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "燒毀",
@@ -5736,10 +4914,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "催化貓",
@@ -5755,8 +4930,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "催化貓",
@@ -5773,10 +4947,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "IndexedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "控制台重啟器",
@@ -5793,10 +4964,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 8,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "控制台重啟器",
@@ -5813,10 +4981,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 10,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "顱骨興奮",
@@ -5835,11 +5000,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "QuickenTooltip",
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "顱骨興奮",
@@ -5858,11 +5019,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "QuickenTooltip",
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "樂子菌",
@@ -5878,8 +5035,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "樂子菌",
@@ -5895,8 +5051,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "魔法手指",
@@ -5912,8 +5067,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "魔法手指",
@@ -5929,8 +5083,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "記憶體信標",
@@ -5942,17 +5095,15 @@
             "Conditional": "如果你處於<b>最大VIM</b>，則改為：",
             "ConditionalDescriptions": [
                 "獲得3<b>時鐘</b>。",
-                "抽2張牌。"
+                "抽2張牌。",
+                "<b>反編譯</b>。"
             ],
             "Rarity": "稀有",
             "Color": "#E9B705FF",
             "Clock": 2,
             "Type": "生成器",
-            "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "Vim": 2,
+            "IsUpgrade": false
         },
         {
             "CardName": "記憶體信標",
@@ -5961,20 +5112,18 @@
             "Descriptions": [
                 "獲得2<b>時鐘</b>。"
             ],
-            "Conditional": "如果你有至少12點<b>VIM</b>，則改為：",
+            "Conditional": "如果你處於<b>最大VIM</b>，則改為：",
             "ConditionalDescriptions": [
                 "獲得3<b>時鐘</b>。",
-                "抽2張牌。"
+                "抽2張牌。",
+                "<b>反編譯</b>。"
             ],
             "Rarity": "稀有",
             "Color": "#E9B705FF",
             "Clock": 2,
             "Type": "生成器",
-            "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "Vim": 3,
+            "IsUpgrade": true
         },
         {
             "CardName": "月光",
@@ -5991,10 +5140,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "月光",
@@ -6011,10 +5157,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "獵物驅動",
@@ -6031,11 +5174,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "GritTooltip",
-                "FeralTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "獵物驅動",
@@ -6052,11 +5191,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "GritTooltip",
-                "FeralTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "記憶體下載器",
@@ -6074,10 +5209,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "IndexedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "記憶體下載器",
@@ -6095,10 +5227,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "IndexedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "遞迴夢",
@@ -6114,8 +5243,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "遞迴夢",
@@ -6131,8 +5259,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 6,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "舍費爾血液樣本",
@@ -6151,11 +5278,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "IndexedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "舍費爾血液樣本",
@@ -6174,11 +5297,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 0,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "IndexedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "不可控生長",
@@ -6194,10 +5313,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 5,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "不可控生長",
@@ -6214,11 +5330,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 5,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AmpedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "不穩定放電",
@@ -6234,8 +5346,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "不穩定放電",
@@ -6252,8 +5363,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "豐饒之角協議",
@@ -6269,10 +5379,7 @@
             "Clock": 2,
             "Type": "協議",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "精通協議",
@@ -6288,11 +5395,7 @@
             "Clock": 3,
             "Type": "協議",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "GritTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "貪婪協議",
@@ -6308,10 +5411,7 @@
             "Clock": 2,
             "Type": "協議",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "點火協議",
@@ -6327,10 +5427,7 @@
             "Clock": 3,
             "Type": "協議",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "動量協議",
@@ -6346,10 +5443,7 @@
             "Clock": 2,
             "Type": "協議",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "月光協議",
@@ -6365,11 +5459,7 @@
             "Clock": 3,
             "Type": "協議",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "FeralTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "涅槃協議",
@@ -6385,11 +5475,7 @@
             "Clock": 2,
             "Type": "協議",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "溢出協議",
@@ -6405,11 +5491,7 @@
             "Clock": 2,
             "Type": "協議",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "PING-U協議",
@@ -6425,11 +5507,7 @@
             "Clock": 2,
             "Type": "協議",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "量子協議",
@@ -6445,10 +5523,7 @@
             "Clock": 2,
             "Type": "協議",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "偵查協議",
@@ -6464,10 +5539,7 @@
             "Clock": 2,
             "Type": "協議",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "NULL",
@@ -6481,8 +5553,7 @@
             "Clock": 0,
             "Type": "生成器",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "NULL",
@@ -6496,8 +5567,7 @@
             "Clock": 1,
             "Type": "生成器",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "NULL",
@@ -6511,8 +5581,7 @@
             "Clock": 0,
             "Type": "攻擊",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         }
     ]
 }

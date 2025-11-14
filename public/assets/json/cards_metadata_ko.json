@@ -15,11 +15,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip",
-                "TemporaryTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "애프터쇼크",
@@ -36,11 +32,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip",
-                "TemporaryTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "정점 거미",
@@ -58,11 +50,7 @@
             "Clock": 3,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "정점 거미",
@@ -80,11 +68,7 @@
             "Clock": 3,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "보정",
@@ -102,10 +86,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "보정",
@@ -123,10 +104,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "코만독스 대장",
@@ -143,11 +121,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "코만독스 대장",
@@ -164,11 +138,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "코드 크런치",
@@ -184,8 +154,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "코드 크런치",
@@ -201,8 +170,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "코드 스매시",
@@ -220,11 +188,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "QuickenTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "코드 스매시",
@@ -242,11 +206,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "QuickenTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "치명적 스레딩",
@@ -264,11 +224,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip",
-                "WeaveScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "치명적 스레딩",
@@ -286,11 +242,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip",
-                "WeaveScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "불규칙적 위빙",
@@ -308,11 +260,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ExposedTooltip",
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "불규칙적 위빙",
@@ -330,11 +278,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ExposedTooltip",
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "추론",
@@ -352,10 +296,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "추론",
@@ -373,10 +314,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "탐식 광란",
@@ -393,11 +331,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip",
-                "BiteScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "탐식 광란",
@@ -414,11 +348,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip",
-                "BiteScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "프랙탈 송곳니",
@@ -434,8 +364,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "프랙탈 송곳니",
@@ -451,15 +380,14 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "글래스 캐논",
             "ImagePath": "GLASS_CANNON.jpg",
             "Code": "GLASS_CANNON",
             "Descriptions": [
-                "0포인트의 <b>피해</b>를 줍니다.",
+                "100포인트의 <b>피해</b>를 줍니다.",
                 "<b>디컴파일</b>.",
                 "<b>버리기 시:</b> 4포인트의 <b>VIM</b>을 생성합니다."
             ],
@@ -470,11 +398,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip",
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "글래스 캐논",
@@ -492,11 +416,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip",
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "핫픽스",
@@ -514,11 +434,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip",
-                "DebilitatedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "핫픽스",
@@ -536,11 +452,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip",
-                "DebilitatedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "점프스타트",
@@ -558,10 +470,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "점프스타트",
@@ -579,10 +488,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "액화",
@@ -599,10 +505,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "BiteScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "액화",
@@ -619,10 +522,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "BiteScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "까치 매기",
@@ -639,10 +539,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "까치 매기",
@@ -659,10 +556,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "모스키토 인코그니토",
@@ -680,11 +574,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "모스키토 인코그니토",
@@ -701,10 +591,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "신경독 작살",
@@ -722,11 +609,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "신경독 작살",
@@ -744,11 +627,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "일회용 유닛",
@@ -766,11 +645,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "QuickenTooltip",
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "일회용 유닛",
@@ -788,11 +663,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "QuickenTooltip",
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "오버홀",
@@ -810,11 +681,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ExposedTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "오버홀",
@@ -832,11 +699,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ExposedTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "옥스 호크스",
@@ -853,10 +716,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "옥스 호크스",
@@ -873,10 +733,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "피냐타 폭탄",
@@ -893,10 +750,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "피냐타 폭탄",
@@ -913,10 +767,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "탐욕의 비명",
@@ -934,11 +785,7 @@
             "Clock": 0,
             "Type": "공격",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DebilitatedTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "탐욕의 비명",
@@ -956,11 +803,7 @@
             "Clock": 0,
             "Type": "공격",
             "Vim": 0,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DebilitatedTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "재조정",
@@ -977,10 +820,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "재조정",
@@ -997,10 +837,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "싱귤래리티",
@@ -1017,10 +854,7 @@
             "Clock": 3,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "싱귤래리티",
@@ -1037,10 +871,7 @@
             "Clock": 3,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "경쾌 습격",
@@ -1058,10 +889,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "경쾌 습격",
@@ -1079,10 +907,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "변이",
@@ -1100,11 +925,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "변이",
@@ -1122,11 +943,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "생성기",
@@ -1144,11 +961,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "생성기",
@@ -1166,11 +979,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "스파이더 킹",
@@ -1188,12 +997,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip",
-                "ScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "스파이더 킹",
@@ -1211,12 +1015,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip",
-                "ScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "테크노 오소리",
@@ -1233,10 +1032,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "테크노 오소리",
@@ -1253,10 +1049,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "임시 애프터쇼크",
@@ -1274,11 +1067,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip",
-                "TemporaryTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "임시 애프터쇼크",
@@ -1296,11 +1085,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip",
-                "TemporaryTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "쓰리드라",
@@ -1318,11 +1103,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ExposedTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "쓰리드라",
@@ -1340,11 +1121,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ExposedTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "독액 공격",
@@ -1362,11 +1139,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "ExposedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "독액 공격",
@@ -1384,11 +1157,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "ExposedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "집 건",
@@ -1406,10 +1175,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "집 건",
@@ -1427,10 +1193,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "좀비 호플라이트",
@@ -1446,8 +1209,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "좀비 호플라이트",
@@ -1463,8 +1225,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "잔상",
@@ -1482,11 +1243,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "잔상",
@@ -1504,11 +1261,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "배리 케이드",
@@ -1526,11 +1279,7 @@
             "Clock": 3,
             "Type": "방어",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "IndexedTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "배리 케이드",
@@ -1548,11 +1297,7 @@
             "Clock": 2,
             "Type": "방어",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "IndexedTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "빅 파파",
@@ -1570,11 +1315,7 @@
             "Clock": 2,
             "Type": "방어",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "빅 파파",
@@ -1592,11 +1333,7 @@
             "Clock": 2,
             "Type": "방어",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "에코 챔버",
@@ -1614,10 +1351,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "에코 챔버",
@@ -1635,10 +1369,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "역장",
@@ -1654,8 +1385,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "역장",
@@ -1671,8 +1401,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "신성 토스터",
@@ -1689,10 +1418,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "신성 토스터",
@@ -1709,10 +1435,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "루즈 기어",
@@ -1730,10 +1453,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "루즈 기어",
@@ -1751,10 +1471,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "탈피",
@@ -1772,10 +1489,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "탈피",
@@ -1793,10 +1507,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "미라화",
@@ -1813,10 +1524,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "CocoonScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "미라화",
@@ -1833,10 +1541,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "CocoonScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "종이 학",
@@ -1855,10 +1560,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "종이 학",
@@ -1877,10 +1579,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "패치워크",
@@ -1897,8 +1596,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "패치워크",
@@ -1915,8 +1613,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "퀵 스레딩",
@@ -1933,11 +1630,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "CocoonScriptTooltip",
-                "DebilitatedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "퀵 스레딩",
@@ -1954,11 +1647,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "CocoonScriptTooltip",
-                "DebilitatedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "재연결",
@@ -1976,11 +1665,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "IndexedTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "재연결",
@@ -1998,11 +1683,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "IndexedTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "스크랩 필드",
@@ -2019,10 +1700,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "스크랩 필드",
@@ -2039,10 +1717,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "실크 쉘",
@@ -2059,10 +1734,7 @@
             "Clock": 2,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "CocoonScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "실크 쉘",
@@ -2079,10 +1751,7 @@
             "Clock": 2,
             "Type": "방어",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "CocoonScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "부드러운 후퇴",
@@ -2100,11 +1769,7 @@
             "Clock": 2,
             "Type": "방어",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip",
-                "CocoonScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "부드러운 후퇴",
@@ -2122,11 +1787,7 @@
             "Clock": 2,
             "Type": "방어",
             "Vim": 5,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip",
-                "CocoonScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "선스크린 세이버",
@@ -2143,10 +1804,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "선스크린 세이버",
@@ -2163,10 +1821,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "티타늄 웹",
@@ -2183,11 +1838,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip",
-                "CocoonScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "티타늄 웹",
@@ -2204,11 +1855,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip",
-                "CocoonScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "터보 케틀",
@@ -2225,10 +1872,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "터보 케틀",
@@ -2245,10 +1889,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "불안정한 피난처",
@@ -2266,8 +1907,7 @@
             "Clock": 2,
             "Type": "방어",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "불안정한 피난처",
@@ -2285,8 +1925,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "왁스 윙스",
@@ -2303,10 +1942,7 @@
             "Clock": 4,
             "Type": "방어",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "왁스 윙스",
@@ -2323,10 +1959,7 @@
             "Clock": 3,
             "Type": "방어",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "공중 우세",
@@ -2343,11 +1976,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "공중 우세",
@@ -2364,11 +1993,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "코드 리팩터",
@@ -2386,11 +2011,7 @@
             "Clock": 3,
             "Type": "생성기",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "코드 리팩터",
@@ -2408,11 +2029,7 @@
             "Clock": 2,
             "Type": "생성기",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "크립",
@@ -2428,10 +2045,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "크립",
@@ -2447,10 +2061,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "계몽",
@@ -2467,10 +2078,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "계몽",
@@ -2488,10 +2096,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "진화론",
@@ -2510,11 +2115,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "진화론",
@@ -2533,11 +2134,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "포춘 쿠키",
@@ -2554,11 +2151,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip",
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "포춘 쿠키",
@@ -2575,11 +2168,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip",
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "민니 거미",
@@ -2596,12 +2185,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DebilitatedTooltip",
-                "AssistTooltip",
-                "BiteScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "민니 거미",
@@ -2618,12 +2202,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DebilitatedTooltip",
-                "AssistTooltip",
-                "BiteScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "키네틱 메모리",
@@ -2641,10 +2220,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "키네틱 메모리",
@@ -2662,10 +2238,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "라스트 콜",
@@ -2682,12 +2255,7 @@
             "Clock": 2,
             "Type": "생성기",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip",
-                "ResolveAssistTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "라스트 콜",
@@ -2704,12 +2272,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip",
-                "ResolveAssistTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "니트로 장어",
@@ -2726,10 +2289,7 @@
             "Clock": 2,
             "Type": "생성기",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "니트로 장어",
@@ -2746,18 +2306,15 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "피크 퍼포먼스",
             "ImagePath": "PEAK_PERFORMANCE.jpg",
             "Code": "PEAK_PERFORMANCE",
             "Descriptions": [
-                "최대 3장의 카드를 버립니다.",
-                "1장의 카드를 뽑고, 카드를 1장 버릴 때마다 1 포인트의 VIM을 생성합니다."
+                "최대 2장의 카드를 버립니다.",
+                "버린 카드 1장당 2포인트의 <b>VIM</b>을 생성합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2765,11 +2322,8 @@
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "생성기",
-            "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "Vim": 2,
+            "IsUpgrade": false
         },
         {
             "CardName": "피크 퍼포먼스",
@@ -2777,19 +2331,16 @@
             "Code": "PEAK_PERFORMANCE_UPGRADED",
             "Descriptions": [
                 "최대 3장의 카드를 버립니다.",
-                "1장의 카드를 뽑고, 카드를 1장 버릴 때마다 1 포인트의 VIM을 생성합니다."
+                "버린 카드 1장당 2포인트의 <b>VIM</b>을 생성합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "레어",
             "Color": "#E9B705FF",
-            "Clock": 0,
+            "Clock": 1,
             "Type": "생성기",
-            "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "OnDiscardTooltip"
-            ]
+            "Vim": 3,
+            "IsUpgrade": true
         },
         {
             "CardName": "정찰 질주",
@@ -2806,10 +2357,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "정찰 질주",
@@ -2826,10 +2374,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "카라구치 메뉴",
@@ -2847,12 +2392,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip",
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "카라구치 메뉴",
@@ -2870,12 +2410,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip",
-                "OnDiscardTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "자동 생성 코드",
@@ -2891,10 +2426,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "자동 생성 코드",
@@ -2910,10 +2442,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "스몰 파파",
@@ -2930,11 +2459,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "스몰 파파",
@@ -2951,11 +2476,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "서든 스핀",
@@ -2972,10 +2493,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "서든 스핀",
@@ -2992,10 +2510,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "적자 생존",
@@ -3013,11 +2528,7 @@
             "Clock": 2,
             "Type": "생성기",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "적자 생존",
@@ -3035,11 +2546,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "템퍼 코드",
@@ -3055,8 +2562,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "템퍼 코드",
@@ -3072,8 +2578,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "썬더플라이",
@@ -3090,10 +2595,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "썬더플라이",
@@ -3110,10 +2612,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "적응 프로토콜",
@@ -3129,11 +2628,7 @@
             "Clock": 2,
             "Type": "프로토콜",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "부스트 프로토콜",
@@ -3149,11 +2644,7 @@
             "Clock": 3,
             "Type": "프로토콜",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "AugmentTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "소화 프로토콜",
@@ -3169,11 +2660,7 @@
             "Clock": 3,
             "Type": "프로토콜",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "만료 프로토콜",
@@ -3189,11 +2676,7 @@
             "Clock": 3,
             "Type": "프로토콜",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "부화 프로토콜",
@@ -3209,11 +2692,7 @@
             "Clock": 3,
             "Type": "프로토콜",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "정크 프로토콜",
@@ -3229,10 +2708,7 @@
             "Clock": 3,
             "Type": "프로토콜",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "루프 프로토콜",
@@ -3248,11 +2724,7 @@
             "Clock": 2,
             "Type": "프로토콜",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "AssistTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "패치 프로토콜",
@@ -3268,10 +2740,7 @@
             "Clock": 2,
             "Type": "프로토콜",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "바이트 스크립트",
@@ -3287,10 +2756,7 @@
             "Clock": 0,
             "Type": "스크립트",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "코쿤 스크립트",
@@ -3306,10 +2772,7 @@
             "Clock": 0,
             "Type": "스크립트",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "위브 스크립트",
@@ -3325,10 +2788,7 @@
             "Clock": 0,
             "Type": "스크립트",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "손상된 데이터",
@@ -3342,11 +2802,7 @@
             "Clock": 9,
             "Type": "손상",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "CorruptedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "파편화된 데이터",
@@ -3362,11 +2818,7 @@
             "Clock": 9,
             "Type": "손상",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "CorruptedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "감염된 데이터",
@@ -3383,11 +2835,7 @@
             "Clock": 0,
             "Type": "손상",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "CorruptedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "심판관의 응시",
@@ -3404,11 +2852,7 @@
             "Clock": 0,
             "Type": "손상",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "CorruptedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "코어 관통",
@@ -3425,8 +2869,7 @@
             "Clock": 2,
             "Type": "스페셜",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "<color=#971797>코어 관통</color>",
@@ -3443,8 +2886,7 @@
             "Clock": 1,
             "Type": "스페셜",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "",
@@ -3461,10 +2903,7 @@
             "Clock": 0,
             "Type": "",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "TempVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "",
@@ -3482,10 +2921,7 @@
             "Clock": 0,
             "Type": "스크립트",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "TempVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "알파 코드슬래시",
@@ -3501,8 +2937,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "알파 코드슬래시",
@@ -3518,8 +2953,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "앰프드 코드슬래시",
@@ -3538,10 +2972,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "앰프드 코드슬래시",
@@ -3560,10 +2991,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "야수로 변해라",
@@ -3580,11 +3008,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FeralTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "야수로 변해라",
@@ -3601,11 +3025,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "FeralTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "잔혹한 난타",
@@ -3622,10 +3042,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "잔혹한 난타",
@@ -3642,10 +3059,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "차지 코드슬래시",
@@ -3661,8 +3075,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "차지 코드슬래시",
@@ -3678,8 +3091,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 6,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "코드슬래시",
@@ -3695,8 +3107,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "코드슬래시",
@@ -3712,8 +3123,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "콘솔 천재",
@@ -3731,8 +3141,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "콘솔 천재",
@@ -3750,8 +3159,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "크림슨 어썰트",
@@ -3769,10 +3177,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "크림슨 어썰트",
@@ -3790,10 +3195,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "데이터 드레인",
@@ -3811,10 +3213,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "데이터 드레인",
@@ -3832,10 +3231,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "덧없는 칼날",
@@ -3852,8 +3248,7 @@
             "Clock": 0,
             "Type": "공격",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "덧없는 칼날",
@@ -3869,8 +3264,7 @@
             "Clock": 0,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "송곳니 공격",
@@ -3887,10 +3281,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "송곳니 공격",
@@ -3907,10 +3298,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "파편화된 코드슬래시",
@@ -3927,11 +3315,7 @@
             "Clock": 0,
             "Type": "공격",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FragmentedDataTooltip",
-                "CorruptedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "파편화된 코드슬래시",
@@ -3947,8 +3331,7 @@
             "Clock": 0,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "호플리트",
@@ -3965,8 +3348,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "호플리트",
@@ -3983,8 +3365,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "메모리 단검",
@@ -4002,8 +3383,7 @@
             "Clock": 0,
             "Type": "공격",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "메모리 단검",
@@ -4021,8 +3401,7 @@
             "Clock": 0,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "메모리 점프",
@@ -4040,8 +3419,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "메모리 점프",
@@ -4059,8 +3437,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "메모리 세이버",
@@ -4079,11 +3456,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DebilitatedTooltip",
-                "ExposedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "메모리 세이버",
@@ -4102,11 +3475,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DebilitatedTooltip",
-                "ExposedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "메모리 낫",
@@ -4124,10 +3493,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "메모리 낫",
@@ -4146,11 +3512,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "MaxVimTooltip",
-                "AmpedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "과도한 살육",
@@ -4169,11 +3531,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "MaxVimTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "과도한 살육",
@@ -4192,11 +3550,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "MaxVimTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "무리 사냥",
@@ -4213,10 +3567,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "무리 사냥",
@@ -4233,10 +3584,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "야생의 울부짖음",
@@ -4254,11 +3602,7 @@
             "Clock": 9,
             "Type": "공격",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FeralTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "야생의 울부짖음",
@@ -4276,11 +3620,7 @@
             "Clock": 9,
             "Type": "공격",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "FeralTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "재귀의 악몽",
@@ -4297,8 +3637,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "재귀의 악몽",
@@ -4315,8 +3654,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "렌딩 코드슬래시",
@@ -4332,11 +3670,8 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "공격",
-            "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DebilitatedTooltip"
-            ]
+            "Vim": 2,
+            "IsUpgrade": false
         },
         {
             "CardName": "렌딩 코드슬래시",
@@ -4352,11 +3687,8 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "공격",
-            "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DebilitatedTooltip"
-            ]
+            "Vim": 3,
+            "IsUpgrade": true
         },
         {
             "CardName": "태양 폭발X",
@@ -4373,8 +3705,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "태양 폭발X",
@@ -4391,8 +3722,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "암호회의 계략",
@@ -4410,8 +3740,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "암호회의 계략",
@@ -4429,8 +3758,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "길드의 절도",
@@ -4447,8 +3775,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "길드의 절도",
@@ -4465,8 +3792,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "창조자의 손길",
@@ -4484,8 +3810,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "창조자의 손길",
@@ -4503,8 +3828,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "펑크의 선물",
@@ -4521,10 +3845,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "펑크의 선물",
@@ -4541,10 +3862,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "야견단의 매복",
@@ -4562,10 +3880,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "야견단의 매복",
@@ -4583,10 +3898,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "식물체인 최상위",
@@ -4603,11 +3915,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "GritTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "식물체인 최상위",
@@ -4623,10 +3931,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "율리시스의 장난감",
@@ -4643,10 +3948,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "율리시스의 장난감",
@@ -4663,10 +3965,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "공허의 코드클래시",
@@ -4683,10 +3982,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ExposedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "공허의 코드클래시",
@@ -4703,10 +3999,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 0,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ExposedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "수호군주의 입맞춤",
@@ -4722,8 +4015,7 @@
             "Clock": 3,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "수호군주의 입맞춤",
@@ -4739,8 +4031,7 @@
             "Clock": 2,
             "Type": "공격",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "아도니스 광고 차단기",
@@ -4757,8 +4048,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "아도니스 광고 차단기",
@@ -4775,8 +4065,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "앰프드 사이버 껍질",
@@ -4795,10 +4084,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "앰프드 사이버 껍질",
@@ -4816,8 +4102,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "동물의 본능",
@@ -4835,8 +4120,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "동물의 본능",
@@ -4854,8 +4138,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "뒤틀린 현실",
@@ -4872,10 +4155,7 @@
             "Clock": 2,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "뒤틀린 현실",
@@ -4892,10 +4172,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "차가운 응시",
@@ -4913,11 +4190,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "GritTooltip",
-                "DebilitatedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "차가운 응시",
@@ -4935,11 +4208,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "GritTooltip",
-                "DebilitatedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "콘솔 백업",
@@ -4956,8 +4225,7 @@
             "Clock": 2,
             "Type": "방어",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "콘솔 백업",
@@ -4974,8 +4242,7 @@
             "Clock": 2,
             "Type": "방어",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "사이버 커버",
@@ -4992,8 +4259,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "사이버 커버",
@@ -5010,8 +4276,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "사이버 껍질",
@@ -5027,8 +4292,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "사이버 껍질",
@@ -5044,8 +4308,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "에너지 외투",
@@ -5062,8 +4325,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "에너지 외투",
@@ -5080,8 +4342,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "순간 방어막",
@@ -5099,10 +4360,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "순간 방어막",
@@ -5120,10 +4378,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 6,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "파손된 방벽",
@@ -5140,11 +4395,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FragmentedDataTooltip",
-                "CorruptedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "파손된 방벽",
@@ -5160,8 +4411,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "입력 도우미",
@@ -5179,10 +4429,7 @@
             "Clock": 0,
             "Type": "방어",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "IndexedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "입력 도우미",
@@ -5200,8 +4447,7 @@
             "Clock": 0,
             "Type": "방어",
             "Vim": 0,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "사육장의 법칙",
@@ -5219,10 +4465,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "사육장의 법칙",
@@ -5240,10 +4483,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "메모리 망토",
@@ -5261,8 +4501,7 @@
             "Clock": 0,
             "Type": "방어",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "메모리 망토",
@@ -5280,8 +4519,7 @@
             "Clock": 0,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "거리의 지배",
@@ -5298,10 +4536,7 @@
             "Clock": 2,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "거리의 지배",
@@ -5318,10 +4553,7 @@
             "Clock": 2,
             "Type": "방어",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "펫 Z-봇",
@@ -5338,8 +4570,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "펫 Z-봇",
@@ -5356,8 +4587,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "파워 아머",
@@ -5375,10 +4605,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "파워 아머",
@@ -5396,10 +4623,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "거리의 결단",
@@ -5416,10 +4640,7 @@
             "Clock": 2,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "거리의 결단",
@@ -5436,10 +4657,7 @@
             "Clock": 2,
             "Type": "방어",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "시린크스의 축복",
@@ -5456,8 +4674,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "시린크스의 축복",
@@ -5474,8 +4691,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "교활한 야견단",
@@ -5492,10 +4708,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "교활한 야견단",
@@ -5512,10 +4725,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "늑대굴",
@@ -5532,11 +4742,7 @@
             "Clock": 2,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "GritTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "늑대굴",
@@ -5553,11 +4759,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "GritTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "천둥 Z-봇",
@@ -5574,10 +4776,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "AmpedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "천둥 Z-봇",
@@ -5594,10 +4793,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AmpedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "코드슬래시",
@@ -5613,8 +4809,7 @@
             "Clock": 1,
             "Type": "공격",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "아도니스 광고 차단기",
@@ -5630,8 +4825,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "아도니스 광고 차단기",
@@ -5647,8 +4841,7 @@
             "Clock": 1,
             "Type": "방어",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "전투 최적화기",
@@ -5667,13 +4860,7 @@
             "Clock": 3,
             "Type": "생성기",
             "Vim": 5,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ExposedTooltip",
-                "DebilitatedTooltip",
-                "IndexedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "전투 최적화기",
@@ -5692,13 +4879,7 @@
             "Clock": 2,
             "Type": "생성기",
             "Vim": 5,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ExposedTooltip",
-                "DebilitatedTooltip",
-                "IndexedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "버너",
@@ -5716,10 +4897,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "버너",
@@ -5736,10 +4914,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "냥매제",
@@ -5755,8 +4930,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "냥매제",
@@ -5773,10 +4947,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "IndexedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "콘솔 리부터",
@@ -5793,10 +4964,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 8,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "콘솔 리부터",
@@ -5813,10 +4981,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 10,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "두뇌 돌진",
@@ -5835,11 +5000,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "QuickenTooltip",
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "두뇌 돌진",
@@ -5858,11 +5019,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "QuickenTooltip",
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "버섯 친구들",
@@ -5878,8 +5035,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "버섯 친구들",
@@ -5895,8 +5051,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "마법의 손가락",
@@ -5912,8 +5067,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "마법의 손가락",
@@ -5929,8 +5083,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "메모리 비콘",
@@ -5942,17 +5095,15 @@
             "Conditional": "만약 <b>최대 VIM</b>을 가지고 있다면, 대신:",
             "ConditionalDescriptions": [
                 "<b>시계</b> 3포인트를 획득합니다.",
-                "2장의 카드를 뽑습니다."
+                "2장의 카드를 뽑습니다.",
+                "<b>디컴파일</b>."
             ],
             "Rarity": "레어",
             "Color": "#E9B705FF",
             "Clock": 2,
             "Type": "생성기",
-            "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "Vim": 2,
+            "IsUpgrade": false
         },
         {
             "CardName": "메모리 비콘",
@@ -5961,20 +5112,18 @@
             "Descriptions": [
                 "2 <b>시계</b>를 얻습니다."
             ],
-            "Conditional": "최소 12포인트의 <b>VIM</b>을 가지고 있다면, 대신:",
+            "Conditional": "만약 <b>최대 VIM</b>을 가지고 있다면, 대신:",
             "ConditionalDescriptions": [
                 "<b>시계</b> 3포인트를 획득합니다.",
-                "2장의 카드를 뽑습니다."
+                "2장의 카드를 뽑습니다.",
+                "<b>디컴파일</b>."
             ],
             "Rarity": "레어",
             "Color": "#E9B705FF",
             "Clock": 2,
             "Type": "생성기",
-            "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "Vim": 3,
+            "IsUpgrade": true
         },
         {
             "CardName": "달빛",
@@ -5991,10 +5140,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "달빛",
@@ -6011,10 +5157,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "사냥 본능",
@@ -6031,11 +5174,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "GritTooltip",
-                "FeralTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "사냥 본능",
@@ -6052,11 +5191,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "GritTooltip",
-                "FeralTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "램 다운로더",
@@ -6074,10 +5209,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "IndexedTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "램 다운로더",
@@ -6095,10 +5227,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "IndexedTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "재귀 꿈",
@@ -6114,8 +5243,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "재귀 꿈",
@@ -6131,8 +5259,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 6,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "셰퍼 혈액 샘플",
@@ -6151,11 +5278,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "IndexedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "셰퍼 혈액 샘플",
@@ -6174,11 +5297,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 0,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "IndexedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "억제되지 않은 성장",
@@ -6194,10 +5313,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 5,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "억제되지 않은 성장",
@@ -6214,11 +5330,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 5,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "AmpedTooltip",
-                "DecompileTooltip"
-            ]
+            "IsUpgrade": true
         },
         {
             "CardName": "불안정 충전",
@@ -6234,8 +5346,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "불안정 충전",
@@ -6252,8 +5363,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 1,
-            "IsUpgrade": true,
-            "Tooltips": []
+            "IsUpgrade": true
         },
         {
             "CardName": "풍요의 뿔 프로토콜",
@@ -6269,10 +5379,7 @@
             "Clock": 2,
             "Type": "프로토콜",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "커닝 프로토콜",
@@ -6288,11 +5395,7 @@
             "Clock": 3,
             "Type": "프로토콜",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "GritTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "탐욕 프로토콜",
@@ -6308,10 +5411,7 @@
             "Clock": 2,
             "Type": "프로토콜",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "점화 프로토콜",
@@ -6327,10 +5427,7 @@
             "Clock": 3,
             "Type": "프로토콜",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "모멘텀 프로토콜",
@@ -6346,10 +5443,7 @@
             "Clock": 2,
             "Type": "프로토콜",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "달빛 프로토콜",
@@ -6365,11 +5459,7 @@
             "Clock": 3,
             "Type": "프로토콜",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "FeralTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "불사 프로토콜",
@@ -6385,11 +5475,7 @@
             "Clock": 2,
             "Type": "프로토콜",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "오버플로 프로토콜",
@@ -6405,11 +5491,7 @@
             "Clock": 2,
             "Type": "프로토콜",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "PING-U 프로토콜",
@@ -6425,11 +5507,7 @@
             "Clock": 2,
             "Type": "프로토콜",
             "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip",
-                "MaxVimTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "양자 프로토콜",
@@ -6445,10 +5523,7 @@
             "Clock": 2,
             "Type": "프로토콜",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "정찰 프로토콜",
@@ -6464,10 +5539,7 @@
             "Clock": 2,
             "Type": "프로토콜",
             "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ProtocolTooltip"
-            ]
+            "IsUpgrade": false
         },
         {
             "CardName": "NULL",
@@ -6481,8 +5553,7 @@
             "Clock": 0,
             "Type": "생성기",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "NULL",
@@ -6496,8 +5567,7 @@
             "Clock": 1,
             "Type": "생성기",
             "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         },
         {
             "CardName": "NULL",
@@ -6511,8 +5581,7 @@
             "Clock": 0,
             "Type": "공격",
             "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": []
+            "IsUpgrade": false
         }
     ]
 }

@@ -6,10 +6,7 @@
             "Code": "AMBUSH_DRIVER",
             "Description": "バトル開始時、敵全体に1スタックの<b>暴露</b>を付与する。",
             "ImageIcon": "Driver_Icon_Intel_01.png",
-            "Color": "#FF0000FF",
-            "Tooltips": [
-                "ExposedTooltip"
-            ]
+            "Color": "#FF0000FF"
         },
         {
             "DriverName": "援護ドライバー",
@@ -17,8 +14,7 @@
             "Code": "BACKUP_DRIVER",
             "Description": "自ターン終了時、<b>バリア</b>が無いの場合、10点の<b>バリア</b>を獲得する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "バリケードドライバー",
@@ -26,10 +22,7 @@
             "Code": "BARRICADE_DRIVER",
             "Description": "自ターン終了時、<b>バリア</b>が80点以上の場合、2点の<b>剛毅</b>を獲得する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "激怒ドライバー",
@@ -37,11 +30,7 @@
             "Code": "BERSERK_DRIVER",
             "Description": "<b>攻撃</b>カードをプレイするたびに1の<b>野性</b>を獲得し、自分に1スタックの<b>暴露</b>を付与する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "FeralTooltip",
-                "ExposedTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "晶壁ドライバー",
@@ -49,10 +38,7 @@
             "Code": "BLUE_DRIVER",
             "Description": "各ターンで、初めて<b>剛毅</b>を獲得する時、10点の<b>バリア</b>を獲得する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "追撃ドライバー",
@@ -60,11 +46,7 @@
             "Code": "CHASE_DRIVER",
             "Description": "自ターン開始時、<b>野性</b>が12スタック以上の場合、1の<b>クロック</b>を獲得する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "FeralTooltip",
-                "ClockTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "クリッカードライバー",
@@ -72,10 +54,7 @@
             "Code": "CLICKER_DRIVER",
             "Description": "バトル中に<b>命令</b>を3回実行するごとに、5点の<b>仮VIM</b>を獲得する。(0/3)",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "TempVimTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "クラウドドライバー",
@@ -83,10 +62,7 @@
             "Code": "CLOUD_DRIVER",
             "Description": "各ターンで、初めて<b>仮VIM</b>を獲得する時、2点の<b>VIM</b>を生成する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "TempVimTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "コーデックスドライバー",
@@ -94,10 +70,7 @@
             "Code": "CODEX_DRIVER",
             "Description": "バトル開始時、2スタックの<b>キャッシュ</b>を獲得する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "IndexedTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "ダイナモドライバー",
@@ -105,8 +78,7 @@
             "Code": "DYNAMO_DRIVER",
             "Description": "<b>生成元</b>カードをプレイすると、追加で1点の<b>VIM</b>を生成する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "蝕月ドライバー",
@@ -114,10 +86,7 @@
             "Code": "ECLIPSE_DRIVER",
             "Description": "<b>野性</b>がターン終了時に減少しなくなる。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "ブレードドライバー",
@@ -125,8 +94,7 @@
             "Code": "EDGE_DRIVER",
             "Description": "「コード斬り」カードは追加で20%の<b>ダメージ</b>を与える。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "陽動ドライバー",
@@ -134,8 +102,7 @@
             "Code": "FEINT_DRIVER",
             "Description": "1ターン中に<b>防御</b>カードを3枚プレイするごとに、0の<b>クロック</b>を獲得する。（0/3）",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "再生ドライバー",
@@ -143,8 +110,7 @@
             "Code": "MEND_DRIVER",
             "Description": "バトル開始時、15点の<b>完全性</b>を獲得する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "ムーンドライバー",
@@ -152,10 +118,7 @@
             "Code": "MOON_DRIVER",
             "Description": "1ターン中に<b>攻撃</b>カードを4枚プレイするごとに、3スタックの<b>野性</b>を獲得する。(0/4)",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "オーケストラドライバー",
@@ -163,10 +126,7 @@
             "Code": "ORCHESTRA_DRIVER",
             "Description": "自ターン開始時、10点の<b>仮VIM</b>を生成する。自ターン終了時、すべての<b>VIM</b>を失う。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "TempVimTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "促進ドライバー",
@@ -174,10 +134,7 @@
             "Code": "PROMPT_DRIVER",
             "Description": "バトル中、初めて<b>命令</b>を実行した時、1の<b>クロック</b>を獲得する。\n",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "ClockTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "原初ドライバー",
@@ -185,8 +142,7 @@
             "Code": "PROTO_DRIVER",
             "Description": "<b>プロトコル</b>カードのコストが1<b>クロック</b>減少する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "紅蓮ドライバー",
@@ -194,10 +150,7 @@
             "Code": "RED_DRIVER",
             "Description": "<b>攻撃</b>カードを10枚プレイするたびに、2スタックの<b>野性</b>を獲得する。(0/10)",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "雄鶏ドライバー",
@@ -205,8 +158,7 @@
             "Code": "ROOSTER_DRIVER",
             "Description": "バトル開始時、3点の<b>VIM</b>を生成する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "避難ドライバー",
@@ -214,10 +166,7 @@
             "Code": "SHELTER_DRIVER",
             "Description": "自ターン終了時、<b>防御</b>カードを1枚もプレイしていなければ、3スタックの<b>剛毅</b>を獲得する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "罠ドライバー",
@@ -225,10 +174,7 @@
             "Code": "SNARE_DRIVER",
             "Description": "バトル開始時、敵全体にスタックの<b>弱体化</b>を付与する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "DebilitatedTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "安定ドライバー",
@@ -236,8 +182,7 @@
             "Code": "STABILIZER_DRIVER",
             "Description": "自ターン開始時、2点の<b>VIM</b>を生成する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "ストリームドライバー",
@@ -245,8 +190,7 @@
             "Code": "STREAM_DRIVER",
             "Description": "1ターン中に<b>攻撃</b>カードを4枚プレイするごとに、1枚のカードを引く。(0/4)",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "ストリートドライバー",
@@ -254,10 +198,7 @@
             "Code": "STREET_DRIVER",
             "Description": "バトル開始時、2スタックの<b>剛毅</b>を生成する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "雷鳴ドライバー",
@@ -265,10 +206,7 @@
             "Code": "THUNDER_DRIVER",
             "Description": "自ターン開始時、<b>最大VIM</b>を所持している場合、1の<b>クロック</b>を獲得する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "半導体ドライバー",
@@ -276,10 +214,7 @@
             "Code": "TRANSISTOR_DRIVER",
             "Description": "自ターン終了時、<b>仮VIM</b>と同じ<b>VIM</b>生成する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "TempVimTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "回転ドライバー",
@@ -287,8 +222,7 @@
             "Code": "TUNRTABLE_DRIVER",
             "Description": "各ターンで<b>マイナー命令</b>を2回実行できる。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "前衛ドライバー",
@@ -296,10 +230,7 @@
             "Code": "VANGUARD_DRIVER",
             "Description": "自ターン開始時、自身の<b>剛毅</b>1スタックごとに、敵全体に3点の<b>ダメージ</b>を与える。（0<b>ダメージ</b>）",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "レコードドライバー",
@@ -307,10 +238,7 @@
             "Code": "VINYL_DRIVER",
             "Description": "1ターン中に<b>命令</b>を3回実行するごとに、0の<b>クロック</b>を獲得する。(0/3)",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "ClockTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "狼ドライバー",
@@ -318,10 +246,7 @@
             "Code": "WOLF_DRIVER",
             "Description": "バトル開始時、2スタックの<b>野性</b>を獲得する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "シトリンドライバー",
@@ -329,8 +254,7 @@
             "Code": "YELLOW_DRIVER",
             "Description": "自ターン開始時、<b>VIM</b>が10点以上の場合、2点の<b>VIM</b>を生成する。",
             "ImageIcon": "",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "マグネトロンドライバー",
@@ -338,10 +262,7 @@
             "Code": "ID41_DRIVER",
             "Description": "あなたのターンが始まると、<b>支援</b>効果が1回発動するごとに2ポイントの<b>VIM</b>を生成します。",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#A85DDAFF",
-            "Tooltips": [
-                "AssistTooltip"
-            ]
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "衛星ドライバー",
@@ -349,10 +270,7 @@
             "Code": "ID42_DRIVER",
             "Description": "バトル開始時、すべての<b>命令</b>を<b>オーグメント</b>し、1の<b>クロック</b>を獲得する。",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#A85DDAFF",
-            "Tooltips": [
-                "AugmentTooltip"
-            ]
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "チェーンドライバー",
@@ -360,8 +278,7 @@
             "Code": "ID52_DRIVER",
             "Description": "<b>スクリプト</b>カードを6枚連続でプレイするたび、1の<b>クロック</b>を獲得する。（0/6）",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#A85DDAFF",
-            "Tooltips": []
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "柔軟ドライバー",
@@ -369,8 +286,7 @@
             "Code": "ID26_DARWIN_DRIVER",
             "Description": "14枚目のカードを出すたびに、1の<b>クロック</b>を獲得します。（0/14）",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": []
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "クサリヘビドライバー",
@@ -378,10 +294,7 @@
             "Code": "ID43_DRIVER",
             "Description": "<b>バイトスクリプト</b>の<b>ダメージ</b>を4点上げる。",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": [
-                "BiteScriptTooltip"
-            ]
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "ブーメランドライバー",
@@ -389,8 +302,7 @@
             "Code": "ID49_DRIVER",
             "Description": "各ターン、最初に期限切れになった<b>アシスト</b>効果が手札に戻る。",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": []
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "ショックウェーブドライバー",
@@ -398,8 +310,7 @@
             "Code": "ID50_DRIVER",
             "Description": "<b>オーグメントされた命令</b>を実行するたび、敵全体に20点の<b>ダメージ</b>を与える。",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": []
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "飢饉ドライバー",
@@ -407,17 +318,15 @@
             "Code": "ID51_DRIVER",
             "Description": "ランダムに生成される<b>スクリプト</b>はすべて<b>バイトスクリプト</b>になる。",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": []
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "トランジスタドライバー",
             "ImagePath": "Driver_06.png",
             "Code": "ID53_DRIVER",
-            "Description": "あなたのターン中、カード1枚を捨てるごとにそのカードの基本<b>VIM</b>を生成します。",
+            "Description": "Every time you discard a card during your turn, generate {vim_amount} <b>VIM</b>.",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": []
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "ダイナモドライバー",
@@ -425,8 +334,7 @@
             "Code": "ID32_DRIVER",
             "Description": "カードをプレイするたび、1点の<b>VIM</b>を生成する。",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#A85DDAFF",
-            "Tooltips": []
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "ミサイルドライバー",
@@ -434,8 +342,7 @@
             "Code": "ID33_DRIVER",
             "Description": "コスト3のカードのブロックコストを1軽減する。",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#A85DDAFF",
-            "Tooltips": []
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "スカルドライバー",
@@ -443,8 +350,7 @@
             "Code": "ID34_DRIVER",
             "Description": "<b>命令</b>を3回実行するごとに、1の<b>クロック</b>を獲得し、1枚を引く。(0/3)",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#A85DDAFF",
-            "Tooltips": []
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "忍耐力ドライバー",
@@ -452,10 +358,7 @@
             "Code": "ID35_DRIVER",
             "Description": "自ターンに<b>命令</b>を1回も実行しなかった場合、ターン終了時に1スタックの<b>オーバークロック</b>を獲得する。",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#A85DDAFF",
-            "Tooltips": [
-                "QuickenTooltip"
-            ]
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "最適化ドライバー",
@@ -463,8 +366,7 @@
             "Code": "ID36_DRIVER",
             "Description": "各ターンで最初にコスト2のカードをプレイしたとき、1の<b>クロック</b>を獲得する。",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#A85DDAFF",
-            "Tooltips": []
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "勇気ドライバー",
@@ -472,8 +374,7 @@
             "Code": "ID37_DRIVER",
             "Description": "エリートおよびコア看守戦では、ターン開始時に1の<b>クロック</b>を獲得し、4点の<b>VIM</b>を生成する。",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#A85DDAFF",
-            "Tooltips": []
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "プロンプトドライバー",
@@ -481,8 +382,7 @@
             "Code": "ID22_DRIVER",
             "Description": "<b>命令</b>を実行するたび、1枚のカードを引く。",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": []
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "回転ドライバー",
@@ -490,8 +390,7 @@
             "Code": "ID23_DRIVER",
             "Description": "<b>サブ命令</b>を各ターンに2回まで実行できる。",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": []
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "重武装ドライバー",
@@ -499,8 +398,7 @@
             "Code": "ID24_DRIVER",
             "Description": "<b>防御</b>カードをプレイするたび、10の<b>バリア</b>を獲得する。",
             "ImageIcon": "Driver_Icon_Defense_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": []
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "プロトコルドライバー",
@@ -508,8 +406,7 @@
             "Code": "ID25_DRIVER",
             "Description": "<b>プロトコル</b>カードのコストが1<b>クロック</b>減少する。",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": []
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "ゼロドライバー",
@@ -517,8 +414,7 @@
             "Code": "ID27_DRIVER",
             "Description": "<b>VIM</b>が0になるたび、4点の<b>VIM</b>を生成する。",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": []
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "過電流ドライバー",
@@ -526,8 +422,7 @@
             "Code": "ID28_DRIVER",
             "Description": "自ターンでカードを引くたび、ICEに4点の<b>ダメージ</b>を与える。",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": []
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "スモークドライバー",
@@ -535,11 +430,7 @@
             "Code": "ID29_DRIVER",
             "Description": "<b>暴露</b>を付与するたび、追加でスタックの<b>弱体化</b>を付与する。",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": [
-                "ExposedTooltip",
-                "DebilitatedTooltip"
-            ]
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "ドミノドライバー",
@@ -547,11 +438,7 @@
             "Code": "ID30_DRIVER",
             "Description": "<b>周辺機器</b>を無効化するたび、1スタックの<b>オーバークロック</b>と1スタックの<b>キャッシュ</b>を獲得する。",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": [
-                "QuickenTooltip",
-                "IndexedTooltip"
-            ]
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "アップデートドライバー",
@@ -559,8 +446,7 @@
             "Code": "ID31_DRIVER",
             "Description": "バトル開始時、<b>コードデッキ</b>の<b>B級</b>カードからランダムに3枚を<b>アップグレード</b>する。（アップグレード効果は戦闘終了まで続く）",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": []
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "ひまわりドライバー",
@@ -568,8 +454,7 @@
             "Code": "ID1_DRIVER",
             "Description": "<b>生成元</b>カードをプレイすると、1点の<b>VIM</b>を生成する。",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": []
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "おんどりドライバー",
@@ -577,8 +462,7 @@
             "Code": "ID2_DRIVER",
             "Description": "バトル開始時、5点の<b>VIM</b>を生成する。",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": []
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "つむじ風ドライバー",
@@ -586,8 +470,7 @@
             "Code": "ID3_DRIVER",
             "Description": "ゴミ箱を<b>コードデッキ</b>にシャッフルするたび、3点の<b>VIM</b>を生成する。",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": []
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "ゴーストドライバー",
@@ -595,10 +478,7 @@
             "Code": "ID4_DRIVER",
             "Description": "戦闘中、あなたが出した最初の<b>デコンパイル</b>カードは回収ボックスに送られます。",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": [
-                "DecompileTooltip"
-            ]
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "ミルドライバー",
@@ -606,8 +486,7 @@
             "Code": "ID5_DRIVER",
             "Description": "6枚目のカードをプレイするたび、1枚を引く。（0/6）",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": []
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "ストリームドライバー",
@@ -615,8 +494,7 @@
             "Code": "ID6_DRIVER",
             "Description": "1ターンに<b>攻撃</b>カードを3枚プレイするたび、1枚を引く。(0/3)",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": []
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "ビニールドライバー",
@@ -624,8 +502,7 @@
             "Code": "ID7_DRIVER",
             "Description": "1ターンに<b>命令</b>を3回実行するたび、1の<b>クロック</b>を獲得する。(0/3)",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": []
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "バッテリードライバー",
@@ -633,8 +510,7 @@
             "Code": "ID8_DRIVER",
             "Description": "1ターンに<b>防御</b>カードを3枚プレイするたび、1スタックの<b>オーバークロック</b>を獲得する。(0/3)",
             "ImageIcon": "Driver_Icon_Defense_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": []
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "モロトフドライバー",
@@ -642,8 +518,7 @@
             "Code": "ID9_DRIVER",
             "Description": "6枚目の<b>攻撃</b>カードをプレイするたび、敵全体に15点の<b>ダメージ</b>を与える。（0/6）",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": []
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "サンダードライバー",
@@ -651,10 +526,7 @@
             "Code": "ID10_DRIVER",
             "Description": "<b>最大VIM</b>に到達するたび、敵全体に15点の<b>ダメージ</b>を与える。",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "バブルドライバー",
@@ -662,10 +534,7 @@
             "Code": "ID11_DRIVER",
             "Description": "各バトルで初めて<b>最大VIM</b>に到達したとき、70の<b>バリア</b>を獲得する。",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "休止ドライバー",
@@ -673,8 +542,7 @@
             "Code": "ID12_DRIVER",
             "Description": "ターン終了時、<b>バリア</b>は消滅せずに最大30まで次ターンに残す。",
             "ImageIcon": "Driver_Icon_Defense_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": []
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "暗号化ドライバー",
@@ -682,8 +550,7 @@
             "Code": "ID13_DRIVER",
             "Description": "<b>プロトコル</b>カードをプレイするたび、70の<b>バリア</b>を獲得する。",
             "ImageIcon": "Driver_Icon_Defense_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": []
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "アキレスドライバー",
@@ -691,8 +558,7 @@
             "Code": "ID14_DRIVER",
             "Description": "<b>周辺機器</b>を無効化するたび、ICEに30点の<b>ダメージ</b>を与える。",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": []
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "待ち伏せドライバー",
@@ -700,10 +566,7 @@
             "Code": "ID15_DRIVER",
             "Description": "バトル開始時、敵全体に2スタックの<b>暴露</b>を付与する。",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": [
-                "ExposedTooltip"
-            ]
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "仇討ちドライバー",
@@ -711,10 +574,7 @@
             "Code": "ID16_DRIVER",
             "Description": "自分が<b>暴露</b>になるたび、ICEに2スタックの<b>暴露</b>を付与する。",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": [
-                "ExposedTooltip"
-            ]
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "フラッシュドライバー",
@@ -722,10 +582,7 @@
             "Code": "ID17_DRIVER",
             "Description": "バトル開始時、敵全体に2スタックの<b>弱体化</b>を付与する。",
             "ImageIcon": "Driver_Icon_Attack_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": [
-                "DebilitatedTooltip"
-            ]
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "メンテドライバー",
@@ -733,8 +590,7 @@
             "Code": "ID18_DRIVER",
             "Description": "バトル開始時、15点の<b>完全性</b>を獲得する。",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": []
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "キャノンドライバー",
@@ -742,8 +598,7 @@
             "Code": "ID19_DRIVER",
             "Description": "<b>クリティカル命令</b>を実行するたび、ICEに40点の<b>ダメージ</b>を与える。",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": []
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "サプライドライバー",
@@ -751,10 +606,7 @@
             "Code": "ID20_DRIVER",
             "Description": "バトル開始時、3スタックの<b>キャッシュ</b>を獲得する。",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": [
-                "IndexedTooltip"
-            ]
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "砂時計ドライバー",
@@ -762,10 +614,7 @@
             "Code": "ID21_DRIVER",
             "Description": "ターン終了時、<b>クロック</b>が残っているなら、1スタックの<b>増幅</b>を獲得する。",
             "ImageIcon": "Driver_Icon_VIM_01.png",
-            "Color": "#5BD683FF",
-            "Tooltips": [
-                "AmpedTooltip"
-            ]
+            "Color": "#5BD683FF"
         },
         {
             "DriverName": "バールドライバー",
@@ -773,8 +622,7 @@
             "Code": "ID100_DRIVER",
             "Description": "重いゲートを開ける<b>追跡</b>コストが1Pt減少。",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "パッドロックドライバー",
@@ -782,8 +630,7 @@
             "Code": "ID101_DRIVER",
             "Description": "<b>ゲート</b>を4つ開くごとに、1個の<b>ハッシュキー</b>を獲得する。(0/4)",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "ロック解除ドライバー",
@@ -791,8 +638,7 @@
             "Code": "ID102_DRIVER",
             "Description": "<b>ノード</b>を4つ<b>抽出</b>するごとに、現在のクラスター内のランダムな<b>ゲート</b>が1つ開放する。(0/4)",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "バーゲンドライバー",
@@ -800,8 +646,7 @@
             "Code": "ID103_DRIVER",
             "Description": "<b>ハッシュキー</b>購入時の<b>情報</b>コストが50%減少する。",
             "ImageIcon": "Driver_Icon_Intel_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "スタックドライバー",
@@ -809,8 +654,7 @@
             "Code": "ID104_DRIVER",
             "Description": "<b>監視者</b>を無効化するたびに、1個の<b>ハッシュキー</b>と80つの<b>情報</b>を獲得する。",
             "ImageIcon": "Driver_Icon_Intel_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "盲目ドライバー",
@@ -818,8 +662,7 @@
             "Code": "ID105_DRIVER",
             "Description": "<b>ノード</b>を7つ使用するたびに、現在のクラスターの<b>監視者</b>を無効化する。(0/7)",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "拡大ドライバー",
@@ -827,8 +670,7 @@
             "Code": "ID106_DRIVER",
             "Description": "<b>ノード</b>を<b>リハッシュ</b>するたびに、80つの<b>情報</b>を獲得する。",
             "ImageIcon": "Driver_Icon_Intel_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "防犯侵入ドライバー",
@@ -836,8 +678,7 @@
             "Code": "ID107_DRIVER",
             "Description": "<b>追跡レベル</b>がLv.5以上のとき、戦闘開始前に<b>追跡</b>を1Pt減少させる。",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "緩和ドライバー",
@@ -845,8 +686,7 @@
             "Code": "ID108_DRIVER",
             "Description": "<b>ツール</b>を3回使用するたびに、ランダムな<b>基本ツール</b>を1つ入手する。(0/3)",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "レンチドライバー",
@@ -854,8 +694,7 @@
             "Code": "ID109_DRIVER",
             "Description": "<b>ノード</b>を5つ<b>抽出</b>するたびに、ランダムな<b>基本ツール</b>を1つ入手する。(0/5)",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "注射剤ドライバー",
@@ -863,8 +702,7 @@
             "Code": "ID110_DRIVER",
             "Description": "<b>ノード</b>を<b>抽出</b>するたびに、15Ptの<b>完全性</b>を回復する。",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "道具箱ドライバー",
@@ -872,8 +710,7 @@
             "Code": "ID111_DRIVER",
             "Description": "<b>スキル</b>を使用するたびに、ランダムな<b>基本ツール</b>を1つ入手する。",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "クーラードライバー",
@@ -881,8 +718,7 @@
             "Code": "ID112_DRIVER",
             "Description": "<b>守衛</b>を5体倒すか無効化するごとに、<b>スキル</b>が再び発動可能になる。(0/5)",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "赤外線ドライバー",
@@ -890,8 +726,7 @@
             "Code": "ID113_DRIVER",
             "Description": "<b>警戒レベル</b>が上昇するたびに、ランダムなクラスターを2区画見えるようにする。",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "ステルスドライバー",
@@ -899,8 +734,7 @@
             "Code": "ID114_DRIVER",
             "Description": "<b>追跡レベル</b>がLv.0のとき、<b>守衛</b>を無効化せずに通過できる。",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "アクセスドライバー",
@@ -908,8 +742,7 @@
             "Code": "ID115_DRIVER",
             "Description": "<b>警戒レベル</b>が上昇しても、<b>ゲート</b>が閉じなくなる。",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "セキュリティドライバー",
@@ -917,8 +750,7 @@
             "Code": "ID116_DRIVER",
             "Description": "<b>警戒レベル</b>が上昇しても、新たな<b>守衛</b>が出現しなくなる。",
             "ImageIcon": "Driver_Icon_Map_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "抽出ドライバー",
@@ -926,8 +758,7 @@
             "Code": "ID117_DRIVER",
             "Description": "<b>情報</b>が1200つ以上ある場合、<b>ノード</b>を<b>抽出</b>する際の<b>情報</b>獲得量が30%増加する。",
             "ImageIcon": "Driver_Icon_Intel_01.png",
-            "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Color": "#FFFFFFFF"
         },
         {
             "DriverName": "ストームドライバー",
@@ -935,8 +766,7 @@
             "Code": "ID38_DRIVER",
             "Description": "ターン終了時、<b>VIM</b>1点につき、敵全体に3点の<b>ダメージ</b>を与える。（合計0点の<b>ダメージ</b>）",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#A85DDAFF",
-            "Tooltips": []
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "日食ドライバー",
@@ -944,10 +774,7 @@
             "Code": "ID39_DRIVER",
             "Description": "各ラウンド終了時に<b>野性</b>が減らなくなる。",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#A85DDAFF",
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "先駆けドライバー",
@@ -955,10 +782,7 @@
             "Code": "ID40_DRIVER",
             "Description": "ターン開始時、<b>剛毅</b>1スタックにつき、敵全体に3点の<b>ダメージ</b>を与える。（合計0点の<b>ダメージ</b>）",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#A85DDAFF",
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "Color": "#A85DDAFF"
         },
         {
             "DriverName": "高速ドライバー",
@@ -966,8 +790,7 @@
             "Code": "ID26_URSA_DRIVER",
             "Description": "6枚目のカードをプレイするたび、1の<b>クロック</b>を獲得する。（0/6）",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": []
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "毒ドライバー",
@@ -975,10 +798,7 @@
             "Code": "ID44_DRIVER",
             "Description": "各ターンで最初に<b>攻撃</b>をプレイしたとき、2スタックの<b>野性</b>を獲得する。",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": [
-                "FeralTooltip"
-            ]
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "薄紫ドライバー",
@@ -986,10 +806,7 @@
             "Code": "ID45_DRIVER",
             "Description": "各ターンで最初に<b>剛毅</b>を獲得したとき、さらに2スタックの<b>剛毅</b>を獲得する。",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": [
-                "GritTooltip"
-            ]
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "原子力ドライバー",
@@ -997,10 +814,7 @@
             "Code": "ID46_DRIVER",
             "Description": "ターン開始時、<b>最大VIM</b>であれば2枚を引く。",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": [
-                "MaxVimTooltip"
-            ]
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "鉤爪ドライバー",
@@ -1008,8 +822,7 @@
             "Code": "ID47_DRIVER",
             "Description": "<b>「コード斬り」</b>カードは追加で20%の<b>ダメージ</b>を与える。",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": []
+            "Color": "#5AC7D6FF"
         },
         {
             "DriverName": "クロームドライバー",
@@ -1017,8 +830,7 @@
             "Code": "ID48_DRIVER",
             "Description": "バトル開始時、<b>コードデッキ</b>から<b>「コード斬り」</b>タイプのカードをランダムに3枚<b>アップグレード</b>する。（アップグレード効果は戦闘終了まで続く）",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
-            "Color": "#5AC7D6FF",
-            "Tooltips": []
+            "Color": "#5AC7D6FF"
         }
     ]
 }
