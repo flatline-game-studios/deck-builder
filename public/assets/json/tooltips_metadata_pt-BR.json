@@ -116,6 +116,11 @@
             "Description": ""
         },
         {
+            "Code": "InfectedDataTooltip",
+            "Title": "",
+            "Description": ""
+        },
+        {
             "Code": "JammedTooltip",
             "Title": "",
             "Description": ""

@@ -93,7 +93,7 @@
         {
             "Code": "GlitchedCardsTooltip",
             "Title": "故障卡牌",
-            "Description": "故障卡片會在屏障、傷害或VIM方面的輸出上受到減益影響。此效果會在卡片被打出或棄置時移除。"
+            "Description": "故障卡片會在屏障、傷害或VIM方面的輸出上受到減益影響，並在打出時對Runner造成傷害。\r\n此效果會在卡片被打出或棄置時移除。"
         },
         {
             "Code": "GlitchingMatrixTooltip",
@@ -114,6 +114,11 @@
             "Code": "IndexedTooltip",
             "Title": "快取",
             "Description": "在你的回合開始時多抽1張牌。數字代表持續的回合數。"
+        },
+        {
+            "Code": "InfectedDataTooltip",
+            "Title": "感染數據",
+            "Description": "<b>數據損壞</b>類牌會對駭客造成傷害，且在打出時會被<b>反編譯</b>。"
         },
         {
             "Code": "JammedTooltip",
