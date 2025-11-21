@@ -93,7 +93,7 @@
         {
             "Code": "GlitchedCardsTooltip",
             "Title": "버그 카드",
-            "Description": "버그 카드는 바리어, 데미지 또는 VIM 출력에 디버프를 겪습니다. 이 상태는 카드가 사용되거나 버려지면 제거됩니다."
+            "Description": "버그 카드는 장벽, 피해 또는 VIM 출력에 디버프를 받으며, 사용될 때 러너에게 피해를 줍니다.\r\n이 상태는 카드가 사용되거나 버려지면 제거됩니다."
         },
         {
             "Code": "GlitchingMatrixTooltip",
@@ -116,6 +116,11 @@
             "Description": "턴 시작 시 카드를 1장 추가로 뽑습니다. 숫자는 지속될 턴 수를 나타냅니다."
         },
         {
+            "Code": "InfectedDataTooltip",
+            "Title": "감염된 데이터",
+            "Description": "<b>훼손된 데이터</b> 유형의 카드로, 사용 시 러너에게 피해를 주며 사용과 동시에 <b>디컴파일</b> 됩니다."
+        },
+        {
             "Code": "JammedTooltip",
             "Title": "오버클럭",
             "Description": "<b>생성기</b> 카드는 이번 턴이 끝날 때까지 비용이 <b>시계</b> 1만큼 추가됩니다. 숫자는 지속되는 턴 수를 나타냅니다."
@@ -127,8 +132,8 @@
         },
         {
             "Code": "MemoryFumbleTooltip",
-            "Title": "메모리 실수",
-            "Description": "턴 시작 시, 손에 있는 모든 카드의 기본 VIM이 무작위로 변경됩니다. 각 포인트는 라운드 수를 나타냅니다."
+            "Title": "메모리 오류",
+            "Description": "당신의 턴 시작 시, 손에 있는 모든 카드의 기본 VIM이 무작위로 변경됩니다. 각 포인트는 라운드 수를 나타냅니다."
         },
         {
             "Code": "MuzzledTooltip",

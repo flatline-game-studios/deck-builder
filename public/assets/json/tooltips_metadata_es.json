@@ -13,7 +13,7 @@
         {
             "Code": "AugmentTooltip",
             "Title": "AUGMENTAR COMANDOS",
-            "Description": "Los Comandos Augmentados son versiones mejoradas de los Comandos base. Se revierten al Comando base una vez usados."
+            "Description": "Augmentar un Comando refresca su uso y mejora sus efectos. Se revierte al Comando base una vez usado."
         },
         {
             "Code": "BiteScriptTooltip",
@@ -93,7 +93,7 @@
         {
             "Code": "GlitchedCardsTooltip",
             "Title": "Cartas Glicheadas",
-            "Description": "Las cartas Glicheadas sufren una penalización en su generación de Barrera, daño o VIM. Este estado es purgado cuando la carta es jugada o descartada."
+            "Description": "Las cartas Glicheadas sufren una penalización en su generación de Barrera, daño o VIM y hacen daño al Runner al ser jugadas.\nEste estado es purgado cuando la carta es jugada o descartada."
         },
         {
             "Code": "GlitchingMatrixTooltip",
@@ -114,6 +114,11 @@
             "Code": "IndexedTooltip",
             "Title": "Acumulación",
             "Description": "Al principio de tu turno, roba una carta adicional. Cada punto representa duración en número de rondas."
+        },
+        {
+            "Code": "InfectedDataTooltip",
+            "Title": "DATOS INFECTADOS",
+            "Description": "Carta de tipo <b>CORRUPTA</b> que le hace daño al Runner y se <b>Decompila</b> al ser jugada."
         },
         {
             "Code": "JammedTooltip",

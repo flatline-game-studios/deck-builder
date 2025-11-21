@@ -13,7 +13,7 @@
         {
             "Code": "AugmentTooltip",
             "Title": "AUGMENT COMMANDS",
-            "Description": "Augmented Commands are improved versions of base Commands. When used, they transform back to the base Command."
+            "Description": "Augmenting a Command refreshes its use and improves its effects. When used, it transforms back to the base Command."
         },
         {
             "Code": "BiteScriptTooltip",
@@ -93,7 +93,7 @@
         {
             "Code": "GlitchedCardsTooltip",
             "Title": "Glitched Cards",
-            "Description": "Glitched cards suffer a debuff on their Barrier, Damage or VIM output. This status is removed when the card is played or discarded."
+            "Description": "Glitched cards suffer a debuff on their Barrier, Damage or VIM output and deal damage to the Runner when played.\nThis status is removed when the card is played or discarded."
         },
         {
             "Code": "GlitchingMatrixTooltip",
@@ -116,6 +116,11 @@
             "Description": "Start your turn drawing 1 extra card. Each point represents duration in number of rounds."
         },
         {
+            "Code": "InfectedDataTooltip",
+            "Title": "INFECTED DATA",
+            "Description": "<b>CORRUPTED</b>-type card that deals damage to the Runner and is <b>Decompiled</b> when played."
+        },
+        {
             "Code": "JammedTooltip",
             "Title": "Overloaded",
             "Description": "<b>Generator</b> cards cost 1 extra <b>Clock</b> until played this turn. Each point represents duration in number of rounds."
@@ -128,7 +133,7 @@
         {
             "Code": "MemoryFumbleTooltip",
             "Title": "Memory Fumble",
-            "Description": "At the start of turn your turn, randomize the base VIM of all cards in hand. Each point represents duration in number of rounds."
+            "Description": "At the start of your turn, randomize the base VIM of all cards in hand. Each point represents duration in number of rounds."
         },
         {
             "Code": "MuzzledTooltip",
