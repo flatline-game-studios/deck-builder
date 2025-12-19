@@ -98,7 +98,7 @@
         {
             "Code": "GlitchingMatrixTooltip",
             "Title": "Glitching Matrix",
-            "Description": "Every time an Attack card is played this turn, it becomes Glitched."
+            "Description": "Every time an Attack card is played this turn, it becomes Glitched. Each points represents duration in number of rounds."
         },
         {
             "Code": "GritTooltip",
@@ -248,7 +248,7 @@
         {
             "Code": "Tooltip_Inventory_LogScrubber",
             "Title": "LOG SCRUBBER",
-            "Description": "Reduce Trace by 4."
+            "Description": "Reduce Trace by 3."
         },
         {
             "Code": "Tooltip_Inventory_LogWiper",

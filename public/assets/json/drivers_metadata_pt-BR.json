@@ -420,6 +420,15 @@
             "Tooltips": []
         },
         {
+            "DriverName": "RIPPLE DRIVER",
+            "ImagePath": "Driver_06.png",
+            "Code": "ID54_DRIVER",
+            "Description": "The first time an <b>Assist</b> effect expires each turn, draw 1 card and generate 1 <b>VIM</b>.",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
+        },
+        {
             "DriverName": "",
             "ImagePath": "Driver_05.png",
             "Code": "ID22_DRIVER",
@@ -450,7 +459,7 @@
             "DriverName": "",
             "ImagePath": "Driver_05.png",
             "Code": "ID34_DRIVER",
-            "Description": "",
+            "Description": "Every 3rd <b>Command</b> you use, gain 1 <b>Clock</b>. (0/3)",
             "ImageIcon": "Driver_Icon_VIM_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
@@ -965,7 +974,7 @@
         {
             "DriverName": "",
             "ImagePath": "Driver_04.png",
-            "Code": "ID26_URSA_DRIVER",
+            "Code": "ID26_DRIVER",
             "Description": "",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
             "Color": "#5AC7D6FF",

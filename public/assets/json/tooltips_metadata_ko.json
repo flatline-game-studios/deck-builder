@@ -13,7 +13,7 @@
         {
             "Code": "AugmentTooltip",
             "Title": "보강 커맨드",
-            "Description": "보강 커맨드는 은 기본 커맨드의 강화된 형태입니다. 사용 후에는 다시 기본 커맨드로 되돌아갑니다."
+            "Description": "커맨드를 보강하면 사용 횟수가 초기화되고 효과가 강화됩니다. 사용 후에는 다시 기본 커맨드로 되돌아갑니다."
         },
         {
             "Code": "BiteScriptTooltip",
@@ -93,12 +93,12 @@
         {
             "Code": "GlitchedCardsTooltip",
             "Title": "버그 카드",
-            "Description": "버그 카드는 장벽, 피해 또는 VIM 출력에 디버프를 받으며, 사용될 때 러너에게 피해를 줍니다.\r\n이 상태는 카드가 사용되거나 버려지면 제거됩니다."
+            "Description": "버그 카드는 장벽, 피해 또는 VIM 출력에 디버프를 받으며, 사용 시 러너에게 피해를 줍니다.\n이 상태는 카드 사용 또는 폐기 시 제거됩니다."
         },
         {
             "Code": "GlitchingMatrixTooltip",
             "Title": "글리칭 매트릭스",
-            "Description": "이번 턴에서 공격 카드가 사용될 때마다, 그 카드는 버그 카드가 됩니다."
+            "Description": "이번 턴에서 공격 카드가 사용될 때마다, 그 카드는 버그 카드가 됩니다. 각 포인트는 라운드 수를 나타냅니다."
         },
         {
             "Code": "GritTooltip",
@@ -248,7 +248,7 @@
         {
             "Code": "Tooltip_Inventory_LogScrubber",
             "Title": "로그 스크러버",
-            "Description": "추적을 4만큼 감소시킵니다."
+            "Description": "추적을 3만큼 감소시킵니다."
         },
         {
             "Code": "Tooltip_Inventory_LogWiper",

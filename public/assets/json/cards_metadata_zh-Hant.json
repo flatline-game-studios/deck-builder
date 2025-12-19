@@ -134,7 +134,7 @@
             "Code": "CAPTAIN_COMMANDOGS",
             "Descriptions": [
                 "造成25點<b>傷害</b>。",
-                "<b>協助2：</b>隨機<b>增強</b>一條指令。"
+                "<b>協助1：</b>隨機<b>增強</b>一條指令。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -155,7 +155,7 @@
             "Code": "CAPTAIN_COMMANDOGS_UPGRADED",
             "Descriptions": [
                 "造成30點<b>傷害</b>。",
-                "<b>協助3：</b>隨機<b>增強</b>一條指令。"
+                "<b>協助2：</b>隨機<b>增強</b>一條指令。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -589,7 +589,7 @@
             "ImagePath": "LIQUEFACTION.jpg",
             "Code": "LIQUEFACTION",
             "Descriptions": [
-                "造成20點<b>傷害</b>。",
+                "造成15點<b>傷害</b>。",
                 "<b>命中後：</b>生成2張<b>噬咬腳本</b>。"
             ],
             "Conditional": "",
@@ -1352,7 +1352,7 @@
             "Code": "VENOM_STRIKE",
             "Descriptions": [
                 "造成20點<b>傷害</b>。",
-                "本回合<b>噬咬腳本</b>傷害提高10點。",
+                "本回合<b>噬咬腳本</b>傷害提高5點。",
                 "<b>命中后：</b>施加2层<b>暴露</b>。"
             ],
             "Conditional": "",
@@ -1373,8 +1373,8 @@
             "ImagePath": "VENOM_STRIKE.jpg",
             "Code": "VENOM_STRIKE_UPGRADED",
             "Descriptions": [
-                "造成45點<b>傷害</b>。",
-                "本回合<b>噬咬腳本</b>傷害提高10點。",
+                "造成40點<b>傷害</b>。",
+                "本回合<b>噬咬腳本</b>傷害提高5點。",
                 "<b>命中后：</b>施加2层<b>暴露</b>。"
             ],
             "Conditional": "",
@@ -1383,7 +1383,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻擊",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "BiteScriptTooltip",
@@ -1763,7 +1763,7 @@
             "Descriptions": [
                 "獲得30點<b>屏障</b>。"
             ],
-            "Conditional": "如果你在本回合中已打出2張<b>腳本</b>牌，則追加：",
+            "Conditional": "如果你在本回合中已打出5張<b>腳本</b>牌，則追加：",
             "ConditionalDescriptions": [
                 "生成你上次打出的2張<b>腳本</b>牌的副本。"
             ],
@@ -1782,9 +1782,9 @@
             "ImagePath": "MOLT.jpg",
             "Code": "MOLT_UPGRADED",
             "Descriptions": [
-                "獲得45點<b>屏障</b>。"
+                "獲得40點<b>屏障</b>。"
             ],
-            "Conditional": "如果你在本回合中已打出2張<b>腳本</b>牌，則追加：",
+            "Conditional": "如果你在本回合中已打出5張<b>腳本</b>牌，則追加：",
             "ConditionalDescriptions": [
                 "生成你上次打出的3張<b>腳本</b>牌的副本。"
             ],
@@ -1843,10 +1843,9 @@
             "ImagePath": "PAPER_CRANE.jpg",
             "Code": "PAPER_CRANE",
             "Descriptions": [
-                "獲得30點<b>屏障</b>。",
+                "獲得20點<b>屏障</b>。",
                 "棄置1張牌。",
-                "抽1張牌。",
-                "<b>反編譯</b>。"
+                "<b>棄置後：</b>獲得20點<b>屏障</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1857,7 +1856,7 @@
             "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
-                "DecompileTooltip"
+                "OnDiscardTooltip"
             ]
         },
         {
@@ -1865,10 +1864,9 @@
             "ImagePath": "PAPER_CRANE.jpg",
             "Code": "PAPER_CRANE_UPGRADED",
             "Descriptions": [
-                "獲得50點<b>屏障</b>。",
+                "獲得30點<b>屏障</b>。",
                 "棄置1張牌。",
-                "抽2張牌。",
-                "<b>反編譯</b>。"
+                "<b>棄置後：</b>獲得30點<b>屏障</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1876,10 +1874,10 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防禦",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": [
-                "DecompileTooltip"
+                "OnDiscardTooltip"
             ]
         },
         {
@@ -1896,7 +1894,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防禦",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": false,
             "Tooltips": []
         },
@@ -1906,7 +1904,7 @@
             "Code": "PATCHWORK_UPGRADED",
             "Descriptions": [
                 "棄掉最多5張牌。",
-                "每棄掉一張牌，獲得25點<b>屏障</b>。"
+                "每棄掉一張牌，獲得20點<b>屏障</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1914,7 +1912,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防禦",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": []
         },
@@ -2049,8 +2047,8 @@
             "ImagePath": "SILK_SHELL.jpg",
             "Code": "SILK_SHELL",
             "Descriptions": [
-                "獲得40點<b>屏障</b>。",
-                "生成2張<b>結繭腳本</b>。"
+                "獲得30點<b>屏障</b>。",
+                "生成3張<b>結繭腳本</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2069,8 +2067,8 @@
             "ImagePath": "SILK_SHELL.jpg",
             "Code": "SILK_SHELL_UPGRADED",
             "Descriptions": [
-                "獲得50點<b>屏障</b>。",
-                "生成3張<b>結繭腳本</b>。"
+                "獲得30點<b>屏障</b>。",
+                "生成4張<b>結繭腳本</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2078,7 +2076,7 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "防禦",
-            "Vim": 3,
+            "Vim": 4,
             "IsUpgrade": true,
             "Tooltips": [
                 "CocoonScriptTooltip"
@@ -2340,7 +2338,7 @@
             "ConditionalDescriptions": [],
             "Rarity": "稀有",
             "Color": "#E9B705FF",
-            "Clock": 0,
+            "Clock": 1,
             "Type": "生成器",
             "Vim": 1,
             "IsUpgrade": false,
@@ -2354,7 +2352,7 @@
             "ImagePath": "AIR_SUPERIORITY.jpg",
             "Code": "3_STEPS_AHEAD_UPGRADED",
             "Descriptions": [
-                "抽2張牌，你每持有一條<b>增強</b>指令，獲得1<b>時鐘</b>。",
+                "抽1張牌，你每持有一條<b>增強</b>指令，獲得1<b>時鐘</b>。",
                 "<b>反編譯</b>。"
             ],
             "Conditional": "",
@@ -2363,7 +2361,7 @@
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "生成器",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": [
                 "AugmentTooltip",
@@ -2466,7 +2464,7 @@
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "生成器",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": false,
             "Tooltips": [
                 "AugmentTooltip"
@@ -2487,7 +2485,7 @@
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "生成器",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "AugmentTooltip"
@@ -2796,11 +2794,12 @@
             "ImagePath": "SCOUTING_SCUTTLE.jpg",
             "Code": "SCOUTING_SCUTTLE",
             "Descriptions": [
-                "你在本回合每打出一張腳本牌，抽1張牌（0張牌）。",
-                "隨機生成1張<b>腳本</b>牌。"
+                "生成2張<b>編織腳本</b>。"
             ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
+            "Conditional": "如果你在本回合中已打出5張<b>腳本</b>牌，則追加：",
+            "ConditionalDescriptions": [
+                "生成2張<b>編織腳本</b>。"
+            ],
             "Rarity": "罕見",
             "Color": "#E9B705FF",
             "Clock": 1,
@@ -2816,16 +2815,17 @@
             "ImagePath": "SCOUTING_SCUTTLE.jpg",
             "Code": "SCOUTING_SCUTTLE_UPGRADED",
             "Descriptions": [
-                "你在本回合每打出一張腳本牌，抽2張牌（0張牌）。",
-                "隨機生成1張<b>腳本</b>牌。"
+                "生成3張<b>編織腳本</b>。"
             ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
+            "Conditional": "如果你在本回合中已打出5張<b>腳本</b>牌，則追加：",
+            "ConditionalDescriptions": [
+                "生成3張<b>編織腳本</b>。"
+            ],
             "Rarity": "罕見",
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "生成器",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "ScriptTooltip"
@@ -3120,7 +3120,7 @@
             "ImagePath": "ADAPTATION_PROTOCOL.jpg",
             "Code": "ADAPTATION_PROTOCOL",
             "Descriptions": [
-                "在你的回合開始時，隨機<b>增強</b>一條指令。"
+                "每次使用<b>增強指令</b>時，生成2點<b>VIM</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -3128,7 +3128,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "協議",
-            "Vim": 0,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3146,9 +3146,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "超凡",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "協議",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3166,9 +3166,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "超凡",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "協議",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3180,15 +3180,15 @@
             "ImagePath": "EXPIRATION_PROTOCOL.jpg",
             "Code": "EXPIRATION_PROTOCOL",
             "Descriptions": [
-                "每當<b>協助</b>效果過期時，獲得1<b>時鐘</b>。"
+                "每回合第一次觸發<b>協助</b>效果時，獲得1<b>時鐘</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "超凡",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "協議",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3206,9 +3206,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "稀有",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "協議",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3220,15 +3220,15 @@
             "ImagePath": "JUNK_PROTOCOL.jpg",
             "Code": "JUNK_PROTOCOL",
             "Descriptions": [
-                "每當你在你的回合內棄置一張卡牌時，對所有目標造成10點<b>傷害</b>。"
+                "每當你在你的回合內棄置一張卡牌時，對ICE造成10點<b>傷害</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "超凡",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "協議",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -3267,7 +3267,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "協議",
-            "Vim": 0,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -3324,7 +3324,7 @@
             "Color": "#FFFFFFFF",
             "Clock": 0,
             "Type": "腳本",
-            "Vim": 1,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ScriptTooltip"
@@ -3995,15 +3995,17 @@
             ],
             "Conditional": "如果你有至少12點<b>VIM</b>，則追加：",
             "ConditionalDescriptions": [
-                "抽1張牌。"
+                "獲得1層<b>快取</b>。"
             ],
             "Rarity": "罕見",
             "Color": "#E9042AFF",
             "Clock": 0,
             "Type": "攻擊",
-            "Vim": 1,
+            "Vim": 0,
             "IsUpgrade": false,
-            "Tooltips": []
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "記憶體匕首",
@@ -4014,15 +4016,17 @@
             ],
             "Conditional": "如果你有至少12點<b>VIM</b>，則追加：",
             "ConditionalDescriptions": [
-                "抽1張牌。"
+                "獲得1層<b>快取</b>。"
             ],
             "Rarity": "罕見",
             "Color": "#E9042AFF",
             "Clock": 0,
             "Type": "攻擊",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": true,
-            "Tooltips": []
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "記憶體跳躍",
@@ -4359,7 +4363,7 @@
             ]
         },
         {
-            "CardName": "太陽爆發X",
+            "CardName": "太陽爆發x",
             "ImagePath": "SUN_BURST_X.jpg",
             "Code": "SUN_BURST_X",
             "Descriptions": [
@@ -4377,7 +4381,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "太陽爆發X",
+            "CardName": "太陽爆發x",
             "ImagePath": "SUN_BURST_X.jpg",
             "Code": "SUN_BURST_X_UPGRADED",
             "Descriptions": [
@@ -4553,7 +4557,7 @@
             "Descriptions": [
                 "造成30點<b>傷害</b>。"
             ],
-            "Conditional": "如果你擁有至少<br>6層<b>野性</b>，則追加：",
+            "Conditional": "如果你擁有至少<br>8層<b>野性</b>，則追加：",
             "ConditionalDescriptions": [
                 "獲得1<b>時鐘</b>。"
             ],
@@ -4572,17 +4576,17 @@
             "ImagePath": "THE_STRAY_AMBUSH.jpg",
             "Code": "THE_STRAYS_AMBUSH_UPGRADED",
             "Descriptions": [
-                "造成30點<b>傷害</b>。"
+                "造成50點<b>傷害</b>。"
             ],
             "Conditional": "如果你擁有至少<br>8層<b>野性</b>，則追加：",
             "ConditionalDescriptions": [
-                "獲得2<b>時鐘</b>。"
+                "獲得1<b>時鐘</b>。"
             ],
             "Rarity": "普通",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻擊",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "FeralTooltip"
@@ -4640,7 +4644,7 @@
             "ConditionalDescriptions": [],
             "Rarity": "超凡",
             "Color": "#E9042AFF",
-            "Clock": 1,
+            "Clock": 2,
             "Type": "攻擊",
             "Vim": 2,
             "IsUpgrade": false,
@@ -4660,7 +4664,7 @@
             "ConditionalDescriptions": [],
             "Rarity": "超凡",
             "Color": "#E9042AFF",
-            "Clock": 1,
+            "Clock": 2,
             "Type": "攻擊",
             "Vim": 2,
             "IsUpgrade": true,
@@ -4828,7 +4832,7 @@
             ],
             "Conditional": "如果你在這一回合已經發起過攻擊，則改為：",
             "ConditionalDescriptions": [
-                "獲得60點<b>屏障</b>。"
+                "獲得50點<b>屏障</b>。"
             ],
             "Rarity": "罕見",
             "Color": "#047BEAFF",
@@ -4843,11 +4847,11 @@
             "ImagePath": "PREY_DRIVE.jpg",
             "Code": "ANIMAL_INSTINCT_UPGRADED",
             "Descriptions": [
-                "獲得40點<b>屏障</b>。"
+                "獲得30點<b>屏障</b>。"
             ],
             "Conditional": "如果你在這一回合已經發起過攻擊，則改為：",
             "ConditionalDescriptions": [
-                "獲得80點<b>屏障</b>。"
+                "獲得70點<b>屏障</b>。"
             ],
             "Rarity": "罕見",
             "Color": "#047BEAFF",
@@ -5193,15 +5197,17 @@
             ],
             "Conditional": "如果你在本回合使用過至少<br>1次<b>指令</b>，則追加：",
             "ConditionalDescriptions": [
-                "抽1張牌。"
+                "獲得1層<b>快取</b>。"
             ],
             "Rarity": "罕見",
             "Color": "#047BEAFF",
             "Clock": 0,
             "Type": "防禦",
-            "Vim": 0,
+            "Vim": 1,
             "IsUpgrade": true,
-            "Tooltips": []
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "犬舍律法",
@@ -5210,7 +5216,7 @@
             "Descriptions": [
                 "獲得30點<b>屏障</b>。"
             ],
-            "Conditional": "如果你有至少6層<b>堅毅</b>，則追加：",
+            "Conditional": "如果你有至少8層<b>堅毅</b>，則追加：",
             "ConditionalDescriptions": [
                 "獲得1<b>時鐘</b>。"
             ],
@@ -5229,9 +5235,9 @@
             "ImagePath": "KENNEL_LAW.jpg",
             "Code": "KENNEL_LAW_UPGRADED",
             "Descriptions": [
-                "獲得45點<b>屏障</b>。"
+                "獲得50點<b>屏障</b>。"
             ],
-            "Conditional": "如果你有至少6層<b>堅毅</b>，則追加：",
+            "Conditional": "如果你有至少8層<b>堅毅</b>，則追加：",
             "ConditionalDescriptions": [
                 "獲得1<b>時鐘</b>。"
             ],
@@ -5239,7 +5245,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防禦",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": [
                 "GritTooltip"
@@ -5254,7 +5260,7 @@
             ],
             "Conditional": "如果你有至少12點<b>VIM</b>，則追加：",
             "ConditionalDescriptions": [
-                "抽1張牌。"
+                "額外生成2點<b>VIM</b>。"
             ],
             "Rarity": "罕見",
             "Color": "#047BEAFF",
@@ -5273,7 +5279,7 @@
             ],
             "Conditional": "如果你有至少12點<b>VIM</b>，則追加：",
             "ConditionalDescriptions": [
-                "抽1張牌。"
+                "額外生成2點<b>VIM</b>。"
             ],
             "Rarity": "罕見",
             "Color": "#047BEAFF",
@@ -5324,7 +5330,7 @@
             ]
         },
         {
-            "CardName": "寵物Z機器人",
+            "CardName": "寵物z機器人",
             "ImagePath": "PET_Z_BOT.jpg",
             "Code": "PET_Z_BOT",
             "Descriptions": [
@@ -5342,7 +5348,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "寵物Z機器人",
+            "CardName": "寵物z機器人",
             "ImagePath": "PET_Z_BOT.jpg",
             "Code": "PET_Z_BOT_UPGRADED",
             "Descriptions": [
@@ -5560,7 +5566,7 @@
             ]
         },
         {
-            "CardName": "雷電Z機器人",
+            "CardName": "雷電z機器人",
             "ImagePath": "THUNDER_Z_BOT.jpg",
             "Code": "THUNDER_Z_BOT",
             "Descriptions": [
@@ -5580,7 +5586,7 @@
             ]
         },
         {
-            "CardName": "雷電Z機器人",
+            "CardName": "雷電z機器人",
             "ImagePath": "THUNDER_Z_BOT.jpg",
             "Code": "THUNDER_Z_BOT_UPGRADED",
             "Descriptions": [
@@ -5638,7 +5644,7 @@
             "ImagePath": "Baribal_angry.jpg",
             "Code": "DEV_CARD_3",
             "Descriptions": [
-                "140"
+                "120"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -6270,7 +6276,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "協議",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6281,15 +6287,15 @@
             "ImagePath": "CUNNING_PROTOCOL.jpg",
             "Code": "CUNNING_PROTOCOL",
             "Descriptions": [
-                "在你的回合開始時，獲得3層<b>堅毅</b>。"
+                "在你的回合開始時，獲得2層<b>堅毅</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "超凡",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "協議",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6309,7 +6315,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "協議",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6320,15 +6326,15 @@
             "ImagePath": "IGNITION_PROTOCOL.jpg",
             "Code": "IGNITION_PROTOCOL",
             "Descriptions": [
-                "你每次啟用<b>指令</b>時，對所有目標造成20點<b>傷害</b>。"
+                "你每次啟用<b>指令</b>時，對所有目標造成15點<b>傷害</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "超凡",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "協議",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6358,15 +6364,15 @@
             "ImagePath": "MOON_PROTOCOL.jpg",
             "Code": "MOON_PROTOCOL",
             "Descriptions": [
-                "在你的回合開始時，獲得3層<b>野性</b>。"
+                "在你的回合開始時，獲得2層<b>野性</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "超凡",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "協議",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6386,7 +6392,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "協議",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6406,7 +6412,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "協議",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6414,7 +6420,7 @@
             ]
         },
         {
-            "CardName": "PING-U協議",
+            "CardName": "Ping U協議",
             "ImagePath": "PINGU_PROTOCOL.jpg",
             "Code": "PING_U_PROTOCOL",
             "Descriptions": [
@@ -6426,7 +6432,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "協議",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6465,14 +6471,14 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "協議",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
             ]
         },
         {
-            "CardName": "NULL",
+            "CardName": "Null",
             "ImagePath": ".jpg",
             "Code": "DECOMPILE_TEST",
             "Descriptions": [],
@@ -6487,7 +6493,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "NULL",
+            "CardName": "Null",
             "ImagePath": ".jpg",
             "Code": "FACTORY_TEST",
             "Descriptions": [],
@@ -6502,7 +6508,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "NULL",
+            "CardName": "Null",
             "ImagePath": "AMPED_CODESLASH.jpg",
             "Code": "HACK_TEST",
             "Descriptions": [],

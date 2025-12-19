@@ -347,7 +347,7 @@
             "DriverName": "위성 드라이버",
             "ImagePath": "Driver_06.png",
             "Code": "ID42_DRIVER",
-            "Description": "전투 시작 시, 모든 <b>커맨드</b>를 <b>보강</b>하고 1 <b>시계</b>를 획득합니다.",
+            "Description": "전투 시작 시, 모든 <b>커맨드</b>를 <b>보강</b>합니다.",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": [
@@ -358,7 +358,7 @@
             "DriverName": "체인 드라이버",
             "ImagePath": "Driver_06.png",
             "Code": "ID52_DRIVER",
-            "Description": "연속으로 6장의 <b>스크립트</b>를 사용할 때마다, 1 <b>시계</b>를 획득합니다. (0/6)",
+            "Description": "매 턴 처음으로 <b>스크립트</b> 5장을 사용할 때, 1 <b>시계</b>를 획득합니다. (0/5)",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
@@ -376,7 +376,7 @@
             "DriverName": "바이퍼 드라이버",
             "ImagePath": "Driver_06.png",
             "Code": "ID43_DRIVER",
-            "Description": "<b>바이트 스크립트</b>의 기본 <b>피해</b>가 4만큼 증가합니다.",
+            "Description": "<b>바이트 스크립트</b>의 기본 <b>피해</b>가 5만큼 증가합니다.",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": [
@@ -396,7 +396,7 @@
             "DriverName": "쇼크웨이브 드라이버",
             "ImagePath": "Driver_06.png",
             "Code": "ID50_DRIVER",
-            "Description": "<b>보강 커맨드</b>를 사용할 때마다, 모든 유닛에게 20포인트의 <b>피해</b>를 줍니다.",
+            "Description": "매 턴 처음으로 <b>보강 커맨드</b>를 사용할 때, ICE에 <b>피해</b> 20를 줍니다.",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
@@ -414,8 +414,17 @@
             "DriverName": "트랜지스터 드라이버",
             "ImagePath": "Driver_06.png",
             "Code": "ID53_DRIVER",
-            "Description": "당신의 턴 동안, 버린 카드마다 2 <b>VIM</b>을 생성합니다.",
+            "Description": "당신의 턴 동안, 버린 카드마다 1 <b>VIM</b>을 생성합니다.",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
+        },
+        {
+            "DriverName": "불결 드라이버",
+            "ImagePath": "Driver_06.png",
+            "Code": "ID54_DRIVER",
+            "Description": "매 턴 처음으로 <b>아시스트</b> 효과가 발동할 때, 카드 1장을 뽑고 <b>VIM</b> 1을 생성합니다.",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
@@ -450,7 +459,7 @@
             "DriverName": "크래니엄 드라이버",
             "ImagePath": "Driver_05.png",
             "Code": "ID34_DRIVER",
-            "Description": "<b>커맨드</b>를 3번 사용할 때마다, 1 <b>시계</b>를 획득하고, 1장의 카드를 뽑습니다. (0/3)",
+            "Description": "<b>커맨드</b>를 3번 사용할 때마다, 1 <b>시계</b>를 획득합니다. (0/3)",
             "ImageIcon": "Driver_Icon_VIM_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
@@ -557,7 +566,7 @@
             "DriverName": "업데이트 드라이버",
             "ImagePath": "Driver_07.png",
             "Code": "ID31_DRIVER",
-            "Description": "각 전투 시작 시, 랜덤으로 <b>스타터</b> 카드 3장을 전투 종료 시까지 업그레이드합니다.",
+            "Description": "전투 시작 시, 무작위로 3장의 <b>스타터</b> 카드를 전투 종료까지 강화합니다.",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
@@ -613,7 +622,7 @@
             "DriverName": "스트림 드라이버",
             "ImagePath": "Driver_02.png",
             "Code": "ID6_DRIVER",
-            "Description": "한 턴에 3장의 <b>공격</b> 카드를 사용할 때마다, 1장의 카드를 뽑습니다. (0/3)",
+            "Description": "매 턴에 처음으로 3장의 <b>공격</b> 카드를 사용할 때, 2장의 카드를 뽑습니다. (0/3)",
             "ImageIcon": "Driver_Icon_Attack_01.png",
             "Color": "#5BD683FF",
             "Tooltips": []
@@ -631,7 +640,7 @@
             "DriverName": "배터리 드라이버",
             "ImagePath": "Driver_03.png",
             "Code": "ID8_DRIVER",
-            "Description": "한 턴에 3장의 <b>방어</b> 카드를 사용할 때마다, 1중첩의 <b>오버클럭</b>을 획득합니다. (0/3)",
+            "Description": "매 턴에 처음으로 3장의 <b>방어</b> 카드를 사용할 때, 1중첩의 <b>오버클럭</b>을 획득합니다. (0/3)",
             "ImageIcon": "Driver_Icon_Defense_01.png",
             "Color": "#5BD683FF",
             "Tooltips": [
@@ -673,7 +682,7 @@
             "DriverName": "겨울잠 드라이버",
             "ImagePath": "Driver_03.png",
             "Code": "ID12_DRIVER",
-            "Description": "턴마다 <b>방어막</b>을 모두 잃는 대신 최대 30중첩까지 유지합니다.",
+            "Description": "턴마다 <b>방어막</b>을 모두 잃는 대신 최대 25중첩까지 유지합니다.",
             "ImageIcon": "Driver_Icon_Defense_01.png",
             "Color": "#5BD683FF",
             "Tooltips": []
@@ -773,7 +782,7 @@
             "DriverName": "쇠지렛대 드라이버",
             "ImagePath": "Driver_07.png",
             "Code": "ID100_DRIVER",
-            "Description": "헤비 게이트를 열 때 필요한 <b>추적</b>이 1만큼 감소합니다.",
+            "Description": "추적 게이트를 열 때 필요한 <b>추적</b>이 1만큼 감소합니다.",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
@@ -863,7 +872,7 @@
             "DriverName": "주사기 드라이버",
             "ImagePath": "Driver_07.png",
             "Code": "ID110_DRIVER",
-            "Description": "노드를 <b>추출</b>할 때마다 15 <b>무결성</b>을 회복합니다.",
+            "Description": "노드를 <b>추출</b>할 때마다 10 <b>무결성</b>을 회복합니다.",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
@@ -935,7 +944,7 @@
             "DriverName": "스톰 드라이버",
             "ImagePath": "Driver_04.png",
             "Code": "ID38_DRIVER",
-            "Description": "턴 종료 시, 보유한 <b>VIM</b> 1포인트마다 모든 유닛에게 3포인트의 <b>피해</b>를 줍니다. (0포인트의 <b>피해</b>)",
+            "Description": "턴 종료 시, 가진 <b>VIM</b> 1점당 ICE에 2 <b>피해</b>를 입힙니다. (0 <b>피해</b>)",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
@@ -965,7 +974,7 @@
         {
             "DriverName": "고속 드라이버",
             "ImagePath": "Driver_04.png",
-            "Code": "ID26_URSA_DRIVER",
+            "Code": "ID26_DRIVER",
             "Description": "카드를 6장 사용할 때마다, 1 <b>시계</b>를 획득합니다. (0/6)",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
             "Color": "#5AC7D6FF",

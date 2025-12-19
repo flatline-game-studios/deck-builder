@@ -93,12 +93,12 @@
         {
             "Code": "GlitchedCardsTooltip",
             "Title": "グリッチカード",
-            "Description": "グリッチカードはバリア、ダメージ、またはVIM出力にデバフを受け、プレイされたときにランナーにダメージを与える。\r\nこの状態はカードがプレイされるか、破棄されると解除する。"
+            "Description": "プレイされたグリッチカードは、バリア、与ダメージ、またはVIMにマイナス効果を与え、プレイヤーにダメージを与える。\nグリッチは、カードがプレイされるか、破棄された時に解除される。"
         },
         {
             "Code": "GlitchingMatrixTooltip",
             "Title": "グリッチングマトリックス",
-            "Description": "このターンにプレイした攻撃カードがバグカードになる。"
+            "Description": "このターンにプレイした攻撃カードがバグカードになる。ポイントは持続ターン数を表す。"
         },
         {
             "Code": "GritTooltip",
@@ -248,7 +248,7 @@
         {
             "Code": "Tooltip_Inventory_LogScrubber",
             "Title": "ログ消しゴム",
-            "Description": "追跡を4減少させる。"
+            "Description": "追跡を3減少させる。"
         },
         {
             "Code": "Tooltip_Inventory_LogWiper",

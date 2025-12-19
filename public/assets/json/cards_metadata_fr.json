@@ -1383,7 +1383,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "BiteScriptTooltip",
@@ -1845,7 +1845,6 @@
             "Descriptions": [
                 "",
                 "",
-                "",
                 ""
             ],
             "Conditional": "",
@@ -1857,7 +1856,7 @@
             "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
-                "DecompileTooltip"
+                "OnDiscardTooltip"
             ]
         },
         {
@@ -1865,7 +1864,6 @@
             "ImagePath": "PAPER_CRANE.jpg",
             "Code": "PAPER_CRANE_UPGRADED",
             "Descriptions": [
-                "",
                 "",
                 "",
                 ""
@@ -1876,10 +1874,10 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": [
-                "DecompileTooltip"
+                "OnDiscardTooltip"
             ]
         },
         {
@@ -1896,7 +1894,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": false,
             "Tooltips": []
         },
@@ -1914,7 +1912,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": []
         },
@@ -2078,7 +2076,7 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "",
-            "Vim": 3,
+            "Vim": 4,
             "IsUpgrade": true,
             "Tooltips": [
                 "CocoonScriptTooltip"
@@ -2340,7 +2338,7 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#E9B705FF",
-            "Clock": 0,
+            "Clock": 1,
             "Type": "",
             "Vim": 1,
             "IsUpgrade": false,
@@ -2363,7 +2361,7 @@
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": [
                 "AugmentTooltip",
@@ -2466,7 +2464,7 @@
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": false,
             "Tooltips": [
                 "AugmentTooltip"
@@ -2487,7 +2485,7 @@
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "AugmentTooltip"
@@ -2796,11 +2794,12 @@
             "ImagePath": "SCOUTING_SCUTTLE.jpg",
             "Code": "SCOUTING_SCUTTLE",
             "Descriptions": [
-                "",
-                ""
+                "Create 2 <b>Weave Scripts</b>."
             ],
             "Conditional": "",
-            "ConditionalDescriptions": [],
+            "ConditionalDescriptions": [
+                "Create 2 <b>Weave Scripts</b>."
+            ],
             "Rarity": "",
             "Color": "#E9B705FF",
             "Clock": 1,
@@ -2816,16 +2815,17 @@
             "ImagePath": "SCOUTING_SCUTTLE.jpg",
             "Code": "SCOUTING_SCUTTLE_UPGRADED",
             "Descriptions": [
-                "",
-                ""
+                "Create 3 <b>Weave Scripts</b>."
             ],
             "Conditional": "",
-            "ConditionalDescriptions": [],
+            "ConditionalDescriptions": [
+                "Create 3 <b>Weave Scripts</b>."
+            ],
             "Rarity": "",
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "ScriptTooltip"
@@ -3120,7 +3120,7 @@
             "ImagePath": "ADAPTATION_PROTOCOL.jpg",
             "Code": "ADAPTATION_PROTOCOL",
             "Descriptions": [
-                ""
+                "Every time you use an <b>Augmented Command</b>, generate 2 <b>VIM</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -3128,7 +3128,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "",
-            "Vim": 0,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3146,9 +3146,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3166,9 +3166,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3186,9 +3186,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3206,9 +3206,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3226,9 +3226,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -3267,7 +3267,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "",
-            "Vim": 0,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -3324,7 +3324,7 @@
             "Color": "#FFFFFFFF",
             "Clock": 0,
             "Type": "",
-            "Vim": 1,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ScriptTooltip"
@@ -4001,9 +4001,11 @@
             "Color": "#E9042AFF",
             "Clock": 0,
             "Type": "",
-            "Vim": 1,
+            "Vim": 0,
             "IsUpgrade": false,
-            "Tooltips": []
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4020,9 +4022,11 @@
             "Color": "#E9042AFF",
             "Clock": 0,
             "Type": "",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": true,
-            "Tooltips": []
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -4582,7 +4586,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "FeralTooltip"
@@ -4640,7 +4644,7 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#E9042AFF",
-            "Clock": 1,
+            "Clock": 2,
             "Type": "",
             "Vim": 2,
             "IsUpgrade": false,
@@ -4660,7 +4664,7 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#E9042AFF",
-            "Clock": 1,
+            "Clock": 2,
             "Type": "",
             "Vim": 2,
             "IsUpgrade": true,
@@ -5199,9 +5203,11 @@
             "Color": "#047BEAFF",
             "Clock": 0,
             "Type": "",
-            "Vim": 0,
+            "Vim": 1,
             "IsUpgrade": true,
-            "Tooltips": []
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "",
@@ -5239,7 +5245,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": [
                 "GritTooltip"
@@ -5638,7 +5644,7 @@
             "ImagePath": "Baribal_angry.jpg",
             "Code": "DEV_CARD_3",
             "Descriptions": [
-                "140"
+                "120"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -6270,7 +6276,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6287,9 +6293,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6309,7 +6315,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6326,9 +6332,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6364,9 +6370,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6386,7 +6392,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6406,7 +6412,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6426,7 +6432,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6465,14 +6471,14 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
             ]
         },
         {
-            "CardName": "NULL",
+            "CardName": "Null",
             "ImagePath": ".jpg",
             "Code": "DECOMPILE_TEST",
             "Descriptions": [],
@@ -6487,7 +6493,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "NULL",
+            "CardName": "Null",
             "ImagePath": ".jpg",
             "Code": "FACTORY_TEST",
             "Descriptions": [],
@@ -6502,7 +6508,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "NULL",
+            "CardName": "Null",
             "ImagePath": "AMPED_CODESLASH.jpg",
             "Code": "HACK_TEST",
             "Descriptions": [],

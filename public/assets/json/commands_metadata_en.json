@@ -28,7 +28,7 @@
         },
         {
             "CommandName": "CONSTRUCT",
-            "Cost": 6,
+            "Cost": 5,
             "Description": "Create 1 copy of the last <b>Script</b> you played this turn.  ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND",
@@ -38,7 +38,7 @@
         },
         {
             "CommandName": "AUG. CONSTRUCT",
-            "Cost": 6,
+            "Cost": 5,
             "Description": "Create 2 copies of the last <b>Script</b> you played this turn.  ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND_AUGMENTED",
@@ -79,6 +79,22 @@
             "Tooltips": []
         },
         {
+            "CommandName": "MULLIGAN",
+            "Cost": 16,
+            "Description": "Discard up to 3 cards, then draw that many cards.",
+            "Tier": "Critical",
+            "Code": "MULLIGAN_COMMAND",
+            "Tooltips": []
+        },
+        {
+            "CommandName": "AUG. MULLIGAN",
+            "Cost": 12,
+            "Description": "Discard up to 3 cards, then draw that many cards.",
+            "Tier": "Critical",
+            "Code": "MULLIGAN_COMMAND_AUGMENTED",
+            "Tooltips": []
+        },
+        {
             "CommandName": "PREPARE",
             "Cost": 12,
             "Description": "At the start of next turn, gain 1 <b>Clock</b>.",
@@ -89,7 +105,7 @@
         {
             "CommandName": "AUG. PREPARE",
             "Cost": 12,
-            "Description": "At the start of next turn, gain 2 <b>Clock</b>.",
+            "Description": "At the start of next turn, gain 1 <b>Clock</b> and draw 1 card.",
             "Tier": "Major",
             "Code": "PREPARE_COMMAND_AUGMENTED",
             "Tooltips": []
@@ -130,8 +146,8 @@
         },
         {
             "CommandName": "REPLICATE",
-            "Cost": 20,
-            "Description": "Create 1 copy of each <b>Script</b> in your hand.",
+            "Cost": 16,
+            "Description": "Every time you create <b>Scripts</b> this turn, create 1 random <b>Script</b>.",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND",
             "Tooltips": [
@@ -140,24 +156,24 @@
         },
         {
             "CommandName": "AUG. REPLICATE",
-            "Cost": 15,
-            "Description": "Create 1 copy of each <b>Script</b> in your hand.",
+            "Cost": 12,
+            "Description": "Every time you create <b>Scripts</b> this turn, create 1 random <b>Script</b>.",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND_AUGMENTED",
             "Tooltips": []
         },
         {
             "CommandName": "REPURPOSE",
-            "Cost": 6,
-            "Description": "Discard 1 card.",
+            "Cost": 5,
+            "Description": "Discard the rightmost card in hand.",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND",
             "Tooltips": []
         },
         {
             "CommandName": "AUG. REPURPOSE",
-            "Cost": 6,
-            "Description": "Discard 1 card and then draw 1.",
+            "Cost": 5,
+            "Description": "Discard 1 card.",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND_AUGMENTED",
             "Tooltips": []
@@ -195,44 +211,27 @@
         {
             "CommandName": "AUG. STRATEGIZE",
             "Cost": 12,
-            "Description": "Create 1 random <b>Script</b>. <b>Preserve</b> all <b>Script</b> cards this turn.",
+            "Description": "Create 2 random <b>Script</b>. <b>Preserve</b> all <b>Script</b> cards this turn.",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND_AUGMENTED",
             "Tooltips": []
         },
         {
             "CommandName": "TOUCH",
-            "Cost": 6,
-            "Description": "Trigger 1 of your <b>Assist</b> effects randomly.",
+            "Cost": 5,
+            "Description": "Trigger 1 of your <b>Assist</b> effects randomly and reduce its counter.",
             "Tier": "Minor",
             "Code": "TOUCH_COMMAND",
             "Tooltips": [
-                "TriggerAssistTooltip",
                 "AssistTooltip"
             ]
         },
         {
             "CommandName": "AUG. TOUCH",
-            "Cost": 6,
-            "Description": "Trigger 2 of your <b>Assist</b> effects randomly.",
+            "Cost": 5,
+            "Description": "Trigger 1 of your <b>Assist</b> effects randomly without reducing its counter.",
             "Tier": "Minor",
             "Code": "TOUCH_COMMAND_AUGMENTED",
-            "Tooltips": []
-        },
-        {
-            "CommandName": "TRANSCEND",
-            "Cost": 17,
-            "Description": "Discard 3 cards to gain 2 <b>Clock</b>.",
-            "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND",
-            "Tooltips": []
-        },
-        {
-            "CommandName": "AUG. TRANSCEND",
-            "Cost": 17,
-            "Description": "Discard 3 cards to gain 3 <b>Clock</b>.",
-            "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND_AUGMENTED",
             "Tooltips": []
         },
         {

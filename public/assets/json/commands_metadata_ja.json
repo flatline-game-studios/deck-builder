@@ -28,7 +28,7 @@
         },
         {
             "CommandName": "構築",
-            "Cost": 6,
+            "Cost": 5,
             "Description": "このターンに最後にプレイした<b>スクリプト</b>のコピーを1枚生成する。 ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND",
@@ -38,7 +38,7 @@
         },
         {
             "CommandName": "オーグ・構築",
-            "Cost": 6,
+            "Cost": 5,
             "Description": "このターンに最後にプレイした<b>スクリプト</b>のコピーを2枚生成する。 ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND_AUGMENTED",
@@ -79,6 +79,22 @@
             "Tooltips": []
         },
         {
+            "CommandName": "マリガン",
+            "Cost": 16,
+            "Description": "最大3枚のカードを破棄して、その後同じ枚数のカードを引く。",
+            "Tier": "Critical",
+            "Code": "MULLIGAN_COMMAND",
+            "Tooltips": []
+        },
+        {
+            "CommandName": "オーグ・マリガン",
+            "Cost": 12,
+            "Description": "最大3枚のカードを破棄して、その後同じ枚数のカードを引く。",
+            "Tier": "Critical",
+            "Code": "MULLIGAN_COMMAND_AUGMENTED",
+            "Tooltips": []
+        },
+        {
             "CommandName": "下準備",
             "Cost": 12,
             "Description": "次のターン開始時、1の<b>クロック</b>を獲得する。",
@@ -89,7 +105,7 @@
         {
             "CommandName": "オーグ・下準備",
             "Cost": 12,
-            "Description": "次のターン開始時、2の<b>クロック</b>を獲得する。",
+            "Description": "次のターン開始時、1の<b>クロック</b>を獲得し、1枚のカードを引く。",
             "Tier": "Major",
             "Code": "PREPARE_COMMAND_AUGMENTED",
             "Tooltips": []
@@ -130,8 +146,8 @@
         },
         {
             "CommandName": "コピー",
-            "Cost": 20,
-            "Description": "手札の<b>スクリプト</b>に、そのコピーを1枚生成する。",
+            "Cost": 16,
+            "Description": "このターンに<b>スクリプト</b>を生成するたび、ランダムな<b>スクリプト</b>を1枚生成する。",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND",
             "Tooltips": [
@@ -140,24 +156,24 @@
         },
         {
             "CommandName": "オーグ・コピー",
-            "Cost": 15,
-            "Description": "手札の<b>スクリプト</b>に、そのコピーを1枚生成する。",
+            "Cost": 12,
+            "Description": "このターンに<b>スクリプト</b>を生成するたび、ランダムな<b>スクリプト</b>を1枚生成する。",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND_AUGMENTED",
             "Tooltips": []
         },
         {
             "CommandName": "再利用",
-            "Cost": 6,
-            "Description": "カードを1枚破棄する",
+            "Cost": 5,
+            "Description": "手札の一番右のカードを捨て札にする。",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND",
             "Tooltips": []
         },
         {
-            "CommandName": "",
-            "Cost": 6,
-            "Description": "1枚を破棄して1枚を引く。",
+            "CommandName": "オーグ・再利用",
+            "Cost": 5,
+            "Description": "カードを1枚破棄する",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND_AUGMENTED",
             "Tooltips": []
@@ -184,7 +200,7 @@
         {
             "CommandName": "プランニング",
             "Cost": 12,
-            "Description": "このターン中、すべての<b>スクリプト</b>を次ターンの<b>手札に残す</b>。",
+            "Description": "このターン中、すべての<b>スクリプト</b>を次ターンに<b>持ち越す</b>。",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND",
             "Tooltips": [
@@ -195,44 +211,27 @@
         {
             "CommandName": "オーグ・プランニング",
             "Cost": 12,
-            "Description": "ランダムな<b>スクリプト</b>カードを1枚生成する。このターン中、すべての<b>スクリプト</b>を次ターンの<b>手札に残す</b>。",
+            "Description": "ランダムな<b>スクリプト</b>カードを2枚生成する。このターン中、すべての<b>スクリプト</b>を次ターンに<b>持ち越す</b>。",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND_AUGMENTED",
             "Tooltips": []
         },
         {
             "CommandName": "タッチ",
-            "Cost": 6,
-            "Description": "ランダムに<b>アシスト</b>効果を1回発動させる。",
+            "Cost": 5,
+            "Description": "スタックを消費して、ランダムな<b>アシスト</b>効果を1回発動する。",
             "Tier": "Minor",
             "Code": "TOUCH_COMMAND",
             "Tooltips": [
-                "TriggerAssistTooltip",
                 "AssistTooltip"
             ]
         },
         {
             "CommandName": "オーグ・タッチ",
-            "Cost": 6,
-            "Description": "ランダムに<b>アシスト</b>効果を2回発動させる。",
+            "Cost": 5,
+            "Description": "スタックを消費せずに、ランダムな<b>アシスト</b>効果を1回発動する。",
             "Tier": "Minor",
             "Code": "TOUCH_COMMAND_AUGMENTED",
-            "Tooltips": []
-        },
-        {
-            "CommandName": "アセンション",
-            "Cost": 17,
-            "Description": "3枚を破棄し、2の<b>クロック</b>を獲得する。",
-            "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND",
-            "Tooltips": []
-        },
-        {
-            "CommandName": "オーグ・アセンション",
-            "Cost": 17,
-            "Description": "3枚を破棄し、3の<b>クロック</b>を獲得する。",
-            "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND_AUGMENTED",
             "Tooltips": []
         },
         {
