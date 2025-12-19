@@ -347,7 +347,7 @@
             "DriverName": "衛星ドライバー",
             "ImagePath": "Driver_06.png",
             "Code": "ID42_DRIVER",
-            "Description": "バトル開始時、すべての<b>命令</b>を<b>オーグメント</b>し、1の<b>クロック</b>を獲得する。",
+            "Description": "バトル開始時、すべての<b>命令</b>を<b>オーグメント</b>する。",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": [
@@ -358,7 +358,7 @@
             "DriverName": "チェーンドライバー",
             "ImagePath": "Driver_06.png",
             "Code": "ID52_DRIVER",
-            "Description": "<b>スクリプト</b>カードを6枚連続でプレイするたび、1の<b>クロック</b>を獲得する。（0/6）",
+            "Description": "各ターンに初めて5枚目の<b>スクリプト</b>カードプレイした後、1の<b>クロック</b>を獲得する。（0/5）",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
@@ -376,7 +376,7 @@
             "DriverName": "クサリヘビドライバー",
             "ImagePath": "Driver_06.png",
             "Code": "ID43_DRIVER",
-            "Description": "<b>バイトスクリプト</b>の<b>ダメージ</b>を4点上げる。",
+            "Description": "<b>バイトスクリプト</b>の<b>ダメージ</b>を5点上げる。",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": [
@@ -396,7 +396,7 @@
             "DriverName": "ショックウェーブドライバー",
             "ImagePath": "Driver_06.png",
             "Code": "ID50_DRIVER",
-            "Description": "<b>オーグメントされた命令</b>を実行するたび、敵全体に20点の<b>ダメージ</b>を与える。",
+            "Description": "<b>オーグメント命令</b>を実行するたび、ICEに20点の<b>ダメージ</b>を与える。",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
@@ -414,8 +414,17 @@
             "DriverName": "トランジスタドライバー",
             "ImagePath": "Driver_06.png",
             "Code": "ID53_DRIVER",
-            "Description": "自ターンで、カード1枚を破棄するたび、2<b>VIM</b>を生成する。",
+            "Description": "自ターンで、カード1枚を破棄するたび、1<b>VIM</b>を生成する。",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
+        },
+        {
+            "DriverName": "リップルドライバー",
+            "ImagePath": "Driver_06.png",
+            "Code": "ID54_DRIVER",
+            "Description": "各ターンに初めて<b>アシスト</b>効果が終了するとき、1枚のカードを引いて、1の<b>VIM</b>を生成する。",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
@@ -450,7 +459,7 @@
             "DriverName": "スカルドライバー",
             "ImagePath": "Driver_05.png",
             "Code": "ID34_DRIVER",
-            "Description": "<b>命令</b>を3回実行するごとに、1の<b>クロック</b>を獲得し、1枚を引く。(0/3)",
+            "Description": "<b>命令</b>を3回実行するたび、1の<b>クロック</b>を獲得する。(0/3)",
             "ImageIcon": "Driver_Icon_VIM_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
@@ -557,7 +566,7 @@
             "DriverName": "アップデートドライバー",
             "ImagePath": "Driver_07.png",
             "Code": "ID31_DRIVER",
-            "Description": "バトル開始時、<b>B級</b>カードからランダムに3枚を<b>アップグレード</b>する。（アップグレード効果は戦闘終了まで続く）",
+            "Description": "バトル開始時、<b>B級</b>カードをランダムに3枚<b>アップグレード</b>する。（アップグレード効果は戦闘終了まで続く）",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
@@ -613,7 +622,7 @@
             "DriverName": "ストリームドライバー",
             "ImagePath": "Driver_02.png",
             "Code": "ID6_DRIVER",
-            "Description": "1ターンに<b>攻撃</b>カードを3枚プレイするたび、1枚を引く。(0/3)",
+            "Description": "各ターンに初めて3枚目のカードをプレイした後、2枚のカードを引く。(0/3)",
             "ImageIcon": "Driver_Icon_Attack_01.png",
             "Color": "#5BD683FF",
             "Tooltips": []
@@ -631,7 +640,7 @@
             "DriverName": "バッテリードライバー",
             "ImagePath": "Driver_03.png",
             "Code": "ID8_DRIVER",
-            "Description": "1ターンに<b>防御</b>カードを3枚プレイするたび、1スタックの<b>オーバークロック</b>を獲得する。(0/3)",
+            "Description": "各ターンに初めて3枚目の<b>防御</b>カードをプレイした後、1スタックの<b>オーバークロック</b>を獲得する。(0/3)",
             "ImageIcon": "Driver_Icon_Defense_01.png",
             "Color": "#5BD683FF",
             "Tooltips": [
@@ -673,7 +682,7 @@
             "DriverName": "休止ドライバー",
             "ImagePath": "Driver_03.png",
             "Code": "ID12_DRIVER",
-            "Description": "ターン終了時、<b>バリア</b>は消滅せずに最大30まで次ターンに残す。",
+            "Description": "ターン終了時、<b>バリア</b>は消滅せずに最大25まで次ターンに残す。",
             "ImageIcon": "Driver_Icon_Defense_01.png",
             "Color": "#5BD683FF",
             "Tooltips": []
@@ -863,7 +872,7 @@
             "DriverName": "注射剤ドライバー",
             "ImagePath": "Driver_07.png",
             "Code": "ID110_DRIVER",
-            "Description": "<b>ノード</b>を<b>抽出</b>するたびに、15Ptの<b>完全性</b>を回復する。",
+            "Description": "<b>ノード</b>を<b>抽出</b>するたびに、10Ptの<b>完全性</b>を回復する。",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
@@ -935,7 +944,7 @@
             "DriverName": "ストームドライバー",
             "ImagePath": "Driver_04.png",
             "Code": "ID38_DRIVER",
-            "Description": "ターン終了時、<b>VIM</b>1点につき、敵全体に3点の<b>ダメージ</b>を与える。（合計0点の<b>ダメージ</b>）",
+            "Description": "ターン終了時、<b>VIM</b>1点につき、ICEに2点の<b>ダメージ</b>を与える。（合計0点の<b>ダメージ</b>）",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
@@ -965,7 +974,7 @@
         {
             "DriverName": "高速ドライバー",
             "ImagePath": "Driver_04.png",
-            "Code": "ID26_URSA_DRIVER",
+            "Code": "ID26_DRIVER",
             "Description": "6枚目のカードをプレイするたび、1の<b>クロック</b>を獲得する。（0/6）",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
             "Color": "#5AC7D6FF",

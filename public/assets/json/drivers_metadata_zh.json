@@ -347,7 +347,7 @@
             "DriverName": "卫星驱动",
             "ImagePath": "Driver_06.png",
             "Code": "ID42_DRIVER",
-            "Description": "每场战斗开始时，<b>增强</b>所有<b>指令</b>并获得1<b>时钟</b>。",
+            "Description": "每场战斗开始时，<b>增强</b>所有<b>指令</b>。",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": [
@@ -358,7 +358,7 @@
             "DriverName": "链条驱动",
             "ImagePath": "Driver_06.png",
             "Code": "ID52_DRIVER",
-            "Description": "每次你连续打出6张<b>脚本</b>牌，获得1<b>时钟</b>。（0/6）",
+            "Description": "每回合第一次打出5张<b>脚本</b>牌时，获得1<b>时钟</b>。（0/5）",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
@@ -376,7 +376,7 @@
             "DriverName": "毒蛇驱动",
             "ImagePath": "Driver_06.png",
             "Code": "ID43_DRIVER",
-            "Description": "提高4点<b>噬咬脚本</b>的基础<b>伤害</b>。",
+            "Description": "提高5点<b>噬咬脚本</b>的基础<b>伤害</b>。",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": [
@@ -396,7 +396,7 @@
             "DriverName": "冲击波驱动",
             "ImagePath": "Driver_06.png",
             "Code": "ID50_DRIVER",
-            "Description": "你每使用一次<b>增强指令</b>，对所有目标造成20点<b>伤害</b>。",
+            "Description": "每回合第一次使用<b>增强指令</b>时，对ICE造成20点<b>伤害</b>。",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
@@ -414,8 +414,17 @@
             "DriverName": "晶体管驱动",
             "ImagePath": "Driver_06.png",
             "Code": "ID53_DRIVER",
-            "Description": "在你的回合中，你每弃置一张卡牌，生成2点<b>VIM</b>。",
+            "Description": "在你的回合中，你每弃置一张卡牌，生成1点<b>VIM</b>。",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
+        },
+        {
+            "DriverName": "涟漪驱动",
+            "ImagePath": "Driver_06.png",
+            "Code": "ID54_DRIVER",
+            "Description": "每回合第一次触发<b>协作</b>效果时，抽取1张卡牌并生成1点<b>VIM</b>。",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
@@ -450,7 +459,7 @@
             "DriverName": "颅骨驱动",
             "ImagePath": "Driver_05.png",
             "Code": "ID34_DRIVER",
-            "Description": "每三次使用<b>指令</b>，获得1<b>时钟</b>并抽1张牌。（0/3）",
+            "Description": "每三次使用<b>指令</b>，获得1<b>时钟</b>。（0/3）",
             "ImageIcon": "Driver_Icon_VIM_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
@@ -557,7 +566,7 @@
             "DriverName": "更新驱动",
             "ImagePath": "Driver_07.png",
             "Code": "ID31_DRIVER",
-            "Description": "每场战斗开始时，随机升级3张<b>新手</b>牌，直到战斗结束。",
+            "Description": "每场战斗开始时，随机升级3张<b>初始</b>牌，直到战斗结束。",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
@@ -610,10 +619,10 @@
             "Tooltips": []
         },
         {
-            "DriverName": "溪流驱动",
+            "DriverName": "奔流驱动",
             "ImagePath": "Driver_02.png",
             "Code": "ID6_DRIVER",
-            "Description": "你每在同一回合内打出3张<b>攻击</b>牌，抽1张牌。（0/3）",
+            "Description": "每回合第一次打出3张<b>攻击</b>牌时，抽2张牌。（0/3）",
             "ImageIcon": "Driver_Icon_Attack_01.png",
             "Color": "#5BD683FF",
             "Tooltips": []
@@ -631,7 +640,7 @@
             "DriverName": "电池驱动",
             "ImagePath": "Driver_03.png",
             "Code": "ID8_DRIVER",
-            "Description": "你每在同一回合内打出3张<b>防御</b>牌，获得1层<b>超频</b>。（0/3）",
+            "Description": "每回合第一次打出3张<b>防御</b>牌时，获得1层<b>超频</b>。（0/3）",
             "ImageIcon": "Driver_Icon_Defense_01.png",
             "Color": "#5BD683FF",
             "Tooltips": [
@@ -673,7 +682,7 @@
             "DriverName": "冬眠驱动",
             "ImagePath": "Driver_03.png",
             "Code": "ID12_DRIVER",
-            "Description": "每回合可保留最多30层<b>屏障</b>，而不是耗尽所有屏障。",
+            "Description": "每回合可保留最多25层<b>屏障</b>，而不是耗尽所有屏障。",
             "ImageIcon": "Driver_Icon_Defense_01.png",
             "Color": "#5BD683FF",
             "Tooltips": []
@@ -773,7 +782,7 @@
             "DriverName": "撬棍驱动",
             "ImagePath": "Driver_07.png",
             "Code": "ID100_DRIVER",
-            "Description": "打开沉重门扉时需要花费的<b>踪迹</b>减1。",
+            "Description": "打开踪迹门扉时需要花费的<b>踪迹</b>减1。",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
@@ -863,7 +872,7 @@
             "DriverName": "注射器驱动",
             "ImagePath": "Driver_07.png",
             "Code": "ID110_DRIVER",
-            "Description": "每次<b>提取</b>节点时，恢复15点<b>完整性</b>。",
+            "Description": "每次<b>提取</b>节点时，恢复10点<b>完整性</b>。",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
@@ -935,7 +944,7 @@
             "DriverName": "风暴驱动",
             "ImagePath": "Driver_04.png",
             "Code": "ID38_DRIVER",
-            "Description": "回合结束时，每拥有一点<b>VIM</b>，对所有目标造成3点<b>伤害</b>。（0点<b>伤害</b>）",
+            "Description": "回合结束时，每拥有一点<b>VIM</b>，对ICE造成2点<b>伤害</b>。（0点<b>伤害</b>）",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
@@ -965,7 +974,7 @@
         {
             "DriverName": "疾速驱动",
             "ImagePath": "Driver_04.png",
-            "Code": "ID26_URSA_DRIVER",
+            "Code": "ID26_DRIVER",
             "Description": "每打出第6张卡牌，获得1<b>时钟</b>。（0/6）",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
             "Color": "#5AC7D6FF",

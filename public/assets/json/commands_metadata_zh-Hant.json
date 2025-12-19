@@ -28,7 +28,7 @@
         },
         {
             "CommandName": "構建",
-            "Cost": 6,
+            "Cost": 5,
             "Description": "生成1張你在本回合最後打出的<b>腳本</b> 牌副本。\n ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND",
@@ -38,7 +38,7 @@
         },
         {
             "CommandName": "增強·構建",
-            "Cost": 6,
+            "Cost": 5,
             "Description": "生成2張你在本回合最後打出的<b>腳本</b> 牌副本。\n ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND_AUGMENTED",
@@ -79,6 +79,22 @@
             "Tooltips": []
         },
         {
+            "CommandName": "再調度",
+            "Cost": 16,
+            "Description": "棄置最多3張牌，然後抽取同等數量的牌。",
+            "Tier": "Critical",
+            "Code": "MULLIGAN_COMMAND",
+            "Tooltips": []
+        },
+        {
+            "CommandName": "增強·再調度",
+            "Cost": 12,
+            "Description": "棄置最多3張牌，然後抽取同等數量的牌。",
+            "Tier": "Critical",
+            "Code": "MULLIGAN_COMMAND_AUGMENTED",
+            "Tooltips": []
+        },
+        {
             "CommandName": "準備",
             "Cost": 12,
             "Description": "在下一回合開始時，獲得 1<b>時鐘</b>。",
@@ -89,7 +105,7 @@
         {
             "CommandName": "增強·準備",
             "Cost": 12,
-            "Description": "在下一回合開始時，獲得 2<b>時鐘</b>。",
+            "Description": "在下一回合開始時，獲得 1<b>時鐘</b>，抽1張牌。",
             "Tier": "Major",
             "Code": "PREPARE_COMMAND_AUGMENTED",
             "Tooltips": []
@@ -130,8 +146,8 @@
         },
         {
             "CommandName": "複製",
-            "Cost": 20,
-            "Description": "為你的手牌中每張<b>腳本</b>牌生成1張副本。",
+            "Cost": 16,
+            "Description": "本回合每生成<b>腳本</b>牌時，再額外隨機生成1張<b>腳本</b>牌。",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND",
             "Tooltips": [
@@ -140,24 +156,24 @@
         },
         {
             "CommandName": "增強·複製",
-            "Cost": 15,
-            "Description": "為你的手牌中每張<b>腳本</b>牌生成1張副本。",
+            "Cost": 12,
+            "Description": "本回合每次生成<b>腳本</b>牌時，再額外隨機生成1張<b>腳本</b>牌。",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND_AUGMENTED",
             "Tooltips": []
         },
         {
             "CommandName": "重新利用",
-            "Cost": 6,
-            "Description": "棄置1張牌。",
+            "Cost": 5,
+            "Description": "棄置手牌中最右側的卡牌。",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND",
             "Tooltips": []
         },
         {
             "CommandName": "增強·重新利用",
-            "Cost": 6,
-            "Description": "棄掉 1 張卡牌後抽取 1 張卡牌。",
+            "Cost": 5,
+            "Description": "棄置1張牌。",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND_AUGMENTED",
             "Tooltips": []
@@ -184,7 +200,7 @@
         {
             "CommandName": "策劃",
             "Cost": 12,
-            "Description": "<b>保留</b>本回合所有<b>腳本</b>牌。",
+            "Description": "策劃",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND",
             "Tooltips": [
@@ -195,44 +211,27 @@
         {
             "CommandName": "增強·策劃",
             "Cost": 12,
-            "Description": "隨機生成1張隨機<b>腳本</b>牌。<b>保留</b>本回合所有<b>腳本</b>牌。",
+            "Description": "隨機生成2張<b>腳本</b>牌。<b>保留</b>本回合所有<b>腳本</b>牌。",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND_AUGMENTED",
             "Tooltips": []
         },
         {
             "CommandName": "接觸",
-            "Cost": 6,
-            "Description": "隨機觸發1次你的<b>協助</b>效果。",
+            "Cost": 5,
+            "Description": "隨機觸發1次你的<b>協助</b>效果，計數衰減。",
             "Tier": "Minor",
             "Code": "TOUCH_COMMAND",
             "Tooltips": [
-                "TriggerAssistTooltip",
                 "AssistTooltip"
             ]
         },
         {
             "CommandName": "增強·接觸",
-            "Cost": 6,
-            "Description": "隨機觸發2次你的<b>協助</b>效果。",
+            "Cost": 5,
+            "Description": "隨機觸發1次你的<b>協助</b>效果，不衰減計數。",
             "Tier": "Minor",
             "Code": "TOUCH_COMMAND_AUGMENTED",
-            "Tooltips": []
-        },
-        {
-            "CommandName": "超越",
-            "Cost": 17,
-            "Description": "棄置3張牌，獲得 2<b>時鐘</b>。",
-            "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND",
-            "Tooltips": []
-        },
-        {
-            "CommandName": "增強·超越",
-            "Cost": 17,
-            "Description": "棄置3張牌，獲得 3<b>時鐘</b>。",
-            "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND_AUGMENTED",
             "Tooltips": []
         },
         {

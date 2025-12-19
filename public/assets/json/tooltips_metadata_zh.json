@@ -13,7 +13,7 @@
         {
             "Code": "AugmentTooltip",
             "Title": "增强指令",
-            "Description": "增强指令是基础指令的强化版本。使用后，它们会变回基础指令。"
+            "Description": "增强指令可以刷新基础指令，并强化其效果。使用后，它会变回基础指令。"
         },
         {
             "Code": "BiteScriptTooltip",
@@ -93,12 +93,12 @@
         {
             "Code": "GlitchedCardsTooltip",
             "Title": "故障卡牌",
-            "Description": "故障卡片会在屏障、伤害或VIM方面的输出上受到减益影响，并在打出时对Runner造成伤害。\r\n此效果会在卡片被打出或弃置时移除。"
+            "Description": "故障卡牌打出后，会在它们的屏障、伤害或VIM方面受到减益，并对黑客造成伤害。\n此效果会在卡片被打出或弃置时移除。"
         },
         {
             "Code": "GlitchingMatrixTooltip",
             "Title": "故障矩阵",
-            "Description": "每当在本回合中打出攻击牌时，该卡片会变为故障卡牌。"
+            "Description": "每当在本回合中打出攻击牌时，该卡片会变为故障卡牌。每点表示持续回合数。"
         },
         {
             "Code": "GritTooltip",
@@ -248,7 +248,7 @@
         {
             "Code": "Tooltip_Inventory_LogScrubber",
             "Title": "日志清理器",
-            "Description": "踪迹减4。"
+            "Description": "踪迹减3。"
         },
         {
             "Code": "Tooltip_Inventory_LogWiper",

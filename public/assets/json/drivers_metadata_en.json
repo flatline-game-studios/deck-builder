@@ -347,7 +347,7 @@
             "DriverName": "SATELLITE DRIVER",
             "ImagePath": "Driver_06.png",
             "Code": "ID42_DRIVER",
-            "Description": "At the start of each combat, <b>Augment</b> all <b>Commands</b> and gain 1 <b>Clock</b>.",
+            "Description": "At the start of each combat, <b>Augment</b> all <b>Commands</b>.",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": [
@@ -358,7 +358,7 @@
             "DriverName": "CHAIN DRIVER",
             "ImagePath": "Driver_06.png",
             "Code": "ID52_DRIVER",
-            "Description": "Every time you play 6 <b>SCRIPTS</b> in a row, gain 1 <b>Clock</b>. (0/6)",
+            "Description": "The first time you play 5 <b>SCRIPTS</b> in a row each turn, gain 1 <b>Clock</b>. (0/5)",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
@@ -376,7 +376,7 @@
             "DriverName": "VIPER DRIVER",
             "ImagePath": "Driver_06.png",
             "Code": "ID43_DRIVER",
-            "Description": "Increase the base <b>DMG</b> of <b>BITE SCRIPTS</b> by 4.",
+            "Description": "Increase the base <b>DMG</b> of <b>BITE SCRIPTS</b> by 5.",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": [
@@ -396,7 +396,7 @@
             "DriverName": "SHOCKWAVE DRIVER",
             "ImagePath": "Driver_06.png",
             "Code": "ID50_DRIVER",
-            "Description": "Every time you use an <b>Augmented Command</b>, deal 20 <b>DMG</b> to all targets.",
+            "Description": "Every time you use an <b>Augmented Command</b>, deal 20 <b>DMG</b> to the ICE.",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
@@ -414,8 +414,17 @@
             "DriverName": "TRANSISTOR DRIVER",
             "ImagePath": "Driver_06.png",
             "Code": "ID53_DRIVER",
-            "Description": "Every time you discard a card during your turn, generate 2 <b>VIM</b>.",
+            "Description": "Every time you discard a card during your turn, generate 1 <b>VIM</b>.",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
+        },
+        {
+            "DriverName": "RIPPLE DRIVER",
+            "ImagePath": "Driver_06.png",
+            "Code": "ID54_DRIVER",
+            "Description": "The first time an <b>Assist</b> effect expires each turn, draw 1 card and generate 1 <b>VIM</b>.",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
@@ -450,7 +459,7 @@
             "DriverName": "CRANIUM DRIVER",
             "ImagePath": "Driver_05.png",
             "Code": "ID34_DRIVER",
-            "Description": "Every 3rd <b>Command</b> you use, gain 1 <b>Clock</b> and draw 1 card. (0/3)",
+            "Description": "Every 3rd <b>Command</b> you use, gain 1 <b>Clock</b>. (0/3)",
             "ImageIcon": "Driver_Icon_VIM_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
@@ -613,7 +622,7 @@
             "DriverName": "STREAM DRIVER",
             "ImagePath": "Driver_02.png",
             "Code": "ID6_DRIVER",
-            "Description": "Every time you play 3 <b>ATTACKS</b> in a single turn, draw 1 card. (0/3)",
+            "Description": "The first time you play 3 <b>Attacks</b> each turn, draw 2 cards. (0/3)",
             "ImageIcon": "Driver_Icon_Attack_01.png",
             "Color": "#5BD683FF",
             "Tooltips": []
@@ -631,7 +640,7 @@
             "DriverName": "BATTERY DRIVER",
             "ImagePath": "Driver_03.png",
             "Code": "ID8_DRIVER",
-            "Description": "Every time you play 3 <b>DEFENSES</b> in a single turn, gain 1 <b>Overclocked</b>. (0/3)",
+            "Description": "The first time you play 3 <b>Defenses</b> each turn, gain 1 <b>Overclocked</b>. (0/3)",
             "ImageIcon": "Driver_Icon_Defense_01.png",
             "Color": "#5BD683FF",
             "Tooltips": [
@@ -673,7 +682,7 @@
             "DriverName": "HIBERNATION DRIVER",
             "ImagePath": "Driver_03.png",
             "Code": "ID12_DRIVER",
-            "Description": "Each turn, preserve up to 30 <b>Barrier</b> instead of losing it all.",
+            "Description": "Each turn, preserve up to 25 <b>Barrier</b> instead of losing it all.",
             "ImageIcon": "Driver_Icon_Defense_01.png",
             "Color": "#5BD683FF",
             "Tooltips": []
@@ -773,7 +782,7 @@
             "DriverName": "CROWBAR DRIVER",
             "ImagePath": "Driver_07.png",
             "Code": "ID100_DRIVER",
-            "Description": "Heavy Gates cost 1 less <b>Trace</b> to open.",
+            "Description": "Trace Gates cost 1 less <b>Trace</b> to open.",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
@@ -863,7 +872,7 @@
             "DriverName": "SYRINGE DRIVER",
             "ImagePath": "Driver_07.png",
             "Code": "ID110_DRIVER",
-            "Description": "Every time you <b>Extract</b> a Node, restore 15 <b>Integrity</b>.",
+            "Description": "Every time you <b>Extract</b> a Node, restore 10 <b>Integrity</b>.",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
@@ -935,7 +944,7 @@
             "DriverName": "STORM DRIVER",
             "ImagePath": "Driver_04.png",
             "Code": "ID38_DRIVER",
-            "Description": "At the end of your turn, deal 3 <b>DMG</b> to all targets per point of <b>VIM</b> you have. (0 <b>DMG</b>)",
+            "Description": "At the end of your turn, deal 2 <b>DMG</b> to the ICE per point of <b>VIM</b> you have. (0 <b>DMG</b>)",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
@@ -965,7 +974,7 @@
         {
             "DriverName": "VELOCITY DRIVER",
             "ImagePath": "Driver_04.png",
-            "Code": "ID26_URSA_DRIVER",
+            "Code": "ID26_DRIVER",
             "Description": "Every 6th card you play, gain 1 <b>Clock</b>. (0/6)",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
             "Color": "#5AC7D6FF",

@@ -134,7 +134,7 @@
             "Code": "CAPTAIN_COMMANDOGS",
             "Descriptions": [
                 "25포인트의 <b>피해</b>를 줍니다.",
-                "<b>어시스트 2:</b> 무작위 커맨드를 <b>강화</b>합니다."
+                "<b>어시스트 1:</b> 무작위 커맨드를 <b>강화</b>합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -155,7 +155,7 @@
             "Code": "CAPTAIN_COMMANDOGS_UPGRADED",
             "Descriptions": [
                 "30포인트의 <b>피해</b>를 줍니다.",
-                "<b>어시스트 3:</b> 무작위 커맨드를 <b>강화</b>합니다."
+                "<b>어시스트 2:</b> 무작위 커맨드를 <b>강화</b>합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -589,7 +589,7 @@
             "ImagePath": "LIQUEFACTION.jpg",
             "Code": "LIQUEFACTION",
             "Descriptions": [
-                "20포인트의 <b>피해</b>를 줍니다.",
+                "15포인트의 <b>피해</b>를 줍니다.",
                 "<b>명중 후:</b> 2장의 <b>바이트 스크립트</b>를 생성합니다."
             ],
             "Conditional": "",
@@ -1352,7 +1352,7 @@
             "Code": "VENOM_STRIKE",
             "Descriptions": [
                 "20포인트의 <b>피해</b>를 줍니다.",
-                "이번 턴 동안 <b>바이트 스크립트</b>의 피해량을 10만큼 증가시킵니다.",
+                "이번 턴 동안 <b>바이트 스크립트</b>의 피해량을 5만큼 증가시킵니다.",
                 "<b>명중 후:</b> 2중첩의 <b>폭로</b>를 부여합니다."
             ],
             "Conditional": "",
@@ -1373,8 +1373,8 @@
             "ImagePath": "VENOM_STRIKE.jpg",
             "Code": "VENOM_STRIKE_UPGRADED",
             "Descriptions": [
-                "45포인트의 <b>피해</b>를 줍니다.",
-                "이번 턴 동안 <b>바이트 스크립트</b>의 피해량을 10만큼 증가시킵니다.",
+                "40포인트의 <b>피해</b>를 줍니다.",
+                "이번 턴 동안 <b>바이트 스크립트</b>의 피해량을 5만큼 증가시킵니다.",
                 "<b>명중 후:</b> 2중첩의 <b>폭로</b>를 부여합니다."
             ],
             "Conditional": "",
@@ -1383,7 +1383,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "공격",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "BiteScriptTooltip",
@@ -1763,7 +1763,7 @@
             "Descriptions": [
                 "30포인트의 <b>방어막</b>을 획득합니다."
             ],
-            "Conditional": "이번 턴에 2장 이상의 <b>스크립트</b>를 사용했다면, 추가로:",
+            "Conditional": "이번 턴에 5장 이상의 <b>스크립트</b>를 사용했다면, 추가로:",
             "ConditionalDescriptions": [
                 "마지막으로 사용한 <b>스크립트</b>의 복사본 2장을 생성합니다."
             ],
@@ -1782,9 +1782,9 @@
             "ImagePath": "MOLT.jpg",
             "Code": "MOLT_UPGRADED",
             "Descriptions": [
-                "45포인트의 <b>방어막</b>을 획득합니다."
+                "40포인트의 <b>방어막</b>을 획득합니다."
             ],
-            "Conditional": "이번 턴에 2장 이상의 <b>스크립트</b>를 사용했다면, 추가로:",
+            "Conditional": "이번 턴에 5장 이상의 <b>스크립트</b>를 사용했다면, 추가로:",
             "ConditionalDescriptions": [
                 "마지막으로 사용한 <b>스크립트</b>의 복사본 3장을 생성합니다."
             ],
@@ -1843,10 +1843,9 @@
             "ImagePath": "PAPER_CRANE.jpg",
             "Code": "PAPER_CRANE",
             "Descriptions": [
-                "30포인트의 <b>방어막</b>을 획득합니다.",
+                "20포인트의 <b>방어막</b>을 획득합니다.",
                 "1장의 카드를 버립니다.",
-                "1장의 카드를 뽑습니다.",
-                "<b>디컴파일</b>."
+                "<b>버리기 시:</b> 20포인트의 <b>방어막</b>을 획득합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1857,7 +1856,7 @@
             "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
-                "DecompileTooltip"
+                "OnDiscardTooltip"
             ]
         },
         {
@@ -1865,10 +1864,9 @@
             "ImagePath": "PAPER_CRANE.jpg",
             "Code": "PAPER_CRANE_UPGRADED",
             "Descriptions": [
-                "50포인트의 <b>방어막</b>을 획득합니다.",
+                "30포인트의 <b>방어막</b>을 획득합니다.",
                 "1장의 카드를 버립니다.",
-                "2장의 카드를 뽑습니다.",
-                "<b>디컴파일</b>."
+                "<b>버리기 시:</b> 30포인트의 <b>방어막</b>을 획득합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1876,10 +1874,10 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "방어",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": [
-                "DecompileTooltip"
+                "OnDiscardTooltip"
             ]
         },
         {
@@ -1896,7 +1894,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "방어",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": false,
             "Tooltips": []
         },
@@ -1906,7 +1904,7 @@
             "Code": "PATCHWORK_UPGRADED",
             "Descriptions": [
                 "최대 5장의 카드를 버립니다.",
-                "버린 카드 1장당 25포인트의 <b>방어막</b>을 획득합니다."
+                "버린 카드 1장당 20포인트의 <b>방어막</b>을 획득합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1914,7 +1912,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "방어",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": []
         },
@@ -2049,8 +2047,8 @@
             "ImagePath": "SILK_SHELL.jpg",
             "Code": "SILK_SHELL",
             "Descriptions": [
-                "40포인트의 <b>방어막</b>을 획득합니다.",
-                "2장의 <b>코쿤 스크립트</b>를 생성합니다."
+                "30포인트의 <b>방어막</b>을 획득합니다.",
+                "3장의 <b>코쿤 스크립트</b>를 생성합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2069,8 +2067,8 @@
             "ImagePath": "SILK_SHELL.jpg",
             "Code": "SILK_SHELL_UPGRADED",
             "Descriptions": [
-                "50포인트의 <b>방어막</b>을 획득합니다.",
-                "3장의 <b>코쿤 스크립트</b>를 생성합니다."
+                "30포인트의 <b>방어막</b>을 획득합니다.",
+                "4장의 <b>코쿤 스크립트</b>를 생성합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2078,7 +2076,7 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "방어",
-            "Vim": 3,
+            "Vim": 4,
             "IsUpgrade": true,
             "Tooltips": [
                 "CocoonScriptTooltip"
@@ -2340,7 +2338,7 @@
             "ConditionalDescriptions": [],
             "Rarity": "레어",
             "Color": "#E9B705FF",
-            "Clock": 0,
+            "Clock": 1,
             "Type": "생성기",
             "Vim": 1,
             "IsUpgrade": false,
@@ -2354,7 +2352,7 @@
             "ImagePath": "AIR_SUPERIORITY.jpg",
             "Code": "3_STEPS_AHEAD_UPGRADED",
             "Descriptions": [
-                "보유한 <b>보강</b> 커맨드 하나당 2장의 카드를 뽑고, 1 <b>시계</b>를 획득합니다.",
+                "보유한 <b>보강</b> 커맨드 하나당 1장의 카드를 뽑고, 1 <b>시계</b>를 획득합니다.",
                 "<b>디컴파일</b>."
             ],
             "Conditional": "",
@@ -2363,7 +2361,7 @@
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "생성기",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": [
                 "AugmentTooltip",
@@ -2466,7 +2464,7 @@
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "생성기",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": false,
             "Tooltips": [
                 "AugmentTooltip"
@@ -2487,7 +2485,7 @@
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "생성기",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "AugmentTooltip"
@@ -2796,11 +2794,12 @@
             "ImagePath": "SCOUTING_SCUTTLE.jpg",
             "Code": "SCOUTING_SCUTTLE",
             "Descriptions": [
-                "이번 턴에 플레이한 <b>스크립트</b>마다 1장의 카드를 뽑습니다 (0장).",
-                "랜덤으로 1장의 <b>스크립트</b>를 생성합니다."
+                "2장의 <b>위브 스크립트</b>를 생성합니다."
             ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
+            "Conditional": "이번 턴에 5장 이상의 <b>스크립트</b>를 사용했다면, 추가로:",
+            "ConditionalDescriptions": [
+                "2장의 <b>위브 스크립트</b>를 생성합니다."
+            ],
             "Rarity": "보통",
             "Color": "#E9B705FF",
             "Clock": 1,
@@ -2816,16 +2815,17 @@
             "ImagePath": "SCOUTING_SCUTTLE.jpg",
             "Code": "SCOUTING_SCUTTLE_UPGRADED",
             "Descriptions": [
-                "이번 턴에 플레이한 <b>스크립트</b>마다 2장의 카드를 뽑습니다 (0장).",
-                "랜덤으로 1장의 <b>스크립트</b>를 생성합니다."
+                "3장의 <b>위브 스크립트</b>를 생성합니다."
             ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
+            "Conditional": "이번 턴에 5장 이상의 <b>스크립트</b>를 사용했다면, 추가로:",
+            "ConditionalDescriptions": [
+                "3장의 <b>위브 스크립트</b>를 생성합니다."
+            ],
             "Rarity": "보통",
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "생성기",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "ScriptTooltip"
@@ -3120,7 +3120,7 @@
             "ImagePath": "ADAPTATION_PROTOCOL.jpg",
             "Code": "ADAPTATION_PROTOCOL",
             "Descriptions": [
-                "턴 시작 시, 랜덤으로 커맨드를 <b>보강</b>합니다."
+                "<b>보강 커맨드</b>를 사용할 때마다 <b>VIM</b> 2을 생성합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -3128,7 +3128,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "프로토콜",
-            "Vim": 0,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3146,9 +3146,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "유니크",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "프로토콜",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3166,9 +3166,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "유니크",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "프로토콜",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3180,15 +3180,15 @@
             "ImagePath": "EXPIRATION_PROTOCOL.jpg",
             "Code": "EXPIRATION_PROTOCOL",
             "Descriptions": [
-                "<b>어시스트</b> 효과가 만료될 때마다, 1 <b>시계</b>를 획득합니다."
+                "매 턴에서 처음으로 <b>어시스트</b> 효과가 발동할 때, 1 <b>시계</b>를 획득합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "유니크",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "프로토콜",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3200,15 +3200,15 @@
             "ImagePath": "HATCH_PROTOCOL.jpg",
             "Code": "HATCH_PROTOCOL",
             "Descriptions": [
-                "턴 시작 시, 랜덤으로 2장의 <b>스크립트</b>를 생성합니다."
+                "자신의 턴 시작 시, 랜덤으로 2장의 <b>스크립트</b>를 생성합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "레어",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "프로토콜",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3220,15 +3220,15 @@
             "ImagePath": "JUNK_PROTOCOL.jpg",
             "Code": "JUNK_PROTOCOL",
             "Descriptions": [
-                "턴 중 카드 버릴 때마다, 모든 유닛에게 10포인트의 <b>피해</b>를 줍니다."
+                "자신의 턴 중 카드 버릴 때마다, ICE에게 10 <b>피해</b>를 줍니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "유니크",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "프로토콜",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -3267,7 +3267,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "프로토콜",
-            "Vim": 0,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -3324,7 +3324,7 @@
             "Color": "#FFFFFFFF",
             "Clock": 0,
             "Type": "스크립트",
-            "Vim": 1,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ScriptTooltip"
@@ -3995,15 +3995,17 @@
             ],
             "Conditional": "만약 최소 12포인트의 <b>VIM</b>을 가지고 있다면, 추가로: ",
             "ConditionalDescriptions": [
-                "1장의 카드를 뽑습니다."
+                "1중첩의 <b>캐시</b>를 얻습니다."
             ],
             "Rarity": "보통",
             "Color": "#E9042AFF",
             "Clock": 0,
             "Type": "공격",
-            "Vim": 1,
+            "Vim": 0,
             "IsUpgrade": false,
-            "Tooltips": []
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "메모리 단검",
@@ -4014,15 +4016,17 @@
             ],
             "Conditional": "만약 최소 12포인트의 <b>VIM</b>을 가지고 있다면, 추가로: ",
             "ConditionalDescriptions": [
-                "1장의 카드를 뽑습니다."
+                "1중첩의 <b>캐시</b>를 얻습니다."
             ],
             "Rarity": "보통",
             "Color": "#E9042AFF",
             "Clock": 0,
             "Type": "공격",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": true,
-            "Tooltips": []
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "메모리 점프",
@@ -4359,7 +4363,7 @@
             ]
         },
         {
-            "CardName": "태양 폭발X",
+            "CardName": "태양 폭발x",
             "ImagePath": "SUN_BURST_X.jpg",
             "Code": "SUN_BURST_X",
             "Descriptions": [
@@ -4377,7 +4381,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "태양 폭발X",
+            "CardName": "태양 폭발x",
             "ImagePath": "SUN_BURST_X.jpg",
             "Code": "SUN_BURST_X_UPGRADED",
             "Descriptions": [
@@ -4553,7 +4557,7 @@
             "Descriptions": [
                 "30포인트의 <b>피해</b>를 줍니다."
             ],
-            "Conditional": "만약 최소<br>6중첩의 <b>야성</b>을 가지고 있다면, 추가로:",
+            "Conditional": "만약 최소<br>8중첩의 <b>야성</b>을 가지고 있다면, 추가로:",
             "ConditionalDescriptions": [
                 "1 <b>시계</b>를 얻습니다."
             ],
@@ -4572,17 +4576,17 @@
             "ImagePath": "THE_STRAY_AMBUSH.jpg",
             "Code": "THE_STRAYS_AMBUSH_UPGRADED",
             "Descriptions": [
-                "30포인트의 <b>피해</b>를 줍니다."
+                "50포인트의 <b>피해</b>를 줍니다."
             ],
             "Conditional": "만약 최소<br>8중첩의 <b>야성</b>을 가지고 있다면, 추가로:",
             "ConditionalDescriptions": [
-                "2 <b>시계</b>를 얻습니다."
+                "1 <b>시계</b>를 얻습니다."
             ],
             "Rarity": "일반",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "공격",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "FeralTooltip"
@@ -4640,7 +4644,7 @@
             "ConditionalDescriptions": [],
             "Rarity": "유니크",
             "Color": "#E9042AFF",
-            "Clock": 1,
+            "Clock": 2,
             "Type": "공격",
             "Vim": 2,
             "IsUpgrade": false,
@@ -4660,7 +4664,7 @@
             "ConditionalDescriptions": [],
             "Rarity": "유니크",
             "Color": "#E9042AFF",
-            "Clock": 1,
+            "Clock": 2,
             "Type": "공격",
             "Vim": 2,
             "IsUpgrade": true,
@@ -4828,7 +4832,7 @@
             ],
             "Conditional": "이번 턴에 공격이 명중했다면 대신:",
             "ConditionalDescriptions": [
-                "60포인트의 <b>방어막</b>을 획득합니다."
+                "50포인트의 <b>방어막</b>을 획득합니다."
             ],
             "Rarity": "보통",
             "Color": "#047BEAFF",
@@ -4843,11 +4847,11 @@
             "ImagePath": "PREY_DRIVE.jpg",
             "Code": "ANIMAL_INSTINCT_UPGRADED",
             "Descriptions": [
-                "40포인트의 <b>방어막</b>을 획득합니다."
+                "30포인트의 <b>방어막</b>을 획득합니다."
             ],
             "Conditional": "이번 턴에 공격이 명중했다면 대신:",
             "ConditionalDescriptions": [
-                "80포인트의 <b>방어막</b>을 획득합니다."
+                "70포인트의 <b>방어막</b>을 획득합니다."
             ],
             "Rarity": "보통",
             "Color": "#047BEAFF",
@@ -5193,15 +5197,17 @@
             ],
             "Conditional": "이번 턴에 최소<br><b>커맨드</b> 1회를 사용했다면, 추가로:",
             "ConditionalDescriptions": [
-                "1장의 카드를 뽑습니다."
+                "1중첩의 <b>캐시</b>를 얻습니다."
             ],
             "Rarity": "보통",
             "Color": "#047BEAFF",
             "Clock": 0,
             "Type": "방어",
-            "Vim": 0,
+            "Vim": 1,
             "IsUpgrade": true,
-            "Tooltips": []
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
             "CardName": "사육장의 법칙",
@@ -5210,7 +5216,7 @@
             "Descriptions": [
                 "30포인트의 <b>방어막</b>을 획득합니다."
             ],
-            "Conditional": "만약 최소 6중첩의 <b>투지</b>를 가지고 있다면, 추가로:",
+            "Conditional": "만약 최소 8중첩의 <b>투지</b>를 가지고 있다면, 추가로:",
             "ConditionalDescriptions": [
                 "1 <b>시계</b>를 얻습니다."
             ],
@@ -5229,9 +5235,9 @@
             "ImagePath": "KENNEL_LAW.jpg",
             "Code": "KENNEL_LAW_UPGRADED",
             "Descriptions": [
-                "45포인트의 <b>방어막</b>을 획득합니다."
+                "50포인트의 <b>방어막</b>을 획득합니다."
             ],
-            "Conditional": "최소 6중첩의 <b>투지</b>를 가지고 있다면, 추가로:",
+            "Conditional": "최소 8중첩의 <b>투지</b>를 가지고 있다면, 추가로:",
             "ConditionalDescriptions": [
                 "1 <b>시계</b>를 얻습니다."
             ],
@@ -5239,7 +5245,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "방어",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": [
                 "GritTooltip"
@@ -5254,7 +5260,7 @@
             ],
             "Conditional": "만약 최소 12포인트의 <b>VIM</b>을 가지고 있다면, 추가로: ",
             "ConditionalDescriptions": [
-                "1장의 카드를 뽑습니다."
+                "<b>VIM</b>을 2포인트 추가로 생성합니다."
             ],
             "Rarity": "보통",
             "Color": "#047BEAFF",
@@ -5273,7 +5279,7 @@
             ],
             "Conditional": "만약 최소 12포인트의 <b>VIM</b>을 가지고 있다면, 추가로: ",
             "ConditionalDescriptions": [
-                "1장의 카드를 뽑습니다."
+                "<b>VIM</b>을 2포인트 추가로 생성합니다."
             ],
             "Rarity": "보통",
             "Color": "#047BEAFF",
@@ -5324,7 +5330,7 @@
             ]
         },
         {
-            "CardName": "펫 Z-봇",
+            "CardName": "펫 Z 봇",
             "ImagePath": "PET_Z_BOT.jpg",
             "Code": "PET_Z_BOT",
             "Descriptions": [
@@ -5342,7 +5348,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "펫 Z-봇",
+            "CardName": "펫 Z 봇",
             "ImagePath": "PET_Z_BOT.jpg",
             "Code": "PET_Z_BOT_UPGRADED",
             "Descriptions": [
@@ -5560,7 +5566,7 @@
             ]
         },
         {
-            "CardName": "천둥 Z-봇",
+            "CardName": "천둥 Z 봇",
             "ImagePath": "THUNDER_Z_BOT.jpg",
             "Code": "THUNDER_Z_BOT",
             "Descriptions": [
@@ -5580,7 +5586,7 @@
             ]
         },
         {
-            "CardName": "천둥 Z-봇",
+            "CardName": "천둥 Z 봇",
             "ImagePath": "THUNDER_Z_BOT.jpg",
             "Code": "THUNDER_Z_BOT_UPGRADED",
             "Descriptions": [
@@ -5638,7 +5644,7 @@
             "ImagePath": "Baribal_angry.jpg",
             "Code": "DEV_CARD_3",
             "Descriptions": [
-                "140"
+                "120"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -6270,7 +6276,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "프로토콜",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6281,15 +6287,15 @@
             "ImagePath": "CUNNING_PROTOCOL.jpg",
             "Code": "CUNNING_PROTOCOL",
             "Descriptions": [
-                "턴이 시작될 때 3중첩의 <b>투지</b>를 획득합니다."
+                "턴이 시작될 때 2중첩의 <b>투지</b>를 획득합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "유니크",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "프로토콜",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6309,7 +6315,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "프로토콜",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6320,15 +6326,15 @@
             "ImagePath": "IGNITION_PROTOCOL.jpg",
             "Code": "IGNITION_PROTOCOL",
             "Descriptions": [
-                "매번 <b>커맨드</b>를 활성화할 때마다, 20포인트의 <b>피해</b>를 입힙니다."
+                "매번 <b>커맨드</b>를 활성화할 때마다, 15포인트의 <b>피해</b>를 입힙니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "유니크",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "프로토콜",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6358,15 +6364,15 @@
             "ImagePath": "MOON_PROTOCOL.jpg",
             "Code": "MOON_PROTOCOL",
             "Descriptions": [
-                "턴이 시작될 때 3중첩의 <b>야성</b>을 획득합니다."
+                "턴이 시작될 때 2중첩의 <b>야성</b>을 획득합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "유니크",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "프로토콜",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6386,7 +6392,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "프로토콜",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6406,7 +6412,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "프로토콜",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6414,7 +6420,7 @@
             ]
         },
         {
-            "CardName": "PING-U 프로토콜",
+            "CardName": "Ping U 프로토콜",
             "ImagePath": "PINGU_PROTOCOL.jpg",
             "Code": "PING_U_PROTOCOL",
             "Descriptions": [
@@ -6426,7 +6432,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "프로토콜",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6465,14 +6471,14 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "프로토콜",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
             ]
         },
         {
-            "CardName": "NULL",
+            "CardName": "Null",
             "ImagePath": ".jpg",
             "Code": "DECOMPILE_TEST",
             "Descriptions": [],
@@ -6487,7 +6493,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "NULL",
+            "CardName": "Null",
             "ImagePath": ".jpg",
             "Code": "FACTORY_TEST",
             "Descriptions": [],
@@ -6502,7 +6508,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "NULL",
+            "CardName": "Null",
             "ImagePath": "AMPED_CODESLASH.jpg",
             "Code": "HACK_TEST",
             "Descriptions": [],

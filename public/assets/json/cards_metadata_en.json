@@ -1,7 +1,7 @@
 {
     "Items": [
         {
-            "CardName": "AFTERSHOCK",
+            "CardName": "Aftershock",
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK",
             "Descriptions": [
@@ -22,7 +22,7 @@
             ]
         },
         {
-            "CardName": "AFTERSHOCK",
+            "CardName": "Aftershock",
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK_UPGRADED",
             "Descriptions": [
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "CardName": "APEX ARACHNID",
+            "CardName": "Apex Arachnid",
             "ImagePath": "APEX_ARACHNID.jpg",
             "Code": "APEX_ARACHNID",
             "Descriptions": [
@@ -65,7 +65,7 @@
             ]
         },
         {
-            "CardName": "APEX ARACHNID",
+            "CardName": "Apex Arachnid",
             "ImagePath": "APEX_ARACHNID.jpg",
             "Code": "APEX_ARACHNID_UPGRADED",
             "Descriptions": [
@@ -87,7 +87,7 @@
             ]
         },
         {
-            "CardName": "CALIBRATE",
+            "CardName": "Calibrate",
             "ImagePath": "CALIBRATE.jpg",
             "Code": "CALIBRATE",
             "Descriptions": [
@@ -108,7 +108,7 @@
             ]
         },
         {
-            "CardName": "CALIBRATE",
+            "CardName": "Calibrate",
             "ImagePath": "CALIBRATE.jpg",
             "Code": "CALIBRATE_UPGRADED",
             "Descriptions": [
@@ -129,12 +129,12 @@
             ]
         },
         {
-            "CardName": "CAPTAIN COMMANDOGS",
+            "CardName": "Captain Commandogs",
             "ImagePath": "CAPTAIN_COMMANDOGS.jpg",
             "Code": "CAPTAIN_COMMANDOGS",
             "Descriptions": [
                 "Deal 25 <b>DMG</b>.",
-                "<b>Assist 2:</b> <b>Augment</b> a random Command."
+                "<b>Assist 1:</b> <b>Augment</b> a random Command."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -150,12 +150,12 @@
             ]
         },
         {
-            "CardName": "CAPTAIN COMMANDOGS",
+            "CardName": "Captain Commandogs",
             "ImagePath": "CAPTAIN_COMMANDOGS.jpg",
             "Code": "CAPTAIN_COMMANDOGS_UPGRADED",
             "Descriptions": [
                 "Deal 30 <b>DMG</b>.",
-                "<b>Assist 3:</b> <b>Augment</b> a random Command."
+                "<b>Assist 2:</b> <b>Augment</b> a random Command."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -171,7 +171,7 @@
             ]
         },
         {
-            "CardName": "CODECRUNCH",
+            "CardName": "Codecrunch",
             "ImagePath": "CODECRUNCH.jpg",
             "Code": "CODECRUNCH",
             "Descriptions": [
@@ -188,7 +188,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "CODECRUNCH",
+            "CardName": "Codecrunch",
             "ImagePath": "CODECRUNCH.jpg",
             "Code": "CODECRUNCH_UPGRADED",
             "Descriptions": [
@@ -205,7 +205,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "CODESMASH",
+            "CardName": "Codesmash",
             "ImagePath": "CODESMASH.jpg",
             "Code": "CODESMASH",
             "Descriptions": [
@@ -227,7 +227,7 @@
             ]
         },
         {
-            "CardName": "CODESMASH",
+            "CardName": "Codesmash",
             "ImagePath": "CODESMASH.jpg",
             "Code": "CODESMASH_UPGRADED",
             "Descriptions": [
@@ -249,7 +249,7 @@
             ]
         },
         {
-            "CardName": "DEADLY THREADING",
+            "CardName": "Deadly Threading",
             "ImagePath": "DEADLY_THREADING.jpg",
             "Code": "DEADLY_THREADING",
             "Descriptions": [
@@ -271,7 +271,7 @@
             ]
         },
         {
-            "CardName": "DEADLY THREADING",
+            "CardName": "Deadly Threading",
             "ImagePath": "DEADLY_THREADING.jpg",
             "Code": "DEADLY_THREADING_UPGRADED",
             "Descriptions": [
@@ -293,7 +293,7 @@
             ]
         },
         {
-            "CardName": "ERRATIC WEAVING",
+            "CardName": "Erratic Weaving",
             "ImagePath": "ERRATIC_WEAVING.jpg",
             "Code": "ERRATIC_WEAVING",
             "Descriptions": [
@@ -315,7 +315,7 @@
             ]
         },
         {
-            "CardName": "ERRATIC WEAVING",
+            "CardName": "Erratic Weaving",
             "ImagePath": "ERRATIC_WEAVING.jpg",
             "Code": "ERRATIC_WEAVING_UPGRADED",
             "Descriptions": [
@@ -337,7 +337,7 @@
             ]
         },
         {
-            "CardName": "EXTRAPOLATE",
+            "CardName": "Extrapolate",
             "ImagePath": "EXTRAPOLATE.jpg",
             "Code": "EXTRAPOLATE",
             "Descriptions": [
@@ -358,7 +358,7 @@
             ]
         },
         {
-            "CardName": "EXTRAPOLATE",
+            "CardName": "Extrapolate",
             "ImagePath": "EXTRAPOLATE.jpg",
             "Code": "EXTRAPOLATE_UPGRADED",
             "Descriptions": [
@@ -379,7 +379,7 @@
             ]
         },
         {
-            "CardName": "FEEDING FRENZY",
+            "CardName": "Feeding Frenzy",
             "ImagePath": "FEEDING_FRENZY.jpg",
             "Code": "FEEDING_FRENZY",
             "Descriptions": [
@@ -400,7 +400,7 @@
             ]
         },
         {
-            "CardName": "FEEDING FRENZY",
+            "CardName": "Feeding Frenzy",
             "ImagePath": "FEEDING_FRENZY.jpg",
             "Code": "FEEDING_FRENZY_UPGRADED",
             "Descriptions": [
@@ -421,7 +421,7 @@
             ]
         },
         {
-            "CardName": "FRACTAL FANG",
+            "CardName": "Fractal Fang",
             "ImagePath": "FRACTAL_FANG.jpg",
             "Code": "FRACTAL_FANG",
             "Descriptions": [
@@ -438,7 +438,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "FRACTAL FANG",
+            "CardName": "Fractal Fang",
             "ImagePath": "FRACTAL_FANG.jpg",
             "Code": "FRACTAL_FANG_UPGRADED",
             "Descriptions": [
@@ -455,7 +455,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "GLASS CANNON",
+            "CardName": "Glass Cannon",
             "ImagePath": "GLASS_CANNON.jpg",
             "Code": "GLASS_CANNON",
             "Descriptions": [
@@ -477,7 +477,7 @@
             ]
         },
         {
-            "CardName": "GLASS CANNON",
+            "CardName": "Glass Cannon",
             "ImagePath": "GLASS_CANNON.jpg",
             "Code": "GLASS_CANNON_UPGRADED",
             "Descriptions": [
@@ -499,7 +499,7 @@
             ]
         },
         {
-            "CardName": "HOTFIX",
+            "CardName": "Hotfix",
             "ImagePath": "HOTFIX.jpg",
             "Code": "HOTFIX",
             "Descriptions": [
@@ -521,7 +521,7 @@
             ]
         },
         {
-            "CardName": "HOTFIX",
+            "CardName": "Hotfix",
             "ImagePath": "HOTFIX.jpg",
             "Code": "HOTFIX_UPGRADED",
             "Descriptions": [
@@ -543,7 +543,7 @@
             ]
         },
         {
-            "CardName": "JUMPSTART",
+            "CardName": "Jumpstart",
             "ImagePath": "JUMPSTART.jpg",
             "Code": "JUMPSTART",
             "Descriptions": [
@@ -564,7 +564,7 @@
             ]
         },
         {
-            "CardName": "JUMPSTART",
+            "CardName": "Jumpstart",
             "ImagePath": "JUMPSTART.jpg",
             "Code": "JUMPSTART_UPGRADED",
             "Descriptions": [
@@ -585,11 +585,11 @@
             ]
         },
         {
-            "CardName": "LIQUEFACTION",
+            "CardName": "Liquefaction",
             "ImagePath": "LIQUEFACTION.jpg",
             "Code": "LIQUEFACTION",
             "Descriptions": [
-                "Deal 20 <b>DMG</b>.",
+                "Deal 15 <b>DMG</b>.",
                 "<b>On-Hit:</b> Create 2 <b>Bite Scripts</b>."
             ],
             "Conditional": "",
@@ -605,7 +605,7 @@
             ]
         },
         {
-            "CardName": "LIQUEFACTION",
+            "CardName": "Liquefaction",
             "ImagePath": "LIQUEFACTION.jpg",
             "Code": "LIQUEFACTION_UPGRADED",
             "Descriptions": [
@@ -625,7 +625,7 @@
             ]
         },
         {
-            "CardName": "MAGGIE THE MAGPIE",
+            "CardName": "Maggie The Magpie",
             "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
             "Code": "MAGGIE_THE_MAGPIE",
             "Descriptions": [
@@ -645,7 +645,7 @@
             ]
         },
         {
-            "CardName": "MAGGIE THE MAGPIE",
+            "CardName": "Maggie The Magpie",
             "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
             "Code": "MAGGIE_THE_MAGPIE_UPGRADED",
             "Descriptions": [
@@ -665,7 +665,7 @@
             ]
         },
         {
-            "CardName": "MOSQUITO INCOGNITO",
+            "CardName": "Mosquito Incognito",
             "ImagePath": "MOSQUITO_INCOGNITO.jpg",
             "Code": "MOSQUITO_INCOGNITO",
             "Descriptions": [
@@ -687,7 +687,7 @@
             ]
         },
         {
-            "CardName": "MOSQUITO INCOGNITO",
+            "CardName": "Mosquito Incognito",
             "ImagePath": "MOSQUITO_INCOGNITO.jpg",
             "Code": "MOSQUITO_INCOGNITO_UPGRADED",
             "Descriptions": [
@@ -707,7 +707,7 @@
             ]
         },
         {
-            "CardName": "NEUROTOXIC HARPOON",
+            "CardName": "Neurotoxic Harpoon",
             "ImagePath": "NEUROTOXIC_HARPOON.jpg",
             "Code": "NEUROTOXIC_HARPOON",
             "Descriptions": [
@@ -729,7 +729,7 @@
             ]
         },
         {
-            "CardName": "NEUROTOXIC HARPOON",
+            "CardName": "Neurotoxic Harpoon",
             "ImagePath": "NEUROTOXIC_HARPOON.jpg",
             "Code": "NEUROTOXIC_HARPOON_UPGRADED",
             "Descriptions": [
@@ -751,7 +751,7 @@
             ]
         },
         {
-            "CardName": "DISPOSABLE UNITS",
+            "CardName": "Disposable Units",
             "ImagePath": "DISPOSABLE_UNITS.jpg",
             "Code": "NITRO_DAGGER",
             "Descriptions": [
@@ -773,7 +773,7 @@
             ]
         },
         {
-            "CardName": "DISPOSABLE UNITS",
+            "CardName": "Disposable Units",
             "ImagePath": "DISPOSABLE_UNITS.jpg",
             "Code": "NITRO_DAGGER_UPGRADED",
             "Descriptions": [
@@ -795,7 +795,7 @@
             ]
         },
         {
-            "CardName": "OVERHAUL",
+            "CardName": "Overhaul",
             "ImagePath": "OVERHAUL.jpg",
             "Code": "OVERHAUL",
             "Descriptions": [
@@ -817,7 +817,7 @@
             ]
         },
         {
-            "CardName": "OVERHAUL",
+            "CardName": "Overhaul",
             "ImagePath": "OVERHAUL.jpg",
             "Code": "OVERHAUL_UPGRADED",
             "Descriptions": [
@@ -839,7 +839,7 @@
             ]
         },
         {
-            "CardName": "OX HOAX",
+            "CardName": "Ox Hoax",
             "ImagePath": "OX_HOAX.jpg",
             "Code": "OX_HOAX",
             "Descriptions": [
@@ -859,7 +859,7 @@
             ]
         },
         {
-            "CardName": "OX HOAX",
+            "CardName": "Ox Hoax",
             "ImagePath": "OX_HOAX.jpg",
             "Code": "OX_HOAX_UPGRADED",
             "Descriptions": [
@@ -879,7 +879,7 @@
             ]
         },
         {
-            "CardName": "PIÑATA BOMB",
+            "CardName": "Piñata Bomb",
             "ImagePath": "PINATA_BOMB.jpg",
             "Code": "PINATA_BOMB",
             "Descriptions": [
@@ -899,7 +899,7 @@
             ]
         },
         {
-            "CardName": "PIÑATA BOMB",
+            "CardName": "Piñata Bomb",
             "ImagePath": "PINATA_BOMB.jpg",
             "Code": "PINATA_BOMB_UPGRADED",
             "Descriptions": [
@@ -919,7 +919,7 @@
             ]
         },
         {
-            "CardName": "RAVENOUS SCREECH",
+            "CardName": "Ravenous Screech",
             "ImagePath": "RAVENOUS_SCREECH.jpg",
             "Code": "RAVENOUS_SCREECH",
             "Descriptions": [
@@ -941,7 +941,7 @@
             ]
         },
         {
-            "CardName": "RAVENOUS SCREECH",
+            "CardName": "Ravenous Screech",
             "ImagePath": "RAVENOUS_SCREECH.jpg",
             "Code": "RAVENOUS_SCREECH_UPGRADED",
             "Descriptions": [
@@ -963,7 +963,7 @@
             ]
         },
         {
-            "CardName": "READJUST",
+            "CardName": "Readjust",
             "ImagePath": "READJUST.jpg",
             "Code": "READJUST",
             "Descriptions": [
@@ -983,7 +983,7 @@
             ]
         },
         {
-            "CardName": "READJUST",
+            "CardName": "Readjust",
             "ImagePath": "READJUST.jpg",
             "Code": "READJUST_UPGRADED",
             "Descriptions": [
@@ -1003,7 +1003,7 @@
             ]
         },
         {
-            "CardName": "SINGULARITY",
+            "CardName": "Singularity",
             "ImagePath": "SINGULARITY.jpg",
             "Code": "SINGULARITY",
             "Descriptions": [
@@ -1023,7 +1023,7 @@
             ]
         },
         {
-            "CardName": "SINGULARITY",
+            "CardName": "Singularity",
             "ImagePath": "SINGULARITY.jpg",
             "Code": "SINGULARITY_UPGRADED",
             "Descriptions": [
@@ -1043,7 +1043,7 @@
             ]
         },
         {
-            "CardName": "SKITTERING STRIKE",
+            "CardName": "Skittering Strike",
             "ImagePath": "SKITTERING_STRIKE.jpg",
             "Code": "SKITTERING_STRIKE",
             "Descriptions": [
@@ -1064,7 +1064,7 @@
             ]
         },
         {
-            "CardName": "SKITTERING STRIKE",
+            "CardName": "Skittering Strike",
             "ImagePath": "SKITTERING_STRIKE.jpg",
             "Code": "SKITTERING_STRIKE_UPGRADED",
             "Descriptions": [
@@ -1085,7 +1085,7 @@
             ]
         },
         {
-            "CardName": "MUTATE",
+            "CardName": "Mutate",
             "ImagePath": "MUTATE.jpg",
             "Code": "SPAWN_SPIDERLINGS",
             "Descriptions": [
@@ -1107,7 +1107,7 @@
             ]
         },
         {
-            "CardName": "MUTATE",
+            "CardName": "Mutate",
             "ImagePath": "MUTATE.jpg",
             "Code": "SPAWN_SPIDERLINGS_UPGRADED",
             "Descriptions": [
@@ -1129,7 +1129,7 @@
             ]
         },
         {
-            "CardName": "SPAWNER",
+            "CardName": "Spawner",
             "ImagePath": "SPAWNER.jpg",
             "Code": "SPAWNER",
             "Descriptions": [
@@ -1151,7 +1151,7 @@
             ]
         },
         {
-            "CardName": "SPAWNER",
+            "CardName": "Spawner",
             "ImagePath": "SPAWNER.jpg",
             "Code": "SPAWNER_UPGRADED",
             "Descriptions": [
@@ -1173,7 +1173,7 @@
             ]
         },
         {
-            "CardName": "SPIDER KING",
+            "CardName": "Spider King",
             "ImagePath": "SPIDER_KING.jpg",
             "Code": "SPIDER_KING",
             "Descriptions": [
@@ -1196,7 +1196,7 @@
             ]
         },
         {
-            "CardName": "SPIDER KING",
+            "CardName": "Spider King",
             "ImagePath": "SPIDER_KING.jpg",
             "Code": "SPIDER_KING_UPGRADED",
             "Descriptions": [
@@ -1219,7 +1219,7 @@
             ]
         },
         {
-            "CardName": "TECHNO BADGER",
+            "CardName": "Techno Badger",
             "ImagePath": "TECHNO_BADGER.jpg",
             "Code": "TECHNO_BADGER",
             "Descriptions": [
@@ -1239,7 +1239,7 @@
             ]
         },
         {
-            "CardName": "TECHNO BADGER",
+            "CardName": "Techno Badger",
             "ImagePath": "TECHNO_BADGER.jpg",
             "Code": "TECHNO_BADGER_UPGRADED",
             "Descriptions": [
@@ -1259,7 +1259,7 @@
             ]
         },
         {
-            "CardName": "TEMP AFTERSHOCK",
+            "CardName": "Temp Aftershock",
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "TEMP_AFTERSHOCK",
             "Descriptions": [
@@ -1281,7 +1281,7 @@
             ]
         },
         {
-            "CardName": "TEMP AFTERSHOCK",
+            "CardName": "Temp Aftershock",
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "TEMP_AFTERSHOCK_UPGRADED",
             "Descriptions": [
@@ -1303,7 +1303,7 @@
             ]
         },
         {
-            "CardName": "THREEDRA",
+            "CardName": "Threedra",
             "ImagePath": "THREEDRA.jpg",
             "Code": "THREEDRA",
             "Descriptions": [
@@ -1325,7 +1325,7 @@
             ]
         },
         {
-            "CardName": "THREEDRA",
+            "CardName": "Threedra",
             "ImagePath": "THREEDRA.jpg",
             "Code": "THREEDRA_UPGRADED",
             "Descriptions": [
@@ -1347,12 +1347,12 @@
             ]
         },
         {
-            "CardName": "VENOM STRIKE",
+            "CardName": "Venom Strike",
             "ImagePath": "VENOM_STRIKE.jpg",
             "Code": "VENOM_STRIKE",
             "Descriptions": [
                 "Deal 20 <b>DMG</b>.",
-                "Increase the DMG of <b>Bite Scripts</b> by 10 this turn.",
+                "Increase the DMG of <b>Bite Scripts</b> by 5 this turn.",
                 "<b>On-Hit:</b> Inflict 2 <b>Exposed</b>."
             ],
             "Conditional": "",
@@ -1369,12 +1369,12 @@
             ]
         },
         {
-            "CardName": "VENOM STRIKE",
+            "CardName": "Venom Strike",
             "ImagePath": "VENOM_STRIKE.jpg",
             "Code": "VENOM_STRIKE_UPGRADED",
             "Descriptions": [
-                "Deal 45 <b>DMG</b>.",
-                "Increase the DMG of <b>Bite Scripts</b> by 10 this turn.",
+                "Deal 40 <b>DMG</b>.",
+                "Increase the DMG of <b>Bite Scripts</b> by 5 this turn.",
                 "<b>On-Hit:</b> Inflict 2 <b>Exposed</b>."
             ],
             "Conditional": "",
@@ -1383,7 +1383,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "BiteScriptTooltip",
@@ -1391,7 +1391,7 @@
             ]
         },
         {
-            "CardName": "ZIP GUN",
+            "CardName": "Zip Gun",
             "ImagePath": "ZIP_GUN.jpg",
             "Code": "ZIP_GUN",
             "Descriptions": [
@@ -1412,7 +1412,7 @@
             ]
         },
         {
-            "CardName": "ZIP GUN",
+            "CardName": "Zip Gun",
             "ImagePath": "ZIP_GUN.jpg",
             "Code": "ZIP_GUN_UPGRADED",
             "Descriptions": [
@@ -1433,7 +1433,7 @@
             ]
         },
         {
-            "CardName": "ZOMBIE HOPLITE",
+            "CardName": "Zombie Hoplite",
             "ImagePath": "ZOMBIE_HOPLITE.jpg",
             "Code": "ZOMBIE_HOPLITE",
             "Descriptions": [
@@ -1450,7 +1450,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "ZOMBIE HOPLITE",
+            "CardName": "Zombie Hoplite",
             "ImagePath": "ZOMBIE_HOPLITE.jpg",
             "Code": "ZOMBIE_HOPLITE_UPGRADED",
             "Descriptions": [
@@ -1467,7 +1467,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "AFTERIMAGE",
+            "CardName": "Afterimage",
             "ImagePath": "AFTERIMAGE.jpg",
             "Code": "AFTERIMAGE",
             "Descriptions": [
@@ -1489,7 +1489,7 @@
             ]
         },
         {
-            "CardName": "AFTERIMAGE",
+            "CardName": "Afterimage",
             "ImagePath": "AFTERIMAGE.jpg",
             "Code": "AFTERIMAGE_UPGRADED",
             "Descriptions": [
@@ -1511,7 +1511,7 @@
             ]
         },
         {
-            "CardName": "BARRY CADE",
+            "CardName": "Barry Cade",
             "ImagePath": "BARRY_CADE.jpg",
             "Code": "BARRY_CADE",
             "Descriptions": [
@@ -1533,7 +1533,7 @@
             ]
         },
         {
-            "CardName": "BARRY CADE",
+            "CardName": "Barry Cade",
             "ImagePath": "BARRY_CADE.jpg",
             "Code": "BARRY_CADE_UPGRADED",
             "Descriptions": [
@@ -1555,7 +1555,7 @@
             ]
         },
         {
-            "CardName": "BIG PAPPA",
+            "CardName": "Big Pappa",
             "ImagePath": "BIG_PAPPA.jpg",
             "Code": "BIG_PAPPA",
             "Descriptions": [
@@ -1577,7 +1577,7 @@
             ]
         },
         {
-            "CardName": "BIG PAPPA",
+            "CardName": "Big Pappa",
             "ImagePath": "BIG_PAPPA.jpg",
             "Code": "BIG_PAPPA_UPGRADED",
             "Descriptions": [
@@ -1599,7 +1599,7 @@
             ]
         },
         {
-            "CardName": "ECHO CHAMBER",
+            "CardName": "Echo Chamber",
             "ImagePath": "ECHO_CHAMBER.jpg",
             "Code": "ECHO_CHAMBER",
             "Descriptions": [
@@ -1620,7 +1620,7 @@
             ]
         },
         {
-            "CardName": "ECHO CHAMBER",
+            "CardName": "Echo Chamber",
             "ImagePath": "ECHO_CHAMBER.jpg",
             "Code": "ECHO_CHAMBER_UPGRADED",
             "Descriptions": [
@@ -1641,7 +1641,7 @@
             ]
         },
         {
-            "CardName": "FORCEFIELD",
+            "CardName": "Forcefield",
             "ImagePath": "FORCEFIELD.jpg",
             "Code": "FORCEFIELD",
             "Descriptions": [
@@ -1658,7 +1658,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "FORCEFIELD",
+            "CardName": "Forcefield",
             "ImagePath": "FORCEFIELD.jpg",
             "Code": "FORCEFIELD_UPGRADED",
             "Descriptions": [
@@ -1675,7 +1675,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "HOLY TOASTER",
+            "CardName": "Holy Toaster",
             "ImagePath": "HOLY_TOASTER.jpg",
             "Code": "HOLY_TOASTER",
             "Descriptions": [
@@ -1695,7 +1695,7 @@
             ]
         },
         {
-            "CardName": "HOLY TOASTER",
+            "CardName": "Holy Toaster",
             "ImagePath": "HOLY_TOASTER.jpg",
             "Code": "HOLY_TOASTER_UPGRADED",
             "Descriptions": [
@@ -1715,7 +1715,7 @@
             ]
         },
         {
-            "CardName": "LOOSE GEARS",
+            "CardName": "Loose Gears",
             "ImagePath": "LOOSE_GEARS.jpg",
             "Code": "LOOSE_GEARS",
             "Descriptions": [
@@ -1736,7 +1736,7 @@
             ]
         },
         {
-            "CardName": "LOOSE GEARS",
+            "CardName": "Loose Gears",
             "ImagePath": "LOOSE_GEARS.jpg",
             "Code": "LOOSE_GEARS_UPGRADED",
             "Descriptions": [
@@ -1757,13 +1757,13 @@
             ]
         },
         {
-            "CardName": "MOLT",
+            "CardName": "Molt",
             "ImagePath": "MOLT.jpg",
             "Code": "MOLT",
             "Descriptions": [
                 "Gain 30 <b>Barrier</b>."
             ],
-            "Conditional": "If you played at least 2 <b>Scripts</b> this turn, also:",
+            "Conditional": "If you played at least 5 <b>Scripts</b> this turn, also:",
             "ConditionalDescriptions": [
                 "Create 2 copies of the last <b>Script</b> you played."
             ],
@@ -1778,13 +1778,13 @@
             ]
         },
         {
-            "CardName": "MOLT",
+            "CardName": "Molt",
             "ImagePath": "MOLT.jpg",
             "Code": "MOLT_UPGRADED",
             "Descriptions": [
-                "Gain 45 <b>Barrier</b>."
+                "Gain 40 <b>Barrier</b>."
             ],
-            "Conditional": "If you played at least 2 <b>Scripts</b> this turn, also:",
+            "Conditional": "If you played at least 5 <b>Scripts</b> this turn, also:",
             "ConditionalDescriptions": [
                 "Create 3 copies of the last <b>Script</b> you played."
             ],
@@ -1799,7 +1799,7 @@
             ]
         },
         {
-            "CardName": "MUMMIFY",
+            "CardName": "Mummify",
             "ImagePath": "MUMMIFY.jpg",
             "Code": "MUMMIFY",
             "Descriptions": [
@@ -1819,7 +1819,7 @@
             ]
         },
         {
-            "CardName": "MUMMIFY",
+            "CardName": "Mummify",
             "ImagePath": "MUMMIFY.jpg",
             "Code": "MUMMIFY_UPGRADED",
             "Descriptions": [
@@ -1839,14 +1839,13 @@
             ]
         },
         {
-            "CardName": "PAPER CRANE",
+            "CardName": "Paper Crane",
             "ImagePath": "PAPER_CRANE.jpg",
             "Code": "PAPER_CRANE",
             "Descriptions": [
-                "Gain 30 <b>Barrier</b>.",
+                "Gain 20 <b>Barrier</b>.",
                 "Discard 1 card.",
-                "Draw 1 card.",
-                "<b>DECOMPILE</b>."
+                "<b>On-Discard:</b> Gain 20 <b>Barrier</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1857,18 +1856,17 @@
             "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
-                "DecompileTooltip"
+                "OnDiscardTooltip"
             ]
         },
         {
-            "CardName": "PAPER CRANE",
+            "CardName": "Paper Crane",
             "ImagePath": "PAPER_CRANE.jpg",
             "Code": "PAPER_CRANE_UPGRADED",
             "Descriptions": [
-                "Gain 50 <b>Barrier</b>.",
+                "Gain 30 <b>Barrier</b>.",
                 "Discard 1 card.",
-                "Draw 2 card.",
-                "<b>DECOMPILE</b>."
+                "<b>On-Discard:</b> Gain 30 <b>Barrier</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1876,14 +1874,14 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": [
-                "DecompileTooltip"
+                "OnDiscardTooltip"
             ]
         },
         {
-            "CardName": "PATCHWORK",
+            "CardName": "Patchwork",
             "ImagePath": "PATCHWORK.jpg",
             "Code": "PATCHWORK",
             "Descriptions": [
@@ -1896,17 +1894,17 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": false,
             "Tooltips": []
         },
         {
-            "CardName": "PATCHWORK",
+            "CardName": "Patchwork",
             "ImagePath": "PATCHWORK.jpg",
             "Code": "PATCHWORK_UPGRADED",
             "Descriptions": [
                 "Discard up to 5 cards.",
-                "Gain 25 <b>Barrier</b> per card discarded by this."
+                "Gain 20 <b>Barrier</b> per card discarded by this."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1914,12 +1912,12 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": []
         },
         {
-            "CardName": "QUICK THREADING",
+            "CardName": "Quick Threading",
             "ImagePath": "QUICK_THREADING.jpg",
             "Code": "QUICK_THREADING",
             "Descriptions": [
@@ -1940,7 +1938,7 @@
             ]
         },
         {
-            "CardName": "QUICK THREADING",
+            "CardName": "Quick Threading",
             "ImagePath": "QUICK_THREADING.jpg",
             "Code": "QUICK_THREADING_UPGRADED",
             "Descriptions": [
@@ -1961,7 +1959,7 @@
             ]
         },
         {
-            "CardName": "REWIRE",
+            "CardName": "Rewire",
             "ImagePath": "REWIRE.jpg",
             "Code": "REWIRE",
             "Descriptions": [
@@ -1983,7 +1981,7 @@
             ]
         },
         {
-            "CardName": "REWIRE",
+            "CardName": "Rewire",
             "ImagePath": "REWIRE.jpg",
             "Code": "REWIRE_UPGRADED",
             "Descriptions": [
@@ -2005,7 +2003,7 @@
             ]
         },
         {
-            "CardName": "SCRAP FIELD",
+            "CardName": "Scrap Field",
             "ImagePath": "SCRAP_FIELD.jpg",
             "Code": "SCRAP_FIELD",
             "Descriptions": [
@@ -2025,7 +2023,7 @@
             ]
         },
         {
-            "CardName": "SCRAP FIELD",
+            "CardName": "Scrap Field",
             "ImagePath": "SCRAP_FIELD.jpg",
             "Code": "SCRAP_FIELD_UPGRADED",
             "Descriptions": [
@@ -2045,12 +2043,12 @@
             ]
         },
         {
-            "CardName": "SILK SHELL",
+            "CardName": "Silk Shell",
             "ImagePath": "SILK_SHELL.jpg",
             "Code": "SILK_SHELL",
             "Descriptions": [
-                "Gain 40 <b>Barrier</b>.",
-                "Create 2 <b>Cocoon Scripts</b>."
+                "Gain 30 <b>Barrier</b>.",
+                "Create 3 <b>Cocoon Scripts</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2065,12 +2063,12 @@
             ]
         },
         {
-            "CardName": "SILK SHELL",
+            "CardName": "Silk Shell",
             "ImagePath": "SILK_SHELL.jpg",
             "Code": "SILK_SHELL_UPGRADED",
             "Descriptions": [
-                "Gain 50 <b>Barrier</b>.",
-                "Create 3 <b>Cocoon Scripts</b>."
+                "Gain 30 <b>Barrier</b>.",
+                "Create 4 <b>Cocoon Scripts</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2078,14 +2076,14 @@
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "DEFENSE",
-            "Vim": 3,
+            "Vim": 4,
             "IsUpgrade": true,
             "Tooltips": [
                 "CocoonScriptTooltip"
             ]
         },
         {
-            "CardName": "SILKEN RETREAT",
+            "CardName": "Silken Retreat",
             "ImagePath": "SILKEN_RETREAT.jpg",
             "Code": "SILKEN_RETREAT",
             "Descriptions": [
@@ -2107,7 +2105,7 @@
             ]
         },
         {
-            "CardName": "SILKEN RETREAT",
+            "CardName": "Silken Retreat",
             "ImagePath": "SILKEN_RETREAT.jpg",
             "Code": "SILKEN_RETREAT_UPGRADED",
             "Descriptions": [
@@ -2129,7 +2127,7 @@
             ]
         },
         {
-            "CardName": "SUNSCREEN SAVER",
+            "CardName": "Sunscreen Saver",
             "ImagePath": "SUNSCREEN_SAVER.jpg",
             "Code": "SUNSCREEN_SAVER",
             "Descriptions": [
@@ -2149,7 +2147,7 @@
             ]
         },
         {
-            "CardName": "SUNSCREEN SAVER",
+            "CardName": "Sunscreen Saver",
             "ImagePath": "SUNSCREEN_SAVER.jpg",
             "Code": "SUNSCREEN_SAVER_UPGRADED",
             "Descriptions": [
@@ -2169,7 +2167,7 @@
             ]
         },
         {
-            "CardName": "TITANIUM WEB",
+            "CardName": "Titanium Web",
             "ImagePath": "TITANIUM_WEB.jpg",
             "Code": "TITANIUM_WEB",
             "Descriptions": [
@@ -2190,7 +2188,7 @@
             ]
         },
         {
-            "CardName": "TITANIUM WEB",
+            "CardName": "Titanium Web",
             "ImagePath": "TITANIUM_WEB.jpg",
             "Code": "TITANIUM_WEB_UPGRADED",
             "Descriptions": [
@@ -2211,7 +2209,7 @@
             ]
         },
         {
-            "CardName": "TURBO KETTLE",
+            "CardName": "Turbo Kettle",
             "ImagePath": "TURBO_KETTLE.jpg",
             "Code": "TURBO_KETTLE",
             "Descriptions": [
@@ -2231,7 +2229,7 @@
             ]
         },
         {
-            "CardName": "TURBO KETTLE",
+            "CardName": "Turbo Kettle",
             "ImagePath": "TURBO_KETTLE.jpg",
             "Code": "TURBO_KETTLE_UPGRADED",
             "Descriptions": [
@@ -2251,7 +2249,7 @@
             ]
         },
         {
-            "CardName": "UNSTABLE SHELTER",
+            "CardName": "Unstable Shelter",
             "ImagePath": "UNSTABLE_SHELTER.jpg",
             "Code": "UNSTABLE_SHELTER",
             "Descriptions": [
@@ -2270,7 +2268,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "UNSTABLE SHELTER",
+            "CardName": "Unstable Shelter",
             "ImagePath": "UNSTABLE_SHELTER.jpg",
             "Code": "UNSTABLE_SHELTER_UPGRADED",
             "Descriptions": [
@@ -2289,7 +2287,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "WAX WINGS",
+            "CardName": "Wax Wings",
             "ImagePath": "WAX_WINGS.jpg",
             "Code": "WAX_WINGS",
             "Descriptions": [
@@ -2309,7 +2307,7 @@
             ]
         },
         {
-            "CardName": "WAX WINGS",
+            "CardName": "Wax Wings",
             "ImagePath": "WAX_WINGS.jpg",
             "Code": "WAX_WINGS_UPGRADED",
             "Descriptions": [
@@ -2329,7 +2327,7 @@
             ]
         },
         {
-            "CardName": "AIR SUPERIORITY",
+            "CardName": "Air Superiority",
             "ImagePath": "AIR_SUPERIORITY.jpg",
             "Code": "3_STEPS_AHEAD",
             "Descriptions": [
@@ -2340,7 +2338,7 @@
             "ConditionalDescriptions": [],
             "Rarity": "RARE",
             "Color": "#E9B705FF",
-            "Clock": 0,
+            "Clock": 1,
             "Type": "GENERATOR",
             "Vim": 1,
             "IsUpgrade": false,
@@ -2350,11 +2348,11 @@
             ]
         },
         {
-            "CardName": "AIR SUPERIORITY",
+            "CardName": "Air Superiority",
             "ImagePath": "AIR_SUPERIORITY.jpg",
             "Code": "3_STEPS_AHEAD_UPGRADED",
             "Descriptions": [
-                "Draw 2 card and gain 1 <b>Clock</b> for each <b>Augmented</b> Command you have.",
+                "Draw 1 card and gain 1 <b>Clock</b> for each <b>Augmented</b> Command you have.",
                 "<b>DECOMPILE</b>."
             ],
             "Conditional": "",
@@ -2363,7 +2361,7 @@
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "GENERATOR",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": [
                 "AugmentTooltip",
@@ -2371,7 +2369,7 @@
             ]
         },
         {
-            "CardName": "CODE REFACTOR",
+            "CardName": "Code Refactor",
             "ImagePath": "CODE_REFACTOR.jpg",
             "Code": "CODE_REFACTOR",
             "Descriptions": [
@@ -2393,7 +2391,7 @@
             ]
         },
         {
-            "CardName": "CODE REFACTOR",
+            "CardName": "Code Refactor",
             "ImagePath": "CODE_REFACTOR.jpg",
             "Code": "CODE_REFACTOR_UPGRADED",
             "Descriptions": [
@@ -2415,7 +2413,7 @@
             ]
         },
         {
-            "CardName": "CREEP",
+            "CardName": "Creep",
             "ImagePath": "CREEP.jpg",
             "Code": "CREEP",
             "Descriptions": [
@@ -2434,7 +2432,7 @@
             ]
         },
         {
-            "CardName": "CREEP",
+            "CardName": "Creep",
             "ImagePath": "CREEP.jpg",
             "Code": "CREEP_UPGRADED",
             "Descriptions": [
@@ -2453,7 +2451,7 @@
             ]
         },
         {
-            "CardName": "ENLIGHTEN",
+            "CardName": "Enlighten",
             "ImagePath": "ENLIGHTEN.jpg",
             "Code": "ENLIGHTEN",
             "Descriptions": [
@@ -2466,14 +2464,14 @@
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "GENERATOR",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": false,
             "Tooltips": [
                 "AugmentTooltip"
             ]
         },
         {
-            "CardName": "ENLIGHTEN",
+            "CardName": "Enlighten",
             "ImagePath": "ENLIGHTEN.jpg",
             "Code": "ENLIGHTEN_UPGRADED",
             "Descriptions": [
@@ -2487,14 +2485,14 @@
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "GENERATOR",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "AugmentTooltip"
             ]
         },
         {
-            "CardName": "EVOLUTION THEORY",
+            "CardName": "Evolution Theory",
             "ImagePath": "EVOLUTION_THEORY.jpg",
             "Code": "EVOLUTION_THEORY",
             "Descriptions": [],
@@ -2517,7 +2515,7 @@
             ]
         },
         {
-            "CardName": "EVOLUTION THEORY",
+            "CardName": "Evolution Theory",
             "ImagePath": "EVOLUTION_THEORY.jpg",
             "Code": "EVOLUTION_THEORY_UPGRADED",
             "Descriptions": [],
@@ -2540,7 +2538,7 @@
             ]
         },
         {
-            "CardName": "FORTUNE COOKIE",
+            "CardName": "Fortune Cookie",
             "ImagePath": "FORTUNE_COOKIE.jpg",
             "Code": "FORTUNE_COOKIE",
             "Descriptions": [
@@ -2561,7 +2559,7 @@
             ]
         },
         {
-            "CardName": "FORTUNE COOKIE",
+            "CardName": "Fortune Cookie",
             "ImagePath": "FORTUNE_COOKIE.jpg",
             "Code": "FORTUNE_COOKIE_UPGRADED",
             "Descriptions": [
@@ -2582,7 +2580,7 @@
             ]
         },
         {
-            "CardName": "ITSY BITSY",
+            "CardName": "Itsy Bitsy",
             "ImagePath": "ITSY_BITSY.jpg",
             "Code": "ITSY_BITSY",
             "Descriptions": [
@@ -2604,7 +2602,7 @@
             ]
         },
         {
-            "CardName": "ITSY BITSY",
+            "CardName": "Itsy Bitsy",
             "ImagePath": "ITSY_BITSY.jpg",
             "Code": "ITSY_BITSY_UPGRADED",
             "Descriptions": [
@@ -2626,7 +2624,7 @@
             ]
         },
         {
-            "CardName": "KINETIC MEMORY",
+            "CardName": "Kinetic Memory",
             "ImagePath": "KINETIC_MEMORY.jpg",
             "Code": "KINETIC_MEMORY",
             "Descriptions": [
@@ -2647,7 +2645,7 @@
             ]
         },
         {
-            "CardName": "KINETIC MEMORY",
+            "CardName": "Kinetic Memory",
             "ImagePath": "KINETIC_MEMORY.jpg",
             "Code": "KINETIC_MEMORY_UPGRADED",
             "Descriptions": [
@@ -2668,7 +2666,7 @@
             ]
         },
         {
-            "CardName": "LAST CALL",
+            "CardName": "Last Call",
             "ImagePath": "LAST_CALL.jpg",
             "Code": "LAST_CALL",
             "Descriptions": [
@@ -2690,7 +2688,7 @@
             ]
         },
         {
-            "CardName": "LAST CALL",
+            "CardName": "Last Call",
             "ImagePath": "LAST_CALL.jpg",
             "Code": "LAST_CALL_UPGRADED",
             "Descriptions": [
@@ -2712,7 +2710,7 @@
             ]
         },
         {
-            "CardName": "NITRO EEL",
+            "CardName": "Nitro Eel",
             "ImagePath": "NITRO_EEL.jpg",
             "Code": "NITRO_EEL",
             "Descriptions": [
@@ -2732,7 +2730,7 @@
             ]
         },
         {
-            "CardName": "NITRO EEL",
+            "CardName": "Nitro Eel",
             "ImagePath": "NITRO_EEL.jpg",
             "Code": "NITRO_EEL_UPGRADED",
             "Descriptions": [
@@ -2752,7 +2750,7 @@
             ]
         },
         {
-            "CardName": "PEAK PERFORMANCE",
+            "CardName": "Peak Performance",
             "ImagePath": "PEAK_PERFORMANCE.jpg",
             "Code": "PEAK_PERFORMANCE",
             "Descriptions": [
@@ -2772,7 +2770,7 @@
             ]
         },
         {
-            "CardName": "PEAK PERFORMANCE",
+            "CardName": "Peak Performance",
             "ImagePath": "PEAK_PERFORMANCE.jpg",
             "Code": "PEAK_PERFORMANCE_UPGRADED",
             "Descriptions": [
@@ -2792,15 +2790,16 @@
             ]
         },
         {
-            "CardName": "SCOUTING SCUTTLE",
+            "CardName": "Scouting Scuttle",
             "ImagePath": "SCOUTING_SCUTTLE.jpg",
             "Code": "SCOUTING_SCUTTLE",
             "Descriptions": [
-                "Draw 1 card for each <b>Script</b> played this turn (0 cards).",
-                "Create 1 random <b>Script</b>."
+                "Create 2 <b>Weave Scripts</b>."
             ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
+            "Conditional": "If you played at least 5 <b>Scripts</b> this turn, also:",
+            "ConditionalDescriptions": [
+                "Create 2 <b>Weave Scripts</b>."
+            ],
             "Rarity": "UNCOMMON",
             "Color": "#E9B705FF",
             "Clock": 1,
@@ -2812,27 +2811,28 @@
             ]
         },
         {
-            "CardName": "SCOUTING SCUTTLE",
+            "CardName": "Scouting Scuttle",
             "ImagePath": "SCOUTING_SCUTTLE.jpg",
             "Code": "SCOUTING_SCUTTLE_UPGRADED",
             "Descriptions": [
-                "Draw 2 card for each <b>Script</b> played this turn (0 cards).",
-                "Create 1 random <b>Script</b>."
+                "Create 3 <b>Weave Scripts</b>."
             ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
+            "Conditional": "If you played at least 5 <b>Scripts</b> this turn, also:",
+            "ConditionalDescriptions": [
+                "Create 3 <b>Weave Scripts</b>."
+            ],
             "Rarity": "UNCOMMON",
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "GENERATOR",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "ScriptTooltip"
             ]
         },
         {
-            "CardName": "KARAGUCHI MENU",
+            "CardName": "Karaguchi Menu",
             "ImagePath": "KARAGUCHI_MENU.jpg",
             "Code": "SCRIBE_TERMINAL",
             "Descriptions": [
@@ -2855,7 +2855,7 @@
             ]
         },
         {
-            "CardName": "KARAGUCHI MENU",
+            "CardName": "Karaguchi Menu",
             "ImagePath": "KARAGUCHI_MENU.jpg",
             "Code": "SCRIBE_TERMINAL_UPGRADED",
             "Descriptions": [
@@ -2878,7 +2878,7 @@
             ]
         },
         {
-            "CardName": "SELF-GENERATING CODE",
+            "CardName": "Self Generating Code",
             "ImagePath": "SELF_GENERATING_CODE.jpg",
             "Code": "SELF_GENERATING_CODE",
             "Descriptions": [
@@ -2897,7 +2897,7 @@
             ]
         },
         {
-            "CardName": "SELF-GENERATING CODE",
+            "CardName": "Self Generating Code",
             "ImagePath": "SELF_GENERATING_CODE.jpg",
             "Code": "SELF_GENERATING_CODE_UPGRADED",
             "Descriptions": [
@@ -2916,7 +2916,7 @@
             ]
         },
         {
-            "CardName": "SMALL PAPPA",
+            "CardName": "Small Pappa",
             "ImagePath": "SMALL_PAPPA.jpg",
             "Code": "SMALL_PAPPA",
             "Descriptions": [
@@ -2937,7 +2937,7 @@
             ]
         },
         {
-            "CardName": "SMALL PAPPA",
+            "CardName": "Small Pappa",
             "ImagePath": "SMALL_PAPPA.jpg",
             "Code": "SMALL_PAPPA_UPGRADED",
             "Descriptions": [
@@ -2958,7 +2958,7 @@
             ]
         },
         {
-            "CardName": "SUDDEN SPIN",
+            "CardName": "Sudden Spin",
             "ImagePath": "SUDDEN_SPIN.jpg",
             "Code": "SUDDEN_SPIN",
             "Descriptions": [
@@ -2978,7 +2978,7 @@
             ]
         },
         {
-            "CardName": "SUDDEN SPIN",
+            "CardName": "Sudden Spin",
             "ImagePath": "SUDDEN_SPIN.jpg",
             "Code": "SUDDEN_SPIN_UPGRADED",
             "Descriptions": [
@@ -2998,7 +2998,7 @@
             ]
         },
         {
-            "CardName": "SURVIVAL OF THE FITTEST",
+            "CardName": "Survival Of The Fittest",
             "ImagePath": "SURVIVAL_OF_THE_FITTEST.jpg",
             "Code": "SURVIVAL_OF_THE_FITTEST",
             "Descriptions": [
@@ -3020,7 +3020,7 @@
             ]
         },
         {
-            "CardName": "SURVIVAL OF THE FITTEST",
+            "CardName": "Survival Of The Fittest",
             "ImagePath": "SURVIVAL_OF_THE_FITTEST.jpg",
             "Code": "SURVIVAL_OF_THE_FITTEST_UPGRADED",
             "Descriptions": [
@@ -3042,7 +3042,7 @@
             ]
         },
         {
-            "CardName": "TEMPER CODE",
+            "CardName": "Temper Code",
             "ImagePath": "TEMPER_CODE.jpg",
             "Code": "TEMPER_CODE",
             "Descriptions": [
@@ -3059,7 +3059,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "TEMPER CODE",
+            "CardName": "Temper Code",
             "ImagePath": "TEMPER_CODE.jpg",
             "Code": "TEMPER_CODE_UPGRADED",
             "Descriptions": [
@@ -3076,7 +3076,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "THUNDERFLY",
+            "CardName": "Thunderfly",
             "ImagePath": "THUNDERFLY.jpg",
             "Code": "THUNDERFLY",
             "Descriptions": [
@@ -3096,7 +3096,7 @@
             ]
         },
         {
-            "CardName": "THUNDERFLY",
+            "CardName": "Thunderfly",
             "ImagePath": "THUNDERFLY.jpg",
             "Code": "THUNDERFLY_UPGRADED",
             "Descriptions": [
@@ -3116,11 +3116,11 @@
             ]
         },
         {
-            "CardName": "ADAPTATION PROTOCOL",
+            "CardName": "Adaptation Protocol",
             "ImagePath": "ADAPTATION_PROTOCOL.jpg",
             "Code": "ADAPTATION_PROTOCOL",
             "Descriptions": [
-                "At the start of your turn, <b>Augment</b> a random Command."
+                "Every time you use an <b>Augmented Command</b>, generate 2 <b>VIM</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -3128,7 +3128,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 0,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3136,7 +3136,7 @@
             ]
         },
         {
-            "CardName": "BOOST PROTOCOL",
+            "CardName": "Boost Protocol",
             "ImagePath": "BOOST_PROTOCOL.jpg",
             "Code": "BOOST_PROTOCOL",
             "Descriptions": [
@@ -3146,9 +3146,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "UNIQUE",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3156,7 +3156,7 @@
             ]
         },
         {
-            "CardName": "DIGEST PROTOCOL",
+            "CardName": "Digest Protocol",
             "ImagePath": "DIGEST_PROTOCOL.jpg",
             "Code": "DIGEST_PROTOCOL",
             "Descriptions": [
@@ -3166,9 +3166,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "UNIQUE",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3176,19 +3176,19 @@
             ]
         },
         {
-            "CardName": "EXPIRATION PROTOCOL",
+            "CardName": "Expiration Protocol",
             "ImagePath": "EXPIRATION_PROTOCOL.jpg",
             "Code": "EXPIRATION_PROTOCOL",
             "Descriptions": [
-                "Every time an <b>Assist</b> effect expires, gain 1 <b>Clock</b>."
+                "The first time an <b>Assist</b> effect expires each turn, gain 1 <b>Clock</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "UNIQUE",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3196,7 +3196,7 @@
             ]
         },
         {
-            "CardName": "HATCH PROTOCOL",
+            "CardName": "Hatch Protocol",
             "ImagePath": "HATCH_PROTOCOL.jpg",
             "Code": "HATCH_PROTOCOL",
             "Descriptions": [
@@ -3206,9 +3206,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "RARE",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3216,26 +3216,26 @@
             ]
         },
         {
-            "CardName": "JUNK PROTOCOL",
+            "CardName": "Junk Protocol",
             "ImagePath": "JUNK_PROTOCOL.jpg",
             "Code": "JUNK_PROTOCOL",
             "Descriptions": [
-                "Every time you discard a card during your turn, deal 10 <b>DMG</b> to all targets."
+                "Every time you discard a card during your turn, deal 10 <b>DMG</b> to the ICE."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "UNIQUE",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
             ]
         },
         {
-            "CardName": "LOOP PROTOCOL",
+            "CardName": "Loop Protocol",
             "ImagePath": "LOOP_PROTOCOL.jpg",
             "Code": "LOOP_PROTOCOL",
             "Descriptions": [
@@ -3255,7 +3255,7 @@
             ]
         },
         {
-            "CardName": "PATCH PROTOCOL",
+            "CardName": "Patch Protocol",
             "ImagePath": "PATCH_PROTOCOL.jpg",
             "Code": "PATCH_PROTOCOL",
             "Descriptions": [
@@ -3267,14 +3267,14 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 0,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
             ]
         },
         {
-            "CardName": "BITE SCRIPT",
+            "CardName": "Bite Script",
             "ImagePath": "BITE_SCRIPT.jpg",
             "Code": "BITE",
             "Descriptions": [
@@ -3293,7 +3293,7 @@
             ]
         },
         {
-            "CardName": "COCOON SCRIPT",
+            "CardName": "Cocoon Script",
             "ImagePath": "COCOON_SCRIPT.jpg",
             "Code": "COCOON",
             "Descriptions": [
@@ -3312,7 +3312,7 @@
             ]
         },
         {
-            "CardName": "WEAVE SCRIPT",
+            "CardName": "Weave Script",
             "ImagePath": "WEAVE_SCRIPT.jpg",
             "Code": "WEAVE",
             "Descriptions": [
@@ -3324,14 +3324,14 @@
             "Color": "#FFFFFFFF",
             "Clock": 0,
             "Type": "SCRIPT",
-            "Vim": 1,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ScriptTooltip"
             ]
         },
         {
-            "CardName": "CORRUPTED DATA",
+            "CardName": "Corrupted Data",
             "ImagePath": "CORRUPTED_DATA.jpg",
             "Code": "CORRUPTED_DATA",
             "Descriptions": [],
@@ -3349,7 +3349,7 @@
             ]
         },
         {
-            "CardName": "FRAGMENTED DATA",
+            "CardName": "Fragmented Data",
             "ImagePath": "FRAGMENTED_DATA.jpg",
             "Code": "FRAGMENTED_DATA",
             "Descriptions": [
@@ -3369,7 +3369,7 @@
             ]
         },
         {
-            "CardName": "INFECTED DATA",
+            "CardName": "Infected Data",
             "ImagePath": "INFECTED_DATA.jpg",
             "Code": "INFECTED_DATA",
             "Descriptions": [
@@ -3390,7 +3390,7 @@
             ]
         },
         {
-            "CardName": "JUDICATOR'S GAZE",
+            "CardName": "Judicator's Gaze",
             "ImagePath": "JUDICATORS_GAZE.jpg",
             "Code": "JUDICATORS_GAZE",
             "Descriptions": [
@@ -3411,7 +3411,7 @@
             ]
         },
         {
-            "CardName": "PIERCE CORE",
+            "CardName": "Pierce Core",
             "ImagePath": "PIERCE_CORE.jpg",
             "Code": "PIERCE_CORE",
             "Descriptions": [],
@@ -3429,7 +3429,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "<color=#971797>PIERCE CORE</color>",
+            "CardName": "<color=#971797>pierce Core</color>",
             "ImagePath": "PIERCE_CORE.jpg",
             "Code": "PIERCE_CORE_UPGRADED",
             "Descriptions": [],
@@ -3447,7 +3447,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "WORK GUYS",
+            "CardName": "Work Guys",
             "ImagePath": "FUN_GUYS.jpg",
             "Code": "THANKS_GUYS",
             "Descriptions": [
@@ -3488,7 +3488,7 @@
             ]
         },
         {
-            "CardName": "ALPHA CODESLASH",
+            "CardName": "Alpha Codeslash",
             "ImagePath": "ALPHA_CODESLASH.jpg",
             "Code": "ALPHA_CODESLASH",
             "Descriptions": [
@@ -3505,7 +3505,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "ALPHA CODESLASH",
+            "CardName": "Alpha Codeslash",
             "ImagePath": "ALPHA_CODESLASH.jpg",
             "Code": "ALPHA_CODESLASH_UPGRADED",
             "Descriptions": [
@@ -3522,7 +3522,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "AMPED CODESLASH",
+            "CardName": "Amped Codeslash",
             "ImagePath": "AMPED_CODESLASH.jpg",
             "Code": "AMPED_CODESLASH",
             "Descriptions": [
@@ -3544,7 +3544,7 @@
             ]
         },
         {
-            "CardName": "AMPED CODESLASH",
+            "CardName": "Amped Codeslash",
             "ImagePath": "AMPED_CODESLASH.jpg",
             "Code": "AMPED_CODESLASH_UPGRADED",
             "Descriptions": [
@@ -3566,7 +3566,7 @@
             ]
         },
         {
-            "CardName": "BECOME THE BEAST",
+            "CardName": "Become The Beast",
             "ImagePath": "BECOME_THE_BEAST.jpg",
             "Code": "BECOME_THE_BEAST",
             "Descriptions": [
@@ -3587,7 +3587,7 @@
             ]
         },
         {
-            "CardName": "BECOME THE BEAST",
+            "CardName": "Become The Beast",
             "ImagePath": "BECOME_THE_BEAST.jpg",
             "Code": "BECOME_THE_BEAST_UPGRADED",
             "Descriptions": [
@@ -3608,7 +3608,7 @@
             ]
         },
         {
-            "CardName": "BRUTAL MAULING",
+            "CardName": "Brutal Mauling",
             "ImagePath": "BRUTAL_MAULING.jpg",
             "Code": "BRUTAL_MAULING",
             "Descriptions": [
@@ -3628,7 +3628,7 @@
             ]
         },
         {
-            "CardName": "BRUTAL MAULING",
+            "CardName": "Brutal Mauling",
             "ImagePath": "BRUTAL_MAULING.jpg",
             "Code": "BRUTAL_MAULING_UPGRADED",
             "Descriptions": [
@@ -3648,7 +3648,7 @@
             ]
         },
         {
-            "CardName": "CHARGED CODESLASH",
+            "CardName": "Charged Codeslash",
             "ImagePath": "CHARGED_CODESLASH.jpg",
             "Code": "CHARGED_CODESLASH",
             "Descriptions": [
@@ -3665,7 +3665,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "CHARGED CODESLASH",
+            "CardName": "Charged Codeslash",
             "ImagePath": "CHARGED_CODESLASH.jpg",
             "Code": "CHARGED_CODESLASH_UPGRADED",
             "Descriptions": [
@@ -3682,7 +3682,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "CODESLASH",
+            "CardName": "Codeslash",
             "ImagePath": "CODESLASH.jpg",
             "Code": "CODESLASH",
             "Descriptions": [
@@ -3699,7 +3699,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "CODESLASH",
+            "CardName": "Codeslash",
             "ImagePath": "CODESLASH.jpg",
             "Code": "CODESLASH_UPGRADED",
             "Descriptions": [
@@ -3716,7 +3716,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "CONSOLE PRODIGY",
+            "CardName": "Console Prodigy",
             "ImagePath": "CONSOLE_PRODIGY.jpg",
             "Code": "CONSOLE_PRODIGY",
             "Descriptions": [
@@ -3735,7 +3735,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "CONSOLE PRODIGY",
+            "CardName": "Console Prodigy",
             "ImagePath": "CONSOLE_PRODIGY.jpg",
             "Code": "CONSOLE_PRODIGY_UPGRADED",
             "Descriptions": [
@@ -3754,7 +3754,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "CRIMSON ASSAULT",
+            "CardName": "Crimson Assault",
             "ImagePath": "CRIMSON_ASSAULT.jpg",
             "Code": "CRIMSON_ASSAULT",
             "Descriptions": [
@@ -3775,7 +3775,7 @@
             ]
         },
         {
-            "CardName": "CRIMSON ASSAULT",
+            "CardName": "Crimson Assault",
             "ImagePath": "CRIMSON_ASSAULT.jpg",
             "Code": "CRIMSON_ASSAULT_UPGRADED",
             "Descriptions": [
@@ -3796,7 +3796,7 @@
             ]
         },
         {
-            "CardName": "DATA DRAIN",
+            "CardName": "Data Drain",
             "ImagePath": "DATA_DRAIN.jpg",
             "Code": "DATA_DRAIN",
             "Descriptions": [
@@ -3817,7 +3817,7 @@
             ]
         },
         {
-            "CardName": "DATA DRAIN",
+            "CardName": "Data Drain",
             "ImagePath": "DATA_DRAIN.jpg",
             "Code": "DATA_DRAIN_UPGRADED",
             "Descriptions": [
@@ -3838,7 +3838,7 @@
             ]
         },
         {
-            "CardName": "EPHEMERAL EDGE",
+            "CardName": "Ephemeral Edge",
             "ImagePath": "EPHEMERAL_EDGE.jpg",
             "Code": "EPHEMERAL_EDGE",
             "Descriptions": [
@@ -3856,7 +3856,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "EPHEMERAL EDGE",
+            "CardName": "Ephemeral Edge",
             "ImagePath": "EPHEMERAL_EDGE.jpg",
             "Code": "EPHEMERAL_EDGE_UPGRADED",
             "Descriptions": [
@@ -3873,7 +3873,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "FANG STRIKE",
+            "CardName": "Fang Strike",
             "ImagePath": "FANG_STRIKE.jpg",
             "Code": "FANG_STRIKE",
             "Descriptions": [
@@ -3893,7 +3893,7 @@
             ]
         },
         {
-            "CardName": "FANG STRIKE",
+            "CardName": "Fang Strike",
             "ImagePath": "FANG_STRIKE.jpg",
             "Code": "FANG_STRIKE_UPGRADED",
             "Descriptions": [
@@ -3913,7 +3913,7 @@
             ]
         },
         {
-            "CardName": "CRACKED CODESLASH",
+            "CardName": "Cracked Codeslash",
             "ImagePath": "FRAGMENTED_CODESLASH.jpg",
             "Code": "FRAGMENTED_CODESLASH",
             "Descriptions": [
@@ -3934,7 +3934,7 @@
             ]
         },
         {
-            "CardName": "CRACKED CODESLASH",
+            "CardName": "Cracked Codeslash",
             "ImagePath": "FRAGMENTED_CODESLASH.jpg",
             "Code": "FRAGMENTED_CODESLASH_UPGRADED",
             "Descriptions": [
@@ -3951,7 +3951,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "HOPLITE",
+            "CardName": "Hoplite",
             "ImagePath": "HOPLITE.jpg",
             "Code": "HOPLITE",
             "Descriptions": [
@@ -3969,7 +3969,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "HOPLITE",
+            "CardName": "Hoplite",
             "ImagePath": "HOPLITE.jpg",
             "Code": "HOPLITE_UPGRADED",
             "Descriptions": [
@@ -3987,7 +3987,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "MEM DAGGER",
+            "CardName": "Mem Dagger",
             "ImagePath": "MEMORY_DAGGER.jpg",
             "Code": "MEM_DAGGER",
             "Descriptions": [
@@ -3995,18 +3995,20 @@
             ],
             "Conditional": "If you have at least <br>12 <b>VIM</b>, also:",
             "ConditionalDescriptions": [
-                "Draw 1 card."
+                "Gain 1 <b>Cached</b>."
             ],
             "Rarity": "UNCOMMON",
             "Color": "#E9042AFF",
             "Clock": 0,
             "Type": "ATTACK",
-            "Vim": 1,
+            "Vim": 0,
             "IsUpgrade": false,
-            "Tooltips": []
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
-            "CardName": "MEM DAGGER",
+            "CardName": "Mem Dagger",
             "ImagePath": "MEMORY_DAGGER.jpg",
             "Code": "MEM_DAGGER_UPGRADED",
             "Descriptions": [
@@ -4014,18 +4016,20 @@
             ],
             "Conditional": "If you have at least <br>12 <b>VIM</b>, also:",
             "ConditionalDescriptions": [
-                "Draw 1 card."
+                "Gain 1 <b>Cached</b>."
             ],
             "Rarity": "UNCOMMON",
             "Color": "#E9042AFF",
             "Clock": 0,
             "Type": "ATTACK",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": true,
-            "Tooltips": []
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
-            "CardName": "MEM LEAP",
+            "CardName": "Mem Leap",
             "ImagePath": "MEMORY_LEAP.jpg",
             "Code": "MEM_LEAP",
             "Descriptions": [
@@ -4044,7 +4048,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "MEM LEAP",
+            "CardName": "Mem Leap",
             "ImagePath": "MEMORY_LEAP.jpg",
             "Code": "MEM_LEAP_UPGRADED",
             "Descriptions": [
@@ -4063,7 +4067,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "MEM SABER",
+            "CardName": "Mem Saber",
             "ImagePath": "MEM_SABER.jpg",
             "Code": "MEM_SABER",
             "Descriptions": [
@@ -4086,7 +4090,7 @@
             ]
         },
         {
-            "CardName": "MEM SABER",
+            "CardName": "Mem Saber",
             "ImagePath": "MEM_SABER.jpg",
             "Code": "MEM_SABER_UPGRADED",
             "Descriptions": [
@@ -4109,7 +4113,7 @@
             ]
         },
         {
-            "CardName": "MEM SCYTHE",
+            "CardName": "Mem Scythe",
             "ImagePath": "MEMORY_SCYTHE.jpg",
             "Code": "MEM_SCYTHE",
             "Descriptions": [
@@ -4130,7 +4134,7 @@
             ]
         },
         {
-            "CardName": "MEM SCYTHE",
+            "CardName": "Mem Scythe",
             "ImagePath": "MEMORY_SCYTHE.jpg",
             "Code": "MEM_SCYTHE_UPGRADED",
             "Descriptions": [
@@ -4153,7 +4157,7 @@
             ]
         },
         {
-            "CardName": "OVERKILL",
+            "CardName": "Overkill",
             "ImagePath": "OVERKILL.jpg",
             "Code": "OVERKILL",
             "Descriptions": [
@@ -4176,7 +4180,7 @@
             ]
         },
         {
-            "CardName": "OVERKILL",
+            "CardName": "Overkill",
             "ImagePath": "OVERKILL.jpg",
             "Code": "OVERKILL_UPGRADED",
             "Descriptions": [
@@ -4199,7 +4203,7 @@
             ]
         },
         {
-            "CardName": "PACK HUNT",
+            "CardName": "Pack Hunt",
             "ImagePath": "PACK_HUNT.jpg",
             "Code": "PACK_HUNT",
             "Descriptions": [
@@ -4219,7 +4223,7 @@
             ]
         },
         {
-            "CardName": "PACK HUNT",
+            "CardName": "Pack Hunt",
             "ImagePath": "PACK_HUNT.jpg",
             "Code": "PACK_HUNT_UPGRADED",
             "Descriptions": [
@@ -4239,7 +4243,7 @@
             ]
         },
         {
-            "CardName": "PRIMAL HOWL",
+            "CardName": "Primal Howl",
             "ImagePath": "PRIMAL_HOWL.jpg",
             "Code": "PRIMAL_HOWL",
             "Descriptions": [
@@ -4261,7 +4265,7 @@
             ]
         },
         {
-            "CardName": "PRIMAL HOWL",
+            "CardName": "Primal Howl",
             "ImagePath": "PRIMAL_HOWL.jpg",
             "Code": "PRIMAL_HOWL_UPGRADED",
             "Descriptions": [
@@ -4283,7 +4287,7 @@
             ]
         },
         {
-            "CardName": "RECURSIVE NIGHTMARE",
+            "CardName": "Recursive Nightmare",
             "ImagePath": "RECURSIVE_NIGHTMARE.jpg",
             "Code": "RECURSIVE_NIGHTMARE",
             "Descriptions": [
@@ -4301,7 +4305,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "RECURSIVE NIGHTMARE",
+            "CardName": "Recursive Nightmare",
             "ImagePath": "RECURSIVE_NIGHTMARE.jpg",
             "Code": "RECURSIVE_NIGHTMARE_UPGRADED",
             "Descriptions": [
@@ -4319,7 +4323,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "RENDING CODESLASH",
+            "CardName": "Rending Codeslash",
             "ImagePath": "RENDING_CODESLASH.jpg",
             "Code": "RENDING_CODESLASH",
             "Descriptions": [
@@ -4339,7 +4343,7 @@
             ]
         },
         {
-            "CardName": "RENDING CODESLASH",
+            "CardName": "Rending Codeslash",
             "ImagePath": "RENDING_CODESLASH.jpg",
             "Code": "RENDING_CODESLASH_UPGRADED",
             "Descriptions": [
@@ -4359,7 +4363,7 @@
             ]
         },
         {
-            "CardName": "SUN BURST X",
+            "CardName": "Sun Burst X",
             "ImagePath": "SUN_BURST_X.jpg",
             "Code": "SUN_BURST_X",
             "Descriptions": [
@@ -4377,7 +4381,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "SUN BURST X",
+            "CardName": "Sun Burst X",
             "ImagePath": "SUN_BURST_X.jpg",
             "Code": "SUN_BURST_X_UPGRADED",
             "Descriptions": [
@@ -4395,7 +4399,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "THE CYPHER'S GAMBIT",
+            "CardName": "The Cypher's Gambit",
             "ImagePath": "THE_CYPHERS_GAMBIT.jpg",
             "Code": "THE_CYPHERS_GAMBIT",
             "Descriptions": [
@@ -4414,7 +4418,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "THE CYPHER'S GAMBIT",
+            "CardName": "The Cypher's Gambit",
             "ImagePath": "THE_CYPHERS_GAMBIT.jpg",
             "Code": "THE_CYPHERS_GAMBIT_UPGRADED",
             "Descriptions": [
@@ -4433,7 +4437,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "THE GUILD'S HEIST",
+            "CardName": "The Guild's Heist",
             "ImagePath": "THE_GUILDS_HEIST.jpg",
             "Code": "THE_GUILDS_HEIST",
             "Descriptions": [
@@ -4451,7 +4455,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "THE GUILD'S HEIST",
+            "CardName": "The Guild's Heist",
             "ImagePath": "THE_GUILDS_HEIST.jpg",
             "Code": "THE_GUILDS_HEIST_UPGRADED",
             "Descriptions": [
@@ -4469,7 +4473,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "THE MAKER'S TOUCH",
+            "CardName": "The Maker's Touch",
             "ImagePath": "THE_MAKERS_TOUCH.jpg",
             "Code": "THE_MAKERS_TOUCH",
             "Descriptions": [
@@ -4488,7 +4492,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "THE MAKER'S TOUCH",
+            "CardName": "The Maker's Touch",
             "ImagePath": "THE_MAKERS_TOUCH.jpg",
             "Code": "THE_MAKERS_TOUCH_UPGRADED",
             "Descriptions": [
@@ -4507,7 +4511,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "THE PUNK'S GIFT",
+            "CardName": "The Punk's Gift",
             "ImagePath": "THE_PUNKS_GIFT.jpg",
             "Code": "THE_PUNKS_GIFT",
             "Descriptions": [
@@ -4527,7 +4531,7 @@
             ]
         },
         {
-            "CardName": "THE PUNK'S GIFT",
+            "CardName": "The Punk's Gift",
             "ImagePath": "THE_PUNKS_GIFT.jpg",
             "Code": "THE_PUNKS_GIFT_UPGRADED",
             "Descriptions": [
@@ -4547,13 +4551,13 @@
             ]
         },
         {
-            "CardName": "THE STRAY'S AMBUSH",
+            "CardName": "The Stray's Ambush",
             "ImagePath": "THE_STRAY_AMBUSH.jpg",
             "Code": "THE_STRAYS_AMBUSH",
             "Descriptions": [
                 "Deal 30 <b>DMG</b>."
             ],
-            "Conditional": "If you have at least <br>6 <b>Feral</b>, also:",
+            "Conditional": "If you have at least <br>8 <b>Feral</b>, also:",
             "ConditionalDescriptions": [
                 "Gain 1 <b>Clock</b>."
             ],
@@ -4568,28 +4572,28 @@
             ]
         },
         {
-            "CardName": "THE STRAY'S AMBUSH",
+            "CardName": "The Stray's Ambush",
             "ImagePath": "THE_STRAY_AMBUSH.jpg",
             "Code": "THE_STRAYS_AMBUSH_UPGRADED",
             "Descriptions": [
-                "Deal 30 <b>DMG</b>."
+                "Deal 50 <b>DMG</b>."
             ],
             "Conditional": "If you have at least <br>8 <b>Feral</b>, also:",
             "ConditionalDescriptions": [
-                "Gain 2 <b>Clock</b>."
+                "Gain 1 <b>Clock</b>."
             ],
             "Rarity": "COMMON",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATTACK",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "FeralTooltip"
             ]
         },
         {
-            "CardName": "TOP OF THE FOOD CHAIN",
+            "CardName": "Top Of The Food Chain",
             "ImagePath": "TOP_OF_THE_FOOD_CHAIN.jpg",
             "Code": "TOP_OF_THE_FOOD_CHAIN",
             "Descriptions": [
@@ -4610,7 +4614,7 @@
             ]
         },
         {
-            "CardName": "TOP OF THE FOOD CHAIN",
+            "CardName": "Top Of The Food Chain",
             "ImagePath": "TOP_OF_THE_FOOD_CHAIN.jpg",
             "Code": "TOP_OF_THE_FOOD_CHAIN_UPGRADED",
             "Descriptions": [
@@ -4629,7 +4633,7 @@
             ]
         },
         {
-            "CardName": "ULYSSES' TOY",
+            "CardName": "Ulysses' Toy",
             "ImagePath": "ULYSSES_TOY.jpg",
             "Code": "ULYSSES_TOY",
             "Descriptions": [
@@ -4640,7 +4644,7 @@
             "ConditionalDescriptions": [],
             "Rarity": "UNIQUE",
             "Color": "#E9042AFF",
-            "Clock": 1,
+            "Clock": 2,
             "Type": "ATTACK",
             "Vim": 2,
             "IsUpgrade": false,
@@ -4649,7 +4653,7 @@
             ]
         },
         {
-            "CardName": "ULYSSES' TOY",
+            "CardName": "Ulysses' Toy",
             "ImagePath": "ULYSSES_TOY.jpg",
             "Code": "ULYSSES_TOY_UPGRADED",
             "Descriptions": [
@@ -4660,7 +4664,7 @@
             "ConditionalDescriptions": [],
             "Rarity": "UNIQUE",
             "Color": "#E9042AFF",
-            "Clock": 1,
+            "Clock": 2,
             "Type": "ATTACK",
             "Vim": 2,
             "IsUpgrade": true,
@@ -4669,7 +4673,7 @@
             ]
         },
         {
-            "CardName": "VOID CODESLASH",
+            "CardName": "Void Codeslash",
             "ImagePath": "VOID_CODESLASH.jpg",
             "Code": "VOID_CODESLASH",
             "Descriptions": [
@@ -4689,7 +4693,7 @@
             ]
         },
         {
-            "CardName": "VOID CODESLASH",
+            "CardName": "Void Codeslash",
             "ImagePath": "VOID_CODESLASH.jpg",
             "Code": "VOID_CODESLASH_UPGRADED",
             "Descriptions": [
@@ -4709,7 +4713,7 @@
             ]
         },
         {
-            "CardName": "WARDLORD KISS",
+            "CardName": "Wardlord Kiss",
             "ImagePath": "WARDLORD_KISS.jpg",
             "Code": "WARDLORD_KISS",
             "Descriptions": [
@@ -4726,7 +4730,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "WARDLORD KISS",
+            "CardName": "Wardlord Kiss",
             "ImagePath": "WARDLORD_KISS.jpg",
             "Code": "WARDLORD_KISS_UPGRADED",
             "Descriptions": [
@@ -4743,7 +4747,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "ADONIS AD BLOCKER",
+            "CardName": "Adonis Ad Blocker",
             "ImagePath": "ADONIS_AD_BLOCKER.jpg",
             "Code": "ADONIS_AD_BLOCKER",
             "Descriptions": [
@@ -4761,7 +4765,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "ADONIS AD BLOCKER",
+            "CardName": "Adonis Ad Blocker",
             "ImagePath": "ADONIS_AD_BLOCKER.jpg",
             "Code": "ADONIS_AD_BLOCKER_UPGRADED",
             "Descriptions": [
@@ -4779,7 +4783,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "AMPED CYBERSHELL",
+            "CardName": "Amped Cybershell",
             "ImagePath": "AMPED_CYBERSHELL.jpg",
             "Code": "AMPED_CYBERSHELL",
             "Descriptions": [
@@ -4801,7 +4805,7 @@
             ]
         },
         {
-            "CardName": "AMPED CYBERSHELL",
+            "CardName": "Amped Cybershell",
             "ImagePath": "AMPED_CYBERSHELL.jpg",
             "Code": "AMPED_CYBERSHELL_UPGRADED",
             "Descriptions": [
@@ -4820,7 +4824,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "ANIMAL INSTINCT",
+            "CardName": "Animal Instinct",
             "ImagePath": "PREY_DRIVE.jpg",
             "Code": "ANIMAL_INSTINCT",
             "Descriptions": [
@@ -4828,7 +4832,7 @@
             ],
             "Conditional": "If you've hit this turn, instead:",
             "ConditionalDescriptions": [
-                "Gain 60 <b>Barrier</b>."
+                "Gain 50 <b>Barrier</b>."
             ],
             "Rarity": "UNCOMMON",
             "Color": "#047BEAFF",
@@ -4839,15 +4843,15 @@
             "Tooltips": []
         },
         {
-            "CardName": "ANIMAL INSTINCT",
+            "CardName": "Animal Instinct",
             "ImagePath": "PREY_DRIVE.jpg",
             "Code": "ANIMAL_INSTINCT_UPGRADED",
             "Descriptions": [
-                "Gain 40 <b>Barrier</b>."
+                "Gain 30 <b>Barrier</b>."
             ],
             "Conditional": "If you've hit this turn, instead:",
             "ConditionalDescriptions": [
-                "Gain 80 <b>Barrier</b>."
+                "Gain 70 <b>Barrier</b>."
             ],
             "Rarity": "UNCOMMON",
             "Color": "#047BEAFF",
@@ -4858,7 +4862,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "BEND REALITY",
+            "CardName": "Bend Reality",
             "ImagePath": "BEND_REALITY.jpg",
             "Code": "BEND_REALITY",
             "Descriptions": [
@@ -4878,7 +4882,7 @@
             ]
         },
         {
-            "CardName": "BEND REALITY",
+            "CardName": "Bend Reality",
             "ImagePath": "BEND_REALITY.jpg",
             "Code": "BEND_REALITY_UPGRADED",
             "Descriptions": [
@@ -4898,7 +4902,7 @@
             ]
         },
         {
-            "CardName": "COLD STARE",
+            "CardName": "Cold Stare",
             "ImagePath": "COLD_STARE.jpg",
             "Code": "COLD_STARE",
             "Descriptions": [
@@ -4920,7 +4924,7 @@
             ]
         },
         {
-            "CardName": "COLD STARE",
+            "CardName": "Cold Stare",
             "ImagePath": "COLD_STARE.jpg",
             "Code": "COLD_STARE_UPGRADED",
             "Descriptions": [
@@ -4942,7 +4946,7 @@
             ]
         },
         {
-            "CardName": "CONSOLE BACKUP",
+            "CardName": "Console Backup",
             "ImagePath": "CONSOLE_BACKUP.jpg",
             "Code": "CONSOLE_BACKUP",
             "Descriptions": [
@@ -4960,7 +4964,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "CONSOLE BACKUP",
+            "CardName": "Console Backup",
             "ImagePath": "CONSOLE_BACKUP.jpg",
             "Code": "CONSOLE_BACKUP_UPGRADED",
             "Descriptions": [
@@ -4978,7 +4982,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "CYBERHIDE",
+            "CardName": "Cyberhide",
             "ImagePath": "CYBERHIDE.jpg",
             "Code": "CYBERHIDE",
             "Descriptions": [
@@ -4996,7 +5000,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "CYBERHIDE",
+            "CardName": "Cyberhide",
             "ImagePath": "CYBERHIDE.jpg",
             "Code": "CYBERHIDE_UPGRADED",
             "Descriptions": [
@@ -5014,7 +5018,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "CYBERSHELL",
+            "CardName": "Cybershell",
             "ImagePath": "CYBERSHELL.jpg",
             "Code": "CYBERSHELL",
             "Descriptions": [
@@ -5031,7 +5035,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "CYBERSHELL",
+            "CardName": "Cybershell",
             "ImagePath": "CYBERSHELL.jpg",
             "Code": "CYBERSHELL_UPGRADED",
             "Descriptions": [
@@ -5048,7 +5052,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "ENERGY COAT",
+            "CardName": "Energy Coat",
             "ImagePath": "ENERGY_COAT.jpg",
             "Code": "ENERGY_COAT",
             "Descriptions": [
@@ -5066,7 +5070,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "ENERGY COAT",
+            "CardName": "Energy Coat",
             "ImagePath": "ENERGY_COAT.jpg",
             "Code": "ENERGY_COAT_UPGRADED",
             "Descriptions": [
@@ -5084,7 +5088,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "EPHEMERAL WALL",
+            "CardName": "Ephemeral Wall",
             "ImagePath": "EPHEMERAL_WALL.jpg",
             "Code": "EPHEMERAL_WALL",
             "Descriptions": [
@@ -5105,7 +5109,7 @@
             ]
         },
         {
-            "CardName": "EPHEMERAL WALL",
+            "CardName": "Ephemeral Wall",
             "ImagePath": "EPHEMERAL_WALL.jpg",
             "Code": "EPHEMERAL_WALL_UPGRADED",
             "Descriptions": [
@@ -5126,7 +5130,7 @@
             ]
         },
         {
-            "CardName": "CRACKED BLOCKADE",
+            "CardName": "Cracked Blockade",
             "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
             "Code": "FRAGMENTED_BLOCKADE",
             "Descriptions": [
@@ -5147,7 +5151,7 @@
             ]
         },
         {
-            "CardName": "CRACKED BLOCKADE",
+            "CardName": "Cracked Blockade",
             "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
             "Code": "FRAGMENTED_BLOCKADE_UPGRADED",
             "Descriptions": [
@@ -5164,7 +5168,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "INPUT ASSISTANT",
+            "CardName": "Input Assistant",
             "ImagePath": "INPUT_ASSISTANT.jpg",
             "Code": "INPUT_ASSISTANT",
             "Descriptions": [
@@ -5185,7 +5189,7 @@
             ]
         },
         {
-            "CardName": "INPUT ASSISTANT",
+            "CardName": "Input Assistant",
             "ImagePath": "INPUT_ASSISTANT.jpg",
             "Code": "INPUT_ASSISTANT_UPGRADED",
             "Descriptions": [
@@ -5193,24 +5197,26 @@
             ],
             "Conditional": "If you used at least <br>1 <b>Command</b> this turn, also:",
             "ConditionalDescriptions": [
-                "Draw 1 card."
+                "Gain 1 <b>Cached</b>."
             ],
             "Rarity": "UNCOMMON",
             "Color": "#047BEAFF",
             "Clock": 0,
             "Type": "DEFENSE",
-            "Vim": 0,
+            "Vim": 1,
             "IsUpgrade": true,
-            "Tooltips": []
+            "Tooltips": [
+                "IndexedTooltip"
+            ]
         },
         {
-            "CardName": "KENNEL LAW",
+            "CardName": "Kennel Law",
             "ImagePath": "KENNEL_LAW.jpg",
             "Code": "KENNEL_LAW",
             "Descriptions": [
                 "Gain 30 <b>Barrier</b>."
             ],
-            "Conditional": "If you have at least <br>6 <b>Grit</b>, also:",
+            "Conditional": "If you have at least <br>8 <b>Grit</b>, also:",
             "ConditionalDescriptions": [
                 "Gain 1 <b>Clock</b>."
             ],
@@ -5225,13 +5231,13 @@
             ]
         },
         {
-            "CardName": "KENNEL LAW",
+            "CardName": "Kennel Law",
             "ImagePath": "KENNEL_LAW.jpg",
             "Code": "KENNEL_LAW_UPGRADED",
             "Descriptions": [
-                "Gain 45 <b>Barrier</b>."
+                "Gain 50 <b>Barrier</b>."
             ],
-            "Conditional": "If you have at least <br>6 <b>Grit</b>, also:",
+            "Conditional": "If you have at least <br>8 <b>Grit</b>, also:",
             "ConditionalDescriptions": [
                 "Gain 1 <b>Clock</b>."
             ],
@@ -5239,14 +5245,14 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSE",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": [
                 "GritTooltip"
             ]
         },
         {
-            "CardName": "MEM CLOAK",
+            "CardName": "Mem Cloak",
             "ImagePath": "MEMORY_CLOAK.jpg",
             "Code": "MEM_CLOAK",
             "Descriptions": [
@@ -5254,7 +5260,7 @@
             ],
             "Conditional": "If you have at least <br>12 <b>VIM</b>, also:",
             "ConditionalDescriptions": [
-                "Draw 1 cards."
+                "Generate 2 extra <b>VIM</b>."
             ],
             "Rarity": "UNCOMMON",
             "Color": "#047BEAFF",
@@ -5265,7 +5271,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "MEM CLOAK",
+            "CardName": "Mem Cloak",
             "ImagePath": "MEMORY_CLOAK.jpg",
             "Code": "MEM_CLOAK_UPGRADED",
             "Descriptions": [
@@ -5273,7 +5279,7 @@
             ],
             "Conditional": "If you have at least <br>12 <b>VIM</b>, also:",
             "ConditionalDescriptions": [
-                "Draw 1 cards."
+                "Generate 2 extra <b>VIM</b>."
             ],
             "Rarity": "UNCOMMON",
             "Color": "#047BEAFF",
@@ -5284,7 +5290,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "OWN THE STREETS",
+            "CardName": "Own The Streets",
             "ImagePath": "OWN_THE_STREETS.jpg",
             "Code": "OWN_THE_STREETS",
             "Descriptions": [
@@ -5304,7 +5310,7 @@
             ]
         },
         {
-            "CardName": "OWN THE STREETS",
+            "CardName": "Own The Streets",
             "ImagePath": "OWN_THE_STREETS.jpg",
             "Code": "OWN_THE_STREETS_UPGRADED",
             "Descriptions": [
@@ -5324,7 +5330,7 @@
             ]
         },
         {
-            "CardName": "PET Z-BOT",
+            "CardName": "Pet Z Bot",
             "ImagePath": "PET_Z_BOT.jpg",
             "Code": "PET_Z_BOT",
             "Descriptions": [
@@ -5342,7 +5348,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "PET Z-BOT",
+            "CardName": "Pet Z Bot",
             "ImagePath": "PET_Z_BOT.jpg",
             "Code": "PET_Z_BOT_UPGRADED",
             "Descriptions": [
@@ -5360,7 +5366,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "POWER ARMOR",
+            "CardName": "Power Armor",
             "ImagePath": "POWER_ARMOR.jpg",
             "Code": "POWER_ARMOR",
             "Descriptions": [
@@ -5381,7 +5387,7 @@
             ]
         },
         {
-            "CardName": "POWER ARMOR",
+            "CardName": "Power Armor",
             "ImagePath": "POWER_ARMOR.jpg",
             "Code": "POWER_ARMOR_UPGRADED",
             "Descriptions": [
@@ -5402,7 +5408,7 @@
             ]
         },
         {
-            "CardName": "STREET RESOLVE",
+            "CardName": "Street Resolve",
             "ImagePath": "STREET_RESOLVE.jpg",
             "Code": "STREET_RESOLVE",
             "Descriptions": [
@@ -5422,7 +5428,7 @@
             ]
         },
         {
-            "CardName": "STREET RESOLVE",
+            "CardName": "Street Resolve",
             "ImagePath": "STREET_RESOLVE.jpg",
             "Code": "STREET_RESOLVE_UPGRADED",
             "Descriptions": [
@@ -5442,7 +5448,7 @@
             ]
         },
         {
-            "CardName": "SYRINX BLESSING",
+            "CardName": "Syrinx Blessing",
             "ImagePath": "SYRINX_BLESSING.jpg",
             "Code": "SYRINX_BLESSING",
             "Descriptions": [
@@ -5460,7 +5466,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "SYRINX BLESSING",
+            "CardName": "Syrinx Blessing",
             "ImagePath": "SYRINX_BLESSING.jpg",
             "Code": "SYRINX_BLESSING_UPGRADED",
             "Descriptions": [
@@ -5478,7 +5484,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "THE STRAY'S GUILE",
+            "CardName": "The Stray's Guile",
             "ImagePath": "THE_STRAYS_GUILE.jpg",
             "Code": "THE_STRAYS_GUILE",
             "Descriptions": [
@@ -5498,7 +5504,7 @@
             ]
         },
         {
-            "CardName": "THE STRAY'S GUILE",
+            "CardName": "The Stray's Guile",
             "ImagePath": "THE_STRAYS_GUILE.jpg",
             "Code": "THE_STRAYS_GUILE_UPGRADED",
             "Descriptions": [
@@ -5518,7 +5524,7 @@
             ]
         },
         {
-            "CardName": "THE WOLVES' DEN",
+            "CardName": "The Wolves' Den",
             "ImagePath": "THE_WOLVES_DEN.jpg",
             "Code": "THE_WOLVES_DEN",
             "Descriptions": [
@@ -5539,7 +5545,7 @@
             ]
         },
         {
-            "CardName": "THE WOLVES' DEN",
+            "CardName": "The Wolves' Den",
             "ImagePath": "THE_WOLVES_DEN.jpg",
             "Code": "THE_WOLVES_DEN_UPGRADED",
             "Descriptions": [
@@ -5560,7 +5566,7 @@
             ]
         },
         {
-            "CardName": "THUNDER Z-BOT",
+            "CardName": "Thunder Z Bot",
             "ImagePath": "THUNDER_Z_BOT.jpg",
             "Code": "THUNDER_Z_BOT",
             "Descriptions": [
@@ -5580,7 +5586,7 @@
             ]
         },
         {
-            "CardName": "THUNDER Z-BOT",
+            "CardName": "Thunder Z Bot",
             "ImagePath": "THUNDER_Z_BOT.jpg",
             "Code": "THUNDER_Z_BOT_UPGRADED",
             "Descriptions": [
@@ -5600,7 +5606,7 @@
             ]
         },
         {
-            "CardName": "CODESLASH",
+            "CardName": "Codeslash",
             "ImagePath": "CODESLASH.jpg",
             "Code": "DEMO_CARD",
             "Descriptions": [
@@ -5617,7 +5623,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "ADONIS AD BLOCKER",
+            "CardName": "Adonis Ad Blocker",
             "ImagePath": "Baribal_angry.jpg",
             "Code": "DEV_CARD_2",
             "Descriptions": [
@@ -5634,11 +5640,11 @@
             "Tooltips": []
         },
         {
-            "CardName": "ADONIS AD BLOCKER",
+            "CardName": "Adonis Ad Blocker",
             "ImagePath": "Baribal_angry.jpg",
             "Code": "DEV_CARD_3",
             "Descriptions": [
-                "140"
+                "120"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -5651,7 +5657,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "BATTLE OPTIMIZER",
+            "CardName": "Battle Optimizer",
             "ImagePath": "BATTLE_OPTIMIZER.jpg",
             "Code": "BATTLE_OPTIMIZER",
             "Descriptions": [
@@ -5676,7 +5682,7 @@
             ]
         },
         {
-            "CardName": "BATTLE OPTIMIZER",
+            "CardName": "Battle Optimizer",
             "ImagePath": "BATTLE_OPTIMIZER.jpg",
             "Code": "BATTLE_OPTIMIZER_UPGRADED",
             "Descriptions": [
@@ -5701,7 +5707,7 @@
             ]
         },
         {
-            "CardName": "BURNER",
+            "CardName": "Burner",
             "ImagePath": "BURNER.jpg",
             "Code": "BURNER",
             "Descriptions": [
@@ -5722,7 +5728,7 @@
             ]
         },
         {
-            "CardName": "BURNER",
+            "CardName": "Burner",
             "ImagePath": "BURNER.jpg",
             "Code": "BURNER_UPGRADED",
             "Descriptions": [
@@ -5742,7 +5748,7 @@
             ]
         },
         {
-            "CardName": "CAT ALYST",
+            "CardName": "Cat Alyst",
             "ImagePath": "CAT_ALYST.jpg",
             "Code": "CAT_ALYST",
             "Descriptions": [
@@ -5759,7 +5765,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "CAT ALYST",
+            "CardName": "Cat Alyst",
             "ImagePath": "CAT_ALYST.jpg",
             "Code": "CAT_ALYST_UPGRADED",
             "Descriptions": [
@@ -5779,7 +5785,7 @@
             ]
         },
         {
-            "CardName": "CONSOLE REBOOTER",
+            "CardName": "Console Rebooter",
             "ImagePath": "CONSOLE_REBOOTER.jpg",
             "Code": "CONSOLE_REBOOTER",
             "Descriptions": [
@@ -5799,7 +5805,7 @@
             ]
         },
         {
-            "CardName": "CONSOLE REBOOTER",
+            "CardName": "Console Rebooter",
             "ImagePath": "CONSOLE_REBOOTER.jpg",
             "Code": "CONSOLE_REBOOTER_UPGRADED",
             "Descriptions": [
@@ -5819,7 +5825,7 @@
             ]
         },
         {
-            "CardName": "CRANIUM RUSH",
+            "CardName": "Cranium Rush",
             "ImagePath": "CRANIUM_RUSH.jpg",
             "Code": "CRANIUM_RUSH",
             "Descriptions": [
@@ -5842,7 +5848,7 @@
             ]
         },
         {
-            "CardName": "CRANIUM RUSH",
+            "CardName": "Cranium Rush",
             "ImagePath": "CRANIUM_RUSH.jpg",
             "Code": "CRANIUM_RUSH_UPGRADED",
             "Descriptions": [
@@ -5865,7 +5871,7 @@
             ]
         },
         {
-            "CardName": "FUN GUYS",
+            "CardName": "Fun Guys",
             "ImagePath": "FUN_GUYS.jpg",
             "Code": "FUN_GUYS",
             "Descriptions": [
@@ -5882,7 +5888,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "FUN GUYS",
+            "CardName": "Fun Guys",
             "ImagePath": "FUN_GUYS.jpg",
             "Code": "FUN_GUYS_UPGRADED",
             "Descriptions": [
@@ -5899,7 +5905,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "MAGIC FINGERS",
+            "CardName": "Magic Fingers",
             "ImagePath": "MAGIC_FINGERS.jpg",
             "Code": "MAGIC_FINGERS",
             "Descriptions": [
@@ -5916,7 +5922,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "MAGIC FINGERS",
+            "CardName": "Magic Fingers",
             "ImagePath": "MAGIC_FINGERS.jpg",
             "Code": "MAGIC_FINGERS_UPGRADED",
             "Descriptions": [
@@ -5933,7 +5939,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "MEM BEACON",
+            "CardName": "Mem Beacon",
             "ImagePath": "MEMORY_BEACON.jpg",
             "Code": "MEM_BEACON",
             "Descriptions": [
@@ -5956,7 +5962,7 @@
             ]
         },
         {
-            "CardName": "MEM BEACON",
+            "CardName": "Mem Beacon",
             "ImagePath": "MEMORY_BEACON.jpg",
             "Code": "MEM_BEACON_UPGRADED",
             "Descriptions": [
@@ -5979,7 +5985,7 @@
             ]
         },
         {
-            "CardName": "MOONLIGHT",
+            "CardName": "Moonlight",
             "ImagePath": "MOONLIGHT.jpg",
             "Code": "MOONLIGHT",
             "Descriptions": [
@@ -5999,7 +6005,7 @@
             ]
         },
         {
-            "CardName": "MOONLIGHT",
+            "CardName": "Moonlight",
             "ImagePath": "MOONLIGHT.jpg",
             "Code": "MOONLIGHT_UPGRADED",
             "Descriptions": [
@@ -6019,7 +6025,7 @@
             ]
         },
         {
-            "CardName": "PREY DRIVE",
+            "CardName": "Prey Drive",
             "ImagePath": "PREY_DRIVE.jpg",
             "Code": "PREY_DRIVE",
             "Descriptions": [
@@ -6040,7 +6046,7 @@
             ]
         },
         {
-            "CardName": "PREY DRIVE",
+            "CardName": "Prey Drive",
             "ImagePath": "PREY_DRIVE.jpg",
             "Code": "PREY_DRIVE_UPGRADED",
             "Descriptions": [
@@ -6061,7 +6067,7 @@
             ]
         },
         {
-            "CardName": "RAM DOWNLOADER",
+            "CardName": "Ram Downloader",
             "ImagePath": "RAM_DOWNLOADER.jpg",
             "Code": "RAM_DOWNLOADER",
             "Descriptions": [
@@ -6082,7 +6088,7 @@
             ]
         },
         {
-            "CardName": "RAM DOWNLOADER",
+            "CardName": "Ram Downloader",
             "ImagePath": "RAM_DOWNLOADER.jpg",
             "Code": "RAM_DOWNLOADER_UPGRADED",
             "Descriptions": [
@@ -6103,7 +6109,7 @@
             ]
         },
         {
-            "CardName": "RECURSIVE DREAM",
+            "CardName": "Recursive Dream",
             "ImagePath": "RECURSIVE_DREAM.jpg",
             "Code": "RECURSIVE_DREAM",
             "Descriptions": [
@@ -6120,7 +6126,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "RECURSIVE DREAM",
+            "CardName": "Recursive Dream",
             "ImagePath": "RECURSIVE_DREAM.jpg",
             "Code": "RECURSIVE_DREAM_UPGRADED",
             "Descriptions": [
@@ -6137,7 +6143,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "SCHÄFER BLOOD SAMPLE",
+            "CardName": "Schäfer Blood Sample",
             "ImagePath": "SCHAFER_BLOOD_SAMPLE.jpg",
             "Code": "SCHAFER_BLOOD_SAMPLE",
             "Descriptions": [
@@ -6160,7 +6166,7 @@
             ]
         },
         {
-            "CardName": "SCHÄFER BLOOD SAMPLE",
+            "CardName": "Schäfer Blood Sample",
             "ImagePath": "SCHAFER_BLOOD_SAMPLE.jpg",
             "Code": "SCHAFER_BLOOD_SAMPLE_UPGRADED",
             "Descriptions": [
@@ -6183,7 +6189,7 @@
             ]
         },
         {
-            "CardName": "UNRESTRAINED GROWTH",
+            "CardName": "Unrestrained Growth",
             "ImagePath": "UNRESTRAINED_GROWTH.jpg",
             "Code": "UNRESTRAINED_GROWTH",
             "Descriptions": [
@@ -6202,7 +6208,7 @@
             ]
         },
         {
-            "CardName": "UNRESTRAINED GROWTH",
+            "CardName": "Unrestrained Growth",
             "ImagePath": "UNRESTRAINED_GROWTH.jpg",
             "Code": "UNRESTRAINED_GROWTH_UPGRADED",
             "Descriptions": [
@@ -6223,7 +6229,7 @@
             ]
         },
         {
-            "CardName": "UNSTABLE CHARGE",
+            "CardName": "Unstable Charge",
             "ImagePath": "UNSTABLE_CHARGE.jpg",
             "Code": "UNSTABLE_CHARGE",
             "Descriptions": [],
@@ -6240,7 +6246,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "UNSTABLE CHARGE",
+            "CardName": "Unstable Charge",
             "ImagePath": "UNSTABLE_CHARGE.jpg",
             "Code": "UNSTABLE_CHARGE_UPGRADED",
             "Descriptions": [],
@@ -6258,7 +6264,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "CORNUCOPIA PROTOCOL",
+            "CardName": "Cornucopia Protocol",
             "ImagePath": "CORNUCOPIA_PROTOCOL.jpg",
             "Code": "CORNUCOPIA_PROTOCOL",
             "Descriptions": [
@@ -6270,26 +6276,26 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
             ]
         },
         {
-            "CardName": "CUNNING PROTOCOL",
+            "CardName": "Cunning Protocol",
             "ImagePath": "CUNNING_PROTOCOL.jpg",
             "Code": "CUNNING_PROTOCOL",
             "Descriptions": [
-                "At the start of your turn, gain 3 <b>Grit</b>."
+                "At the start of your turn, gain 2 <b>Grit</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "UNIQUE",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6297,7 +6303,7 @@
             ]
         },
         {
-            "CardName": "GREED PROTOCOL",
+            "CardName": "Greed Protocol",
             "ImagePath": "GREED_PROTOCOL.jpg",
             "Code": "GREED_PROTOCOL",
             "Descriptions": [
@@ -6309,33 +6315,33 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
             ]
         },
         {
-            "CardName": "IGNITION PROTOCOL",
+            "CardName": "Ignition Protocol",
             "ImagePath": "IGNITION_PROTOCOL.jpg",
             "Code": "IGNITION_PROTOCOL",
             "Descriptions": [
-                "Every time you use a <b>Command</b>, deal 20 <b>DMG</b> to all targets."
+                "Every time you use a <b>Command</b>, deal 15 <b>DMG</b> to all targets."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "UNIQUE",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
             ]
         },
         {
-            "CardName": "MOMENTUM PROTOCOL",
+            "CardName": "Momentum Protocol",
             "ImagePath": "MOMENTUM_PROTOCOL.jpg",
             "Code": "MOMENTUM_PROTOCOL",
             "Descriptions": [
@@ -6354,19 +6360,19 @@
             ]
         },
         {
-            "CardName": "MOON PROTOCOL",
+            "CardName": "Moon Protocol",
             "ImagePath": "MOON_PROTOCOL.jpg",
             "Code": "MOON_PROTOCOL",
             "Descriptions": [
-                "At the start of your turn, gain 3 <b>Feral</b>."
+                "At the start of your turn, gain 2 <b>Feral</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "UNIQUE",
             "Color": "#981BD3FF",
-            "Clock": 3,
+            "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6374,7 +6380,7 @@
             ]
         },
         {
-            "CardName": "NIRVANA PROTOCOL",
+            "CardName": "Nirvana Protocol",
             "ImagePath": "NIRVANA_PROTOCOL.jpg",
             "Code": "NIRVANA_PROTOCOL",
             "Descriptions": [
@@ -6386,7 +6392,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6394,7 +6400,7 @@
             ]
         },
         {
-            "CardName": "OVERFLOW PROTOCOL",
+            "CardName": "Overflow Protocol",
             "ImagePath": "OVERFLOW_PROTOCOL.jpg",
             "Code": "OVERFLOW_PROTOCOL",
             "Descriptions": [
@@ -6406,7 +6412,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6414,7 +6420,7 @@
             ]
         },
         {
-            "CardName": "PING-U PROTOCOL",
+            "CardName": "Ping U Protocol",
             "ImagePath": "PINGU_PROTOCOL.jpg",
             "Code": "PING_U_PROTOCOL",
             "Descriptions": [
@@ -6426,7 +6432,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 4,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6434,7 +6440,7 @@
             ]
         },
         {
-            "CardName": "QUANTUM PROTOCOL",
+            "CardName": "Quantum Protocol",
             "ImagePath": "QUANTUM_PROTOCOL.jpg",
             "Code": "QUANTUM_PROTOCOL",
             "Descriptions": [
@@ -6453,7 +6459,7 @@
             ]
         },
         {
-            "CardName": "RECON PROTOCOL",
+            "CardName": "Recon Protocol",
             "ImagePath": "RECON_PROTOCOL.jpg",
             "Code": "RECON_PROTOCOL",
             "Descriptions": [
@@ -6465,14 +6471,14 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "PROTOCOL",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
             ]
         },
         {
-            "CardName": "NULL",
+            "CardName": "Null",
             "ImagePath": ".jpg",
             "Code": "DECOMPILE_TEST",
             "Descriptions": [],
@@ -6487,7 +6493,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "NULL",
+            "CardName": "Null",
             "ImagePath": ".jpg",
             "Code": "FACTORY_TEST",
             "Descriptions": [],
@@ -6502,7 +6508,7 @@
             "Tooltips": []
         },
         {
-            "CardName": "NULL",
+            "CardName": "Null",
             "ImagePath": "AMPED_CODESLASH.jpg",
             "Code": "HACK_TEST",
             "Descriptions": [],

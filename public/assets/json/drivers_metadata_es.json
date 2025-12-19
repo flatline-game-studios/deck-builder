@@ -347,7 +347,7 @@
             "DriverName": "DRIVER SATÉLITE",
             "ImagePath": "Driver_06.png",
             "Code": "ID42_DRIVER",
-            "Description": "Al principio de cada combate, <b>Augmenta</b> todos tus <b>Comandos</b> y gana 1 de <b>Clock</b>.",
+            "Description": "Al principio de cada combate, <b>Augmenta</b> todos tus <b>Comandos</b>.",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": [
@@ -358,7 +358,7 @@
             "DriverName": "DRIVER CADENA",
             "ImagePath": "Driver_06.png",
             "Code": "ID52_DRIVER",
-            "Description": "Cada vez que juegues 6 <b>SCRIPTS</b> seguidos, gana 1 de <b>Clock</b>. (0/6)",
+            "Description": "La primera vez que juegues 5 <b>SCRIPTS</b> seguidos cada turno, gana 1 de <b>Clock</b>. (0/5)",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
@@ -376,7 +376,7 @@
             "DriverName": "DRIVER VÍBORA",
             "ImagePath": "Driver_06.png",
             "Code": "ID43_DRIVER",
-            "Description": "Aumenta el daño base de los <b>SCRIPTS DE MORDIDA</b> en 4.",
+            "Description": "Aumenta el daño base de los <b>SCRIPTS DE MORDIDA</b> en 5.",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": [
@@ -396,7 +396,7 @@
             "DriverName": "DRIVER DE CONMOCIÓN",
             "ImagePath": "Driver_06.png",
             "Code": "ID50_DRIVER",
-            "Description": "Cada vez que uses un <b>Comando Augmentado </b>, haz 20 de daño a todos los enemigos.",
+            "Description": "Cada vez que uses un <b>Comando Augmentado </b>, haz 20 de daño al ICE.",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
@@ -414,8 +414,17 @@
             "DriverName": "DRIVER TRANSISTOR",
             "ImagePath": "Driver_06.png",
             "Code": "ID53_DRIVER",
-            "Description": "Cada vez que descartes una carta durante tu turno, genera 2 <b>VIM</b>.",
+            "Description": "Cada vez que descartes una carta durante tu turno, genera 1 <b>VIM</b>.",
             "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "Color": "#5AC7D6FF",
+            "Tooltips": []
+        },
+        {
+            "DriverName": "DRIVER DE PROPAGACIÓN",
+            "ImagePath": "Driver_06.png",
+            "Code": "ID54_DRIVER",
+            "Description": "La primera vez que un efecto de  <b>Asistir</b> expire cada turno, roba 1 carta y genera 1 <b>VIM</b>.",
+            "ImageIcon": "Driver_Icon_VIM_01.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
@@ -450,7 +459,7 @@
             "DriverName": "DRIVER DE CRANIUM",
             "ImagePath": "Driver_05.png",
             "Code": "ID34_DRIVER",
-            "Description": "Cada 3 <b>Comandos</b> que uses, gana 1 de <b>Clock</b> y roba 1 carta. (0/3)",
+            "Description": "Cada 3 <b>Comandos</b> que uses, gana 1 de <b>Clock</b>. (0/3)",
             "ImageIcon": "Driver_Icon_VIM_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
@@ -613,7 +622,7 @@
             "DriverName": "DRIVER DE CORRENTADA",
             "ImagePath": "Driver_02.png",
             "Code": "ID6_DRIVER",
-            "Description": "Cada vez que juegues 3 <b>ATAQUES</b> en un mismo turno, roba 1 carta. (0/3)",
+            "Description": "La primera vez que juegues 3 <b>Ataques</b> cada turno, roba 2 cartas. (0/3)",
             "ImageIcon": "Driver_Icon_Attack_01.png",
             "Color": "#5BD683FF",
             "Tooltips": []
@@ -631,7 +640,7 @@
             "DriverName": "DRIVER BATERÍA",
             "ImagePath": "Driver_03.png",
             "Code": "ID8_DRIVER",
-            "Description": "Cada vez que juegues 3 <b>Defensas</b> en un mismo turno, gana 1 de <b>Overclocked</b>. (0/3)",
+            "Description": "La primera vez que juegues 3 <b>Defensas</b> cada turno, gana 1 de <b>Overclocked</b>. (0/3)",
             "ImageIcon": "Driver_Icon_Defense_01.png",
             "Color": "#5BD683FF",
             "Tooltips": [
@@ -673,7 +682,7 @@
             "DriverName": "DRIVER DE HIBERNACIÓN",
             "ImagePath": "Driver_03.png",
             "Code": "ID12_DRIVER",
-            "Description": "Cada turno, conserva hasta 30 de <b>Barrera</b> en vez de perderlo todo.",
+            "Description": "Cada turno, conserva hasta 25 de <b>Barrera</b> en vez de perderlo todo.",
             "ImageIcon": "Driver_Icon_Defense_01.png",
             "Color": "#5BD683FF",
             "Tooltips": []
@@ -863,7 +872,7 @@
             "DriverName": "DRIVER JERINGA",
             "ImagePath": "Driver_07.png",
             "Code": "ID110_DRIVER",
-            "Description": "Cada vez que <b>Extraigas</b> un Nodo, restaura 15 de <b>Integridad</b>.",
+            "Description": "Cada vez que <b>Extraigas</b> un Nodo, restaura 10 de <b>Integridad</b>.",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
@@ -935,7 +944,7 @@
             "DriverName": "DRIVER DE TORMENTA",
             "ImagePath": "Driver_04.png",
             "Code": "ID38_DRIVER",
-            "Description": "Al final de tu turno, haz 3 de daño a todos los enemigos por cada punto de <b>VIM</b> que tengas. (0 de daño)",
+            "Description": "Al final de tu turno, haz 2 de daño al ICE por cada punto de <b>VIM</b> que tengas. (0 de daño)",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
@@ -965,7 +974,7 @@
         {
             "DriverName": "DRIVER DE VELOCIDAD",
             "ImagePath": "Driver_04.png",
-            "Code": "ID26_URSA_DRIVER",
+            "Code": "ID26_DRIVER",
             "Description": "Cada 6 cartas que juegues, gana 1 de <b>Clock</b>. (0/6)",
             "ImageIcon": "Driver_Icon_Ursa_01.png",
             "Color": "#5AC7D6FF",

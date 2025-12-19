@@ -98,7 +98,7 @@
         {
             "Code": "GlitchingMatrixTooltip",
             "Title": "Matrix Glitcheada",
-            "Description": "Cada vez que un Ataque es jugado este turno, se vuelve Glitcheado."
+            "Description": "Cada vez que un Ataque es jugado este turno, se vuelve Glitcheado. Cada punto representa duración entre rondas."
         },
         {
             "Code": "GritTooltip",
@@ -248,7 +248,7 @@
         {
             "Code": "Tooltip_Inventory_LogScrubber",
             "Title": "LIMPIA REGISTROS",
-            "Description": "Reduce tu Rastro por 4."
+            "Description": "Reduce tu Rastro por 3."
         },
         {
             "Code": "Tooltip_Inventory_LogWiper",

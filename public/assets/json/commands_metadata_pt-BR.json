@@ -28,7 +28,7 @@
         },
         {
             "CommandName": "",
-            "Cost": 6,
+            "Cost": 5,
             "Description": "",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND",
@@ -38,7 +38,7 @@
         },
         {
             "CommandName": "",
-            "Cost": 6,
+            "Cost": 5,
             "Description": "",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND_AUGMENTED",
@@ -79,6 +79,22 @@
             "Tooltips": []
         },
         {
+            "CommandName": "MULLIGAN",
+            "Cost": 16,
+            "Description": "Discard up to 3 cards, then draw that many cards.",
+            "Tier": "Critical",
+            "Code": "MULLIGAN_COMMAND",
+            "Tooltips": []
+        },
+        {
+            "CommandName": "AUG. MULLIGAN",
+            "Cost": 12,
+            "Description": "Discard up to 3 cards, then draw that many cards.",
+            "Tier": "Critical",
+            "Code": "MULLIGAN_COMMAND_AUGMENTED",
+            "Tooltips": []
+        },
+        {
             "CommandName": "",
             "Cost": 12,
             "Description": "",
@@ -89,7 +105,7 @@
         {
             "CommandName": "",
             "Cost": 12,
-            "Description": "",
+            "Description": "At the start of next turn, gain 1 <b>Clock</b> and draw 1 card.",
             "Tier": "Major",
             "Code": "PREPARE_COMMAND_AUGMENTED",
             "Tooltips": []
@@ -130,8 +146,8 @@
         },
         {
             "CommandName": "",
-            "Cost": 20,
-            "Description": "",
+            "Cost": 16,
+            "Description": "Every time you create <b>Scripts</b> this turn, create 1 random <b>Script</b>.",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND",
             "Tooltips": [
@@ -140,15 +156,15 @@
         },
         {
             "CommandName": "",
-            "Cost": 15,
-            "Description": "",
+            "Cost": 12,
+            "Description": "Every time you create <b>Scripts</b> this turn, create 1 random <b>Script</b>.",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND_AUGMENTED",
             "Tooltips": []
         },
         {
             "CommandName": "",
-            "Cost": 6,
+            "Cost": 5,
             "Description": "",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND",
@@ -156,7 +172,7 @@
         },
         {
             "CommandName": "",
-            "Cost": 6,
+            "Cost": 5,
             "Description": "",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND_AUGMENTED",
@@ -202,37 +218,20 @@
         },
         {
             "CommandName": "",
-            "Cost": 6,
+            "Cost": 5,
             "Description": "",
             "Tier": "Minor",
             "Code": "TOUCH_COMMAND",
             "Tooltips": [
-                "TriggerAssistTooltip",
                 "AssistTooltip"
             ]
         },
         {
             "CommandName": "",
-            "Cost": 6,
+            "Cost": 5,
             "Description": "",
             "Tier": "Minor",
             "Code": "TOUCH_COMMAND_AUGMENTED",
-            "Tooltips": []
-        },
-        {
-            "CommandName": "",
-            "Cost": 17,
-            "Description": "",
-            "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND",
-            "Tooltips": []
-        },
-        {
-            "CommandName": "",
-            "Cost": 17,
-            "Description": "",
-            "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND_AUGMENTED",
             "Tooltips": []
         },
         {

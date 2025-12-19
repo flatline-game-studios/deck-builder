@@ -28,7 +28,7 @@
         },
         {
             "CommandName": "CONSTRUIR",
-            "Cost": 6,
+            "Cost": 5,
             "Description": "Crea 1 copia del último <b>Script</b> que hayas jugado este turno.  ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND",
@@ -38,7 +38,7 @@
         },
         {
             "CommandName": "CONSTRUIR AUG.",
-            "Cost": 6,
+            "Cost": 5,
             "Description": "Crea 2 copias del último <b>Script</b> que hayas jugado este turno.  ",
             "Tier": "Minor",
             "Code": "CONSTRUCT_COMMAND_AUGMENTED",
@@ -79,6 +79,22 @@
             "Tooltips": []
         },
         {
+            "CommandName": "MULLIGAN",
+            "Cost": 16,
+            "Description": "Descarta hasta 3 cartas, luego roba la misma cantidad de cartas.",
+            "Tier": "Critical",
+            "Code": "MULLIGAN_COMMAND",
+            "Tooltips": []
+        },
+        {
+            "CommandName": "MULLIGAN AUG.",
+            "Cost": 12,
+            "Description": "Descarta hasta 3 cartas, luego roba la misma cantidad de cartas.",
+            "Tier": "Critical",
+            "Code": "MULLIGAN_COMMAND_AUGMENTED",
+            "Tooltips": []
+        },
+        {
             "CommandName": "PREPARAR",
             "Cost": 12,
             "Description": "Al principio de tu próximo turno, gana 1 de <b>Clock</b>.",
@@ -89,7 +105,7 @@
         {
             "CommandName": "PREPARAR AUG.",
             "Cost": 12,
-            "Description": "Al principio de tu próximo turno, gana 2 de <b>Clock</b>.",
+            "Description": "Al principio de tu próximo turno, gana 1 de <b>Clock</b> y roba 1 carta.",
             "Tier": "Major",
             "Code": "PREPARE_COMMAND_AUGMENTED",
             "Tooltips": []
@@ -130,8 +146,8 @@
         },
         {
             "CommandName": "REPLICAR",
-            "Cost": 20,
-            "Description": "Crea 1 copia de cada <b>Script</b> en tu mano.",
+            "Cost": 16,
+            "Description": "Cada vez que crees <b>Scripts</b> este turno, crea 1 <b>Script</b> al azar.",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND",
             "Tooltips": [
@@ -140,24 +156,24 @@
         },
         {
             "CommandName": "REPLICAR AUG.",
-            "Cost": 15,
-            "Description": "Crea 1 copia de cada <b>Script</b> en tu mano.",
+            "Cost": 12,
+            "Description": "Cada vez que crees <b>Scripts</b> este turno, crea 1 <b>Script</b> al azar.",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND_AUGMENTED",
             "Tooltips": []
         },
         {
             "CommandName": "RECONVERTIR",
-            "Cost": 6,
-            "Description": "Descarta 1 carta.",
+            "Cost": 5,
+            "Description": "Descarta más a la derecha de tu mano.",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND",
             "Tooltips": []
         },
         {
             "CommandName": "RECONVERTIR AUG.",
-            "Cost": 6,
-            "Description": "Descarta 1 carta y roba 1.",
+            "Cost": 5,
+            "Description": "Descarta 1 carta.",
             "Tier": "Minor",
             "Code": "REPURPOSE_COMMAND_AUGMENTED",
             "Tooltips": []
@@ -195,44 +211,27 @@
         {
             "CommandName": "PLANEAR AUG.",
             "Cost": 12,
-            "Description": "Crea 1 <b>Script</b> al azar. <b>Conserva</b> todos tus <b>Scripts</b> este turno.",
+            "Description": "Crea 2 <b>Script</b> al azar. <b>Conserva</b> todos tus <b>Scripts</b> este turno.",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND_AUGMENTED",
             "Tooltips": []
         },
         {
             "CommandName": "TOCAR",
-            "Cost": 6,
-            "Description": "Activa 1 de tus efectos de <b>Asistir</b> al azar.",
+            "Cost": 5,
+            "Description": "Activa 1 de tus efectos de <b>Asistir</b> al azar y reduce su contador.",
             "Tier": "Minor",
             "Code": "TOUCH_COMMAND",
             "Tooltips": [
-                "TriggerAssistTooltip",
                 "AssistTooltip"
             ]
         },
         {
             "CommandName": "TOCAR AUG.",
-            "Cost": 6,
-            "Description": "Activa 2 de tus efectos de <b>Asistir</b> al azar.",
+            "Cost": 5,
+            "Description": "Activa 1 de tus efectos de <b>Asistir</b> al azar sin reducir su contador.",
             "Tier": "Minor",
             "Code": "TOUCH_COMMAND_AUGMENTED",
-            "Tooltips": []
-        },
-        {
-            "CommandName": "TRASCENDER",
-            "Cost": 17,
-            "Description": "Descarta 3 cartas para ganar 2 de <b>Clock</b>.",
-            "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND",
-            "Tooltips": []
-        },
-        {
-            "CommandName": "TRASCENDER AUG.",
-            "Cost": 17,
-            "Description": "Descarta 3 cartas para ganar 3 de <b>Clock</b>.",
-            "Tier": "Critical",
-            "Code": "TRANSCEND_COMMAND_AUGMENTED",
             "Tooltips": []
         },
         {
