@@ -845,7 +845,7 @@
             "DriverName": "防犯侵入ドライバー",
             "ImagePath": "Driver_07.png",
             "Code": "ID107_DRIVER",
-            "Description": "<b>追跡レベル</b>がLv.5以上のとき、戦闘開始前に<b>追跡</b>を1Pt減少させる。",
+            "Description": "<b>追跡レベル</b>がLv.6以上のとき、戦闘開始前に<b>追跡</b>を1Pt減少させる。",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
@@ -857,7 +857,11 @@
             "Description": "<b>ツール</b>を3回使用するたびに、ランダムな<b>基本ツール</b>を1つ入手する。(0/3)",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "レンチドライバー",
@@ -866,7 +870,11 @@
             "Description": "<b>ノード</b>を5つ<b>抽出</b>するたびに、ランダムな<b>基本ツール</b>を1つ入手する。(0/5)",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "注射剤ドライバー",
@@ -884,7 +892,11 @@
             "Description": "<b>スキル</b>を使用するたびに、ランダムな<b>基本ツール</b>を1つ入手する。",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "クーラードライバー",

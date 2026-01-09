@@ -845,7 +845,7 @@
             "DriverName": "DRIVER PANÓPTICO",
             "ImagePath": "Driver_07.png",
             "Code": "ID107_DRIVER",
-            "Description": "Mientras el Nivel de Rastro sea igual o mayor que 5, antes de empezar cada combate, reduce el <b>Rastro</b> por 1.",
+            "Description": "Mientras el Nivel de Rastro sea igual o mayor que 6, antes de empezar cada combate, reduce el <b>Rastro</b> por 1.",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
@@ -857,7 +857,11 @@
             "Description": "Cada 3 <b>Herramientas</b> que uses, obtén una <b>Herramienta Básica</b> al azar. (0/3)",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "DRIVER PULSIANA",
@@ -866,7 +870,11 @@
             "Description": "Cada 5 Nodos que <b>Extraigas</b>, obtén una <b>Herramienta Básica</b> al azar. (0/5)",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "DRIVER JERINGA",
@@ -884,7 +892,11 @@
             "Description": "Cada vez que uses una <b>Habilidad</b>, obtén una <b>Herramienta Básica</b> al azar.",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "DRIVER ENFRIADOR",

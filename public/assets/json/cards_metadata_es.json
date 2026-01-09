@@ -629,7 +629,7 @@
             "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
             "Code": "MAGGIE_THE_MAGPIE",
             "Descriptions": [
-                "Haz 15 de daño a todos los enemigos.",
+                "Haz 20 de daño a todos los enemigos.",
                 "<b>Asistir 2:</b> Roba 1 carta."
             ],
             "Conditional": "",
@@ -649,7 +649,7 @@
             "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
             "Code": "MAGGIE_THE_MAGPIE_UPGRADED",
             "Descriptions": [
-                "Haz 25 de daño a todos los enemigos.",
+                "Haz 30 de daño a todos los enemigos.",
                 "<b>Asistir 3:</b> Roba 1 carta."
             ],
             "Conditional": "",
@@ -1351,7 +1351,7 @@
             "ImagePath": "VENOM_STRIKE.jpg",
             "Code": "VENOM_STRIKE",
             "Descriptions": [
-                "Haz 20 de daño.",
+                "Haz 25 de daño.",
                 "Aumenta el daño de los <b>Scripts de Mordida</b> en 5 por este turno.",
                 "<b>Si Impacta:</b> Inflige 2 de <b>Exposición</b>."
             ],
@@ -1763,7 +1763,7 @@
             "Descriptions": [
                 "Gana 30 de <b>Barrera</b>."
             ],
-            "Conditional": "Si jugaste al menos 5 <b>Scripts</b> este turno, también:",
+            "Conditional": "Si jugaste al menos 4 <b>Scripts</b> este turno, también:",
             "ConditionalDescriptions": [
                 "Crea 2 copias del último <b>Script</b> que jugaste."
             ],
@@ -1784,7 +1784,7 @@
             "Descriptions": [
                 "Gana 40 de <b>Barrera</b>."
             ],
-            "Conditional": "Si jugaste al menos 5 <b>Scripts</b> este turno, también:",
+            "Conditional": "Si jugaste al menos 4 <b>Scripts</b> este turno, también:",
             "ConditionalDescriptions": [
                 "Crea 3 copias del último <b>Script</b> que jugaste."
             ],
@@ -1792,7 +1792,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSA",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "ScriptTooltip"
@@ -1874,7 +1874,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSA",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "OnDiscardTooltip"
@@ -2171,7 +2171,7 @@
             "ImagePath": "TITANIUM_WEB.jpg",
             "Code": "TITANIUM_WEB",
             "Descriptions": [
-                "Gana 30 de <b>Barrera</b>.",
+                "Gana 35 de <b>Barrera</b>.",
                 "Todos los Scripts que crees este turno serán <b>Scripts de Capullo</b>."
             ],
             "Conditional": "",
@@ -2192,7 +2192,7 @@
             "ImagePath": "TITANIUM_WEB.jpg",
             "Code": "TITANIUM_WEB_UPGRADED",
             "Descriptions": [
-                "Gana 40 de <b>Barrera</b>.",
+                "Gana 55 de <b>Barrera</b>.",
                 "Todos los Scripts que crees este turno serán <b>Scripts de Capullo</b>."
             ],
             "Conditional": "",
@@ -2201,7 +2201,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "DEFENSA",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "ScriptTooltip",
@@ -2464,7 +2464,7 @@
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "GENERADOR",
-            "Vim": 3,
+            "Vim": 4,
             "IsUpgrade": false,
             "Tooltips": [
                 "AugmentTooltip"
@@ -2485,7 +2485,7 @@
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "GENERADOR",
-            "Vim": 3,
+            "Vim": 4,
             "IsUpgrade": true,
             "Tooltips": [
                 "AugmentTooltip"
@@ -2796,7 +2796,7 @@
             "Descriptions": [
                 "Create 2 <b>Weave Scripts</b>."
             ],
-            "Conditional": "Si jugaste al menos 5 <b>Scripts</b> este turno, también:",
+            "Conditional": "Si jugaste al menos 4 <b>Scripts</b> este turno, también:",
             "ConditionalDescriptions": [
                 "Create 2 <b>Weave Scripts</b>."
             ],
@@ -2817,7 +2817,7 @@
             "Descriptions": [
                 "Create 3 <b>Weave Scripts</b>."
             ],
-            "Conditional": "Si jugaste al menos 5 <b>Scripts</b> este turno, también:",
+            "Conditional": "Si jugaste al menos 4 <b>Scripts</b> este turno, también:",
             "ConditionalDescriptions": [
                 "Create 3 <b>Weave Scripts</b>."
             ],
@@ -3373,7 +3373,7 @@
             "ImagePath": "INFECTED_DATA.jpg",
             "Code": "INFECTED_DATA",
             "Descriptions": [
-                "Recibe 5 de daño.",
+                "Recibe 3 de daño.",
                 "<b>DECOMPILAR</b>."
             ],
             "Conditional": "",
@@ -3652,7 +3652,7 @@
             "ImagePath": "CHARGED_CODESLASH.jpg",
             "Code": "CHARGED_CODESLASH",
             "Descriptions": [
-                "Haz 35 de daño."
+                "Haz 25 de daño."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -3669,7 +3669,7 @@
             "ImagePath": "CHARGED_CODESLASH.jpg",
             "Code": "CHARGED_CODESLASH_UPGRADED",
             "Descriptions": [
-                "Haz 50 de daño."
+                "Haz 35 de daño."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -3677,7 +3677,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATAQUE",
-            "Vim": 6,
+            "Vim": 5,
             "IsUpgrade": true,
             "Tooltips": []
         },
@@ -3964,7 +3964,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATAQUE",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": false,
             "Tooltips": []
         },
@@ -3982,7 +3982,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATAQUE",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": []
         },
@@ -4327,7 +4327,7 @@
             "ImagePath": "RENDING_CODESLASH.jpg",
             "Code": "RENDING_CODESLASH",
             "Descriptions": [
-                "Haz 35 de daño.",
+                "Haz 30 de daño.",
                 "Si impacta: inflige 1 de <b>Debilidad</b>."
             ],
             "Conditional": "",
@@ -4348,7 +4348,7 @@
             "Code": "RENDING_CODESLASH_UPGRADED",
             "Descriptions": [
                 "Haz 45 de daño.",
-                "Si impacta: inflige 2 de <b>Debilidad</b>."
+                "Si impacta: inflige 1 de <b>Debilidad</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -4450,7 +4450,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATAQUE",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": false,
             "Tooltips": []
         },
@@ -4468,7 +4468,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "ATAQUE",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": []
         },
@@ -5374,7 +5374,7 @@
             ],
             "Conditional": "Si estás en <b>MAX VIM</b>, en vez de eso:",
             "ConditionalDescriptions": [
-                "Gana 100 de <b>Barrera</b>."
+                "Gana 90 de <b>Barrera</b>."
             ],
             "Rarity": "RARO",
             "Color": "#047BEAFF",
@@ -5395,7 +5395,7 @@
             ],
             "Conditional": "Si estás en <b>MAX VIM</b>, en vez de eso:",
             "ConditionalDescriptions": [
-                "Gana 150 de <b>Barrera</b>."
+                "Gana 120 de <b>Barrera</b>."
             ],
             "Rarity": "RARO",
             "Color": "#047BEAFF",
@@ -5900,7 +5900,7 @@
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "GENERADOR",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": []
         },

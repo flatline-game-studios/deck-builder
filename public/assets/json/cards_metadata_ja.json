@@ -629,7 +629,7 @@
             "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
             "Code": "MAGGIE_THE_MAGPIE",
             "Descriptions": [
-                "敵全体に15<b>ダメージ</b>を与える",
+                "敵全体に20<b>ダメージ</b>を与える",
                 "<b>アシスト2:</b> カードを1枚引く"
             ],
             "Conditional": "",
@@ -649,7 +649,7 @@
             "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
             "Code": "MAGGIE_THE_MAGPIE_UPGRADED",
             "Descriptions": [
-                "敵全体に25<b>ダメージ</b>を与える",
+                "敵全体に30<b>ダメージ</b>を与える",
                 "<b>アシスト3:</b> カードを1枚引く"
             ],
             "Conditional": "",
@@ -1351,7 +1351,7 @@
             "ImagePath": "VENOM_STRIKE.jpg",
             "Code": "VENOM_STRIKE",
             "Descriptions": [
-                "20<b>ダメージ</b>を与える",
+                "25<b>ダメージ</b>を与える",
                 "このターン中、<b>バイトスクリプト</b>の与ダメージが5上がる",
                 "<b>命中した後</b>、2<b>暴露</b>を付与する"
             ],
@@ -1763,7 +1763,7 @@
             "Descriptions": [
                 "30<b>バリア</b>を得る"
             ],
-            "Conditional": "このターンにプレイした<b>スクリプト</b>が5枚以上の場合：",
+            "Conditional": "このターンにプレイした<b>スクリプト</b>が4枚以上の場合：",
             "ConditionalDescriptions": [
                 "直前にプレイした<b>スクリプト</b>のコピーを2枚得る"
             ],
@@ -1784,7 +1784,7 @@
             "Descriptions": [
                 "40<b>バリア</b>を得る"
             ],
-            "Conditional": "このターンにプレイした<b>スクリプト</b>が5枚以上の場合：",
+            "Conditional": "このターンにプレイした<b>スクリプト</b>が4枚以上の場合：",
             "ConditionalDescriptions": [
                 "直前にプレイした<b>スクリプト</b>のコピーを3枚得る"
             ],
@@ -1792,7 +1792,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "ScriptTooltip"
@@ -1874,7 +1874,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "OnDiscardTooltip"
@@ -2171,7 +2171,7 @@
             "ImagePath": "TITANIUM_WEB.jpg",
             "Code": "TITANIUM_WEB",
             "Descriptions": [
-                "30<b>バリア</b>を得る",
+                "35<b>バリア</b>を得る",
                 "このターンに生成したスクリプトカードはすべて<b>コクーンスクリプト</b>になる"
             ],
             "Conditional": "",
@@ -2192,7 +2192,7 @@
             "ImagePath": "TITANIUM_WEB.jpg",
             "Code": "TITANIUM_WEB_UPGRADED",
             "Descriptions": [
-                "40<b>バリア</b>を得る",
+                "55<b>バリア</b>を得る",
                 "このターンに生成したスクリプトカードはすべて<b>コクーンスクリプト</b>になる"
             ],
             "Conditional": "",
@@ -2201,7 +2201,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "ScriptTooltip",
@@ -2464,7 +2464,7 @@
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "生成元",
-            "Vim": 3,
+            "Vim": 4,
             "IsUpgrade": false,
             "Tooltips": [
                 "AugmentTooltip"
@@ -2485,7 +2485,7 @@
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "生成元",
-            "Vim": 3,
+            "Vim": 4,
             "IsUpgrade": true,
             "Tooltips": [
                 "AugmentTooltip"
@@ -2796,7 +2796,7 @@
             "Descriptions": [
                 "2枚の<b>ウィーブスクリプト</b>を生成する"
             ],
-            "Conditional": "このターンにプレイした<b>スクリプト</b>が5枚以上の場合：",
+            "Conditional": "このターンにプレイした<b>スクリプト</b>が4枚以上の場合：",
             "ConditionalDescriptions": [
                 "2枚の<b>ウィーブスクリプト</b>を生成する"
             ],
@@ -2817,7 +2817,7 @@
             "Descriptions": [
                 "3枚の<b>ウィーブスクリプト</b>を生成する"
             ],
-            "Conditional": "このターンにプレイした<b>スクリプト</b>が5枚以上の場合：",
+            "Conditional": "このターンにプレイした<b>スクリプト</b>が4枚以上の場合：",
             "ConditionalDescriptions": [
                 "3枚の<b>ウィーブスクリプト</b>を生成する"
             ],
@@ -3373,7 +3373,7 @@
             "ImagePath": "INFECTED_DATA.jpg",
             "Code": "INFECTED_DATA",
             "Descriptions": [
-                "5ダメージを受ける",
+                "3ダメージを受ける",
                 "<b>デコンパイル</b>する"
             ],
             "Conditional": "",
@@ -3652,7 +3652,7 @@
             "ImagePath": "CHARGED_CODESLASH.jpg",
             "Code": "CHARGED_CODESLASH",
             "Descriptions": [
-                "35<b>ダメージ</b>を与える"
+                "25<b>ダメージ</b>を与える"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -3669,7 +3669,7 @@
             "ImagePath": "CHARGED_CODESLASH.jpg",
             "Code": "CHARGED_CODESLASH_UPGRADED",
             "Descriptions": [
-                "50<b>ダメージ</b>を与える"
+                "35<b>ダメージ</b>を与える"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -3677,7 +3677,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
-            "Vim": 6,
+            "Vim": 5,
             "IsUpgrade": true,
             "Tooltips": []
         },
@@ -3964,7 +3964,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": false,
             "Tooltips": []
         },
@@ -3982,7 +3982,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": []
         },
@@ -4327,7 +4327,7 @@
             "ImagePath": "RENDING_CODESLASH.jpg",
             "Code": "RENDING_CODESLASH",
             "Descriptions": [
-                "35<b>ダメージ</b>を与える",
+                "30<b>ダメージ</b>を与える",
                 "<b>命中した後</b> 、1<b>弱体化</b>を付与する"
             ],
             "Conditional": "",
@@ -4348,7 +4348,7 @@
             "Code": "RENDING_CODESLASH_UPGRADED",
             "Descriptions": [
                 "45<b>ダメージ</b>を与える",
-                "<b>命中した後</b> 、2<b>弱体化</b>を付与する"
+                "<b>命中した後</b> 、1<b>弱体化</b>を付与する"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -4450,7 +4450,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": false,
             "Tooltips": []
         },
@@ -4468,7 +4468,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": []
         },
@@ -5374,7 +5374,7 @@
             ],
             "Conditional": "<b>最大VIM</b>を所持している場合、代わりに：",
             "ConditionalDescriptions": [
-                "100<b>バリア</b>を得る"
+                "90<b>バリア</b>を得る"
             ],
             "Rarity": "R級",
             "Color": "#047BEAFF",
@@ -5395,7 +5395,7 @@
             ],
             "Conditional": "<b>最大VIM</b>を所持している場合、代わりに：",
             "ConditionalDescriptions": [
-                "150<b>バリア</b>を得る"
+                "120<b>バリア</b>を得る"
             ],
             "Rarity": "R級",
             "Color": "#047BEAFF",
@@ -5900,7 +5900,7 @@
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "生成元",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": []
         },

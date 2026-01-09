@@ -629,7 +629,7 @@
             "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
             "Code": "MAGGIE_THE_MAGPIE",
             "Descriptions": [
-                "對所有目標造成15點<b>傷害</b>。",
+                "對所有目標造成20點<b>傷害</b>。",
                 "<b>協助2：</b> 抽1張牌。"
             ],
             "Conditional": "",
@@ -649,7 +649,7 @@
             "ImagePath": "MAGGIE_THE_MAGPIE.jpg",
             "Code": "MAGGIE_THE_MAGPIE_UPGRADED",
             "Descriptions": [
-                "對所有目標造成25點<b>傷害</b>。",
+                "對所有目標造成30點<b>傷害</b>。",
                 "<b>協助3：</b> 抽1張牌。"
             ],
             "Conditional": "",
@@ -1351,7 +1351,7 @@
             "ImagePath": "VENOM_STRIKE.jpg",
             "Code": "VENOM_STRIKE",
             "Descriptions": [
-                "造成20點<b>傷害</b>。",
+                "造成25點<b>傷害</b>。",
                 "本回合<b>噬咬腳本</b>傷害提高5點。",
                 "<b>命中后：</b>施加2层<b>暴露</b>。"
             ],
@@ -1763,7 +1763,7 @@
             "Descriptions": [
                 "獲得30點<b>屏障</b>。"
             ],
-            "Conditional": "如果你在本回合中已打出5張<b>腳本</b>牌，則追加：",
+            "Conditional": "如果你在本回合中已打出4張<b>腳本</b>牌，則追加：",
             "ConditionalDescriptions": [
                 "生成你上次打出的2張<b>腳本</b>牌的副本。"
             ],
@@ -1784,7 +1784,7 @@
             "Descriptions": [
                 "獲得40點<b>屏障</b>。"
             ],
-            "Conditional": "如果你在本回合中已打出5張<b>腳本</b>牌，則追加：",
+            "Conditional": "如果你在本回合中已打出4張<b>腳本</b>牌，則追加：",
             "ConditionalDescriptions": [
                 "生成你上次打出的3張<b>腳本</b>牌的副本。"
             ],
@@ -1792,7 +1792,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防禦",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "ScriptTooltip"
@@ -1874,7 +1874,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防禦",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "OnDiscardTooltip"
@@ -2171,7 +2171,7 @@
             "ImagePath": "TITANIUM_WEB.jpg",
             "Code": "TITANIUM_WEB",
             "Descriptions": [
-                "獲得30點<b>屏障</b>。",
+                "獲得35點<b>屏障</b>。",
                 "本回合中你生成的所有腳本牌均為<b>結繭腳本</b>。"
             ],
             "Conditional": "",
@@ -2192,7 +2192,7 @@
             "ImagePath": "TITANIUM_WEB.jpg",
             "Code": "TITANIUM_WEB_UPGRADED",
             "Descriptions": [
-                "獲得40點<b>屏障</b>。",
+                "獲得55點<b>屏障</b>。",
                 "本回合中你生成的所有腳本牌均為<b>結繭腳本</b>。"
             ],
             "Conditional": "",
@@ -2201,7 +2201,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防禦",
-            "Vim": 4,
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
                 "ScriptTooltip",
@@ -2464,7 +2464,7 @@
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "生成器",
-            "Vim": 3,
+            "Vim": 4,
             "IsUpgrade": false,
             "Tooltips": [
                 "AugmentTooltip"
@@ -2485,7 +2485,7 @@
             "Color": "#E9B705FF",
             "Clock": 1,
             "Type": "生成器",
-            "Vim": 3,
+            "Vim": 4,
             "IsUpgrade": true,
             "Tooltips": [
                 "AugmentTooltip"
@@ -2796,7 +2796,7 @@
             "Descriptions": [
                 "生成2張<b>編織腳本</b>。"
             ],
-            "Conditional": "如果你在本回合中已打出5張<b>腳本</b>牌，則追加：",
+            "Conditional": "如果你在本回合中已打出4張<b>腳本</b>牌，則追加：",
             "ConditionalDescriptions": [
                 "生成2張<b>編織腳本</b>。"
             ],
@@ -2817,7 +2817,7 @@
             "Descriptions": [
                 "生成3張<b>編織腳本</b>。"
             ],
-            "Conditional": "如果你在本回合中已打出5張<b>腳本</b>牌，則追加：",
+            "Conditional": "如果你在本回合中已打出4張<b>腳本</b>牌，則追加：",
             "ConditionalDescriptions": [
                 "生成3張<b>編織腳本</b>。"
             ],
@@ -3373,7 +3373,7 @@
             "ImagePath": "INFECTED_DATA.jpg",
             "Code": "INFECTED_DATA",
             "Descriptions": [
-                "承受5點傷害。",
+                "承受3點傷害。",
                 "<b>反編譯</b>。"
             ],
             "Conditional": "",
@@ -3652,7 +3652,7 @@
             "ImagePath": "CHARGED_CODESLASH.jpg",
             "Code": "CHARGED_CODESLASH",
             "Descriptions": [
-                "造成35點<b>傷害</b>。"
+                "造成25點<b>傷害</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -3669,7 +3669,7 @@
             "ImagePath": "CHARGED_CODESLASH.jpg",
             "Code": "CHARGED_CODESLASH_UPGRADED",
             "Descriptions": [
-                "造成50點<b>傷害</b>。"
+                "造成35點<b>傷害</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -3677,7 +3677,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻擊",
-            "Vim": 6,
+            "Vim": 5,
             "IsUpgrade": true,
             "Tooltips": []
         },
@@ -3964,7 +3964,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻擊",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": false,
             "Tooltips": []
         },
@@ -3982,7 +3982,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻擊",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": []
         },
@@ -4327,7 +4327,7 @@
             "ImagePath": "RENDING_CODESLASH.jpg",
             "Code": "RENDING_CODESLASH",
             "Descriptions": [
-                "造成35點<b>傷害</b>。",
+                "造成30點<b>傷害</b>。",
                 "<b>命中後：</b>施加1層<b>虛弱</b>。"
             ],
             "Conditional": "",
@@ -4348,7 +4348,7 @@
             "Code": "RENDING_CODESLASH_UPGRADED",
             "Descriptions": [
                 "造成45點<b>傷害</b>。",
-                "<b>命中後：</b>施加2層<b>虛弱</b>。"
+                "<b>命中後：</b>施加1層<b>虛弱</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -4450,7 +4450,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻擊",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": false,
             "Tooltips": []
         },
@@ -4468,7 +4468,7 @@
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻擊",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": []
         },
@@ -5374,7 +5374,7 @@
             ],
             "Conditional": "如果你處於<b>最大VIM</b>，則改為：",
             "ConditionalDescriptions": [
-                "獲得100點<b>屏障</b>。"
+                "獲得90點<b>屏障</b>。"
             ],
             "Rarity": "稀有",
             "Color": "#047BEAFF",
@@ -5395,7 +5395,7 @@
             ],
             "Conditional": "如果你處於<b>最大VIM</b>，則改為：",
             "ConditionalDescriptions": [
-                "獲得150點<b>屏障</b>。"
+                "獲得120點<b>屏障</b>。"
             ],
             "Rarity": "稀有",
             "Color": "#047BEAFF",
@@ -5900,7 +5900,7 @@
             "Color": "#E9B705FF",
             "Clock": 0,
             "Type": "生成器",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": []
         },

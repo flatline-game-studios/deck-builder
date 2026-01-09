@@ -857,7 +857,11 @@
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "",
@@ -866,7 +870,11 @@
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "",
@@ -884,7 +892,11 @@
             "Description": "",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "",

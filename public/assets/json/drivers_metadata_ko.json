@@ -845,7 +845,7 @@
             "DriverName": "파노옵틱 드라이버",
             "ImagePath": "Driver_07.png",
             "Code": "ID107_DRIVER",
-            "Description": "추적 레벨이 5 이상일 때, 전투 시작 전에 <b>추적</b>을 1 감소시킵니다.",
+            "Description": "추적 레벨이 6 이상일 때, 전투 시작 전에 <b>추적</b>을 1 감소시킵니다.",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
@@ -857,7 +857,11 @@
             "Description": "세 번째 <b>도구</b>를 사용할 때마다 임의의 <b>기본 도구</b>를 획득합니다. (0/3)",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "렌치 드라이버",
@@ -866,7 +870,11 @@
             "Description": "다섯 번째 노드를 <b>추출</b>할 때마다 임의의 <b>기본 도구</b>를 획득합니다. (0/5)",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "주사기 드라이버",
@@ -884,7 +892,11 @@
             "Description": "<b>스킬</b>을 사용할 때마다 임의의 <b>기본 도구</b>를 획득합니다.",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "쿨러 드라이버",

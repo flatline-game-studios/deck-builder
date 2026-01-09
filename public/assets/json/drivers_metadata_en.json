@@ -845,7 +845,7 @@
             "DriverName": "PANOPTIC DRIVER",
             "ImagePath": "Driver_07.png",
             "Code": "ID107_DRIVER",
-            "Description": "While Trace Level is at 5 or more, before starting each combat, reduce <b>Trace</b> by 1.",
+            "Description": "While Trace Level is at 6 or more, before starting each combat, reduce <b>Trace</b> by 1.",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
@@ -854,19 +854,27 @@
             "DriverName": "FLOPPY DRIVER",
             "ImagePath": "Driver_07.png",
             "Code": "ID108_DRIVER",
-            "Description": "Every 3rd <b>Tool</b> you use, obtain a random <b>Basic Tool</b>. (0/3)",
+            "Description": "Every 3rd <b>Tool</b> you use, obtain a random <b>Breaker Tool</b>. (0/3)",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "WRENCH DRIVER",
             "ImagePath": "Driver_07.png",
             "Code": "ID109_DRIVER",
-            "Description": "Every 5th Node you <b>Extract</b>, obtain a random <b>Basic Tool</b>. (0/5)",
+            "Description": "Every 5th Node you <b>Extract</b>, obtain a random <b>Breaker Tool</b>. (0/5)",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "SYRINGE DRIVER",
@@ -881,10 +889,14 @@
             "DriverName": "TOOLBOX DRIVER",
             "ImagePath": "Driver_07.png",
             "Code": "ID111_DRIVER",
-            "Description": "Every time you use a <b>Skill</b>, obtain a random <b>Basic Tool</b>.",
+            "Description": "Every time you use a <b>Skill</b>, obtain a random <b>Breaker Tool</b>.",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "COOLER DRIVER",
