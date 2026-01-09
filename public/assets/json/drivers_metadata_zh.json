@@ -845,7 +845,7 @@
             "DriverName": "全景驱动",
             "ImagePath": "Driver_07.png",
             "Code": "ID107_DRIVER",
-            "Description": "当踪迹等级达到5或以上时，在每场战斗开始前，减少1<b>踪迹</b>。",
+            "Description": "当踪迹等级达到6或以上时，在每场战斗开始前，减少1<b>踪迹</b>。",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
@@ -857,7 +857,11 @@
             "Description": "每3次使用<b>工具</b>时，随机获得一个<b>基础工具</b>。（0/3）",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "扳手驱动",
@@ -866,7 +870,11 @@
             "Description": "每5次<b>提取</b>节点时，随机获得一个<b>基础工具</b>。（0/5）",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "注射器驱动",
@@ -884,7 +892,11 @@
             "Description": "每次使用<b>技能</b>时，随机获得一个<b>基础工具</b>。",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
-            "Tooltips": []
+            "Tooltips": [
+                "Tooltip_Inventory_IceBreaker",
+                "Tooltip_Inventory_SentinelBreaker",
+                "Tooltip_Inventory_GateBreaker"
+            ]
         },
         {
             "DriverName": "冷却器驱动",
