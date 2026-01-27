@@ -854,7 +854,7 @@
             "DriverName": "鬆懈驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID108_DRIVER",
-            "Description": "每3次使用<b>工具</b>時，隨機獲得一個<b>基礎工具</b>。（0/3）",
+            "Description": "每3次使用<b>工具</b>時，隨機獲得一個<b>破壞器工具</b>。（0/3）",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -867,7 +867,7 @@
             "DriverName": "扳手驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID109_DRIVER",
-            "Description": "每5次<b>提取</b>節點時，隨機獲得一個<b>基礎工具</b>。（0/5）",
+            "Description": "每5次<b>提取</b>節點時，隨機獲得一個<b>破壞器工具</b>。（0/5）",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -889,7 +889,7 @@
             "DriverName": "工具箱驅動",
             "ImagePath": "Driver_07.png",
             "Code": "ID111_DRIVER",
-            "Description": "每次使用<b>技能</b>時，隨機獲得一個<b>基礎工具</b>。",
+            "Description": "每次使用<b>技能</b>時，隨機獲得一個<b>破壞器工具</b>。",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [

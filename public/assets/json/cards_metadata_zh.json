@@ -5,7 +5,7 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK",
             "Descriptions": [
-                "造成30点<b>伤害</b>。",
+                "造成20点<b>伤害</b>。",
                 "<b>弃置后：</b>对ICE造成30点<b>伤害</b>，并生成一张这张牌的<b>临时</b>副本。"
             ],
             "Conditional": "",
@@ -26,7 +26,7 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK_UPGRADED",
             "Descriptions": [
-                "造成40点<b>伤害</b>。",
+                "造成30点<b>伤害</b>。",
                 "<b>弃置后：</b>对ICE造成40点<b>伤害</b>，并生成一张这张牌的<b>临时</b>副本。"
             ],
             "Conditional": "",
@@ -210,8 +210,7 @@
             "Code": "CODESMASH",
             "Descriptions": [
                 "造成50点<b>伤害</b>。",
-                "<b>命中后：</b>获得1层<b>超频</b>。",
-                "<b>反编译</b>。"
+                "<b>命中后：</b>获得1层<b>缓存</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -222,8 +221,7 @@
             "Vim": 3,
             "IsUpgrade": false,
             "Tooltips": [
-                "QuickenTooltip",
-                "DecompileTooltip"
+                "IndexedTooltip"
             ]
         },
         {
@@ -232,8 +230,7 @@
             "Code": "CODESMASH_UPGRADED",
             "Descriptions": [
                 "造成60点<b>伤害</b>。",
-                "<b>命中后：</b>获得2层<b>超频</b>。",
-                "<b>反编译</b>。"
+                "<b>命中后：</b>获得2层<b>缓存</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -244,8 +241,7 @@
             "Vim": 4,
             "IsUpgrade": true,
             "Tooltips": [
-                "QuickenTooltip",
-                "DecompileTooltip"
+                "IndexedTooltip"
             ]
         },
         {
@@ -1263,7 +1259,7 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "TEMP_AFTERSHOCK",
             "Descriptions": [
-                "造成30点<b>伤害</b>。",
+                "造成20点<b>伤害</b>。",
                 "<b>弃置后：</b>对ICE造成30点<b>伤害</b>，并生成一张这张牌的<b>临时</b>副本。",
                 "<b>临时</b>。"
             ],
@@ -1285,7 +1281,7 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "TEMP_AFTERSHOCK_UPGRADED",
             "Descriptions": [
-                "造成40点<b>伤害</b>。",
+                "造成30点<b>伤害</b>。",
                 "<b>弃置后：</b>对ICE造成40点<b>伤害</b>，并生成一张这张牌的<b>临时</b>副本。",
                 "<b>临时</b>。"
             ],
@@ -1843,8 +1839,9 @@
             "ImagePath": "PAPER_CRANE.jpg",
             "Code": "PAPER_CRANE",
             "Descriptions": [
-                "获得20点<b>屏障</b>。",
+                "获得30点<b>屏障</b>。",
                 "弃置1张牌。",
+                "<b>反编译</b>。",
                 "<b>弃置后：</b>获得20点<b>屏障</b>。"
             ],
             "Conditional": "",
@@ -1856,7 +1853,8 @@
             "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
-                "OnDiscardTooltip"
+                "OnDiscardTooltip",
+                "DecompileTooltip"
             ]
         },
         {
@@ -1864,8 +1862,9 @@
             "ImagePath": "PAPER_CRANE.jpg",
             "Code": "PAPER_CRANE_UPGRADED",
             "Descriptions": [
-                "获得30点<b>屏障</b>。",
+                "获得50点<b>屏障</b>。",
                 "弃置1张牌。",
+                "<b>反编译</b>。",
                 "<b>弃置后：</b>获得30点<b>屏障</b>。"
             ],
             "Conditional": "",
@@ -1877,7 +1876,8 @@
             "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
-                "OnDiscardTooltip"
+                "OnDiscardTooltip",
+                "DecompileTooltip"
             ]
         },
         {
@@ -2629,7 +2629,7 @@
             "Code": "KINETIC_MEMORY",
             "Descriptions": [
                 "弃置1张牌。",
-                "抽2张牌。",
+                "抽1张牌。",
                 "<b>弃置后：</b>生成2点<b>VIM</b>。"
             ],
             "Conditional": "",
@@ -2650,7 +2650,7 @@
             "Code": "KINETIC_MEMORY_UPGRADED",
             "Descriptions": [
                 "弃置2张牌。",
-                "抽3张牌。",
+                "抽2张牌。",
                 "<b>弃置后：</b>生成4点<b>VIM</b>。"
             ],
             "Conditional": "",
@@ -2755,7 +2755,7 @@
             "Code": "PEAK_PERFORMANCE",
             "Descriptions": [
                 "弃掉最多2张牌。",
-                "每弃掉一张牌生成2点<b>VIM</b>。"
+                "每弃掉一张牌生成3点<b>VIM</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2775,7 +2775,7 @@
             "Code": "PEAK_PERFORMANCE_UPGRADED",
             "Descriptions": [
                 "弃掉最多3张牌。",
-                "每弃掉一张牌生成2点<b>VIM</b>。"
+                "每弃掉一张牌生成4点<b>VIM</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2807,7 +2807,8 @@
             "Vim": 3,
             "IsUpgrade": false,
             "Tooltips": [
-                "ScriptTooltip"
+                "ScriptTooltip",
+                "WeaveScriptTooltip"
             ]
         },
         {
@@ -2828,7 +2829,8 @@
             "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
-                "ScriptTooltip"
+                "ScriptTooltip",
+                "WeaveScriptTooltip"
             ]
         },
         {
@@ -3180,7 +3182,7 @@
             "ImagePath": "EXPIRATION_PROTOCOL.jpg",
             "Code": "EXPIRATION_PROTOCOL",
             "Descriptions": [
-                "每回合第一次触发<b>协助</b>效果时，获得1<b>时钟</b>。"
+                "每回合<b>协助</b>效果首次失效时，获得1<b>时钟</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -4441,7 +4443,7 @@
             "ImagePath": "THE_GUILDS_HEIST.jpg",
             "Code": "THE_GUILDS_HEIST",
             "Descriptions": [
-                "造成40点<b>伤害</b>。",
+                "造成30点<b>伤害</b>。",
                 "<b>命中后：</b>抽1张牌。"
             ],
             "Conditional": "",
@@ -4459,7 +4461,7 @@
             "ImagePath": "THE_GUILDS_HEIST.jpg",
             "Code": "THE_GUILDS_HEIST_UPGRADED",
             "Descriptions": [
-                "造成50点<b>伤害</b>。",
+                "造成40点<b>伤害</b>。",
                 "<b>命中后：</b>抽2张牌，然后弃置1张牌。"
             ],
             "Conditional": "",
@@ -4769,7 +4771,7 @@
             "ImagePath": "ADONIS_AD_BLOCKER.jpg",
             "Code": "ADONIS_AD_BLOCKER_UPGRADED",
             "Descriptions": [
-                "获得45点<b>屏障</b>。",
+                "获得40点<b>屏障</b>。",
                 "抽1张牌。"
             ],
             "Conditional": "",
@@ -4847,11 +4849,11 @@
             "ImagePath": "PREY_DRIVE.jpg",
             "Code": "ANIMAL_INSTINCT_UPGRADED",
             "Descriptions": [
-                "获得30点<b>屏障</b>。"
+                "获得40点<b>屏障</b>。"
             ],
             "Conditional": "如果你在这一回合已经发起过攻击，则改为：",
             "ConditionalDescriptions": [
-                "获得70点<b>屏障</b>。"
+                "获得60点<b>屏障</b>。"
             ],
             "Rarity": "罕见",
             "Color": "#047BEAFF",
@@ -5453,7 +5455,7 @@
             "Code": "SYRINX_BLESSING",
             "Descriptions": [
                 "获得20点<b>屏障</b>。",
-                "你在本回合打出的下一张牌将会提供双倍<b>屏障</b>。"
+                "你在本回合打出的下一张防御牌将会提供双倍<b>屏障</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -5471,7 +5473,7 @@
             "Code": "SYRINX_BLESSING_UPGRADED",
             "Descriptions": [
                 "获得40点<b>屏障</b>。",
-                "你在本回合打出的下一张牌将会提供双倍<b>屏障</b>。"
+                "你在本回合打出的下一张防御牌将会提供双倍<b>屏障</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],

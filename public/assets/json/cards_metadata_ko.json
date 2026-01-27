@@ -5,7 +5,7 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK",
             "Descriptions": [
-                "30포인트의 <b>피해</b>를 줍니다.",
+                "20포인트의 <b>피해</b>를 줍니다.",
                 "<b>버리기 시:</b> ICE에 30포인트의 <b>피해</b>를 주고, 이 카드의 <b>임시</b> 복사본을 생성합니다."
             ],
             "Conditional": "",
@@ -26,7 +26,7 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "AFTERSHOCK_UPGRADED",
             "Descriptions": [
-                "40포인트의 <b>피해</b>를 줍니다.",
+                "30포인트의 <b>피해</b>를 줍니다.",
                 "<b>버리기 시:</b> ICE에 40포인트의 <b>피해</b>를 주고, 이 카드의 <b>임시</b> 복사본을 생성합니다."
             ],
             "Conditional": "",
@@ -210,8 +210,7 @@
             "Code": "CODESMASH",
             "Descriptions": [
                 "50포인트의 <b>피해</b>를 줍니다.",
-                "<b>명중 후:</b> 1중첩의 <b>오버클럭</b>을 획득합니다.",
-                "<b>디컴파일</b>."
+                "<b>명중 후:</b> 1스택의 <b>캐시</b>을 획득합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -222,8 +221,7 @@
             "Vim": 3,
             "IsUpgrade": false,
             "Tooltips": [
-                "QuickenTooltip",
-                "DecompileTooltip"
+                "IndexedTooltip"
             ]
         },
         {
@@ -232,8 +230,7 @@
             "Code": "CODESMASH_UPGRADED",
             "Descriptions": [
                 "60포인트의 <b>피해</b>를 줍니다.",
-                "<b>명중 후:</b> 2중첩의 <b>오버클럭</b>을 획득합니다.",
-                "<b>디컴파일</b>."
+                "<b>명중 후:</b> 2스택의 <b>캐시</b>을 획득합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -244,8 +241,7 @@
             "Vim": 4,
             "IsUpgrade": true,
             "Tooltips": [
-                "QuickenTooltip",
-                "DecompileTooltip"
+                "IndexedTooltip"
             ]
         },
         {
@@ -1263,7 +1259,7 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "TEMP_AFTERSHOCK",
             "Descriptions": [
-                "30포인트의 <b>피해</b>를 줍니다.",
+                "20포인트의 <b>피해</b>를 줍니다.",
                 "<b>버리기 시:</b> ICE에 30포인트의 <b>피해</b>를 주고, 이 카드의 <b>임시</b> 복사본을 생성합니다.",
                 "<b>임시</b>."
             ],
@@ -1285,7 +1281,7 @@
             "ImagePath": "AFTERSHOCK.jpg",
             "Code": "TEMP_AFTERSHOCK_UPGRADED",
             "Descriptions": [
-                "40포인트의 <b>피해</b>를 줍니다.",
+                "30포인트의 <b>피해</b>를 줍니다.",
                 "<b>버리기 시:</b> ICE에 40포인트의 <b>피해</b>를 주고, 이 카드의 <b>임시</b> 복사본을 생성합니다.",
                 "<b>임시</b>."
             ],
@@ -1843,8 +1839,9 @@
             "ImagePath": "PAPER_CRANE.jpg",
             "Code": "PAPER_CRANE",
             "Descriptions": [
-                "20포인트의 <b>방어막</b>을 획득합니다.",
+                "30포인트의 <b>방어막</b>을 획득합니다.",
                 "1장의 카드를 버립니다.",
+                "<b>디컴파일</b>.",
                 "<b>버리기 시:</b> 20포인트의 <b>방어막</b>을 획득합니다."
             ],
             "Conditional": "",
@@ -1856,7 +1853,8 @@
             "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
-                "OnDiscardTooltip"
+                "OnDiscardTooltip",
+                "DecompileTooltip"
             ]
         },
         {
@@ -1864,8 +1862,9 @@
             "ImagePath": "PAPER_CRANE.jpg",
             "Code": "PAPER_CRANE_UPGRADED",
             "Descriptions": [
-                "30포인트의 <b>방어막</b>을 획득합니다.",
+                "50포인트의 <b>방어막</b>을 획득합니다.",
                 "1장의 카드를 버립니다.",
+                "<b>디컴파일</b>.",
                 "<b>버리기 시:</b> 30포인트의 <b>방어막</b>을 획득합니다."
             ],
             "Conditional": "",
@@ -1877,7 +1876,8 @@
             "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
-                "OnDiscardTooltip"
+                "OnDiscardTooltip",
+                "DecompileTooltip"
             ]
         },
         {
@@ -2629,7 +2629,7 @@
             "Code": "KINETIC_MEMORY",
             "Descriptions": [
                 "1장의 카드를 버립니다.",
-                "2장의 카드를 뽑습니다.",
+                "1장의 카드를 뽑습니다.",
                 "<b>버리기 시:</b> 2포인트의 <b>VIM</b>을 생성합니다."
             ],
             "Conditional": "",
@@ -2650,7 +2650,7 @@
             "Code": "KINETIC_MEMORY_UPGRADED",
             "Descriptions": [
                 "2장의 카드를 버립니다.",
-                "3장의 카드를 뽑습니다.",
+                "2장의 카드를 뽑습니다.",
                 "<b>버리기 시:</b> 4포인트의 <b>VIM</b>을 생성합니다."
             ],
             "Conditional": "",
@@ -2755,7 +2755,7 @@
             "Code": "PEAK_PERFORMANCE",
             "Descriptions": [
                 "최대 2장의 카드를 버립니다.",
-                "버린 카드 1장당 2포인트의 <b>VIM</b>을 생성합니다."
+                "버린 카드 1장당 3포인트의 <b>VIM</b>을 생성합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2775,7 +2775,7 @@
             "Code": "PEAK_PERFORMANCE_UPGRADED",
             "Descriptions": [
                 "최대 3장의 카드를 버립니다.",
-                "버린 카드 1장당 2포인트의 <b>VIM</b>을 생성합니다."
+                "버린 카드 1장당 4포인트의 <b>VIM</b>을 생성합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -2807,7 +2807,8 @@
             "Vim": 3,
             "IsUpgrade": false,
             "Tooltips": [
-                "ScriptTooltip"
+                "ScriptTooltip",
+                "WeaveScriptTooltip"
             ]
         },
         {
@@ -2828,7 +2829,8 @@
             "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
-                "ScriptTooltip"
+                "ScriptTooltip",
+                "WeaveScriptTooltip"
             ]
         },
         {
@@ -3180,7 +3182,7 @@
             "ImagePath": "EXPIRATION_PROTOCOL.jpg",
             "Code": "EXPIRATION_PROTOCOL",
             "Descriptions": [
-                "매 턴에서 처음으로 <b>어시스트</b> 효과가 발동할 때, 1 <b>시계</b>를 획득합니다."
+                "매 턴마다 처음으로 <b>어시스트</b> 효과가 처음으로 종료될 때, 1 <b>시계</b>를 획득합니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -4441,7 +4443,7 @@
             "ImagePath": "THE_GUILDS_HEIST.jpg",
             "Code": "THE_GUILDS_HEIST",
             "Descriptions": [
-                "40포인트의 <b>피해</b>를 줍니다.",
+                "30포인트의 <b>피해</b>를 줍니다.",
                 "<b>명중 후:</b> 1장의 카드를 뽑습니다."
             ],
             "Conditional": "",
@@ -4459,7 +4461,7 @@
             "ImagePath": "THE_GUILDS_HEIST.jpg",
             "Code": "THE_GUILDS_HEIST_UPGRADED",
             "Descriptions": [
-                "50포인트의 <b>피해</b>를 줍니다.",
+                "40포인트의 <b>피해</b>를 줍니다.",
                 "<b>명중 후:</b> 2장의 카드를 뽑고, 1장의 카드를 버립니다."
             ],
             "Conditional": "",
@@ -4769,7 +4771,7 @@
             "ImagePath": "ADONIS_AD_BLOCKER.jpg",
             "Code": "ADONIS_AD_BLOCKER_UPGRADED",
             "Descriptions": [
-                "45포인트의 <b>방어막</b>을 획득합니다.",
+                "40포인트의 <b>방어막</b>을 획득합니다.",
                 "1장의 카드를 뽑습니다."
             ],
             "Conditional": "",
@@ -4847,11 +4849,11 @@
             "ImagePath": "PREY_DRIVE.jpg",
             "Code": "ANIMAL_INSTINCT_UPGRADED",
             "Descriptions": [
-                "30포인트의 <b>방어막</b>을 획득합니다."
+                "40포인트의 <b>방어막</b>을 획득합니다."
             ],
             "Conditional": "이번 턴에 공격이 명중했다면 대신:",
             "ConditionalDescriptions": [
-                "70포인트의 <b>방어막</b>을 획득합니다."
+                "60포인트의 <b>방어막</b>을 획득합니다."
             ],
             "Rarity": "보통",
             "Color": "#047BEAFF",
@@ -5453,7 +5455,7 @@
             "Code": "SYRINX_BLESSING",
             "Descriptions": [
                 "20포인트의 <b>방어막</b>을 획득합니다.",
-                "이번 턴에 사용하는 다음 카드는 두 배의 <b>방어막</b> 효과를 부여할 수 있습니다."
+                "이번 턴에 사용하는 다음 방어 패는 두 배의 <b>방어막</b> 효과를 부여할 수 있습니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -5471,7 +5473,7 @@
             "Code": "SYRINX_BLESSING_UPGRADED",
             "Descriptions": [
                 "40포인트의 <b>방어막</b>을 획득합니다.",
-                "이번 턴에 사용하는 다음 카드는 두 배의 <b>방어막</b> 효과를 부여할 수 있습니다."
+                "이번 턴에 사용하는 다음 방어 패는 두 배의 <b>방어막</b> 효과를 부여할 수 있습니다."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],

@@ -112,7 +112,7 @@
         },
         {
             "CommandName": "",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "",
             "Tier": "Major",
             "Code": "RALLY_COMMAND",
@@ -122,7 +122,7 @@
         },
         {
             "CommandName": "",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "",
             "Tier": "Major",
             "Code": "RALLY_COMMAND_AUGMENTED",
@@ -146,7 +146,7 @@
         },
         {
             "CommandName": "",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "Every time you create <b>Scripts</b> this turn, create 1 random <b>Script</b>.",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND",
@@ -156,7 +156,7 @@
         },
         {
             "CommandName": "",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "Every time you create <b>Scripts</b> this turn, create 1 random <b>Script</b>.",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND_AUGMENTED",
@@ -180,7 +180,7 @@
         },
         {
             "CommandName": "",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND",
@@ -191,7 +191,7 @@
         },
         {
             "CommandName": "",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND_AUGMENTED",
@@ -199,7 +199,7 @@
         },
         {
             "CommandName": "",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND",
@@ -210,7 +210,7 @@
         },
         {
             "CommandName": "",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND_AUGMENTED",

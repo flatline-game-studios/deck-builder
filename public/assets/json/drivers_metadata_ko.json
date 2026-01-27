@@ -854,7 +854,7 @@
             "DriverName": "완화 드라이버",
             "ImagePath": "Driver_07.png",
             "Code": "ID108_DRIVER",
-            "Description": "세 번째 <b>도구</b>를 사용할 때마다 임의의 <b>기본 도구</b>를 획득합니다. (0/3)",
+            "Description": "세 번째 <b>도구</b>를 사용할 때마다 임의의 <b>브레이킹 도구</b>를 획득합니다. (0/3)",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -867,7 +867,7 @@
             "DriverName": "렌치 드라이버",
             "ImagePath": "Driver_07.png",
             "Code": "ID109_DRIVER",
-            "Description": "다섯 번째 노드를 <b>추출</b>할 때마다 임의의 <b>기본 도구</b>를 획득합니다. (0/5)",
+            "Description": "다섯 번째 노드를 <b>추출</b>할 때마다 임의의 <b>브레이킹 도구</b>를 획득합니다. (0/5)",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -889,7 +889,7 @@
             "DriverName": "툴박스 드라이버",
             "ImagePath": "Driver_07.png",
             "Code": "ID111_DRIVER",
-            "Description": "<b>스킬</b>을 사용할 때마다 임의의 <b>기본 도구</b>를 획득합니다.",
+            "Description": "<b>스킬</b>을 사용할 때마다 임의의 <b>브레이킹 도구</b>를 획득합니다.",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
