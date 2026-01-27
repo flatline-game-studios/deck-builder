@@ -112,7 +112,7 @@
         },
         {
             "CommandName": "집결",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "모든 <b>어시스트</b> 효과를 1포인트 연장합니다.",
             "Tier": "Major",
             "Code": "RALLY_COMMAND",
@@ -122,7 +122,7 @@
         },
         {
             "CommandName": "보강·집결",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "모든 <b>어시스트</b> 효과를 2포인트 연장합니다.",
             "Tier": "Major",
             "Code": "RALLY_COMMAND_AUGMENTED",
@@ -146,7 +146,7 @@
         },
         {
             "CommandName": "복제",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "이번 턴 동안 <b>스크립트</b>를 생성할 때마다 무작위 <b>스크립트</b> 1장을 생성합니다.",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND",
@@ -156,7 +156,7 @@
         },
         {
             "CommandName": "보강·복제",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "이번 턴 동안 <b>스크립트</b>를 생성할 때마다 무작위 <b>스크립트</b> 1장을 생성합니다.",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND_AUGMENTED",
@@ -180,7 +180,7 @@
         },
         {
             "CommandName": "돌진",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "랜덤으로 <b>어시스트</b> 효과를 1회 발동합니다.",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND",
@@ -191,7 +191,7 @@
         },
         {
             "CommandName": "보강·돌진",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "랜덤으로 <b>어시스트</b> 효과를 2회 발동합니다.",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND_AUGMENTED",
@@ -199,7 +199,7 @@
         },
         {
             "CommandName": "전략 수립",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "이번 턴 모든 <b>스크립트</b>를 <b>보존</b>합니다.",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND",
@@ -210,7 +210,7 @@
         },
         {
             "CommandName": "보강·전략 수립",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "랜덤으로  2장의 <b>스크립트</b>를 생성합니다. 이번 턴 모든 <b>스크립트</b>를 <b>보존</b>합니다.",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND_AUGMENTED",

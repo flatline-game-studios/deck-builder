@@ -112,7 +112,7 @@
         },
         {
             "CommandName": "ANIMAR",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "Prolonga todos tus efectos de <b>Asistir</b> por 1.",
             "Tier": "Major",
             "Code": "RALLY_COMMAND",
@@ -122,7 +122,7 @@
         },
         {
             "CommandName": "ANIMAR AUG.",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "Prolonga todos tus efectos de <b>Asistir</b> por 2.",
             "Tier": "Major",
             "Code": "RALLY_COMMAND_AUGMENTED",
@@ -146,7 +146,7 @@
         },
         {
             "CommandName": "REPLICAR",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "Cada vez que crees <b>Scripts</b> este turno, crea 1 <b>Script</b> al azar.",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND",
@@ -156,7 +156,7 @@
         },
         {
             "CommandName": "REPLICAR AUG.",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "Cada vez que crees <b>Scripts</b> este turno, crea 1 <b>Script</b> al azar.",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND_AUGMENTED",
@@ -180,7 +180,7 @@
         },
         {
             "CommandName": "APURAR",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "Resuelve 1 de tus efectos de <b>Asistir</b> al azar.",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND",
@@ -191,7 +191,7 @@
         },
         {
             "CommandName": "APURAR AUG.",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "Resuelve 2 de tus efectos de <b>Asistir</b> al azar.",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND_AUGMENTED",
@@ -199,7 +199,7 @@
         },
         {
             "CommandName": "PLANEAR",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "<b>Conserva</b> todos tus <b>Scripts</b> este turno.",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND",
@@ -210,7 +210,7 @@
         },
         {
             "CommandName": "PLANEAR AUG.",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "Crea 2 <b>Script</b> al azar. <b>Conserva</b> todos tus <b>Scripts</b> este turno.",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND_AUGMENTED",

@@ -63,7 +63,7 @@
         {
             "CommandName": "メンテ",
             "Cost": 5,
-            "Description": "手札からカードを1枚選んで、このターン中<b>手札に残す</b>。",
+            "Description": "手札からカードを1枚選んで<b>保存</b>し、次のターンに持ち越す。",
             "Tier": "Minor",
             "Code": "MANTAIN_COMMAND",
             "Tooltips": [
@@ -73,7 +73,7 @@
         {
             "CommandName": "オーグ・メンテ",
             "Cost": 5,
-            "Description": "手札からカードを最大2枚選んで、このターン中<b>手札に残す</b>。",
+            "Description": "手札からカードを最大2枚選んで<b>保存</b>し、次のターンに持ち越す。",
             "Tier": "Minor",
             "Code": "MANTAIN_COMMAND_AUGMENTED",
             "Tooltips": []
@@ -112,7 +112,7 @@
         },
         {
             "CommandName": "ラリー",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "<b>アシスト</b>効果をすべて1延長する。",
             "Tier": "Major",
             "Code": "RALLY_COMMAND",
@@ -122,7 +122,7 @@
         },
         {
             "CommandName": "オーグ・ラリー",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "<b>アシスト</b>効果をすべて2延長する。",
             "Tier": "Major",
             "Code": "RALLY_COMMAND_AUGMENTED",
@@ -146,7 +146,7 @@
         },
         {
             "CommandName": "コピー",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "このターンに<b>スクリプト</b>を生成するたび、ランダムな<b>スクリプト</b>を1枚生成する。",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND",
@@ -156,7 +156,7 @@
         },
         {
             "CommandName": "オーグ・コピー",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "このターンに<b>スクリプト</b>を生成するたび、ランダムな<b>スクリプト</b>を1枚生成する。",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND_AUGMENTED",
@@ -180,7 +180,7 @@
         },
         {
             "CommandName": "ラッシュ",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "ランダムに<b>アシスト</b>効果を1回解き放つ。",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND",
@@ -191,7 +191,7 @@
         },
         {
             "CommandName": "オーグ・ラッシュ",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "ランダムに<b>アシスト</b>効果を2回解き放つ。",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND_AUGMENTED",
@@ -199,8 +199,8 @@
         },
         {
             "CommandName": "プランニング",
-            "Cost": 12,
-            "Description": "このターン中、すべての<b>スクリプト</b>を次ターンに<b>持ち越す</b>。",
+            "Cost": 11,
+            "Description": "すべての<b>スクリプト</b>を<b>保存し</b>、次ターンに持ち越す。",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND",
             "Tooltips": [
@@ -210,7 +210,7 @@
         },
         {
             "CommandName": "オーグ・プランニング",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "ランダムな<b>スクリプト</b>カードを2枚生成する。このターン中、すべての<b>スクリプト</b>を次ターンに<b>持ち越す</b>。",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND_AUGMENTED",

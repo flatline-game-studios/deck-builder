@@ -112,7 +112,7 @@
         },
         {
             "CommandName": "集结",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "延长1点你所有的<b>协助</b>效果 。",
             "Tier": "Major",
             "Code": "RALLY_COMMAND",
@@ -122,7 +122,7 @@
         },
         {
             "CommandName": "增强·集结",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "延长2点你所有的<b>协助</b>效果 。",
             "Tier": "Major",
             "Code": "RALLY_COMMAND_AUGMENTED",
@@ -146,7 +146,7 @@
         },
         {
             "CommandName": "复制",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "本回合每生成<b>脚本</b>牌时，再额外随机生成1张<b>脚本</b>牌。",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND",
@@ -156,7 +156,7 @@
         },
         {
             "CommandName": "增强·复制",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "本回合每次生成<b>脚本</b>牌时，再额外随机生成1张<b>脚本</b>牌。",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND_AUGMENTED",
@@ -180,7 +180,7 @@
         },
         {
             "CommandName": "冲刺",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "随机释放1次你的<b>协助</b>效果。",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND",
@@ -191,7 +191,7 @@
         },
         {
             "CommandName": "增强·冲刺",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "随机释放2次你的<b>协助</b>效果。",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND_AUGMENTED",
@@ -199,7 +199,7 @@
         },
         {
             "CommandName": "策划",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "<b>保留</b>本回合所有<b>脚本</b>牌。",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND",
@@ -210,7 +210,7 @@
         },
         {
             "CommandName": "增强·策划",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "随机生成2张<b>脚本</b>牌。<b>保留</b>本回合所有<b>脚本</b>牌。",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND_AUGMENTED",

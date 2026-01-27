@@ -682,7 +682,7 @@
             "DriverName": "休止ドライバー",
             "ImagePath": "Driver_03.png",
             "Code": "ID12_DRIVER",
-            "Description": "ターン終了時、<b>バリア</b>は消滅せずに最大25まで次ターンに残す。",
+            "Description": "ターン終了時、<b>バリア</b>は消滅せずに最大25まで次ターンに持ち残す。",
             "ImageIcon": "Driver_Icon_Defense_01.png",
             "Color": "#5BD683FF",
             "Tooltips": []
@@ -854,7 +854,7 @@
             "DriverName": "フロッピードライバー",
             "ImagePath": "Driver_07.png",
             "Code": "ID108_DRIVER",
-            "Description": "<b>ツール</b>を3回使用するたびに、ランダムな<b>基本ツール</b>を1つ入手する。(0/3)",
+            "Description": "<b>ツール</b>を3回使用するたび、ランダムな<b>ブレーカーツール</b>を1つ入手する。(0/3)",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -867,7 +867,7 @@
             "DriverName": "レンチドライバー",
             "ImagePath": "Driver_07.png",
             "Code": "ID109_DRIVER",
-            "Description": "<b>ノード</b>を5つ<b>抽出</b>するたびに、ランダムな<b>基本ツール</b>を1つ入手する。(0/5)",
+            "Description": "<b>ノード</b>を5つ<b>抽出</b>するたび、ランダムな<b>ブレーカーツール</b>を1つ入手する。(0/5)",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -889,7 +889,7 @@
             "DriverName": "道具箱ドライバー",
             "ImagePath": "Driver_07.png",
             "Code": "ID111_DRIVER",
-            "Description": "<b>スキル</b>を使用するたびに、ランダムな<b>基本ツール</b>を1つ入手する。",
+            "Description": "<b>スキル</b>を使用するたび、ランダムな<b>ブレーカーツール</b>を1つ入手する。",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [

@@ -112,7 +112,7 @@
         },
         {
             "CommandName": "RALLY",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "Extend all your <b>Assist</b> effects by 1.",
             "Tier": "Major",
             "Code": "RALLY_COMMAND",
@@ -122,7 +122,7 @@
         },
         {
             "CommandName": "AUG. RALLY",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "Extend all your <b>Assist</b> effects by 2.",
             "Tier": "Major",
             "Code": "RALLY_COMMAND_AUGMENTED",
@@ -146,7 +146,7 @@
         },
         {
             "CommandName": "REPLICATE",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "Every time you create <b>Scripts</b> this turn, create 1 random <b>Script</b>.",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND",
@@ -156,7 +156,7 @@
         },
         {
             "CommandName": "AUG. REPLICATE",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "Every time you create <b>Scripts</b> this turn, create 1 random <b>Script</b>.",
             "Tier": "Critical",
             "Code": "REPLICATE_COMMAND_AUGMENTED",
@@ -180,7 +180,7 @@
         },
         {
             "CommandName": "RUSH",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "Resolve 1 of your <b>Assist</b> effects randomly.",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND",
@@ -191,7 +191,7 @@
         },
         {
             "CommandName": "AUG. RUSH",
-            "Cost": 16,
+            "Cost": 15,
             "Description": "Resolve 2 of your <b>Assist</b> effects randomly.",
             "Tier": "Critical",
             "Code": "RUSH_COMMAND_AUGMENTED",
@@ -199,7 +199,7 @@
         },
         {
             "CommandName": "STRATEGIZE",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "<b>Preserve</b> all <b>Scripts</b> this turn.",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND",
@@ -210,7 +210,7 @@
         },
         {
             "CommandName": "AUG. STRATEGIZE",
-            "Cost": 12,
+            "Cost": 11,
             "Description": "Create 2 random <b>Script</b>. <b>Preserve</b> all <b>Script</b> cards this turn.",
             "Tier": "Major",
             "Code": "STRATEGIZE_COMMAND_AUGMENTED",

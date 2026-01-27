@@ -854,7 +854,7 @@
             "DriverName": "DRIVER DISQUETE",
             "ImagePath": "Driver_07.png",
             "Code": "ID108_DRIVER",
-            "Description": "Cada 3 <b>Herramientas</b> que uses, obtén una <b>Herramienta Básica</b> al azar. (0/3)",
+            "Description": "Cada 3 <b>Herramientas</b> que uses, obtén una <b>Herramienta Rompedora</b> al azar. (0/3)",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -867,7 +867,7 @@
             "DriverName": "DRIVER PULSIANA",
             "ImagePath": "Driver_07.png",
             "Code": "ID109_DRIVER",
-            "Description": "Cada 5 Nodos que <b>Extraigas</b>, obtén una <b>Herramienta Básica</b> al azar. (0/5)",
+            "Description": "Cada 5 Nodos que <b>Extraigas</b>, obtén una <b>Herramienta Rompedora</b> al azar. (0/5)",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -889,7 +889,7 @@
             "DriverName": "DRIVER DE HERRAMIENTAS",
             "ImagePath": "Driver_07.png",
             "Code": "ID111_DRIVER",
-            "Description": "Cada vez que uses una <b>Habilidad</b>, obtén una <b>Herramienta Básica</b> al azar.",
+            "Description": "Cada vez que uses una <b>Habilidad</b>, obtén una <b>Herramienta Rompedora</b> al azar.",
             "ImageIcon": "Driver_Icon_Map_01.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [

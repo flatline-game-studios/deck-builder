@@ -162,8 +162,8 @@
         },
         {
             "Code": "PreserveTooltip",
-            "Title": "保留",
-            "Description": "カードはターン終了時に破棄されず、次のターンへ持ち越される。"
+            "Title": "保存",
+            "Description": "カードはターン終了時に消滅せず、次のターンに持ち越す。"
         },
         {
             "Code": "ProtocolTooltip",

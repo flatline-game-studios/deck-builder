@@ -210,8 +210,7 @@
             "Code": "CODESMASH",
             "Descriptions": [
                 "",
-                "",
-                ""
+                "<b>On-Hit:</b> Gain 1 <b>Cached</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -222,8 +221,7 @@
             "Vim": 3,
             "IsUpgrade": false,
             "Tooltips": [
-                "QuickenTooltip",
-                "DecompileTooltip"
+                "IndexedTooltip"
             ]
         },
         {
@@ -232,8 +230,7 @@
             "Code": "CODESMASH_UPGRADED",
             "Descriptions": [
                 "",
-                "",
-                ""
+                "<b>On-Hit:</b> Gain 2 <b>Cached</b>."
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -244,8 +241,7 @@
             "Vim": 4,
             "IsUpgrade": true,
             "Tooltips": [
-                "QuickenTooltip",
-                "DecompileTooltip"
+                "IndexedTooltip"
             ]
         },
         {
@@ -1845,6 +1841,7 @@
             "Descriptions": [
                 "",
                 "",
+                "",
                 ""
             ],
             "Conditional": "",
@@ -1856,7 +1853,8 @@
             "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
-                "OnDiscardTooltip"
+                "OnDiscardTooltip",
+                "DecompileTooltip"
             ]
         },
         {
@@ -1864,6 +1862,7 @@
             "ImagePath": "PAPER_CRANE.jpg",
             "Code": "PAPER_CRANE_UPGRADED",
             "Descriptions": [
+                "",
                 "",
                 "",
                 ""
@@ -1877,7 +1876,8 @@
             "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
-                "OnDiscardTooltip"
+                "OnDiscardTooltip",
+                "DecompileTooltip"
             ]
         },
         {
@@ -2807,7 +2807,8 @@
             "Vim": 3,
             "IsUpgrade": false,
             "Tooltips": [
-                "ScriptTooltip"
+                "ScriptTooltip",
+                "WeaveScriptTooltip"
             ]
         },
         {
@@ -2828,7 +2829,8 @@
             "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
-                "ScriptTooltip"
+                "ScriptTooltip",
+                "WeaveScriptTooltip"
             ]
         },
         {
