@@ -9,14 +9,6 @@
             "Tooltips": []
         },
         {
-            "CommandName": "CLONAR",
-            "Cost": 10,
-            "Description": "Elige una carta <b>no Protocolo</b> de tu mano. El próximo turno, crea una copia en tu mano.",
-            "Tier": "Major",
-            "Code": "CloneCommand_NotImplemented",
-            "Tooltips": []
-        },
-        {
             "CommandName": "PROVOCAR",
             "Cost": 6,
             "Description": "Gana 2 de <b>Firmeza</b>.",

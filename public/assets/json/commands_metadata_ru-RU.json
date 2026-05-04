@@ -10,14 +10,6 @@
         },
         {
             "CommandName": "",
-            "Cost": 10,
-            "Description": "",
-            "Tier": "Major",
-            "Code": "CloneCommand_NotImplemented",
-            "Tooltips": []
-        },
-        {
-            "CommandName": "",
             "Cost": 6,
             "Description": "",
             "Tier": "Minor",

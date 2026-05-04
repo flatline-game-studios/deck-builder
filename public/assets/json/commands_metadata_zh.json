@@ -9,14 +9,6 @@
             "Tooltips": []
         },
         {
-            "CommandName": "克隆",
-            "Cost": 10,
-            "Description": "选择一张手牌中的<b>非协议牌</b>，在下个回合生成一张副本到你的手牌。",
-            "Tier": "Major",
-            "Code": "CloneCommand_NotImplemented",
-            "Tooltips": []
-        },
-        {
             "CommandName": "勇毅",
             "Cost": 6,
             "Description": "获得2层<b>坚毅</b>。",

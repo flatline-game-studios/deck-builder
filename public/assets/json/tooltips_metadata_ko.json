@@ -3,7 +3,7 @@
         {
             "Code": "AmpedTooltip",
             "Title": "증폭",
-            "Description": "이번 턴이 끝날 때까지 카드를 낼 때마다 <b>VIM</b>을 1 얻습니다. 숫자는 지속되는 턴 수를 나타냅니다."
+            "Description": "이번 턴에 카드를 낼 때마다 <b>VIM</b>을 1 얻습니다. 숫자는 지속되는 턴 수를 나타냅니다."
         },
         {
             "Code": "AssistTooltip",
@@ -123,7 +123,7 @@
         {
             "Code": "JammedTooltip",
             "Title": "오버클럭",
-            "Description": "<b>생성기</b> 카드는 이번 턴이 끝날 때까지 비용이 <b>시계</b> 1만큼 추가됩니다. 숫자는 지속되는 턴 수를 나타냅니다."
+            "Description": "<b>생성기</b> 카드는 이번 턴에 비용이 <b>시계</b> 1만큼 추가됩니다. 숫자는 지속되는 턴 수를 나타냅니다."
         },
         {
             "Code": "MaxVimTooltip",
@@ -138,7 +138,7 @@
         {
             "Code": "MuzzledTooltip",
             "Title": "억제",
-            "Description": "<b>공격</b> 카드는 이번 턴이 끝날 때까지 비용이 <b>시계</b> 1만큼 추가됩니다. 숫자는 지속되는 턴 수를 나타냅니다."
+            "Description": "<b>공격</b> 카드는 이번 턴에 비용이 <b>시계</b> 1만큼 추가됩니다. 숫자는 지속되는 턴 수를 나타냅니다."
         },
         {
             "Code": "OnDiscardTooltip",
@@ -208,7 +208,7 @@
         {
             "Code": "TaggedTooltip",
             "Title": "표시",
-            "Description": "<b>방어</b> 카드는 이번 턴이 끝날 때까지 비용이 <b>시계</b> 1만큼 추가됩니다. 숫자는 지속되는 턴 수를 나타냅니다."
+            "Description": "<b>방어</b> 카드는 이번 턴에 비용이 <b>시계</b> 1만큼 추가됩니다. 숫자는 지속되는 턴 수를 나타냅니다."
         },
         {
             "Code": "TemporaryTooltip",
@@ -288,7 +288,7 @@
         {
             "Code": "UnstableTooltip",
             "Title": "불안정",
-            "Description": "이번 턴이 끝날 때까지 카드를 낼 때마다 <b>VIM</b>을 1 잃습니다. 숫자는 지속되는 턴 수를 나타냅니다."
+            "Description": "이번 턴에 카드를 낼 때마다 <b>VIM</b>을 1 잃습니다. 숫자는 지속되는 턴 수를 나타냅니다."
         },
         {
             "Code": "UntargetableTooltip",

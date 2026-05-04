@@ -9,14 +9,6 @@
             "Tooltips": []
         },
         {
-            "CommandName": "CLONE",
-            "Cost": 10,
-            "Description": "Choose a <b>non-Protocol</b> card from your hand. Next turn create a copy of it in your hand.",
-            "Tier": "Major",
-            "Code": "CloneCommand_NotImplemented",
-            "Tooltips": []
-        },
-        {
             "CommandName": "DARE",
             "Cost": 6,
             "Description": "Gain 2 <b>Grit</b>.",

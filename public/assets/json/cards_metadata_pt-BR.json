@@ -290,6 +290,50 @@
         },
         {
             "CardName": "",
+            "ImagePath": "DISPOSABLE_UNITS.jpg",
+            "Code": "DISPOSABLE_UNITS",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "QuickenTooltip",
+                "OnDiscardTooltip"
+            ]
+        },
+        {
+            "CardName": "",
+            "ImagePath": "DISPOSABLE_UNITS.jpg",
+            "Code": "DISPOSABLE_UNITS_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "QuickenTooltip",
+                "OnDiscardTooltip"
+            ]
+        },
+        {
+            "CardName": "",
             "ImagePath": "ERRATIC_WEAVING.jpg",
             "Code": "ERRATIC_WEAVING",
             "Descriptions": [
@@ -704,6 +748,50 @@
         },
         {
             "CardName": "",
+            "ImagePath": "MUTATE.jpg",
+            "Code": "MUTATE",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
+        },
+        {
+            "CardName": "",
+            "ImagePath": "MUTATE.jpg",
+            "Code": "MUTATE_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 4,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
+        },
+        {
+            "CardName": "",
             "ImagePath": "NEUROTOXIC_HARPOON.jpg",
             "Code": "NEUROTOXIC_HARPOON",
             "Descriptions": [
@@ -744,50 +832,6 @@
             "Tooltips": [
                 "BiteScriptTooltip",
                 "DecompileTooltip"
-            ]
-        },
-        {
-            "CardName": "",
-            "ImagePath": "DISPOSABLE_UNITS.jpg",
-            "Code": "NITRO_DAGGER",
-            "Descriptions": [
-                "",
-                "",
-                ""
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "",
-            "Color": "#E9042AFF",
-            "Clock": 1,
-            "Type": "",
-            "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "QuickenTooltip",
-                "OnDiscardTooltip"
-            ]
-        },
-        {
-            "CardName": "",
-            "ImagePath": "DISPOSABLE_UNITS.jpg",
-            "Code": "NITRO_DAGGER_UPGRADED",
-            "Descriptions": [
-                "",
-                "",
-                ""
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "",
-            "Color": "#E9042AFF",
-            "Clock": 1,
-            "Type": "",
-            "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "QuickenTooltip",
-                "OnDiscardTooltip"
             ]
         },
         {
@@ -1078,50 +1122,6 @@
             "IsUpgrade": true,
             "Tooltips": [
                 "AugmentTooltip"
-            ]
-        },
-        {
-            "CardName": "",
-            "ImagePath": "MUTATE.jpg",
-            "Code": "SPAWN_SPIDERLINGS",
-            "Descriptions": [
-                "",
-                "",
-                ""
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "",
-            "Color": "#E9042AFF",
-            "Clock": 2,
-            "Type": "",
-            "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "DecompileTooltip"
-            ]
-        },
-        {
-            "CardName": "",
-            "ImagePath": "MUTATE.jpg",
-            "Code": "SPAWN_SPIDERLINGS_UPGRADED",
-            "Descriptions": [
-                "",
-                "",
-                ""
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "",
-            "Color": "#E9042AFF",
-            "Clock": 1,
-            "Type": "",
-            "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "DecompileTooltip"
             ]
         },
         {
@@ -2329,7 +2329,7 @@
         {
             "CardName": "",
             "ImagePath": "AIR_SUPERIORITY.jpg",
-            "Code": "3_STEPS_AHEAD",
+            "Code": "AIR_SUPERIORITY",
             "Descriptions": [
                 "",
                 ""
@@ -2350,7 +2350,7 @@
         {
             "CardName": "",
             "ImagePath": "AIR_SUPERIORITY.jpg",
-            "Code": "3_STEPS_AHEAD_UPGRADED",
+            "Code": "AIR_SUPERIORITY_UPGRADED",
             "Descriptions": [
                 "",
                 ""
@@ -2625,6 +2625,52 @@
         },
         {
             "CardName": "",
+            "ImagePath": "KARAGUCHI_MENU.jpg",
+            "Code": "KARAGUCHI_MENU",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
+        },
+        {
+            "CardName": "",
+            "ImagePath": "KARAGUCHI_MENU.jpg",
+            "Code": "KARAGUCHI_MENU_UPGRADED",
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
+        },
+        {
+            "CardName": "",
             "ImagePath": "KINETIC_MEMORY.jpg",
             "Code": "KINETIC_MEMORY",
             "Descriptions": [
@@ -2831,52 +2877,6 @@
             "Tooltips": [
                 "ScriptTooltip",
                 "WeaveScriptTooltip"
-            ]
-        },
-        {
-            "CardName": "",
-            "ImagePath": "KARAGUCHI_MENU.jpg",
-            "Code": "SCRIBE_TERMINAL",
-            "Descriptions": [
-                "",
-                "",
-                ""
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "",
-            "Color": "#E9B705FF",
-            "Clock": 0,
-            "Type": "",
-            "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip",
-                "OnDiscardTooltip"
-            ]
-        },
-        {
-            "CardName": "",
-            "ImagePath": "KARAGUCHI_MENU.jpg",
-            "Code": "SCRIBE_TERMINAL_UPGRADED",
-            "Descriptions": [
-                "",
-                "",
-                ""
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "",
-            "Color": "#E9B705FF",
-            "Clock": 0,
-            "Type": "",
-            "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip",
-                "OnDiscardTooltip"
             ]
         },
         {
@@ -3128,9 +3128,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3150,7 +3150,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "",
-            "Vim": 2,
+            "Vim": 4,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3208,9 +3208,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3230,7 +3230,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "",
-            "Vim": 2,
+            "Vim": 4,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -3247,9 +3247,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3267,9 +3267,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -3374,27 +3374,6 @@
             "CardName": "",
             "ImagePath": "INFECTED_DATA.jpg",
             "Code": "INFECTED_DATA",
-            "Descriptions": [
-                "",
-                ""
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "",
-            "Color": "#515151FF",
-            "Clock": 0,
-            "Type": "",
-            "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "CorruptedTooltip",
-                "DecompileTooltip"
-            ]
-        },
-        {
-            "CardName": "",
-            "ImagePath": "JUDICATORS_GAZE.jpg",
-            "Code": "JUDICATORS_GAZE",
             "Descriptions": [
                 "",
                 ""
@@ -3757,6 +3736,44 @@
         },
         {
             "CardName": "",
+            "ImagePath": "CRACKED_CODESLASH.jpg",
+            "Code": "CRACKED_CODESLASH",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 1,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FragmentedDataTooltip",
+                "CorruptedTooltip"
+            ]
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CRACKED_CODESLASH.jpg",
+            "Code": "CRACKED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": true,
+            "Tooltips": []
+        },
+        {
+            "CardName": "",
             "ImagePath": "CRIMSON_ASSAULT.jpg",
             "Code": "CRIMSON_ASSAULT",
             "Descriptions": [
@@ -3913,44 +3930,6 @@
             "Tooltips": [
                 "FeralTooltip"
             ]
-        },
-        {
-            "CardName": "",
-            "ImagePath": "FRAGMENTED_CODESLASH.jpg",
-            "Code": "FRAGMENTED_CODESLASH",
-            "Descriptions": [
-                "",
-                ""
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "",
-            "Color": "#E9042AFF",
-            "Clock": 0,
-            "Type": "",
-            "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FragmentedDataTooltip",
-                "CorruptedTooltip"
-            ]
-        },
-        {
-            "CardName": "",
-            "ImagePath": "FRAGMENTED_CODESLASH.jpg",
-            "Code": "FRAGMENTED_CODESLASH_UPGRADED",
-            "Descriptions": [
-                ""
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "",
-            "Color": "#E9042AFF",
-            "Clock": 0,
-            "Type": "",
-            "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
         },
         {
             "CardName": "",
@@ -4827,7 +4806,7 @@
         },
         {
             "CardName": "",
-            "ImagePath": "PREY_DRIVE.jpg",
+            "ImagePath": "ANIMAL_INSTINCT.jpg",
             "Code": "ANIMAL_INSTINCT",
             "Descriptions": [
                 ""
@@ -4846,7 +4825,7 @@
         },
         {
             "CardName": "",
-            "ImagePath": "PREY_DRIVE.jpg",
+            "ImagePath": "ANIMAL_INSTINCT.jpg",
             "Code": "ANIMAL_INSTINCT_UPGRADED",
             "Descriptions": [
                 ""
@@ -4985,6 +4964,44 @@
         },
         {
             "CardName": "",
+            "ImagePath": "CRACKED_BLOCKADE.jpg",
+            "Code": "CRACKED_BLOCKADE",
+            "Descriptions": [
+                "",
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 2,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FragmentedDataTooltip",
+                "CorruptedTooltip"
+            ]
+        },
+        {
+            "CardName": "",
+            "ImagePath": "CRACKED_BLOCKADE.jpg",
+            "Code": "CRACKED_BLOCKADE_UPGRADED",
+            "Descriptions": [
+                ""
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "",
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": []
+        },
+        {
+            "CardName": "",
             "ImagePath": "CYBERHIDE.jpg",
             "Code": "CYBERHIDE",
             "Descriptions": [
@@ -4997,7 +5014,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": false,
             "Tooltips": []
         },
@@ -5015,7 +5032,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": []
         },
@@ -5130,44 +5147,6 @@
             "Tooltips": [
                 "DecompileTooltip"
             ]
-        },
-        {
-            "CardName": "",
-            "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
-            "Code": "FRAGMENTED_BLOCKADE",
-            "Descriptions": [
-                "",
-                ""
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "",
-            "Color": "#047BEAFF",
-            "Clock": 1,
-            "Type": "",
-            "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FragmentedDataTooltip",
-                "CorruptedTooltip"
-            ]
-        },
-        {
-            "CardName": "",
-            "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
-            "Code": "FRAGMENTED_BLOCKADE_UPGRADED",
-            "Descriptions": [
-                ""
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "",
-            "Color": "#047BEAFF",
-            "Clock": 1,
-            "Type": "",
-            "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
         },
         {
             "CardName": "",
@@ -5960,7 +5939,8 @@
             "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
-                "MaxVimTooltip"
+                "MaxVimTooltip",
+                "DecompileTooltip"
             ]
         },
         {
@@ -5983,7 +5963,8 @@
             "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
-                "MaxVimTooltip"
+                "MaxVimTooltip",
+                "DecompileTooltip"
             ]
         },
         {
@@ -6028,7 +6009,7 @@
         },
         {
             "CardName": "",
-            "ImagePath": "PREY_DRIVE.jpg",
+            "ImagePath": "ANIMAL_INSTINCT.jpg",
             "Code": "PREY_DRIVE",
             "Descriptions": [
                 "",
@@ -6049,7 +6030,7 @@
         },
         {
             "CardName": "",
-            "ImagePath": "PREY_DRIVE.jpg",
+            "ImagePath": "ANIMAL_INSTINCT.jpg",
             "Code": "PREY_DRIVE_UPGRADED",
             "Descriptions": [
                 "",
@@ -6276,9 +6257,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6315,9 +6296,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6336,7 +6317,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6394,7 +6375,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "",
-            "Vim": 2,
+            "Vim": 4,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6414,7 +6395,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "",
-            "Vim": 2,
+            "Vim": 4,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6432,9 +6413,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6471,58 +6452,13 @@
             "ConditionalDescriptions": [],
             "Rarity": "",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
             ]
-        },
-        {
-            "CardName": "Null",
-            "ImagePath": ".jpg",
-            "Code": "DECOMPILE_TEST",
-            "Descriptions": [],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "",
-            "Color": "#E9B705FF",
-            "Clock": 0,
-            "Type": "",
-            "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": []
-        },
-        {
-            "CardName": "Null",
-            "ImagePath": ".jpg",
-            "Code": "FACTORY_TEST",
-            "Descriptions": [],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "",
-            "Color": "#E9B705FF",
-            "Clock": 1,
-            "Type": "",
-            "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
-        },
-        {
-            "CardName": "Null",
-            "ImagePath": "AMPED_CODESLASH.jpg",
-            "Code": "HACK_TEST",
-            "Descriptions": [],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "",
-            "Color": "#E9042AFF",
-            "Clock": 0,
-            "Type": "",
-            "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": []
         }
     ]
 }

@@ -289,6 +289,50 @@
             ]
         },
         {
+            "CardName": "使い捨てユニット",
+            "ImagePath": "DISPOSABLE_UNITS.jpg",
+            "Code": "DISPOSABLE_UNITS",
+            "Descriptions": [
+                "10<b>ダメージ</b>を与える",
+                "1<b>オーバークロック</b>を得る",
+                "<b>破棄した後</b>、1の<b>クロック</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "QuickenTooltip",
+                "OnDiscardTooltip"
+            ]
+        },
+        {
+            "CardName": "使い捨てユニット",
+            "ImagePath": "DISPOSABLE_UNITS.jpg",
+            "Code": "DISPOSABLE_UNITS_UPGRADED",
+            "Descriptions": [
+                "15<b>ダメージ</b>を与える",
+                "1<b>オーバークロック</b>を得る",
+                "<b>破棄した後</b>、2の<b>クロック</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "QuickenTooltip",
+                "OnDiscardTooltip"
+            ]
+        },
+        {
             "CardName": "不安定なウェーブ",
             "ImagePath": "ERRATIC_WEAVING.jpg",
             "Code": "ERRATIC_WEAVING",
@@ -703,6 +747,50 @@
             ]
         },
         {
+            "CardName": "ミューテーション",
+            "ImagePath": "MUTATE.jpg",
+            "Code": "MUTATE",
+            "Descriptions": [
+                "10<b>ダメージ</b>を与える",
+                "<b>バイトスクリプト</b>を6枚得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
+        },
+        {
+            "CardName": "ミューテーション",
+            "ImagePath": "MUTATE.jpg",
+            "Code": "MUTATE_UPGRADED",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "<b>バイトスクリプト</b>を6枚得る",
+                "<b>デコンパイル</b>する"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "R級",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻撃",
+            "Vim": 4,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
+        },
+        {
             "CardName": "神経毒ハープーン",
             "ImagePath": "NEUROTOXIC_HARPOON.jpg",
             "Code": "NEUROTOXIC_HARPOON",
@@ -744,50 +832,6 @@
             "Tooltips": [
                 "BiteScriptTooltip",
                 "DecompileTooltip"
-            ]
-        },
-        {
-            "CardName": "使い捨てユニット",
-            "ImagePath": "DISPOSABLE_UNITS.jpg",
-            "Code": "NITRO_DAGGER",
-            "Descriptions": [
-                "10<b>ダメージ</b>を与える",
-                "1<b>オーバークロック</b>を得る",
-                "<b>破棄した後</b>、1の<b>クロック</b>を得る"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "C級",
-            "Color": "#E9042AFF",
-            "Clock": 1,
-            "Type": "攻撃",
-            "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "QuickenTooltip",
-                "OnDiscardTooltip"
-            ]
-        },
-        {
-            "CardName": "使い捨てユニット",
-            "ImagePath": "DISPOSABLE_UNITS.jpg",
-            "Code": "NITRO_DAGGER_UPGRADED",
-            "Descriptions": [
-                "15<b>ダメージ</b>を与える",
-                "1<b>オーバークロック</b>を得る",
-                "<b>破棄した後</b>、2の<b>クロック</b>を得る"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "C級",
-            "Color": "#E9042AFF",
-            "Clock": 1,
-            "Type": "攻撃",
-            "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "QuickenTooltip",
-                "OnDiscardTooltip"
             ]
         },
         {
@@ -920,8 +964,8 @@
             "Code": "RAVENOUS_SCREECH",
             "Descriptions": [
                 "10<b>ダメージ</b>を与える",
-                "1<b>弱体化</b>を付与する",
-                "メイン命令を<b>オーグメント</b>する"
+                "メイン命令を<b>オーグメント</b>する",
+                "1<b>弱体化</b>を付与する"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -942,8 +986,8 @@
             "Code": "RAVENOUS_SCREECH_UPGRADED",
             "Descriptions": [
                 "20<b>ダメージ</b>を与える",
-                "1<b>弱体化</b>を付与する",
-                "メイン命令を<b>オーグメント</b>する"
+                "メイン命令を<b>オーグメント</b>する",
+                "1<b>弱体化</b>を付与する"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1081,50 +1125,6 @@
             ]
         },
         {
-            "CardName": "ミューテーション",
-            "ImagePath": "MUTATE.jpg",
-            "Code": "SPAWN_SPIDERLINGS",
-            "Descriptions": [
-                "10<b>ダメージ</b>を与える",
-                "<b>バイトスクリプト</b>を6枚得る",
-                "<b>デコンパイル</b>する"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "R級",
-            "Color": "#E9042AFF",
-            "Clock": 2,
-            "Type": "攻撃",
-            "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "DecompileTooltip"
-            ]
-        },
-        {
-            "CardName": "ミューテーション",
-            "ImagePath": "MUTATE.jpg",
-            "Code": "SPAWN_SPIDERLINGS_UPGRADED",
-            "Descriptions": [
-                "20<b>ダメージ</b>を与える",
-                "<b>バイトスクリプト</b>を6枚得る",
-                "<b>デコンパイル</b>する"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "R級",
-            "Color": "#E9042AFF",
-            "Clock": 1,
-            "Type": "攻撃",
-            "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "DecompileTooltip"
-            ]
-        },
-        {
             "CardName": "スポーナー",
             "ImagePath": "SPAWNER.jpg",
             "Code": "SPAWNER",
@@ -1135,7 +1135,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "C級",
+            "Rarity": "U級",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
@@ -1157,7 +1157,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "C級",
+            "Rarity": "U級",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻撃",
@@ -2329,7 +2329,7 @@
         {
             "CardName": "制空権",
             "ImagePath": "AIR_SUPERIORITY.jpg",
-            "Code": "3_STEPS_AHEAD",
+            "Code": "AIR_SUPERIORITY",
             "Descriptions": [
                 "1枚を引く。<b>オーグメント</b>命令1つにつき、1の<b>クロック</b>を得る",
                 "<b>デコンパイル</b>する"
@@ -2350,7 +2350,7 @@
         {
             "CardName": "制空権",
             "ImagePath": "AIR_SUPERIORITY.jpg",
-            "Code": "3_STEPS_AHEAD_UPGRADED",
+            "Code": "AIR_SUPERIORITY_UPGRADED",
             "Descriptions": [
                 "1枚を引く。<b>オーグメント</b>命令1つにつき、1の<b>クロック</b>を得る",
                 "<b>デコンパイル</b>する"
@@ -2624,6 +2624,52 @@
             ]
         },
         {
+            "CardName": "辛口献立",
+            "ImagePath": "KARAGUCHI_MENU.jpg",
+            "Code": "KARAGUCHI_MENU",
+            "Descriptions": [
+                "ランダムな<b>スクリプト</b>カードを2枚得る",
+                "<b>デコンパイル</b>する",
+                "<b>破棄した後</b>、ランダムな<b>スクリプト</b>カードを1枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 2,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
+        },
+        {
+            "CardName": "辛口献立",
+            "ImagePath": "KARAGUCHI_MENU.jpg",
+            "Code": "KARAGUCHI_MENU_UPGRADED",
+            "Descriptions": [
+                "ランダムな<b>スクリプト</b>カードを3枚得る",
+                "<b>デコンパイル</b>する",
+                "<b>破棄した後</b>、ランダムな<b>スクリプト</b>カードを2枚得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成元",
+            "Vim": 2,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
+        },
+        {
             "CardName": "ダイナミックメモリー",
             "ImagePath": "KINETIC_MEMORY.jpg",
             "Code": "KINETIC_MEMORY",
@@ -2831,52 +2877,6 @@
             "Tooltips": [
                 "ScriptTooltip",
                 "WeaveScriptTooltip"
-            ]
-        },
-        {
-            "CardName": "辛口献立",
-            "ImagePath": "KARAGUCHI_MENU.jpg",
-            "Code": "SCRIBE_TERMINAL",
-            "Descriptions": [
-                "ランダムな<b>スクリプト</b>カードを2枚得る",
-                "<b>デコンパイル</b>する",
-                "<b>破棄した後</b>、ランダムな<b>スクリプト</b>カードを1枚得る"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "C級",
-            "Color": "#E9B705FF",
-            "Clock": 0,
-            "Type": "生成元",
-            "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip",
-                "OnDiscardTooltip"
-            ]
-        },
-        {
-            "CardName": "辛口献立",
-            "ImagePath": "KARAGUCHI_MENU.jpg",
-            "Code": "SCRIBE_TERMINAL_UPGRADED",
-            "Descriptions": [
-                "ランダムな<b>スクリプト</b>カードを3枚得る",
-                "<b>デコンパイル</b>する",
-                "<b>破棄した後</b>、ランダムな<b>スクリプト</b>カードを2枚得る"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "C級",
-            "Color": "#E9B705FF",
-            "Clock": 0,
-            "Type": "生成元",
-            "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip",
-                "OnDiscardTooltip"
             ]
         },
         {
@@ -3126,11 +3126,11 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "R級",
+            "Rarity": "U級",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "プロトコル",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3150,7 +3150,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "プロトコル",
-            "Vim": 2,
+            "Vim": 4,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3206,11 +3206,11 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "R級",
+            "Rarity": "U級",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "プロトコル",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3230,7 +3230,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "プロトコル",
-            "Vim": 2,
+            "Vim": 4,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -3247,9 +3247,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "R級",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "プロトコル",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3267,9 +3267,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "R級",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "プロトコル",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -3375,33 +3375,12 @@
             "ImagePath": "INFECTED_DATA.jpg",
             "Code": "INFECTED_DATA",
             "Descriptions": [
-                "3ダメージを受ける",
+                "5ダメージを受ける",
                 "<b>デコンパイル</b>する"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "スペシャル",
-            "Color": "#515151FF",
-            "Clock": 0,
-            "Type": "破損",
-            "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "CorruptedTooltip",
-                "DecompileTooltip"
-            ]
-        },
-        {
-            "CardName": "裁判官の視線",
-            "ImagePath": "JUDICATORS_GAZE.jpg",
-            "Code": "JUDICATORS_GAZE",
-            "Descriptions": [
-                "15<b>ダメージ</b>を受ける",
-                "<b>デコンパイル</b>する"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "B級",
             "Color": "#515151FF",
             "Clock": 0,
             "Type": "破損",
@@ -3756,6 +3735,44 @@
             "Tooltips": []
         },
         {
+            "CardName": "破損コード斬り",
+            "ImagePath": "CRACKED_CODESLASH.jpg",
+            "Code": "CRACKED_CODESLASH",
+            "Descriptions": [
+                "20<b>ダメージ</b>を与える",
+                "1枚の<b>フラグメントデータ</b>をコードデッキに加える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻撃",
+            "Vim": 1,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FragmentedDataTooltip",
+                "CorruptedTooltip"
+            ]
+        },
+        {
+            "CardName": "破損コード斬り",
+            "ImagePath": "CRACKED_CODESLASH.jpg",
+            "Code": "CRACKED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "敵全体に25<b>ダメージ</b>を与える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻撃",
+            "Vim": 2,
+            "IsUpgrade": true,
+            "Tooltips": []
+        },
+        {
             "CardName": "クリムゾンアサルト",
             "ImagePath": "CRIMSON_ASSAULT.jpg",
             "Code": "CRIMSON_ASSAULT",
@@ -3844,8 +3861,8 @@
             "ImagePath": "EPHEMERAL_EDGE.jpg",
             "Code": "EPHEMERAL_EDGE",
             "Descriptions": [
-                "20<b>ダメージ</b>を与える",
-                "<b>ヒット時：</b> <b>VIM</b>を3点生成する。"
+                "15<b>ダメージ</b>を与える",
+                "<b>ヒット時：</b> <b>VIM</b>を2点生成する。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -3862,7 +3879,7 @@
             "ImagePath": "EPHEMERAL_EDGE.jpg",
             "Code": "EPHEMERAL_EDGE_UPGRADED",
             "Descriptions": [
-                "30<b>ダメージ</b>を与える"
+                "25<b>ダメージ</b>を与える"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -3913,44 +3930,6 @@
             "Tooltips": [
                 "FeralTooltip"
             ]
-        },
-        {
-            "CardName": "破損コード斬り",
-            "ImagePath": "FRAGMENTED_CODESLASH.jpg",
-            "Code": "FRAGMENTED_CODESLASH",
-            "Descriptions": [
-                "20<b>ダメージ</b>を与える",
-                "1枚の<b>フラグメントデータ</b>をコードデッキに加える"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "C級",
-            "Color": "#E9042AFF",
-            "Clock": 0,
-            "Type": "攻撃",
-            "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FragmentedDataTooltip",
-                "CorruptedTooltip"
-            ]
-        },
-        {
-            "CardName": "破損コード斬り",
-            "ImagePath": "FRAGMENTED_CODESLASH.jpg",
-            "Code": "FRAGMENTED_CODESLASH_UPGRADED",
-            "Descriptions": [
-                "敵全体に25<b>ダメージ</b>を与える"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "C級",
-            "Color": "#E9042AFF",
-            "Clock": 0,
-            "Type": "攻撃",
-            "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
         },
         {
             "CardName": "重装歩兵",
@@ -4827,14 +4806,14 @@
         },
         {
             "CardName": "獣の本能",
-            "ImagePath": "PREY_DRIVE.jpg",
+            "ImagePath": "ANIMAL_INSTINCT.jpg",
             "Code": "ANIMAL_INSTINCT",
             "Descriptions": [
-                "30<b>バリア</b>を得る"
+                "20<b>バリア</b>を得る"
             ],
             "Conditional": "このターンでヒットした場合、代わりに：",
             "ConditionalDescriptions": [
-                "50<b>バリア</b>を得る"
+                "40<b>バリア</b>を得る"
             ],
             "Rarity": "U級",
             "Color": "#047BEAFF",
@@ -4846,14 +4825,14 @@
         },
         {
             "CardName": "獣の本能",
-            "ImagePath": "PREY_DRIVE.jpg",
+            "ImagePath": "ANIMAL_INSTINCT.jpg",
             "Code": "ANIMAL_INSTINCT_UPGRADED",
             "Descriptions": [
-                "40<b>バリア</b>を得る"
+                "20<b>バリア</b>を得る"
             ],
             "Conditional": "このターンでヒットした場合、代わりに：",
             "ConditionalDescriptions": [
-                "60<b>バリア</b>を得る"
+                "50<b>バリア</b>を得る"
             ],
             "Rarity": "U級",
             "Color": "#047BEAFF",
@@ -4952,12 +4931,12 @@
             "ImagePath": "CONSOLE_BACKUP.jpg",
             "Code": "CONSOLE_BACKUP",
             "Descriptions": [
-                "60<b>バリア</b>を得る",
-                "このターンで<b>命令</b>を実行するたびに、30<b>バリア</b>を得る"
+                "40<b>バリア</b>を得る",
+                "このターンで<b>命令</b>を実行するたびに、20<b>バリア</b>を得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "SR級",
+            "Rarity": "R級",
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "防御",
@@ -4970,8 +4949,8 @@
             "ImagePath": "CONSOLE_BACKUP.jpg",
             "Code": "CONSOLE_BACKUP_UPGRADED",
             "Descriptions": [
-                "70<b>バリア</b>を得る",
-                "このターンで<b>命令</b>を実行するたびに、45<b>バリア</b>を得る"
+                "50<b>バリア</b>を得る",
+                "このターンで<b>命令</b>を実行するたびに、20<b>バリア</b>を得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -4980,6 +4959,44 @@
             "Clock": 2,
             "Type": "防御",
             "Vim": 4,
+            "IsUpgrade": true,
+            "Tooltips": []
+        },
+        {
+            "CardName": "破損バリア",
+            "ImagePath": "CRACKED_BLOCKADE.jpg",
+            "Code": "CRACKED_BLOCKADE",
+            "Descriptions": [
+                "50<b>バリア</b>を得る",
+                "1枚の<b>フラグメントデータ</b>をコードデッキに加える"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FragmentedDataTooltip",
+                "CorruptedTooltip"
+            ]
+        },
+        {
+            "CardName": "破損バリア",
+            "ImagePath": "CRACKED_BLOCKADE.jpg",
+            "Code": "CRACKED_BLOCKADE_UPGRADED",
+            "Descriptions": [
+                "50<b>バリア</b>を得る"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "C級",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": []
         },
@@ -4997,7 +5014,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": false,
             "Tooltips": []
         },
@@ -5006,7 +5023,7 @@
             "ImagePath": "CYBERHIDE.jpg",
             "Code": "CYBERHIDE_UPGRADED",
             "Descriptions": [
-                "35<b>バリア</b>を得る",
+                "30<b>バリア</b>を得る",
                 "もし前に<b>防御</b>カードをプレイしたら、そのカードが再びプレイされる"
             ],
             "Conditional": "",
@@ -5015,7 +5032,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": []
         },
@@ -5132,49 +5149,11 @@
             ]
         },
         {
-            "CardName": "破損バリア",
-            "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
-            "Code": "FRAGMENTED_BLOCKADE",
-            "Descriptions": [
-                "50<b>バリア</b>を得る",
-                "1枚の<b>フラグメントデータ</b>をコードデッキに加える"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "C級",
-            "Color": "#047BEAFF",
-            "Clock": 1,
-            "Type": "防御",
-            "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FragmentedDataTooltip",
-                "CorruptedTooltip"
-            ]
-        },
-        {
-            "CardName": "破損バリア",
-            "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
-            "Code": "FRAGMENTED_BLOCKADE_UPGRADED",
-            "Descriptions": [
-                "50<b>バリア</b>を得る"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "C級",
-            "Color": "#047BEAFF",
-            "Clock": 1,
-            "Type": "防御",
-            "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
-        },
-        {
             "CardName": "入力アシスタンス",
             "ImagePath": "INPUT_ASSISTANT.jpg",
             "Code": "INPUT_ASSISTANT",
             "Descriptions": [
-                "20<b>バリア</b>を得る"
+                "15<b>バリア</b>を得る"
             ],
             "Conditional": "このターンで<br>1回以上<b>命令</b>を実行していた場合：",
             "ConditionalDescriptions": [
@@ -5195,7 +5174,7 @@
             "ImagePath": "INPUT_ASSISTANT.jpg",
             "Code": "INPUT_ASSISTANT_UPGRADED",
             "Descriptions": [
-                "30<b>バリア</b>を得る"
+                "25<b>バリア</b>を得る"
             ],
             "Conditional": "このターンで<br>1回以上<b>命令</b>を実行していた場合：",
             "ConditionalDescriptions": [
@@ -5258,7 +5237,7 @@
             "ImagePath": "MEMORY_CLOAK.jpg",
             "Code": "MEM_CLOAK",
             "Descriptions": [
-                "20<b>バリア</b>を得る"
+                "15<b>バリア</b>を得る"
             ],
             "Conditional": "<b>VIM</b>が12点以上の場合：",
             "ConditionalDescriptions": [
@@ -5277,7 +5256,7 @@
             "ImagePath": "MEMORY_CLOAK.jpg",
             "Code": "MEM_CLOAK_UPGRADED",
             "Descriptions": [
-                "30<b>バリア</b>を得る"
+                "25<b>バリア</b>を得る"
             ],
             "Conditional": "<b>VIM</b>が12点以上の場合：",
             "ConditionalDescriptions": [
@@ -5960,7 +5939,8 @@
             "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
-                "MaxVimTooltip"
+                "MaxVimTooltip",
+                "DecompileTooltip"
             ]
         },
         {
@@ -5983,7 +5963,8 @@
             "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
-                "MaxVimTooltip"
+                "MaxVimTooltip",
+                "DecompileTooltip"
             ]
         },
         {
@@ -6028,7 +6009,7 @@
         },
         {
             "CardName": "プレイドライブ",
-            "ImagePath": "PREY_DRIVE.jpg",
+            "ImagePath": "ANIMAL_INSTINCT.jpg",
             "Code": "PREY_DRIVE",
             "Descriptions": [
                 "2<b>剛毅</b>を得る",
@@ -6049,7 +6030,7 @@
         },
         {
             "CardName": "プレイドライブ",
-            "ImagePath": "PREY_DRIVE.jpg",
+            "ImagePath": "ANIMAL_INSTINCT.jpg",
             "Code": "PREY_DRIVE_UPGRADED",
             "Descriptions": [
                 "3<b>剛毅</b>を得る",
@@ -6270,15 +6251,15 @@
             "ImagePath": "CORNUCOPIA_PROTOCOL.jpg",
             "Code": "CORNUCOPIA_PROTOCOL",
             "Descriptions": [
-                "自分のターン開始時に3<b>VIM</b>を得る"
+                "自分のターン開始時に2<b>VIM</b>を得る"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "R級",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "プロトコル",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6315,9 +6296,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "U級",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "プロトコル",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6328,15 +6309,15 @@
             "ImagePath": "IGNITION_PROTOCOL.jpg",
             "Code": "IGNITION_PROTOCOL",
             "Descriptions": [
-                "<b>命令</b>を実行するたびに、敵全体に15<b>ダメージ</b>を与える"
+                "<b>命令</b>を実行するたびに、ICEに15<b>ダメージ</b>を与える"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "SR級",
+            "Rarity": "R級",
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "プロトコル",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6394,7 +6375,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "プロトコル",
-            "Vim": 2,
+            "Vim": 4,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6414,7 +6395,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "プロトコル",
-            "Vim": 2,
+            "Vim": 4,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6426,15 +6407,15 @@
             "ImagePath": "PINGU_PROTOCOL.jpg",
             "Code": "PING_U_PROTOCOL",
             "Descriptions": [
-                "<b>最大VIM</b>のままカードをプレイするたび、敵全体に8<b>ダメージ</b>を与える"
+                "<b>最大VIM</b>のままカードをプレイするたび、敵全体に5<b>ダメージ</b>を与える"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "R級",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "プロトコル",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6471,58 +6452,13 @@
             "ConditionalDescriptions": [],
             "Rarity": "U級",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "プロトコル",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
             ]
-        },
-        {
-            "CardName": "Null",
-            "ImagePath": ".jpg",
-            "Code": "DECOMPILE_TEST",
-            "Descriptions": [],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "B級",
-            "Color": "#E9B705FF",
-            "Clock": 0,
-            "Type": "生成元",
-            "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": []
-        },
-        {
-            "CardName": "Null",
-            "ImagePath": ".jpg",
-            "Code": "FACTORY_TEST",
-            "Descriptions": [],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "B級",
-            "Color": "#E9B705FF",
-            "Clock": 1,
-            "Type": "生成元",
-            "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
-        },
-        {
-            "CardName": "Null",
-            "ImagePath": "AMPED_CODESLASH.jpg",
-            "Code": "HACK_TEST",
-            "Descriptions": [],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "R級",
-            "Color": "#E9042AFF",
-            "Clock": 0,
-            "Type": "攻撃",
-            "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": []
         }
     ]
 }

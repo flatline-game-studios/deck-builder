@@ -3,7 +3,7 @@
         {
             "Code": "AmpedTooltip",
             "Title": "増幅",
-            "Description": "このターンで、カードをプレイするたび、1点の<b>VIM</b>を生成する。数字は持続ターン数を示す。"
+            "Description": "このターンで、カードをプレイするたび、1<b>VIM</b>を生成する。数字は持続ターン数を示す。"
         },
         {
             "Code": "AssistTooltip",
@@ -123,7 +123,7 @@
         {
             "Code": "JammedTooltip",
             "Title": "過負荷",
-            "Description": "このターンで、<b>生成元</b>カードは、追加で1の<b>クロック</b>をコストする。数字は持続ターン数を示す。"
+            "Description": "このターンで、<b>生成元</b>カードは、さらに1<b>クロック</b>をコストする。数字は持続ターン数を示す。"
         },
         {
             "Code": "MaxVimTooltip",
@@ -138,7 +138,7 @@
         {
             "Code": "MuzzledTooltip",
             "Title": "抑制",
-            "Description": "このターンで、<b>攻撃</b>カードは、追加で1の<b>クロック</b>をコストする。数字は持続ターン数を示す。"
+            "Description": "このターンで、<b>攻撃</b>カードは、さらに1<b>クロック</b>をコストする。数字は持続ターン数を示す。"
         },
         {
             "Code": "OnDiscardTooltip",
@@ -208,7 +208,7 @@
         {
             "Code": "TaggedTooltip",
             "Title": "タグ",
-            "Description": "このターンで、<b>防御</b>カードは、追加で1の<b>クロック</b>をコストする。数字は持続ターン数を示す。"
+            "Description": "このターンで、<b>防御</b>カードは、さらに1<b>クロック</b>をコストする。数字は持続ターン数を示す。"
         },
         {
             "Code": "TemporaryTooltip",
@@ -288,7 +288,7 @@
         {
             "Code": "UnstableTooltip",
             "Title": "不安定",
-            "Description": "このターンで、カードをプレイするたび、1点の<b>VIM</b>を失う。数字は持続ターン数を示す。"
+            "Description": "このターンで、カードをプレイするたび、1<b>VIM</b>を失う。数字は持続ターン数を示す。"
         },
         {
             "Code": "UntargetableTooltip",

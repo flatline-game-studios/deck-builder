@@ -1,30 +1,30 @@
 {
     "Items": [
         {
-            "DriverName": "매복 드라이버",
-            "ImagePath": "Driver_01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "AMBUSH_DRIVER",
-            "Description": "전투 시작 시, 전체 유닛에게 1중첩의 <b>폭로<b>를 부여합니다.",
-            "ImageIcon": "Driver_Icon_Intel_01.png",
+            "Description": "",
+            "ImageIcon": "Icon_Ambush.png",
             "Color": "#FF0000FF",
             "Tooltips": [
                 "ExposedTooltip"
             ]
         },
         {
-            "DriverName": "백업 드라이버",
-            "ImagePath": "Blue_backup.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "BACKUP_DRIVER",
-            "Description": "턴 종료 시 <b>방어막<b>이 없다면, 10포인트의 <b>방어막<b>을 획득합니다.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "바리케이드 드라이버",
-            "ImagePath": "Blue_barricade_U-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "BARRICADE_DRIVER",
-            "Description": "턴 종료 시 <b>방어막<b>이 80포인트 이상이라면, 2중첩의 <b>투지<b>를 획득합니다.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -32,10 +32,10 @@
             ]
         },
         {
-            "DriverName": "분노 드라이버",
-            "ImagePath": "Red_berserk_R-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "BERSERK_DRIVER",
-            "Description": "<b>공격</b> 카드를 사용할 때마다, 1중첩의 </b>야성</b>을 얻고, 자신에게 1중첩의 </b>폭로</b>을 부여합니다.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -44,10 +44,10 @@
             ]
         },
         {
-            "DriverName": "블루 드라이버",
-            "ImagePath": "Blue_blue.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "BLUE_DRIVER",
-            "Description": "턴마다 처음으로 <b>투지<b>를 획득할 때, 10의 <b>방어막<b>을 획득합니다.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -55,10 +55,10 @@
             ]
         },
         {
-            "DriverName": "추격자 드라이버",
-            "ImagePath": "Red_chase_U-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "CHASE_DRIVER",
-            "Description": "턴 시작 시, <b>야성<b>이 12 이상일 경우, 1의 <b>시계<b>를 획득합니다.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -67,10 +67,10 @@
             ]
         },
         {
-            "DriverName": "클릭 드라이버",
-            "ImagePath": "Green_clicker_U-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "CLICKER_DRIVER",
-            "Description": "전투 중 <b>커맨드</b>를 3번 사용할 때마다, 5포인트의 </b>임시 VIM</b>을 획득합니다. (0/3)",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -78,10 +78,10 @@
             ]
         },
         {
-            "DriverName": "클라우드 드라이버",
-            "ImagePath": "Yellow_cloud.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "CLOUD_DRIVER",
-            "Description": "턴마다 처음으로 <b>임시 VIM<b>을 획득할 때, 2포인트의 VIM을 생성합니다.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -89,10 +89,10 @@
             ]
         },
         {
-            "DriverName": "코덱스 드라이버",
-            "ImagePath": "Purple_codex.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "CODEX_DRIVER",
-            "Description": "전투 시작 시, 2중첩의 <b>캐시<b>를 획득합니다.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -100,57 +100,57 @@
             ]
         },
         {
-            "DriverName": "발전기 드라이버",
-            "ImagePath": "Yellow_dynamo_U-01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "DYNAMO_DRIVER",
-            "Description": "<b>생성기</b> 카드를 사용할 때마다, 1포인트의 <b>VIM</b>을 생성합니다.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Dynamo.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "월식 드라이버",
-            "ImagePath": "Red_eclipse_R-01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "ECLIPSE_DRIVER",
-            "Description": "턴 종료 시, <b>야성</b>이 더 이상 감소하지 않습니다.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Eclipse.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
                 "FeralTooltip"
             ]
         },
         {
-            "DriverName": "칼날 드라이버",
-            "ImagePath": "Red_edge_U-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "EDGE_DRIVER",
-            "Description": "“코드슬래시” 카드는 20% 추가 <b>피해</b>를 줍니다.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "속임수 드라이버",
-            "ImagePath": "Blue_feint_U-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "FEINT_DRIVER",
-            "Description": "한 턴에 <b>방어</b> 카드를 3장 사용할 때마다, 0의 <b>시계<b>를 획득합니다. (0/3)",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "멘드 드라이버",
-            "ImagePath": "Purple_mend.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "MEND_DRIVER",
-            "Description": "전투 시작 시, 15포인트의 무결성을 회복합니다.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Mend.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "달빛 드라이버",
-            "ImagePath": "Red_moon_U-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "MOON_DRIVER",
-            "Description": "한 턴에 <b>공격</b> 카드를 4장 사용할 때마다, 3중첩의 <b>야성<b>을 획득합니다.(0/4)",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -158,10 +158,10 @@
             ]
         },
         {
-            "DriverName": "오케스트라 드라이버",
-            "ImagePath": "Yellow_orchestra_R-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "ORCHESTRA_DRIVER",
-            "Description": "턴 시작 시, 10포인트의 임시 VIM을 생성합니다. 턴 종료 시 모든 <b>VIM</b>을 잃게 됩니다.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -169,30 +169,30 @@
             ]
         },
         {
-            "DriverName": "프롬프트 드라이버",
-            "ImagePath": "Green_prompt.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "PROMPT_DRIVER",
-            "Description": "전투마다 처음으로 <b>커맨드<b>를 사용할 때, 1포인트의 <b>시계<b>를 획득합니다.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Prompt.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
                 "ClockTooltip"
             ]
         },
         {
-            "DriverName": "원형 드라이버",
-            "ImagePath": "Purple_proto_U-01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "PROTO_DRIVER",
-            "Description": "<b>프로토콜</b> 카드의 <b>시계</b> 코스트이 1만큼 감소합니다.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Proto.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "레드 드라이버",
-            "ImagePath": "Red_red.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "RED_DRIVER",
-            "Description": "<b>공격</b> 카드를 10장 사용할 때마다, 2의 <b>야성<b>을 획득합니다. (0/10)",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -200,19 +200,19 @@
             ]
         },
         {
-            "DriverName": "루스터 드라이버",
-            "ImagePath": "Yellow_rooster.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "ROOSTER_DRIVER",
-            "Description": "전투 시작 시, 3포인트의 <b>VIM<b>을 생성합니다.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Rooster.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "은신처 드라이버",
-            "ImagePath": "Blue_shelter_U-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "SHELTER_DRIVER",
-            "Description": "턴 종료 시 <b>방어</b> 카드를 사용하지 않았다면, 3중첩의 <b>투지<b>를 획득합니다.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -220,10 +220,10 @@
             ]
         },
         {
-            "DriverName": "스네어 드라이버",
-            "ImagePath": "Blue_snare.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "SNARE_DRIVER",
-            "Description": "전투 시작 시, 전체 유닛에게 중첩의 <b>쇠약<b>을 부여합니다.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -231,28 +231,28 @@
             ]
         },
         {
-            "DriverName": "안정화 드라이버",
-            "ImagePath": "Yellow_stabilizer_U-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "STABILIZER_DRIVER",
-            "Description": "턴 시작 시, 2포인트의 <b>VIM</b>을 생성합니다.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "스트림 드라이버",
-            "ImagePath": "Red_stream.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "STREAM_DRIVER",
-            "Description": "한 턴 내에 <b>공격</b> 카드를 4장 사용할 때마다, 카드를 1장 뽑습니다. (0/4)",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Stream.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "스트리트 드라이버",
-            "ImagePath": "Blue_street.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "STREET_DRIVER",
-            "Description": "전투 시작 시, 2의 <b>투지<b>를 획득합니다.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -260,63 +260,63 @@
             ]
         },
         {
-            "DriverName": "천둥 드라이버",
-            "ImagePath": "Yellow_thunder_U-01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "THUNDER_DRIVER",
-            "Description": "턴 시작 시 <b>최대 VIM</b>을 보유하고 있다면, 1의 </b>시계</b>를 획득합니다.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Thunder.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
                 "MaxVimTooltip"
             ]
         },
         {
-            "DriverName": "반도체 드라이버",
-            "ImagePath": "Yellow_transistor_U-01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "TRANSISTOR_DRIVER",
-            "Description": "턴 종료 시, 보유 중인 <b>임시 VIM</b>만큼의 <b>VIM</b>을 생성합니다.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Transistor.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
                 "TempVimTooltip"
             ]
         },
         {
-            "DriverName": "턴테이블 드라이버",
-            "ImagePath": "Green_turntable_U-01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "TUNRTABLE_DRIVER",
-            "Description": "<b>부차적 커맨드</b>를 턴마다 2번 사용할 수 있습니다.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Turntable.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "선봉 드라이버",
-            "ImagePath": "Blue_vanguard_R-01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "VANGUARD_DRIVER",
-            "Description": "턴 시작 시, 보유 중인 <b>투지</b> 1포인트당 3의 <b>피해</b>를 모든 적에게 입힙니다. (0 <b>피해</b>)",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Vanguard.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
                 "GritTooltip"
             ]
         },
         {
-            "DriverName": "바이닐 드라이버",
-            "ImagePath": "Green_vinyl_U-01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "VINYL_DRIVER",
-            "Description": "한 턴 내에 <b>커맨드</b>를 3번 사용할 때마다, 0의 <b>시계<b>를 획득합니다.(0/3)",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Vinyl.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
                 "ClockTooltip"
             ]
         },
         {
-            "DriverName": "울프 드라이버",
-            "ImagePath": "Red_wolf.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "WOLF_DRIVER",
-            "Description": "전투 시작 시, 2중첩의 <b>야성<b>을 획득합니다.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -324,20 +324,20 @@
             ]
         },
         {
-            "DriverName": "노란색 드라이버",
-            "ImagePath": "Yellow_yellow.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "YELLOW_DRIVER",
-            "Description": "턴 시작 시, <b>VIM<b>이 10포인트 이상일 경우, 2포인트의 <b>VIM<b>을 추가로 생성합니다.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
             "DriverName": "마그네트론 드라이버",
-            "ImagePath": "Driver_06.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID41_DRIVER",
             "Description": "당신의 턴이 시작될 때마다 <b>어시스트</b> 효과가 1번 발동될 때마다 2 <b>VIM</b>을 생성합니다.",
-            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "ImageIcon": "Icon_Magnetron.png",
             "Color": "#A85DDAFF",
             "Tooltips": [
                 "AssistTooltip"
@@ -345,10 +345,10 @@
         },
         {
             "DriverName": "위성 드라이버",
-            "ImagePath": "Driver_06.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID42_DRIVER",
             "Description": "전투 시작 시, 모든 <b>커맨드</b>를 <b>보강</b>합니다.",
-            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "ImageIcon": "Icon_Satellite.png",
             "Color": "#A85DDAFF",
             "Tooltips": [
                 "AugmentTooltip"
@@ -356,10 +356,10 @@
         },
         {
             "DriverName": "체인 드라이버",
-            "ImagePath": "Driver_06.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID52_DRIVER",
             "Description": "매 턴 처음으로 <b>스크립트</b> 5장을 사용할 때, 1 <b>시계</b>를 획득합니다. (0/5)",
-            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "ImageIcon": "Icon_Chain.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
         },
@@ -374,10 +374,10 @@
         },
         {
             "DriverName": "바이퍼 드라이버",
-            "ImagePath": "Driver_06.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID43_DRIVER",
             "Description": "<b>바이트 스크립트</b>의 기본 <b>피해</b>가 5만큼 증가합니다.",
-            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "ImageIcon": "Icon_Viper.png",
             "Color": "#5AC7D6FF",
             "Tooltips": [
                 "BiteScriptTooltip"
@@ -385,37 +385,37 @@
         },
         {
             "DriverName": "부메랑 드라이버",
-            "ImagePath": "Driver_06.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID49_DRIVER",
             "Description": "턴마다 처음으로 만료되는 <b>어시스트</b> 효과가 패로 돌아옵니다.",
-            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "ImageIcon": "Icon_Boomerang.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "쇼크웨이브 드라이버",
-            "ImagePath": "Driver_06.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID50_DRIVER",
             "Description": "매 턴 처음으로 <b>보강 커맨드</b>를 사용할 때, ICE에 <b>피해</b> 20를 줍니다.",
-            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "ImageIcon": "Icon_Shockwave.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "굶주림 드라이버",
-            "ImagePath": "Driver_06.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID51_DRIVER",
             "Description": "모든 랜덤 <b>스크립트</b>는 <b>바이트 스크립트</b>가 됩니다.",
-            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "ImageIcon": "Icon_Hunger.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "트랜지스터 드라이버",
-            "ImagePath": "Driver_06.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID53_DRIVER",
             "Description": "당신의 턴 동안, 버린 카드마다 1 <b>VIM</b>을 생성합니다.",
-            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "ImageIcon": "Icon_Transistor.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
@@ -430,46 +430,46 @@
         },
         {
             "DriverName": "프롬프트 드라이버",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID22_DRIVER",
             "Description": "<b>커맨드</b>를 사용할 때마다,  1장의 카드를 뽑습니다.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Prompt.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
         },
         {
             "DriverName": "다이너모 드라이버",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID32_DRIVER",
             "Description": "카드를 사용할 때마다, 1포인트의 <b>VIM</b>을 생성합니다.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Dynamo.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
         },
         {
             "DriverName": "미사일 드라이버",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID33_DRIVER",
             "Description": "비용이 3인 모든 카드의 비용이 1 <b>시계</b>만큼 감소합니다.",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Missile.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
         },
         {
             "DriverName": "크래니엄 드라이버",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID34_DRIVER",
             "Description": "<b>커맨드</b>를 3번 사용할 때마다, 1 <b>시계</b>를 획득합니다. (0/3)",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Cranium.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
         },
         {
             "DriverName": "인내 드라이버",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID35_DRIVER",
             "Description": "턴 종료 시, <b>커맨드</b>를 사용하지 않았다면, 1중첩의 <b>오버클록</b>을 획득합니다.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Patience.png",
             "Color": "#A85DDAFF",
             "Tooltips": [
                 "QuickenTooltip"
@@ -477,73 +477,73 @@
         },
         {
             "DriverName": "성능 드라이버",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID36_DRIVER",
             "Description": "턴마다 처음으로 비용이 2인 카드를 사용할 때, 1 <b>시계</b>를 획득합니다.",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Performance.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
         },
         {
             "DriverName": "용기 드라이버",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID37_DRIVER",
             "Description": "엘리트 및 수호자 전투에서, 턴 시작 시 1 <b>시계</b>를 획득하고 4 <b>VIM</b>을 생성합니다.",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Courage.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
         },
         {
             "DriverName": "턴테이블 드라이버",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID23_DRIVER",
             "Description": "턴마다 <b>부차적 커맨드</b>를 2회 사용할 수 있습니다.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Turntable.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "플레이트 드라이버",
-            "ImagePath": "Driver_03.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID24_DRIVER",
             "Description": "<b>방어</b> 카드를 사용할 때마다, 10중첩의 <b>방어막</b>을 획득합니다.",
-            "ImageIcon": "Driver_Icon_Defense_01.png",
+            "ImageIcon": "Icon_Plating.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "프로토 드라이버",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID25_DRIVER",
             "Description": "<b>프로토콜</b>의 비용이 1 <b>시계</b>만큼 감소합니다.",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Proto.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "제로 드라이버",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID27_DRIVER",
             "Description": "<b>VIM</b>이 0이 될 때마다, 4포인트의 <b>VIM</b>을 생성합니다.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Zero.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "전격 드라이버",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID28_DRIVER",
             "Description": "턴 중 카드 뽑을 때마다, ICE에게 4포인트의 <b>피해</b>를 줍니다.",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_Zap.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "연기 드라이버",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID29_DRIVER",
             "Description": "<b>폭로</b>를 부여할 때마다, 중첩의 <b>쇠약</b>을 추가로 부여합니다.",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_Fumes.png",
             "Color": "#5AC7D6FF",
             "Tooltips": [
                 "ExposedTooltip",
@@ -552,10 +552,10 @@
         },
         {
             "DriverName": "도미노 드라이버",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID30_DRIVER",
             "Description": "<b>주변 장치</b>를 비활성화할 때마다, 1중첩의 <b>오버클록</b>, 1중첩의 <b>캐시</b>를 획득합니다.",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_Domino.png",
             "Color": "#5AC7D6FF",
             "Tooltips": [
                 "QuickenTooltip",
@@ -564,46 +564,46 @@
         },
         {
             "DriverName": "업데이트 드라이버",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID31_DRIVER",
             "Description": "전투 시작 시, 무작위로 3장의 <b>스타터</b> 카드를 전투 종료까지 강화합니다.",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Update.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "해바라기 드라이버",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID1_DRIVER",
             "Description": "<b>생성기</b> 카드를 사용할 때마다,  1포인트의 <b>VIM</b>을 생성합니다.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Sunflower.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "수탉 드라이버",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID2_DRIVER",
             "Description": "각 전투 시작 시, 5포인트의 <b>VIM</b>을 생성합니다.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Rooster.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "사이클론 드라이버",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID3_DRIVER",
             "Description": "휴지통을 코드 저장소에 셔플할 때마다, 3포인트의 <b>VIM</b>을 생성합니다.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Cyclone.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "고스트 드라이버",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID4_DRIVER",
             "Description": "전투 중, 당신이 처음으로 사용한 <b>디컴파일</b>될 카드가 휴지통에 넣어집니다.",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Ghost.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "DecompileTooltip"
@@ -611,37 +611,37 @@
         },
         {
             "DriverName": "밀 드라이버",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID5_DRIVER",
             "Description": "카드를 6장 사용할 때마다, 1장의 카드를 뽑습니다. (0/6)",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Mill.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "스트림 드라이버",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID6_DRIVER",
             "Description": "매 턴에 처음으로 3장의 <b>공격</b> 카드를 사용할 때, 2장의 카드를 뽑습니다. (0/3)",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_Stream.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "비닐 드라이버",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID7_DRIVER",
             "Description": "한 턴에 <b>커맨드<b>를 사용할 때, 1포인트의 <b>시계<b>를 획득합니다. (0/3)",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Vinyl.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "배터리 드라이버",
-            "ImagePath": "Driver_03.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID8_DRIVER",
             "Description": "매 턴에 처음으로 3장의 <b>방어</b> 카드를 사용할 때, 1중첩의 <b>오버클럭</b>을 획득합니다. (0/3)",
-            "ImageIcon": "Driver_Icon_Defense_01.png",
+            "ImageIcon": "Icon_Battery.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "QuickenTooltip"
@@ -649,19 +649,19 @@
         },
         {
             "DriverName": "몰로토프 드라이버",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID9_DRIVER",
             "Description": "<b>공격</b> 카드를 6장 사용할 때마다, 모든 유닛에게 15포인트의 <b>피해</b>를 줍니다. (0/6)",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_Molotov.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "천둥 드라이버",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID10_DRIVER",
             "Description": "<b>최대 VIM</b>에 도달할 때마다, 모든 유닛에게 15포인트의 <b>피해</b>를 줍니다.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Thunder.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "MaxVimTooltip"
@@ -669,10 +669,10 @@
         },
         {
             "DriverName": "버블 드라이버",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID11_DRIVER",
             "Description": "전투마다 처음으로 <b>최대 VIM</b>에 도달할 때, 70중첩의 <b>방어막<b>을 획득합니다.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Bubble.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "MaxVimTooltip"
@@ -680,37 +680,37 @@
         },
         {
             "DriverName": "겨울잠 드라이버",
-            "ImagePath": "Driver_03.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID12_DRIVER",
             "Description": "턴마다 <b>방어막</b>을 모두 잃는 대신 최대 25중첩까지 유지합니다.",
-            "ImageIcon": "Driver_Icon_Defense_01.png",
+            "ImageIcon": "Icon_Hibernation.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "암호화 드라이버",
-            "ImagePath": "Driver_03.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID13_DRIVER",
             "Description": "<b>프로토콜</b> 카드를 사용할 때마다, 70중첩의 <b>방어막<b>을 획득합니다.",
-            "ImageIcon": "Driver_Icon_Defense_01.png",
+            "ImageIcon": "Icon_Encryption.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "아킬레스 드라이버",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID14_DRIVER",
             "Description": "<b>주변 장치</b>를 비활성화할 때마다, ICE에게 30포인트의 <b>피해</b>를 줍니다.",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_Achilles.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "매복 드라이버",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID15_DRIVER",
             "Description": "각 전투 시작 시, 모든 유닛에게 2중첩의 <b>폭로</b>를 부여합니다.",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_Ambush.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "ExposedTooltip"
@@ -718,10 +718,10 @@
         },
         {
             "DriverName": "보복 드라이버",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID16_DRIVER",
             "Description": "<b>폭로</b> 상태가 될 때마다, ICE에 2중첩의 <b>폭로</b>를 부여합니다.",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_Payback.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "ExposedTooltip"
@@ -729,10 +729,10 @@
         },
         {
             "DriverName": "플래시 드라이버",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID17_DRIVER",
             "Description": "각 전투 시작 시, 모든 유닛에게 2중첩의 <b>쇠약</b>을 부여합니다.",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_FlashBang.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "DebilitatedTooltip"
@@ -740,28 +740,28 @@
         },
         {
             "DriverName": "멘드 드라이버",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID18_DRIVER",
             "Description": "각 전투 시작 시, 15포인트의 <b>무결성</b>을 회복합니다.",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Mend.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "캐논 드라이버",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID19_DRIVER",
             "Description": "<b>중요 커맨드</b>를 사용할 때마다, ICE에게 40포인트의 <b>피해</b>를 줍니다.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Cannon.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "서플라이 드라이버",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID20_DRIVER",
             "Description": "각 전투 시작 시, 3중첩의 <b>캐시</b>를 획득합니다.",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Supply.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "IndexedTooltip"
@@ -769,10 +769,10 @@
         },
         {
             "DriverName": "모래시계 드라이버",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID21_DRIVER",
             "Description": "턴 종료 시, 사용하지 않은 <b>시계</b>가 있다면 1중첩의 <b>증폭</b>을 획득합니다.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Hourglass.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "AmpedTooltip"
@@ -954,19 +954,19 @@
         },
         {
             "DriverName": "스톰 드라이버",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID38_DRIVER",
             "Description": "턴 종료 시, 가진 <b>VIM</b> 1점당 ICE에 2 <b>피해</b>를 입힙니다. (0 <b>피해</b>)",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Storm.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
         },
         {
             "DriverName": "이클립스 드라이버",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID39_DRIVER",
             "Description": "턴 종료 시, <b>야성</b>이 더 이상 감소하지 않습니다.",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Eclipse.png",
             "Color": "#A85DDAFF",
             "Tooltips": [
                 "FeralTooltip"
@@ -974,10 +974,10 @@
         },
         {
             "DriverName": "뱅가드 드라이버",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID40_DRIVER",
             "Description": "턴 시작 시, 보유한 <b>투지</b> 중첩마다 모든 유닛에게 3포인트의 <b>피해</b>를 줍니다. (0포인트의 <b>피해</b>)",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Vanguard.png",
             "Color": "#A85DDAFF",
             "Tooltips": [
                 "GritTooltip"
@@ -985,19 +985,19 @@
         },
         {
             "DriverName": "고속 드라이버",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID26_DRIVER",
             "Description": "카드를 6장 사용할 때마다, 1 <b>시계</b>를 획득합니다. (0/6)",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Velocity.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "양귀비 드라이버",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID44_DRIVER",
             "Description": "턴마다 처음으로 피해를 입힐 때, 2중첩의 <b>야성</b>을 획득합니다.",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Poppy.png",
             "Color": "#5AC7D6FF",
             "Tooltips": [
                 "FeralTooltip"
@@ -1005,10 +1005,10 @@
         },
         {
             "DriverName": "자카란다 드라이버",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID45_DRIVER",
             "Description": "턴마다 처음으로 <b>투지</b>을 획득할 때, 2중첩의 <b>투지</b>를 추가로 획득합니다.",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Jacaranda.png",
             "Color": "#5AC7D6FF",
             "Tooltips": [
                 "GritTooltip"
@@ -1016,10 +1016,10 @@
         },
         {
             "DriverName": "아토믹 드라이버",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID46_DRIVER",
             "Description": "턴 시작 시 <b>최대 VIM</b> 상태라면, 2장의 카드를 뽑습니다.",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Atomic.png",
             "Color": "#5AC7D6FF",
             "Tooltips": [
                 "MaxVimTooltip"
@@ -1027,19 +1027,19 @@
         },
         {
             "DriverName": "발톱 드라이버",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID47_DRIVER",
             "Description": "<b>\"코드슬래시\"</b>가 포함된 카드의 <b>피해</b>가 20% 증가합니다.",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Claw.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "크롬 드라이버",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID48_DRIVER",
             "Description": "전투 시작 시, 이름에 <b>\"코드슬래시\"</b>가 포함된 카드 중 랜덤 3장을 전투 종료 시까지 업그레이드합니다.",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Chrome.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         }
