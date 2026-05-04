@@ -3,7 +3,7 @@
         {
             "Code": "AmpedTooltip",
             "Title": "強電",
-            "Description": "你在本回合進行完前每打出一張牌都生成1點<b>VIM</b>。數字代表持續的回合數。"
+            "Description": "你在本回合每打出一張牌都生成1點<b>VIM</b>。數字代表持續的回合數。"
         },
         {
             "Code": "AssistTooltip",
@@ -123,7 +123,7 @@
         {
             "Code": "JammedTooltip",
             "Title": "超頻",
-            "Description": "<b>生成器</b>牌在本回合進行完前的費用額外增加1<b>時鐘</b>。數字代表持續的回合數。"
+            "Description": "<b>生成器</b>牌在本回合的費用額外增加1<b>時鐘</b>。數字代表持續的回合數。"
         },
         {
             "Code": "MaxVimTooltip",
@@ -138,7 +138,7 @@
         {
             "Code": "MuzzledTooltip",
             "Title": "封禁",
-            "Description": "<b>攻擊</b>牌在本回合進行完前的費用額外增加1<b>時鐘</b>。數字代表持續的回合數。"
+            "Description": "<b>攻擊</b>牌在本回合的費用額外增加1<b>時鐘</b>。數字代表持續的回合數。"
         },
         {
             "Code": "OnDiscardTooltip",
@@ -208,7 +208,7 @@
         {
             "Code": "TaggedTooltip",
             "Title": "標記",
-            "Description": "<b>防禦</b>牌在本回合進行完前的費用額外增加1<b>時鐘</b>。數字代表持續的回合數。"
+            "Description": "<b>防禦</b>牌在本回合的費用額外增加1<b>時鐘</b>。數字代表持續的回合數。"
         },
         {
             "Code": "TemporaryTooltip",
@@ -288,7 +288,7 @@
         {
             "Code": "UnstableTooltip",
             "Title": "不穩定",
-            "Description": "你在本回合進行完前每打出一張牌都失去1點<b>VIM</b>。數字代表持續的回合數。"
+            "Description": "你在本回合每打出一張牌都失去1點<b>VIM</b>。數字代表持續的回合數。"
         },
         {
             "Code": "UntargetableTooltip",

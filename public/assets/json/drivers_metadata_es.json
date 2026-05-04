@@ -1,30 +1,30 @@
 {
     "Items": [
         {
-            "DriverName": "DRIVER DE EMBOSCADA",
-            "ImagePath": "Driver_01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "AMBUSH_DRIVER",
-            "Description": "Al principio de cada combate, inflige 1 de <b>Exposición</b>.",
-            "ImageIcon": "Driver_Icon_Intel_01.png",
+            "Description": "",
+            "ImageIcon": "Icon_Ambush.png",
             "Color": "#FF0000FF",
             "Tooltips": [
                 "ExposedTooltip"
             ]
         },
         {
-            "DriverName": "DRIVER DE RESPALDO",
-            "ImagePath": "Blue_backup.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "BACKUP_DRIVER",
-            "Description": "Al final de tu turno, si no tienes nada de <b>Barrier</b>, gana 10 de <b>Barrier</b>.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "DRIVER BARRICADA",
-            "ImagePath": "Blue_barricade_U-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "BARRICADE_DRIVER",
-            "Description": "Al final de tu turno, si tienes al menos 80 de <b>Barrera</b>, gana 2 de <b>Firmeza</b>.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -32,10 +32,10 @@
             ]
         },
         {
-            "DriverName": "DRIVER FRENÉTICO",
-            "ImagePath": "Red_berserk_R-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "BERSERK_DRIVER",
-            "Description": "Cada vez que juegues un <b>Ataque</b>, gana 1 de <b>Fiereza</b> e infligite 1 de <b>Exposición</b>.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -44,10 +44,10 @@
             ]
         },
         {
-            "DriverName": "DRIVER AZUL",
-            "ImagePath": "Blue_blue.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "BLUE_DRIVER",
-            "Description": "La primera vez que ganes <b>Firmeza</b> cada turno, gana 10 de <b>Barrera</b>.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -55,10 +55,10 @@
             ]
         },
         {
-            "DriverName": "DRIVER DE PERSECUSIÓN",
-            "ImagePath": "Red_chase_U-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "CHASE_DRIVER",
-            "Description": "Al principio de tu turno, si tienes al menos 12 <b>Fiereza</b>, gana 1 de <b>Clock</b>.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -67,10 +67,10 @@
             ]
         },
         {
-            "DriverName": "DRIVER CONTADOR",
-            "ImagePath": "Green_clicker_U-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "CLICKER_DRIVER",
-            "Description": "Cada vez que actives 3 <b>Comandos</b> en un mismo combate, gana 5 <b>TEMP VIM</b>. (0/3)",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -78,10 +78,10 @@
             ]
         },
         {
-            "DriverName": "DRIVER NUBE",
-            "ImagePath": "Yellow_cloud.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "CLOUD_DRIVER",
-            "Description": "La primera vez que ganes <b>TEMP VIM</b> cada turno, genera 2 <b>VIM</b>.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -89,10 +89,10 @@
             ]
         },
         {
-            "DriverName": "DRIVER CODEX",
-            "ImagePath": "Purple_codex.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "CODEX_DRIVER",
-            "Description": "Al principio de cada combate, gana 2 de <b>Acumulación</b>.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -100,57 +100,57 @@
             ]
         },
         {
-            "DriverName": "DRIVER DÍNAMO",
-            "ImagePath": "Yellow_dynamo_U-01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "DYNAMO_DRIVER",
-            "Description": "Cada vez que juegues un <b>Generador</b>, genera 1 <b>VIM</b>.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Dynamo.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "DRIVER DE ECLIPSE",
-            "ImagePath": "Red_eclipse_R-01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "ECLIPSE_DRIVER",
-            "Description": "Tu <b>Fiereza</b> no decaerá al final de cada ronda.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Eclipse.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
                 "FeralTooltip"
             ]
         },
         {
-            "DriverName": "DRIVER DE FILO",
-            "ImagePath": "Red_edge_U-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "EDGE_DRIVER",
-            "Description": "Las cartas \"Cibertajo\" hacen 20% más de daño.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "DRIVER DE AMAGUE",
-            "ImagePath": "Blue_feint_U-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "FEINT_DRIVER",
-            "Description": "Cada vez que jueges 3 cartas de <b>Defensa</b> en un mismo turno, gana 0 de <b>Clock</b>. (0/3)",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "DRIVER DE REMIENDO",
-            "ImagePath": "Purple_mend.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "MEND_DRIVER",
-            "Description": "Al principio de cada combate, restaura 15 de <b>Integridad</b>.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Mend.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "DRIVER LUNAR",
-            "ImagePath": "Red_moon_U-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "MOON_DRIVER",
-            "Description": "Cada vez que jueges 4 <b>Ataques</b> en un mismo turno, gana 3 de <b>Fiereza</b>. (0/4)",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -158,10 +158,10 @@
             ]
         },
         {
-            "DriverName": "DRIVER ORQUESTA",
-            "ImagePath": "Yellow_orchestra_R-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "ORCHESTRA_DRIVER",
-            "Description": "Al principio de tu turno, genera 10 <b>TEMP VIM</b>. Al final de tu turno, pierde todo tu <b>VIM</b>.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -169,30 +169,30 @@
             ]
         },
         {
-            "DriverName": "DRIVER DE PROMPT",
-            "ImagePath": "Green_prompt.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "PROMPT_DRIVER",
-            "Description": "La primera vez que actives un <b>Comando</b> en cada combate, gana 1 de <b>Clock</b>.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Prompt.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
                 "ClockTooltip"
             ]
         },
         {
-            "DriverName": "PROTODRIVER",
-            "ImagePath": "Purple_proto_U-01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "PROTO_DRIVER",
-            "Description": "Las cartas <b>Protocolo</b> cuestan 1 menos de <b>Clock</b>.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Proto.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "DRIVER ROJO",
-            "ImagePath": "Red_red.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "RED_DRIVER",
-            "Description": "Cada 10 <b>Ataques</b> que juegues, gana  2 de <b>Fiereza</b>. (0/10)",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -200,19 +200,19 @@
             ]
         },
         {
-            "DriverName": "DRIVER DEL GALLO",
-            "ImagePath": "Yellow_rooster.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "ROOSTER_DRIVER",
-            "Description": "Al principio cada combate, genera 3  <b>VIM</b>.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Rooster.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "DRIVER DE REFUGIO",
-            "ImagePath": "Blue_shelter_U-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "SHELTER_DRIVER",
-            "Description": "Al final de tu turno, si no jugaste ninguna carta de <b>Defensa</b>, gana 3 <b>Grit</b>.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -220,10 +220,10 @@
             ]
         },
         {
-            "DriverName": "DRIVER TRAMPA",
-            "ImagePath": "Blue_snare.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "SNARE_DRIVER",
-            "Description": "Al principio de cada combate, inflige  de <b>Debilidad</b>.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -231,28 +231,28 @@
             ]
         },
         {
-            "DriverName": "DRIVER ESTABILIZADOR",
-            "ImagePath": "Yellow_stabilizer_U-01.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "STABILIZER_DRIVER",
-            "Description": "Al principio de tu turno, genera 2  <b>VIM</b>.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "DRIVER DE STREAM ",
-            "ImagePath": "Red_stream.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "STREAM_DRIVER",
-            "Description": "Cada vez que jueges 4 <b>Ataques</b>  en un mismo turno, roba 1 carta. (0/4)",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Stream.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "DRIVER CALLEJERO",
-            "ImagePath": "Blue_street.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "STREET_DRIVER",
-            "Description": "Al principio de cada combate, gana 2 de <b>Firmeza</b>.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -260,63 +260,63 @@
             ]
         },
         {
-            "DriverName": "DRIVER TRUENO",
-            "ImagePath": "Yellow_thunder_U-01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "THUNDER_DRIVER",
-            "Description": "Al principio de tu turno, si tienes <b>MAX VIM</b>, gana 1 de <b>Clock</b>.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Thunder.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
                 "MaxVimTooltip"
             ]
         },
         {
-            "DriverName": "DRIVER TRANSISTOR",
-            "ImagePath": "Yellow_transistor_U-01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "TRANSISTOR_DRIVER",
-            "Description": "Al final de tu turno, genera tanto <b>VIM</b> como <b>TEMP VIM</b> tengas.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Transistor.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
                 "TempVimTooltip"
             ]
         },
         {
-            "DriverName": "DRIVER TOCADISCOS",
-            "ImagePath": "Green_turntable_U-01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "TUNRTABLE_DRIVER",
-            "Description": "Puedes activar <b>Comandos Menores</b> 2 veces por turno.",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Turntable.png",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
-            "DriverName": "DRIVER DE VANGUARDIA",
-            "ImagePath": "Blue_vanguard_R-01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "VANGUARD_DRIVER",
-            "Description": "Al principio de tu turno, haz 3 de daño a todos los enemigos por cada punto de <b>Firmeza</b> que tengas. (0 de daño)",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Vanguard.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
                 "GritTooltip"
             ]
         },
         {
-            "DriverName": "DRIVER DE VINILO",
-            "ImagePath": "Green_vinyl_U-01.png",
+            "DriverName": "",
+            "ImagePath": "Square_Line.png",
             "Code": "VINYL_DRIVER",
-            "Description": "Cada vez que actives 3 <b>Comandos</b> en un mismo  turno, gana 0 de <b>Clock</b>. (0/3)",
-            "ImageIcon": "",
+            "Description": "",
+            "ImageIcon": "Icon_Vinyl.png",
             "Color": "#FFFFFFFF",
             "Tooltips": [
                 "ClockTooltip"
             ]
         },
         {
-            "DriverName": "DRIVER DEL LOBO",
-            "ImagePath": "Red_wolf.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "WOLF_DRIVER",
-            "Description": "Al principio de cada combate, gana 2 de <b>Fiereza</b>.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": [
@@ -324,20 +324,20 @@
             ]
         },
         {
-            "DriverName": "DRIVER AMARILLO",
-            "ImagePath": "Yellow_yellow.png",
+            "DriverName": "",
+            "ImagePath": "",
             "Code": "YELLOW_DRIVER",
-            "Description": "Al principio de tu turno, si tienes al menos 10 <b>VIM</b>, genera 2 <b>VIM</b>.",
+            "Description": "",
             "ImageIcon": "",
             "Color": "#FFFFFFFF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER MAGNETRÓN",
-            "ImagePath": "Driver_06.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID41_DRIVER",
             "Description": "Cada vez que un efecto de <b>Asistir</b> se activa al principio de tu turno, genera 2 <b>VIM</b>.",
-            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "ImageIcon": "Icon_Magnetron.png",
             "Color": "#A85DDAFF",
             "Tooltips": [
                 "AssistTooltip"
@@ -345,10 +345,10 @@
         },
         {
             "DriverName": "DRIVER SATÉLITE",
-            "ImagePath": "Driver_06.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID42_DRIVER",
             "Description": "Al principio de cada combate, <b>Augmenta</b> todos tus <b>Comandos</b>.",
-            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "ImageIcon": "Icon_Satellite.png",
             "Color": "#A85DDAFF",
             "Tooltips": [
                 "AugmentTooltip"
@@ -356,10 +356,10 @@
         },
         {
             "DriverName": "DRIVER CADENA",
-            "ImagePath": "Driver_06.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID52_DRIVER",
             "Description": "La primera vez que juegues 5 <b>SCRIPTS</b> seguidos cada turno, gana 1 de <b>Clock</b>. (0/5)",
-            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "ImageIcon": "Icon_Chain.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
         },
@@ -374,10 +374,10 @@
         },
         {
             "DriverName": "DRIVER VÍBORA",
-            "ImagePath": "Driver_06.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID43_DRIVER",
             "Description": "Aumenta el daño base de los <b>SCRIPTS DE MORDIDA</b> en 5.",
-            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "ImageIcon": "Icon_Viper.png",
             "Color": "#5AC7D6FF",
             "Tooltips": [
                 "BiteScriptTooltip"
@@ -385,37 +385,37 @@
         },
         {
             "DriverName": "DRIVER BÚMERAN",
-            "ImagePath": "Driver_06.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID49_DRIVER",
             "Description": "Cada turno, el primer efecto de <b>Asistir</b> que expire regresa a tu mano.",
-            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "ImageIcon": "Icon_Boomerang.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER DE CONMOCIÓN",
-            "ImagePath": "Driver_06.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID50_DRIVER",
             "Description": "Cada vez que uses un <b>Comando Augmentado </b>, haz 20 de daño al ICE.",
-            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "ImageIcon": "Icon_Shockwave.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER DE HAMBRE",
-            "ImagePath": "Driver_06.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID51_DRIVER",
             "Description": "Todos los <b>SCRIPTS</b> creados al azar serán <b>SCRIPTS DE MORDIDA</b>.",
-            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "ImageIcon": "Icon_Hunger.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER TRANSISTOR",
-            "ImagePath": "Driver_06.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID53_DRIVER",
             "Description": "Cada vez que descartes una carta durante tu turno, genera 1 <b>VIM</b>.",
-            "ImageIcon": "Driver_Icon_Darwin_01.png",
+            "ImageIcon": "Icon_Transistor.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
@@ -430,46 +430,46 @@
         },
         {
             "DriverName": "DRIVER DE PROMPT",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID22_DRIVER",
             "Description": "Cada vez que uses un <b>Comando</b>, roba 1 carta.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Prompt.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER DÍNAMO",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID32_DRIVER",
             "Description": "Cada vez que juegues una carta, genera 1 <b>VIM</b>.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Dynamo.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER MISIL",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID33_DRIVER",
             "Description": "Reduce el costo de todas las cartas de coste 3 en 1.",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Missile.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER DE CRANIUM",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID34_DRIVER",
             "Description": "Cada 3 <b>Comandos</b> que uses, gana 1 de <b>Clock</b>. (0/3)",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Cranium.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER DE PACIENCIA",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID35_DRIVER",
             "Description": "Al final de tu turno, si no usaste ningún <b>Comando</b>, gana 1 de <b>Overclocked</b>.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Patience.png",
             "Color": "#A85DDAFF",
             "Tooltips": [
                 "QuickenTooltip"
@@ -477,73 +477,73 @@
         },
         {
             "DriverName": "DRIVER DE DESEMPEÑO",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID36_DRIVER",
             "Description": "La primera vez que juegues una carta de coste 2 cada turno, gana 1 de <b>Clock</b>.",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Performance.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER DE CORAJE",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID37_DRIVER",
             "Description": "En combates de Élite y de Guardianes del Núcleo, al principio de tu turno, gana 1 de <b>Clock</b> y genera 4 <b>VIM</b>.",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Courage.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER TOCADISCOS",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID23_DRIVER",
             "Description": "Puedes usar <b>Comandos Menores</b> 2 veces por turno.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Turntable.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER ENCHAPADO",
-            "ImagePath": "Driver_03.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID24_DRIVER",
             "Description": "Cada vez que juegues una <b>DEFENSA</b>, gana 10 de <b>Barrera</b>.",
-            "ImageIcon": "Driver_Icon_Defense_01.png",
+            "ImageIcon": "Icon_Plating.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "PROTO DRIVER",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID25_DRIVER",
             "Description": "Los <b>PROTOCOLOS</b> cuestan 1 menos de <b>Clock</b>.",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Proto.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER CERO",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID27_DRIVER",
             "Description": "Cada vez que llegues a 0 <b>VIM</b>, genera 4 <b>VIM</b>.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Zero.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER DE CHISPAZO",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID28_DRIVER",
             "Description": "Cada vez que robes una carta durante tu turno, haz 4 de daño al ICE.",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_Zap.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER DE VAPORES",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID29_DRIVER",
             "Description": "Cada vez que inflijas <b>Exposición</b>, inflige también  de <b>Debilidad</b>.",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_Fumes.png",
             "Color": "#5AC7D6FF",
             "Tooltips": [
                 "ExposedTooltip",
@@ -552,10 +552,10 @@
         },
         {
             "DriverName": "DRIVER DOMINÓ",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID30_DRIVER",
             "Description": "Cada vez que desactives un <b>Periferico</b>, gana 1 de <b>Overclocked</b> y de 1 <b>Acumulación</b>.",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_Domino.png",
             "Color": "#5AC7D6FF",
             "Tooltips": [
                 "QuickenTooltip",
@@ -564,46 +564,46 @@
         },
         {
             "DriverName": "DRIVER DE ACTUALIZACIÓN",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID31_DRIVER",
             "Description": "Al principio de cada combate, mejora 3 cartas <b>INICIALES</b> al azar hasta el final del combate.",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Update.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER GIRASOL",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID1_DRIVER",
             "Description": "Cada vez que juegues un <b>Generador</b>, genera 1 <b>VIM</b>.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Sunflower.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER DEL GALLO",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID2_DRIVER",
             "Description": "Al principio de cada combate, genera 5 <b>VIM</b>.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Rooster.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER DEL CICLÓN",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID3_DRIVER",
             "Description": "Cada vez que mezcles tu Recicladora con tu Repo, genera 3 <b>VIM</b>.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Cyclone.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER FANTASMA",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID4_DRIVER",
             "Description": "Cada combate, la primera carta que juegues que debería ser <b>DECOMPILADA</b> va a la Recicladora en vez de eso.",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Ghost.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "DecompileTooltip"
@@ -611,37 +611,37 @@
         },
         {
             "DriverName": "DRIVER MOLINO",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID5_DRIVER",
             "Description": "Cada 6 cartas que juegues, roba 1 carta. (0/6)",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Mill.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER DE CORRENTADA",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID6_DRIVER",
             "Description": "La primera vez que juegues 3 <b>Ataques</b> cada turno, roba 2 cartas. (0/3)",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_Stream.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER DE VINILO",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID7_DRIVER",
             "Description": "Cada vez que uses 3 <b>Comandos</b> en un mismo turno, gana 1 de <b>Clock</b>. (0/3)",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Vinyl.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER BATERÍA",
-            "ImagePath": "Driver_03.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID8_DRIVER",
             "Description": "La primera vez que juegues 3 <b>Defensas</b> cada turno, gana 1 de <b>Overclocked</b>. (0/3)",
-            "ImageIcon": "Driver_Icon_Defense_01.png",
+            "ImageIcon": "Icon_Battery.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "QuickenTooltip"
@@ -649,19 +649,19 @@
         },
         {
             "DriverName": "DRIVER MOLOTOV",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID9_DRIVER",
             "Description": "Cada 6 <b>ATAQUES</b> que juegues, haz 15 de daño a todos los enemigos. (0/6)",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_Molotov.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER TRUENO",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID10_DRIVER",
             "Description": "Cada vez que alcances <b>MAX VIM</b>, haz 15 de daño a todos los enemigos.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Thunder.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "MaxVimTooltip"
@@ -669,10 +669,10 @@
         },
         {
             "DriverName": "DRIVER BURBUJA",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID11_DRIVER",
             "Description": "La primera vez que alcances <b>MAX VIM</b> cada combate, gana 70 de <b>Barrera</b>.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Bubble.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "MaxVimTooltip"
@@ -680,37 +680,37 @@
         },
         {
             "DriverName": "DRIVER DE HIBERNACIÓN",
-            "ImagePath": "Driver_03.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID12_DRIVER",
             "Description": "Cada turno, conserva hasta 25 de <b>Barrera</b> en vez de perderlo todo.",
-            "ImageIcon": "Driver_Icon_Defense_01.png",
+            "ImageIcon": "Icon_Hibernation.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER ENCRIPTADO",
-            "ImagePath": "Driver_03.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID13_DRIVER",
             "Description": "Cada vez que juegues un <b>PROTOCOLO</b>, gana 70 de <b>Barrera</b>.",
-            "ImageIcon": "Driver_Icon_Defense_01.png",
+            "ImageIcon": "Icon_Encryption.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER DE AQUILES",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID14_DRIVER",
             "Description": "Cada vez que desactives un <b>Periférico</b>, haz 30 de daño al ICE.",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_Achilles.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER DE EMBOSCADA",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID15_DRIVER",
             "Description": "Al principio de cada combate, inflige 2 de <b>Exposición</b> a todos los enemigos.",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_Ambush.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "ExposedTooltip"
@@ -718,10 +718,10 @@
         },
         {
             "DriverName": "DRIVER DE REVANCHA",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID16_DRIVER",
             "Description": "Cada vez que recibas <b>Exposición</b>, inflige 2 de <b>Exposición</b> al ICE.",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_Payback.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "ExposedTooltip"
@@ -729,10 +729,10 @@
         },
         {
             "DriverName": "DRIVER ATURDIDOR",
-            "ImagePath": "Driver_02.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID17_DRIVER",
             "Description": "Al principio de cada combate, inflige 2 de <b>Debilidad</b> a todos los enemigos.",
-            "ImageIcon": "Driver_Icon_Attack_01.png",
+            "ImageIcon": "Icon_FlashBang.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "DebilitatedTooltip"
@@ -740,28 +740,28 @@
         },
         {
             "DriverName": "DRIVER DE REMIENDO",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID18_DRIVER",
             "Description": "Al principio de cada combate, restaura 15 de <b>Integridad</b>.",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Mend.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER DE CAÑÓN",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID19_DRIVER",
             "Description": "Cada vez que uses un <b>Comando Crítico</b>, haz 40 de daño al ICE.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Cannon.png",
             "Color": "#5BD683FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER DE INSUMOS",
-            "ImagePath": "Driver_07.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID20_DRIVER",
             "Description": "Al principio de cada combate, gana 3 de <b>Acumulación</b>.",
-            "ImageIcon": "Driver_Icon_Map_01.png",
+            "ImageIcon": "Icon_Supply.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "IndexedTooltip"
@@ -769,10 +769,10 @@
         },
         {
             "DriverName": "DRIVER CLEPSAMIA",
-            "ImagePath": "Driver_05.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID21_DRIVER",
             "Description": "Al final de tu turno, si tienes <b>Clock</b> sin gastar, gana 1 de <b>Amplificación</b>.",
-            "ImageIcon": "Driver_Icon_VIM_01.png",
+            "ImageIcon": "Icon_Hourglass.png",
             "Color": "#5BD683FF",
             "Tooltips": [
                 "AmpedTooltip"
@@ -954,19 +954,19 @@
         },
         {
             "DriverName": "DRIVER DE TORMENTA",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID38_DRIVER",
             "Description": "Al final de tu turno, haz 2 de daño al ICE por cada punto de <b>VIM</b> que tengas. (0 de daño)",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Storm.png",
             "Color": "#A85DDAFF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER DE ECLIPSE",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID39_DRIVER",
             "Description": "Tu <b>Fiereza</b> no decaerá al final de cada ronda.",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Eclipse.png",
             "Color": "#A85DDAFF",
             "Tooltips": [
                 "FeralTooltip"
@@ -974,10 +974,10 @@
         },
         {
             "DriverName": "DRIVER DE VANGUARDIA",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID40_DRIVER",
             "Description": "Al principio de tu turno, haz 3 de daño a todos los enemigos por cada punto de <b>Firmeza</b> que tengas. (0 de daño)",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Vanguard.png",
             "Color": "#A85DDAFF",
             "Tooltips": [
                 "GritTooltip"
@@ -985,19 +985,19 @@
         },
         {
             "DriverName": "DRIVER DE VELOCIDAD",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID26_DRIVER",
             "Description": "Cada 6 cartas que juegues, gana 1 de <b>Clock</b>. (0/6)",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Velocity.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER AMAPOLA",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID44_DRIVER",
             "Description": "La primera vez que hagas daño cada turno, gana 2 de <b>Fiereza</b>.",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Poppy.png",
             "Color": "#5AC7D6FF",
             "Tooltips": [
                 "FeralTooltip"
@@ -1005,10 +1005,10 @@
         },
         {
             "DriverName": "DRIVER JACARANDÁ",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID45_DRIVER",
             "Description": "La primera vez que ganes <b>Firmeza</b> cada turno, gana 2 de <b>Firmeza</b>.",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Jacaranda.png",
             "Color": "#5AC7D6FF",
             "Tooltips": [
                 "GritTooltip"
@@ -1016,10 +1016,10 @@
         },
         {
             "DriverName": "DRIVER ATÓMICO",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID46_DRIVER",
             "Description": "Al principio de tu turno, si estás en <b>MAX VIM</b>, roba 2 cartas .",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Atomic.png",
             "Color": "#5AC7D6FF",
             "Tooltips": [
                 "MaxVimTooltip"
@@ -1027,19 +1027,19 @@
         },
         {
             "DriverName": "DRIVER GARRA",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID47_DRIVER",
             "Description": "Las cartas con <b>\"Cibertajo\"</b> en su nombre hacen 20% más de daño.",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Claw.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         },
         {
             "DriverName": "DRIVER CROMADO",
-            "ImagePath": "Driver_04.png",
+            "ImagePath": "Square_Line.png",
             "Code": "ID48_DRIVER",
             "Description": "Al principio de cada combate, mejora 3 cartas al azar con <b>\"Cibertajo\"</b> en su nombre hasta el fin del combate.",
-            "ImageIcon": "Driver_Icon_Ursa_01.png",
+            "ImageIcon": "Icon_Chrome.png",
             "Color": "#5AC7D6FF",
             "Tooltips": []
         }

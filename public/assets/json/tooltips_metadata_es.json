@@ -3,7 +3,7 @@
         {
             "Code": "AmpedTooltip",
             "Title": "Amplificación",
-            "Description": "Este turno, todas las cartas generan 1 <b>VIM</b> más hasta que son jugadas. Cada punto representa duración en número de rondas."
+            "Description": "Este turno, todas las cartas generan 1 <b>VIM</b> más. Cada punto representa duración en número de rondas."
         },
         {
             "Code": "AssistTooltip",
@@ -123,7 +123,7 @@
         {
             "Code": "JammedTooltip",
             "Title": "Sobrecarga",
-            "Description": "Este turno, los <b>Generadores</b> cuestan 1 de <b>Clock</b> extra hasta que son jugados. Cada punto representa duración en número de rondas."
+            "Description": "Este turno, los <b>Generadores</b> cuestan 1 de <b>Clock</b> extra. Cada punto representa duración en número de rondas."
         },
         {
             "Code": "MaxVimTooltip",
@@ -138,7 +138,7 @@
         {
             "Code": "MuzzledTooltip",
             "Title": "Supresión",
-            "Description": "Este turno, los <b>Ataques</b> cuestan 1 de <b>Clock</b> extra hasta que son jugados. Cada punto representa duración en número de rondas."
+            "Description": "Este turno, los <b>Ataques</b> cuestan 1 de <b>Clock</b> extra. Cada punto representa duración en número de rondas."
         },
         {
             "Code": "OnDiscardTooltip",
@@ -208,7 +208,7 @@
         {
             "Code": "TaggedTooltip",
             "Title": "Marcación",
-            "Description": "Este turno, las <b>Defensas</b> cuestan 1 de <b>Clock</b> extra hasta que son jugadas. Cada punto representa duración en número de rondas."
+            "Description": "Este turno, las <b>Defensas</b> cuestan 1 de <b>Clock</b> extra. Cada punto representa duración en número de rondas."
         },
         {
             "Code": "TemporaryTooltip",
@@ -273,7 +273,7 @@
         {
             "Code": "Tooltip_Inventory_Teleporter",
             "Title": "TELEPORTADOR",
-            "Description": "Telepórtate a un Clúster al azar (priorizando los que no están revelados)."
+            "Description": "Teletranspórtate a un Clúster al azar (priorizando los que no están revelados)."
         },
         {
             "Code": "Tooltip_Shards",
@@ -288,7 +288,7 @@
         {
             "Code": "UnstableTooltip",
             "Title": "Inestabilidad",
-            "Description": "Este turno, todas las cartas generan 1 <b>VIM</b> menos hasta que son jugadas. Cada punto representa duración en número de rondas."
+            "Description": "Este turno, todas las cartas generan 1 <b>VIM</b> menos. Cada punto representa duración en número de rondas."
         },
         {
             "Code": "UntargetableTooltip",

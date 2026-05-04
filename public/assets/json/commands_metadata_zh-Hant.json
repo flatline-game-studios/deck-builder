@@ -9,14 +9,6 @@
             "Tooltips": []
         },
         {
-            "CommandName": "複製",
-            "Cost": 10,
-            "Description": "選擇一張手牌中的<b>非協議牌</b>，在下個回合生成一張副本到你的手牌。",
-            "Tier": "Major",
-            "Code": "CloneCommand_NotImplemented",
-            "Tooltips": []
-        },
-        {
             "CommandName": "勇毅",
             "Cost": 6,
             "Description": "獲得2層<b>堅毅</b>。",

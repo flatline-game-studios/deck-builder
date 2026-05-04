@@ -289,6 +289,50 @@
             ]
         },
         {
+            "CardName": "一次性单元",
+            "ImagePath": "DISPOSABLE_UNITS.jpg",
+            "Code": "DISPOSABLE_UNITS",
+            "Descriptions": [
+                "造成10点<b>伤害</b>。",
+                "获得1层<b>超频</b>。",
+                "<b>弃置后：</b>获得1<b>时钟</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻击",
+            "Vim": 3,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "QuickenTooltip",
+                "OnDiscardTooltip"
+            ]
+        },
+        {
+            "CardName": "一次性单元",
+            "ImagePath": "DISPOSABLE_UNITS.jpg",
+            "Code": "DISPOSABLE_UNITS_UPGRADED",
+            "Descriptions": [
+                "造成15点<b>伤害</b>。",
+                "获得1层<b>超频</b>。",
+                "<b>弃置后：</b>获得2<b>时钟</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻击",
+            "Vim": 3,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "QuickenTooltip",
+                "OnDiscardTooltip"
+            ]
+        },
+        {
             "CardName": "编织不稳定",
             "ImagePath": "ERRATIC_WEAVING.jpg",
             "Code": "ERRATIC_WEAVING",
@@ -703,6 +747,50 @@
             ]
         },
         {
+            "CardName": "突变",
+            "ImagePath": "MUTATE.jpg",
+            "Code": "MUTATE",
+            "Descriptions": [
+                "造成10点<b>伤害</b>。",
+                "生成6张<b>噬咬脚本</b>。",
+                "<b>反编译</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 2,
+            "Type": "攻击",
+            "Vim": 4,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
+        },
+        {
+            "CardName": "突变",
+            "ImagePath": "MUTATE.jpg",
+            "Code": "MUTATE_UPGRADED",
+            "Descriptions": [
+                "造成20点<b>伤害</b>。",
+                "生成6张<b>噬咬脚本</b>。",
+                "<b>反编译</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "稀有",
+            "Color": "#E9042AFF",
+            "Clock": 1,
+            "Type": "攻击",
+            "Vim": 4,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "BiteScriptTooltip",
+                "DecompileTooltip"
+            ]
+        },
+        {
             "CardName": "神经毒刺",
             "ImagePath": "NEUROTOXIC_HARPOON.jpg",
             "Code": "NEUROTOXIC_HARPOON",
@@ -744,50 +832,6 @@
             "Tooltips": [
                 "BiteScriptTooltip",
                 "DecompileTooltip"
-            ]
-        },
-        {
-            "CardName": "一次性单元",
-            "ImagePath": "DISPOSABLE_UNITS.jpg",
-            "Code": "NITRO_DAGGER",
-            "Descriptions": [
-                "造成10点<b>伤害</b>。",
-                "获得1层<b>超频</b>。",
-                "<b>弃置后：</b>获得1<b>时钟</b>。"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "普通",
-            "Color": "#E9042AFF",
-            "Clock": 1,
-            "Type": "攻击",
-            "Vim": 3,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "QuickenTooltip",
-                "OnDiscardTooltip"
-            ]
-        },
-        {
-            "CardName": "一次性单元",
-            "ImagePath": "DISPOSABLE_UNITS.jpg",
-            "Code": "NITRO_DAGGER_UPGRADED",
-            "Descriptions": [
-                "造成15点<b>伤害</b>。",
-                "获得1层<b>超频</b>。",
-                "<b>弃置后：</b>获得2<b>时钟</b>。"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "普通",
-            "Color": "#E9042AFF",
-            "Clock": 1,
-            "Type": "攻击",
-            "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "QuickenTooltip",
-                "OnDiscardTooltip"
             ]
         },
         {
@@ -920,8 +964,8 @@
             "Code": "RAVENOUS_SCREECH",
             "Descriptions": [
                 "造成10点<b>伤害</b>。",
-                "施加1层<b>虚弱</b>。",
-                "<b>增强</b>大型指令。"
+                "<b>增强</b>大型指令。",
+                "施加1层<b>虚弱</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -942,8 +986,8 @@
             "Code": "RAVENOUS_SCREECH_UPGRADED",
             "Descriptions": [
                 "造成20点<b>伤害</b>。",
-                "施加1层<b>虚弱</b>。",
-                "<b>增强</b>大型指令。"
+                "<b>增强</b>大型指令。",
+                "施加1层<b>虚弱</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -1081,50 +1125,6 @@
             ]
         },
         {
-            "CardName": "突变",
-            "ImagePath": "MUTATE.jpg",
-            "Code": "SPAWN_SPIDERLINGS",
-            "Descriptions": [
-                "造成10点<b>伤害</b>。",
-                "生成6张<b>噬咬脚本</b>。",
-                "<b>反编译</b>。"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "稀有",
-            "Color": "#E9042AFF",
-            "Clock": 2,
-            "Type": "攻击",
-            "Vim": 4,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "DecompileTooltip"
-            ]
-        },
-        {
-            "CardName": "突变",
-            "ImagePath": "MUTATE.jpg",
-            "Code": "SPAWN_SPIDERLINGS_UPGRADED",
-            "Descriptions": [
-                "造成20点<b>伤害</b>。",
-                "生成6张<b>噬咬脚本</b>。",
-                "<b>反编译</b>。"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "稀有",
-            "Color": "#E9042AFF",
-            "Clock": 1,
-            "Type": "攻击",
-            "Vim": 4,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "BiteScriptTooltip",
-                "DecompileTooltip"
-            ]
-        },
-        {
             "CardName": "生成器",
             "ImagePath": "SPAWNER.jpg",
             "Code": "SPAWNER",
@@ -1135,7 +1135,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "普通",
+            "Rarity": "罕见",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻击",
@@ -1157,7 +1157,7 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "普通",
+            "Rarity": "罕见",
             "Color": "#E9042AFF",
             "Clock": 1,
             "Type": "攻击",
@@ -2329,7 +2329,7 @@
         {
             "CardName": "空中优势",
             "ImagePath": "AIR_SUPERIORITY.jpg",
-            "Code": "3_STEPS_AHEAD",
+            "Code": "AIR_SUPERIORITY",
             "Descriptions": [
                 "抽1张牌，你每持有一条<b>增强</b>指令，获得1<b>时钟</b>。",
                 "<b>反编译</b>。"
@@ -2350,7 +2350,7 @@
         {
             "CardName": "空中优势",
             "ImagePath": "AIR_SUPERIORITY.jpg",
-            "Code": "3_STEPS_AHEAD_UPGRADED",
+            "Code": "AIR_SUPERIORITY_UPGRADED",
             "Descriptions": [
                 "抽1张牌，你每持有一条<b>增强</b>指令，获得1<b>时钟</b>。",
                 "<b>反编译</b>。"
@@ -2624,6 +2624,52 @@
             ]
         },
         {
+            "CardName": "空洞菜单",
+            "ImagePath": "KARAGUCHI_MENU.jpg",
+            "Code": "KARAGUCHI_MENU",
+            "Descriptions": [
+                "随机生成2张<b>脚本</b>牌。",
+                "<b>反编译</b>。",
+                "<b>弃置后：</b>随机生成1张<b>脚本</b>牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 2,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
+        },
+        {
+            "CardName": "空洞菜单",
+            "ImagePath": "KARAGUCHI_MENU.jpg",
+            "Code": "KARAGUCHI_MENU_UPGRADED",
+            "Descriptions": [
+                "随机生成3张<b>脚本</b>牌。",
+                "<b>反编译</b>。",
+                "<b>弃置后：</b>随机生成2张<b>脚本</b>牌。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9B705FF",
+            "Clock": 0,
+            "Type": "生成器",
+            "Vim": 2,
+            "IsUpgrade": true,
+            "Tooltips": [
+                "ScriptTooltip",
+                "DecompileTooltip",
+                "OnDiscardTooltip"
+            ]
+        },
+        {
             "CardName": "动能记忆",
             "ImagePath": "KINETIC_MEMORY.jpg",
             "Code": "KINETIC_MEMORY",
@@ -2831,52 +2877,6 @@
             "Tooltips": [
                 "ScriptTooltip",
                 "WeaveScriptTooltip"
-            ]
-        },
-        {
-            "CardName": "空洞菜单",
-            "ImagePath": "KARAGUCHI_MENU.jpg",
-            "Code": "SCRIBE_TERMINAL",
-            "Descriptions": [
-                "随机生成2张<b>脚本</b>牌。",
-                "<b>反编译</b>。",
-                "<b>弃置后：</b>随机生成1张<b>脚本</b>牌。"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "普通",
-            "Color": "#E9B705FF",
-            "Clock": 0,
-            "Type": "生成器",
-            "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip",
-                "OnDiscardTooltip"
-            ]
-        },
-        {
-            "CardName": "空洞菜单",
-            "ImagePath": "KARAGUCHI_MENU.jpg",
-            "Code": "SCRIBE_TERMINAL_UPGRADED",
-            "Descriptions": [
-                "随机生成3张<b>脚本</b>牌。",
-                "<b>反编译</b>。",
-                "<b>弃置后：</b>随机生成2张<b>脚本</b>牌。"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "普通",
-            "Color": "#E9B705FF",
-            "Clock": 0,
-            "Type": "生成器",
-            "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": [
-                "ScriptTooltip",
-                "DecompileTooltip",
-                "OnDiscardTooltip"
             ]
         },
         {
@@ -3126,11 +3126,11 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "稀有",
+            "Rarity": "罕见",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "协议",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3150,7 +3150,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "协议",
-            "Vim": 2,
+            "Vim": 4,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3206,11 +3206,11 @@
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "稀有",
+            "Rarity": "罕见",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "协议",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3230,7 +3230,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "协议",
-            "Vim": 2,
+            "Vim": 4,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -3247,9 +3247,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "稀有",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "协议",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -3267,9 +3267,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "稀有",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "协议",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -3375,33 +3375,12 @@
             "ImagePath": "INFECTED_DATA.jpg",
             "Code": "INFECTED_DATA",
             "Descriptions": [
-                "承受3点伤害。",
+                "承受5点伤害。",
                 "<b>反编译</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "特殊",
-            "Color": "#515151FF",
-            "Clock": 0,
-            "Type": "数据损坏",
-            "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "CorruptedTooltip",
-                "DecompileTooltip"
-            ]
-        },
-        {
-            "CardName": "律法官的凝视",
-            "ImagePath": "JUDICATORS_GAZE.jpg",
-            "Code": "JUDICATORS_GAZE",
-            "Descriptions": [
-                "受到15点<b>伤害</b>。",
-                "<b>反编译</b>。"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "初始",
             "Color": "#515151FF",
             "Clock": 0,
             "Type": "数据损坏",
@@ -3756,6 +3735,44 @@
             "Tooltips": []
         },
         {
+            "CardName": "碎裂代码斩",
+            "ImagePath": "CRACKED_CODESLASH.jpg",
+            "Code": "CRACKED_CODESLASH",
+            "Descriptions": [
+                "对所有目标造成20点<b>伤害</b>。",
+                "将1张<b>碎片化数据</b>添加至你的代码库中。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻击",
+            "Vim": 1,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FragmentedDataTooltip",
+                "CorruptedTooltip"
+            ]
+        },
+        {
+            "CardName": "碎裂代码斩",
+            "ImagePath": "CRACKED_CODESLASH.jpg",
+            "Code": "CRACKED_CODESLASH_UPGRADED",
+            "Descriptions": [
+                "对所有目标造成25点<b>伤害</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#E9042AFF",
+            "Clock": 0,
+            "Type": "攻击",
+            "Vim": 2,
+            "IsUpgrade": true,
+            "Tooltips": []
+        },
+        {
             "CardName": "深红突击",
             "ImagePath": "CRIMSON_ASSAULT.jpg",
             "Code": "CRIMSON_ASSAULT",
@@ -3844,8 +3861,8 @@
             "ImagePath": "EPHEMERAL_EDGE.jpg",
             "Code": "EPHEMERAL_EDGE",
             "Descriptions": [
-                "造成20点<b>伤害</b>。",
-                "<b>命中后：</b>生成 3点<b>VIM</b>。"
+                "造成15点<b>伤害</b>。",
+                "<b>命中后：</b>生成 2点<b>VIM</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -3862,7 +3879,7 @@
             "ImagePath": "EPHEMERAL_EDGE.jpg",
             "Code": "EPHEMERAL_EDGE_UPGRADED",
             "Descriptions": [
-                "造成30点<b>伤害</b>。"
+                "造成25点<b>伤害</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -3913,44 +3930,6 @@
             "Tooltips": [
                 "FeralTooltip"
             ]
-        },
-        {
-            "CardName": "碎裂代码斩",
-            "ImagePath": "FRAGMENTED_CODESLASH.jpg",
-            "Code": "FRAGMENTED_CODESLASH",
-            "Descriptions": [
-                "对所有目标造成20点<b>伤害</b>。",
-                "将1张<b>碎片化数据</b>添加至你的代码库中。"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "普通",
-            "Color": "#E9042AFF",
-            "Clock": 0,
-            "Type": "攻击",
-            "Vim": 1,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FragmentedDataTooltip",
-                "CorruptedTooltip"
-            ]
-        },
-        {
-            "CardName": "碎裂代码斩",
-            "ImagePath": "FRAGMENTED_CODESLASH.jpg",
-            "Code": "FRAGMENTED_CODESLASH_UPGRADED",
-            "Descriptions": [
-                "对所有目标造成25点<b>伤害</b>。"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "普通",
-            "Color": "#E9042AFF",
-            "Clock": 0,
-            "Type": "攻击",
-            "Vim": 2,
-            "IsUpgrade": true,
-            "Tooltips": []
         },
         {
             "CardName": "重装步兵",
@@ -4827,14 +4806,14 @@
         },
         {
             "CardName": "动物本能",
-            "ImagePath": "PREY_DRIVE.jpg",
+            "ImagePath": "ANIMAL_INSTINCT.jpg",
             "Code": "ANIMAL_INSTINCT",
             "Descriptions": [
-                "获得30点<b>屏障</b>。"
+                "获得20点<b>屏障</b>。"
             ],
             "Conditional": "如果你在这一回合已经发起过攻击，则改为：",
             "ConditionalDescriptions": [
-                "获得50点<b>屏障</b>。"
+                "获得40点<b>屏障</b>。"
             ],
             "Rarity": "罕见",
             "Color": "#047BEAFF",
@@ -4846,14 +4825,14 @@
         },
         {
             "CardName": "动物本能",
-            "ImagePath": "PREY_DRIVE.jpg",
+            "ImagePath": "ANIMAL_INSTINCT.jpg",
             "Code": "ANIMAL_INSTINCT_UPGRADED",
             "Descriptions": [
-                "获得40点<b>屏障</b>。"
+                "获得20点<b>屏障</b>。"
             ],
             "Conditional": "如果你在这一回合已经发起过攻击，则改为：",
             "ConditionalDescriptions": [
-                "获得60点<b>屏障</b>。"
+                "获得50点<b>屏障</b>。"
             ],
             "Rarity": "罕见",
             "Color": "#047BEAFF",
@@ -4952,12 +4931,12 @@
             "ImagePath": "CONSOLE_BACKUP.jpg",
             "Code": "CONSOLE_BACKUP",
             "Descriptions": [
-                "获得60点<b>屏障</b>。",
-                "本回合你每使用一次<b>指令</b>，获得30点<b>屏障</b>。"
+                "获得40点<b>屏障</b>。",
+                "本回合你每使用一次<b>指令</b>，获得20点<b>屏障</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "超凡",
+            "Rarity": "稀有",
             "Color": "#047BEAFF",
             "Clock": 2,
             "Type": "防御",
@@ -4970,8 +4949,8 @@
             "ImagePath": "CONSOLE_BACKUP.jpg",
             "Code": "CONSOLE_BACKUP_UPGRADED",
             "Descriptions": [
-                "获得70点<b>屏障</b>。",
-                "本回合你每使用一次<b>指令</b>，获得45点<b>屏障</b>。"
+                "获得50点<b>屏障</b>。",
+                "本回合你每使用一次<b>指令</b>，获得20点<b>屏障</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
@@ -4980,6 +4959,44 @@
             "Clock": 2,
             "Type": "防御",
             "Vim": 4,
+            "IsUpgrade": true,
+            "Tooltips": []
+        },
+        {
+            "CardName": "碎裂封锁",
+            "ImagePath": "CRACKED_BLOCKADE.jpg",
+            "Code": "CRACKED_BLOCKADE",
+            "Descriptions": [
+                "获得50点<b>屏障</b>。",
+                "将1张<b>碎片化数据</b>添加至你的代码库中。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 2,
+            "IsUpgrade": false,
+            "Tooltips": [
+                "FragmentedDataTooltip",
+                "CorruptedTooltip"
+            ]
+        },
+        {
+            "CardName": "碎裂封锁",
+            "ImagePath": "CRACKED_BLOCKADE.jpg",
+            "Code": "CRACKED_BLOCKADE_UPGRADED",
+            "Descriptions": [
+                "获得50点<b>屏障</b>。"
+            ],
+            "Conditional": "",
+            "ConditionalDescriptions": [],
+            "Rarity": "普通",
+            "Color": "#047BEAFF",
+            "Clock": 1,
+            "Type": "防御",
+            "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": []
         },
@@ -4997,7 +5014,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 2,
+            "Vim": 1,
             "IsUpgrade": false,
             "Tooltips": []
         },
@@ -5006,7 +5023,7 @@
             "ImagePath": "CYBERHIDE.jpg",
             "Code": "CYBERHIDE_UPGRADED",
             "Descriptions": [
-                "获得35点<b>屏障</b>。",
+                "获得30点<b>屏障</b>。",
                 "如果你在本回合打出的最后一张牌是<b>防御</b>牌，这张牌将会再次被打出。"
             ],
             "Conditional": "",
@@ -5015,7 +5032,7 @@
             "Color": "#047BEAFF",
             "Clock": 1,
             "Type": "防御",
-            "Vim": 3,
+            "Vim": 2,
             "IsUpgrade": true,
             "Tooltips": []
         },
@@ -5132,49 +5149,11 @@
             ]
         },
         {
-            "CardName": "碎裂封锁",
-            "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
-            "Code": "FRAGMENTED_BLOCKADE",
-            "Descriptions": [
-                "获得50点<b>屏障</b>。",
-                "将1张<b>碎片化数据</b>添加至你的代码库中。"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "普通",
-            "Color": "#047BEAFF",
-            "Clock": 1,
-            "Type": "防御",
-            "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": [
-                "FragmentedDataTooltip",
-                "CorruptedTooltip"
-            ]
-        },
-        {
-            "CardName": "碎裂封锁",
-            "ImagePath": "FRAGMENTED_BLOCKADE.jpg",
-            "Code": "FRAGMENTED_BLOCKADE_UPGRADED",
-            "Descriptions": [
-                "获得50点<b>屏障</b>。"
-            ],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "普通",
-            "Color": "#047BEAFF",
-            "Clock": 1,
-            "Type": "防御",
-            "Vim": 3,
-            "IsUpgrade": true,
-            "Tooltips": []
-        },
-        {
             "CardName": "输入助手",
             "ImagePath": "INPUT_ASSISTANT.jpg",
             "Code": "INPUT_ASSISTANT",
             "Descriptions": [
-                "获得20点<b>屏障</b>。"
+                "获得15点<b>屏障</b>。"
             ],
             "Conditional": "如果你在本回合使用过至少<br>1次<b>指令</b>，则追加：",
             "ConditionalDescriptions": [
@@ -5195,7 +5174,7 @@
             "ImagePath": "INPUT_ASSISTANT.jpg",
             "Code": "INPUT_ASSISTANT_UPGRADED",
             "Descriptions": [
-                "获得30点<b>屏障</b>。"
+                "获得25点<b>屏障</b>。"
             ],
             "Conditional": "如果你在本回合使用过至少<br>1次<b>指令</b>，则追加：",
             "ConditionalDescriptions": [
@@ -5258,7 +5237,7 @@
             "ImagePath": "MEMORY_CLOAK.jpg",
             "Code": "MEM_CLOAK",
             "Descriptions": [
-                "获得20点<b>屏障</b>。"
+                "获得15点<b>屏障</b>。"
             ],
             "Conditional": "如果你有至少12点<b>VIM</b>，则追加：",
             "ConditionalDescriptions": [
@@ -5277,7 +5256,7 @@
             "ImagePath": "MEMORY_CLOAK.jpg",
             "Code": "MEM_CLOAK_UPGRADED",
             "Descriptions": [
-                "获得30点<b>屏障</b>。"
+                "获得25点<b>屏障</b>。"
             ],
             "Conditional": "如果你有至少12点<b>VIM</b>，则追加：",
             "ConditionalDescriptions": [
@@ -5960,7 +5939,8 @@
             "Vim": 2,
             "IsUpgrade": false,
             "Tooltips": [
-                "MaxVimTooltip"
+                "MaxVimTooltip",
+                "DecompileTooltip"
             ]
         },
         {
@@ -5983,7 +5963,8 @@
             "Vim": 3,
             "IsUpgrade": true,
             "Tooltips": [
-                "MaxVimTooltip"
+                "MaxVimTooltip",
+                "DecompileTooltip"
             ]
         },
         {
@@ -6028,7 +6009,7 @@
         },
         {
             "CardName": "猎物驱动",
-            "ImagePath": "PREY_DRIVE.jpg",
+            "ImagePath": "ANIMAL_INSTINCT.jpg",
             "Code": "PREY_DRIVE",
             "Descriptions": [
                 "获得2层<b>坚毅</b>。",
@@ -6049,7 +6030,7 @@
         },
         {
             "CardName": "猎物驱动",
-            "ImagePath": "PREY_DRIVE.jpg",
+            "ImagePath": "ANIMAL_INSTINCT.jpg",
             "Code": "PREY_DRIVE_UPGRADED",
             "Descriptions": [
                 "获得3层<b>坚毅</b>。",
@@ -6270,15 +6251,15 @@
             "ImagePath": "CORNUCOPIA_PROTOCOL.jpg",
             "Code": "CORNUCOPIA_PROTOCOL",
             "Descriptions": [
-                "在你的回合开始时生成3点<b>VIM</b>。"
+                "在你的回合开始时生成2点<b>VIM</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "稀有",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "协议",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6315,9 +6296,9 @@
             "ConditionalDescriptions": [],
             "Rarity": "罕见",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "协议",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6328,15 +6309,15 @@
             "ImagePath": "IGNITION_PROTOCOL.jpg",
             "Code": "IGNITION_PROTOCOL",
             "Descriptions": [
-                "你每次激活<b>指令</b>时，对所有目标造成15点<b>伤害</b>。"
+                "你每次使用<b>指令</b>时，对ICE造成15点<b>伤害</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
-            "Rarity": "超凡",
+            "Rarity": "稀有",
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "协议",
-            "Vim": 2,
+            "Vim": 3,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
@@ -6394,7 +6375,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "协议",
-            "Vim": 2,
+            "Vim": 4,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6414,7 +6395,7 @@
             "Color": "#981BD3FF",
             "Clock": 2,
             "Type": "协议",
-            "Vim": 2,
+            "Vim": 4,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6426,15 +6407,15 @@
             "ImagePath": "PINGU_PROTOCOL.jpg",
             "Code": "PING_U_PROTOCOL",
             "Descriptions": [
-                "你每在<b>最大VIM</b>时打出一张牌，对所有目标造成8点<b>伤害</b>。"
+                "你每在<b>最大VIM</b>时打出一张牌，对所有目标造成5点<b>伤害</b>。"
             ],
             "Conditional": "",
             "ConditionalDescriptions": [],
             "Rarity": "稀有",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "协议",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip",
@@ -6471,58 +6452,13 @@
             "ConditionalDescriptions": [],
             "Rarity": "罕见",
             "Color": "#981BD3FF",
-            "Clock": 2,
+            "Clock": 1,
             "Type": "协议",
-            "Vim": 2,
+            "Vim": 0,
             "IsUpgrade": false,
             "Tooltips": [
                 "ProtocolTooltip"
             ]
-        },
-        {
-            "CardName": "Null",
-            "ImagePath": ".jpg",
-            "Code": "DECOMPILE_TEST",
-            "Descriptions": [],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "初始",
-            "Color": "#E9B705FF",
-            "Clock": 0,
-            "Type": "生成器",
-            "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": []
-        },
-        {
-            "CardName": "Null",
-            "ImagePath": ".jpg",
-            "Code": "FACTORY_TEST",
-            "Descriptions": [],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "初始",
-            "Color": "#E9B705FF",
-            "Clock": 1,
-            "Type": "生成器",
-            "Vim": 2,
-            "IsUpgrade": false,
-            "Tooltips": []
-        },
-        {
-            "CardName": "Null",
-            "ImagePath": "AMPED_CODESLASH.jpg",
-            "Code": "HACK_TEST",
-            "Descriptions": [],
-            "Conditional": "",
-            "ConditionalDescriptions": [],
-            "Rarity": "稀有",
-            "Color": "#E9042AFF",
-            "Clock": 0,
-            "Type": "攻击",
-            "Vim": 0,
-            "IsUpgrade": false,
-            "Tooltips": []
         }
     ]
 }

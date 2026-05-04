@@ -9,14 +9,6 @@
             "Tooltips": []
         },
         {
-            "CommandName": "クローン",
-            "Cost": 10,
-            "Description": "自分の手札から<b>非プロトコル</b>カードを1枚選び、次のターンでそのカードのコピーを手札に生成する。",
-            "Tier": "Major",
-            "Code": "CloneCommand_NotImplemented",
-            "Tooltips": []
-        },
-        {
             "CommandName": "勇気",
             "Cost": 6,
             "Description": "2スタックの<b>剛毅</b>を獲得する。",
